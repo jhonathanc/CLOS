@@ -181,7 +181,7 @@ PS3_HELP_MESSAGE_1.7_G	[[SQUARE]]  Mudar Runa
 HELP_MESSAGE_1.7_H	.
 PS3_HELP_MESSAGE_1.7_H	[[CIRCLE]]  Sair
 PS3_HELP_MESSAGE_1.7_H_JAP	[[CROSS]]  Sair
-HELP_MESSAGE_1.7_I	Você não pode alcançar a Arca da Irmandade. Volte mais tarde quando as suas habilidades melhorarem.
+HELP_MESSAGE_1.7_I	Você não pode alcançar a Arca da Irmandade. Volte mais tarde quando suas habilidades melhorarem.
 HELP_MESSAGE_1.9_A	O Titã está com o braço preso no gelo. Descubra uma maneira de subir em seu braço.
 HELP_MESSAGE_1.9_B	.
 PS3_HELP_MESSAGE_1.9_B	Pressione o botão R2 para subir no Titã.
@@ -248,7 +248,7 @@ HELP_MESSAGE_2.4_E	.
 PS3_HELP_MESSAGE_2.4_E	Pressione [[SQUARE]] ou [[TRIANGLE]] para se afastar da parede e então [[CROSS]] para se soltar.
 HELP_MESSAGE_2.4_F	Esta parte da parede parece frágil, mas você não é forte o bastante para derrubá-la. Ainda...
 HELP_MESSAGE_2.4_G	Talvez você possa derrubar esta parede...
-HELP_MESSAGE_2.4_H	Você precisa recuperar as suas relíquias dos Chupa-cabras antes de tentar isso...
+HELP_MESSAGE_2.4_H	Você precisa recuperar suas relíquias dos Chupa-cabras antes de tentar isso...
 HELP_MESSAGE_2.4_I	Esta porta parece frágil, mas você não é forte o bastante para derrubá-la... Ainda.
 HELP_MESSAGE_2.4_J	Talvez você possa quebrar esta porta...
 HELP_MESSAGE_2.5_A	.
@@ -310,9 +310,9 @@ HELP_MESSAGE_3.3_A	As Botas Ciclone permitem que você corra curtas distâncias: d
 HELP_MESSAGE_3.3_B	.
 PS3_HELP_MESSAGE_3.3_B	Pressione [[CROSS]] enquanto corre para saltar ainda mais longe.
 HELP_MESSAGE_3.3_Z	É preciso usar Magia para ativar esta runa...
-HELP_MESSAGE_4.1	Você não será capaz de avançar até que você recupere as suas relíquias dos Chupa-cabras.
-HELP_MESSAGE_CHUPACABRAS	Os Chupa-cabras roubaram as suas relíquias e poderes! Pegue elas de volta!
-HELP_MESSAGE_4.1_RELICS_BACK	Você recuperou todas as suas relíquias e poderes!
+HELP_MESSAGE_4.1	Você não será capaz de avançar até que você recupere suas relíquias dos Chupa-cabras.
+HELP_MESSAGE_CHUPACABRAS	Os Chupa-cabras roubaram suas relíquias e poderes! Pegue elas de volta!
+HELP_MESSAGE_4.1_RELICS_BACK	Você recuperou todas as relíquias e poderes!
 HELP_MESSAGE_4.1_2	Dê dois toques no analógico esquerdo para dar uma corrida e então pressione pulo para saltar para o outro lado.
 HELP_MESSAGE_4.1_3	.
 PS3_HELP_MESSAGE_4.1_3	Ative a sua Magia Sombria e então pressione e segure o botão L2. Uma vez carregada, mova o analógico esquerdo na direção em que você deseja destruir os obstáculos.
@@ -332,15 +332,15 @@ HELP_MESSAGE_7.1_E	Aquele esqueleto deixou cair uma chave.
 HELP_MESSAGE_7.3_A	Selecionar Lente
 HELP_MESSAGE_7.3_B	Mover Lente
 HELP_MESSAGE_7.3_C	Sair
-HELP_MESSAGE_9.1_B	As suas Asas também podem ajudá-lo a saltar mais alto e mais longe.
-HELP_MESSAGE_9.1_C	Pressione o botão de pulo duas vezes para usar as suas novas Asas.
-HELP_MESSAGE_9.1_D	Você não pode saltar esta distância sem as suas relíquias...
+HELP_MESSAGE_9.1_B	Suas Asas também podem ajudá-lo a saltar mais alto e mais longe.
+HELP_MESSAGE_9.1_C	Pressione o botão de pulo duas vezes para usar suas novas Asas.
+HELP_MESSAGE_9.1_D	Você não pode saltar esta distância sem suas relíquias...
 HELP_MESSAGE_9.3_A	Um bando de corvos acabou de chegar.
 HELP_MESSAGE_9.3_B	Um novo bando de corvos acabou de chegar.
 HELP_MESSAGE_9.3_C	Os corvos voaram para outro lugar.
 HELP_MESSAGE_9.3_D	Um terceiro bando de corvos acabaram de chegar.
 HELP_MESSAGE_9.3_E	Parece que será necessário mais um bando de corvos.
-HELP_MESSAGE_9.3_F	Parece que os bandos de corvos não gostam de dividir os seus postes.
+HELP_MESSAGE_9.3_F	Parece que os bandos de corvos não gostam de dividir seus postes.
 HELP_MESSAGE_9.4.1_A	Você precisa de um cilindro de música para usar a Caixa de Música.
 HELP_MESSAGE_9.4.1_B	Fazer Seleção
 HELP_MESSAGE_9.4.1_C	Selecionar / Ativar
@@ -542,7 +542,7 @@ TBook_Action_Desc_RideHorse1	.
 TBook_Action_Desc_RideHorse2	.
 TBook_Action_Desc_RideHorse3	.
 TBook_Action_Desc_RideHorse5	.
-PS3_TBook_Action_Desc_RideHorse1	Indent>Pressione [[SQUARE]] para atacar os Wargs.
+PS3_TBook_Action_Desc_RideHorse1	Indent>Pressione [[SQUARE]] para atacar os wargs.
 PS3_TBook_Action_Desc_RideHorse2	Indent>Pressione [[TRIANGLE]] para atacar os lycans.
 PS3_TBook_Action_Desc_RideHorse3	Indent>Ambos os ataques podem ser direcionados para a esquerda ou para a direita com o analógico esquerdo.
 PS3_TBook_Action_Desc_RideHorse5	Indent>Pressione e segure o botão L2 e mova o analógico esquerdo para qualquer lado para se esquivar dos ataques dos Lycans.
@@ -583,7 +583,7 @@ TBook_Action_Desc_RideWarg4	.
 TBook_Action_Desc_RideWarg6	.
 TBook_Action_Desc_RideWarg8	.
 PS3_TBook_Action_Desc_RideWarg1	Indent>Pressione o botão R2 enquanto o Warg estiver atordoado para montá-lo.
-PS3_TBook_Action_Desc_RideWarg3	Indent>Pressione [[TRIANGLE]] para cortar com as suas garras.
+PS3_TBook_Action_Desc_RideWarg3	Indent>Pressione [[TRIANGLE]] para cortar com suas garras.
 PS3_TBook_Action_Desc_RideWarg4	Indent>Pressione e segure [[SQUARE]] para carregar um ataque de mordida: solte o botão para atacar.
 PS3_TBook_Action_Desc_RideWarg6	Indent>Os Wargs podem saltar mais longe e escalar melhor do que os humanos. Para saltar mais longe, dê dois toques no analógico esquerdo na direção desejada e então pressione [[CROSS]] quando chegar na beirada. Para escalar, basta pressionar [[CROSS]] próximo a superfícies reluzentes.
 PS3_TBook_Action_Desc_RideWarg8	Indent>Pressione e segure os botões R2 e L2 ao mesmo tempo para desmontar do Warg e matá-lo.
@@ -667,12 +667,12 @@ TBook_Action_Desc_Concentration3	Indent>O medidor de concentração em combate é p
 TBook_Action_Desc_Concentration4	Indent>A falta de combate diminuirá lentamente o medidor, mas o uso de magias interrompe temporariamente essa redução.
 TBook_Action_Desc_CounterstrikeA0	Indent>Você pode executar um devastador ataque amplo que atinge os inimigos ao seu redor imediatamente após um bloqueio sincronizado.
 TBook_Action_Desc_CounterstrikeD0	Indent>Você pode executar um devastador contra-ataque direto imediatamente após um bloqueio sincronizado.
-TBook_Action_Desc_Dagger0	Indent>Selecione as Adagas e pressione o botão [[B]] para atirar uma delas contra um inimigo. Você pode mirar manualmente antes de atirar movendo o analógico esquerdo na direção desejada. As Adagas são eficazes principalmente contra pequenos Lycans, grandes Lycans e Wargs.
+TBook_Action_Desc_Dagger0	Indent>Selecione as Adagas e pressione o botão [[B]] para atirar uma delas contra um inimigo. Você pode mirar manualmente antes de atirar movendo o analógico esquerdo na direção desejada. São eficazes principalmente contra pequenos Lycans, grandes Lycans e Wargs.
 TBook_Action_Desc_DaggerWave0	Indent>Pressione e segure o botão [[B]] para atirar várias Adagas de uma vez só. Você pode atirar no máximo 5 Adagas ao mesmo tempo.
 TBook_Action_Desc_DarkFocusMode0	.
 PS3_TBook_Action_Desc_DarkFocusMode0	Indent>Pressione e segure o botão R1 para ativar o modo Sombra Final. Com o modo ativado, o analógico esquerdo permite que o personagem execute poderosos movimentos de ataque na direção desejada.
 TBook_Action_Desc_DirectionalAttack0	Indent>Um ataque direto básico executado com a sua corrente. Acertará apenas os inimigos que estão diretamente à sua frente.
-TBook_Action_Desc_DivineShield0	Indent>Arremessar um Frasco de Água Benta com a Magia da Luz ativada criará uma barreira mágica ao seu redor. A barreira pode desviar muitos ataques inimigos sem comprometer os seus movimentos e os seus ataques.
+TBook_Action_Desc_DivineShield0	Indent>Arremessar um Frasco de Água Benta com a Magia da Luz ativada criará uma barreira mágica ao seu redor. A barreira pode desviar muitos ataques inimigos sem comprometer seus movimentos e ataques.
 TBook_Action_Desc_Dodge0	.
 PS3_TBook_Action_Desc_Dodge0	Indent>Use o analógico esquerdo enquanto bloqueia (botão L2) para se esquivar de ataques inimigos.
 TBook_Action_Desc_DoubleJump0	Indent>Dando dois toques rápidos no botão de pulo permitirá que você salte novamente em pleno ar. Faça isso para alcançar novas alturas ou para mudar a trajetória do seu salto.
@@ -686,7 +686,7 @@ TBook_Action_Desc_ErosiveChains0	Indent>Com a Magia da Luz ativada, este combo e
 TBook_Action_Desc_ExperiencePoints0	Indent>Os pontos de experiência medem o progresso de suas habilidades no jogo. Você ganha pontos ao derrotar inimigos e ao resolver quebra-cabeças.
 TBook_Action_Desc_ExperiencePoints1	Bold>Uso
 TBook_Action_Desc_ExperiencePoints2	Indent>O número abaixo da Barra de Saúde indica a quantidade de pontos de Experiência disponíveis para gastar. Ele vai brilhar quando você puder comprar um novo combo do Livro de Viagem.
-TBook_Action_Desc_ExperiencePoints3	Indent>Você pode gastar pontos de Experiência para aprender novos combos no Livro de Viagem ou para destravar novos recursos no Menu de Extras.
+TBook_Action_Desc_ExperiencePoints3	Indent>Você pode usá-los para aprender novos combos no Livro de Viagem ou para destravar novos recursos no Menu de Extras.
 TBook_Action_Desc_ExplodingQuake0	Indent>Com a Magia Sombria ativada, você pode conjurar uma série de explosões flamejantes da terra sob os pés do seu inimigo. A erupção final liberará uma grande onda de choque contra todos os inimigos mais próximos. Dê um toque no botão [[X]] e em seguida pressione e segure o botão [[Y]] até que você acerte o chão com a sua Corrente de Combate, dando início ao seu combo. Uma nova explosão será criada cada vez que você pressionar [[Y]]. Pressione e segure [[Y]] para finalizar o combo com um último ataque devastador.
 TBook_Action_Desc_ExplosiveDagger0	Indent>Com a Magia Sombria ativada, as Adagas vão explodir no impacto. Alguns interruptores podem ser ativados à distância pelas Adagas Explosivas.
 TBook_Action_Desc_Fairy0	Indent>Com as fadas selecionadas, pressione o botão [[B]] para soltar uma delas contra o inimigo mais próximo. Você pode soltar mais fadas pressionando [[B]] novamente. As fadas vão partir em direção ao alvo e podem distrair certos inimigos, dando tempo para que você possa executar um ataque devastador sobre eles. As fadas são muito frágeis, e morrerão após o uso.
@@ -712,7 +712,7 @@ TBook_Action_Desc_LightFocusMode0	.
 PS3_TBook_Action_Desc_LightFocusMode0	Indent>Pressione e segure o botão L1 para ativar o modo Luz Suprema. Com o modo ativado, você gira em torno de si mesmo para atacar todos os inimigos ao seu redor. Você pode usar o analógico esquerdo para mirar o seu ataque giratório, causando o máximo de dano possível. Mas fique atento ao seu suprimento de Magia da Luz!
 TBook_Action_Desc_LightMagic0	Indent>Ataques executados com a Magia da Luz ativada recuperam a sua saúde, mas gastam a sua energia mágica da luz.
 TBook_Action_Desc_LightMagic2	.
-PS3_TBook_Action_Desc_LightMagic2	Indent>Pressione o botão L1 para ativar ou desativar os seus poderes de Magia da Luz.
+PS3_TBook_Action_Desc_LightMagic2	Indent>Pressione o botão L1 para ativar ou desativar seus poderes de Magia da Luz.
 TBook_Action_Desc_LightMagic4	.
 PS3_TBook_Action_Desc_LightMagic4	Indent>Pressione e segure o botão L3 para coletar os Orbs Elementares em seu reservatório de Magia da Luz.
 TBook_Action_Desc_LightMagic1	Bold>Uso
@@ -721,7 +721,7 @@ TBook_Action_Desc_DarkMagic1	Bold>Uso
 TBook_Action_Desc_DarkMagic3	Bold>Absorção de energia mágica
 TBook_Action_Desc_DarkMagic0	Indent>Ataques executados com a Magia Sombria ativada causam mais dano, mas gastam a sua energia mágica das sombras.
 TBook_Action_Desc_DarkMagic2	.
-PS3_TBook_Action_Desc_DarkMagic2	Indent>Pressione o botão R1 para ativar ou desativar os seus poderes de Magia Sombria.
+PS3_TBook_Action_Desc_DarkMagic2	Indent>Pressione o botão R1 para ativar ou desativar seus poderes de Magia Sombria.
 TBook_Action_Desc_DarkMagic4	.
 PS3_TBook_Action_Desc_DarkMagic4	Indent>Pressione e segure o botão R3 para coletar os Orbs Elementares em seu reservatório de Magia Sombria. Você pode coletar ambos os tipos de magia juntos, pressionando os dois analógicos ao mesmo tempo.
 TBook_Action_Desc_PowerCrystal0	Indent>Com o Cristal Negro selecionado, pressione e segure o botão [[B]] para destruí-lo, libertando o demônio preso em seu interior. Esta Arma Secundária requer a união de quatro fragmentos de cristal, mas é forte o bastante para aniquilar a maioria dos adversários ao seu redor, causando sérios danos até mesmo contra os inimigos mais poderosos.
@@ -822,7 +822,7 @@ TBook_Action_Name_Stomp	Pisada
 TBook_ActionKey_Hold	[Segure]
 TBook_Action_Price	Preço: %i
 TBook_Action_Upgrade	Aprimorar
-TBook_Char_Desc_Abbot0	Indent>A abadia de Wygol sempre foi um lugar de paz e meditação. Os monges que lá habitavam eram considerados grandes copistas, e os seus manuscritos maravilhosamente trabalhados fizeram da abadia um lugar sagrado de peregrinação. O abade atual, Padre Dorin, foi um estudioso erudito, devotado ao estudo dos textos antigos preservados na vasta biblioteca da abadia. Afastado dos outros e trancado em alguma sala, ele estudou esses textos antigos e manuscritos sobre profecias durante muitos anos, tornando-se meio cego e totalmente louco durante os estudos. Quando os Vampiros chegaram, ele descobriu uma relíquia sagrada escondida hermeticamente na biblioteca: o objeto mantinha afastadas as malignas criaturas. A fim de preservar os livros sagrados e a si mesmo, ele baniu todos os monges da abadia, e desligou-se completamente do seu povo, abandonando-os à sua própria sorte, sem a proteção da antiga relíquia.
+TBook_Char_Desc_Abbot0	Indent>A abadia de Wygol sempre foi um lugar de paz e meditação. Os monges que lá habitavam eram considerados grandes copistas, e seus manuscritos maravilhosamente trabalhados fizeram da abadia um lugar sagrado de peregrinação. O abade atual, Padre Dorin, foi um estudioso erudito, devotado ao estudo dos textos antigos preservados na vasta biblioteca da abadia. Afastado dos outros e trancado em alguma sala, ele estudou esses textos antigos e manuscritos sobre profecias durante muitos anos, tornando-se meio cego e totalmente louco durante os estudos. Quando os Vampiros chegaram, ele descobriu uma relíquia sagrada escondida hermeticamente na biblioteca: o objeto mantinha afastadas as malignas criaturas. A fim de preservar os livros sagrados e a si mesmo, ele baniu todos os monges da abadia, e desligou-se completamente do seu povo, abandonando-os à sua própria sorte, sem a proteção da antiga relíquia.
 TBook_Char_Desc_AnimArmour0	Indent>Estas armaduras vazias ganharam 'vida' temporariamente quando foram possuídas por um poltergeist. Elas servem à Rainha dos Vampiros, protegendo e patrulhando os salões e os corredores do Castelo. O espírito deste poltergeist pode passar de armadura para armadura a seu prazer, embora tenha descansado por vários dias após a mudança. Uma vez estabelecido dentro de uma armadura, o poltergeist pode viajar livremente entre duas dimensões, gerando sempre uma descarga elétrica que indica uma abertura entre o nosso mundo e o mundo dos espíritos. Você pode saber quando uma armadura está possuída quando um estranho brilho sobrenatural avermelhado emana de dentro dela, indicando que o seu habitante fantasma está acordado.
 TBook_Char_Desc_BabaYaga0	Indent>Esta velha feiosa é uma personagem mítica que faz parte do folclore popular, e é geralmente descrita como uma bruxa malvada que come crianças e vive em uma cabana construída sobre um par de pernas de galinha. Embora parte dessas lendas sejam verdadeiras, sua casa não fica em cima de duas pernas de galinha. Quanto ao resto, porém... quem sabe? Baba Yaga gosta de preparar um chá especial feito a partir das pétalas de uma rara rosa azul, o qual transforma temporariamente esta velha bruxa em uma bela jovem. Embora ela às vezes ajude as pessoas, geralmente é muito perigoso pedir um favor a ela, a menos que você seja muito educado e possa lhe oferecer algo em troca.
 TBook_Char_Desc_BlackKnight0	Indent>Este Golem foi criado a partir de técnicas semelhantes àquelas empregadas na construção dos Titãs. Contudo, era necessário dispor de um corpo humano para imbuir a armadura com um grande poder. Então o pai de Claudia usou o cadáver de um assassino mudo para tecer a sua alma dentro da armadura, forjando este ser mágico. O Cavaleiro Negro precisa de almas para funcionar, e por isso Claudia atrai criaturas malignas para que ele possa devorá-las. Apesar disso, o Cavaleiro Negro não é mau: a alma do assassino preso na armadura espera pela redenção enquanto protege a sua pupila. Ele vê a filha muda de seu criador como um semelhante, uma criatura que ele acabou aprendendo a amar.
@@ -845,25 +845,25 @@ TBook_Char_Desc_EliteVampA0	Indent>Este Vampiro é um poderoso demônio, transform
 TBook_Char_Desc_EliteVampB0	Indent>Outro Vampiro demoníaco, ele e seu irmão mais novo já eram criaturas sobrenaturais antes de serem encontrados e transformados pela Rainha dos Vampiros. Na realidade, eles nem mesmo pertencem a este plano terreno: são demônios menores gerados nas profundezas do inferno. Como eles vieram para o nosso mundo continua sendo um mistério, mas o que se sabe é que a Rainha dos Vampiros não só os encontrou como também exerce a sua influência sobre eles.
 TBook_Char_Desc_EvilZobek0	Indent>Zobek foi um lutador corajoso, e o mais sábio dos magos. Ele era um bom homem, muito amado e respeitado. Junto de Cornell e Carmilla, Zobek fundou a ordem à qual Gabriel pertence: A Irmandade da Luz. O orgulho, contudo, levou Zobek a buscar ainda mais poder para combater o mal e as injustiças que ele testemunhava ao seu redor. Assim ele acabou corrompido pelo seu próprio desejo de fazer o bem, sendo mais tarde punido por isso.
 TBook_Char_Desc_EvilZobek1	Indent>Quando seu espírito subiu aos céus naquela fatídica noite, o seu cadáver vazio deixado para trás se tornou o Necromante, um reflexo maligno de tudo aquilo que ele representava. Senhor de Todos os Mortos, o Necromante é a personificação da morte: diante de seu conhecimento sobre as artes das trevas ninguém, vivo ou morto, pode enfrentá-lo.
-TBook_Char_Desc_FloatingHeads0	Indent>Estas criaturas são os cadáveres reanimados dos guerreiros da Irmandade. Reanimados pela magia necromântica, eles passaram a caçar os companheiros que ainda lutam em nome da Irmandade. Fazendo uso de suas próprias cabeças em combate, eles atacam mordendo e rasgando suas vítimas. O ponto fraco dessas criaturas, no entanto, são os seus corpos: eis um detalhe consideravelmente útil a ser lembrado por aqueles que batalharem contra as Cabeças de Zumbi!
-TBook_Char_Desc_Gabriel0	Indent>Abandonado, ele foi encontrado ainda bebê à porta de um dos conventos da Irmandade da Luz. Não se sabe até hoje quem eram os seus pais. Alguns suspeitam que ele seja o bastardo indesejado de um rico proprietário de terras local, provavelmente um membro da família Cronqvist, mas até hoje isso não foi provado.
+TBook_Char_Desc_FloatingHeads0	Indent>Estas criaturas são os cadáveres reanimados dos guerreiros da Irmandade. Reanimados pela magia necromântica, eles passaram a caçar os companheiros que ainda lutam em nome da Irmandade. Fazendo uso de suas próprias cabeças em combate, eles atacam mordendo e rasgando suas vítimas. O ponto fraco dessas criaturas, no entanto, são seus corpos: eis um detalhe consideravelmente útil a ser lembrado por aqueles que batalharem contra as Cabeças de Zumbi!
+TBook_Char_Desc_Gabriel0	Indent>Abandonado, ele foi encontrado ainda bebê à porta de um dos conventos da Irmandade da Luz. Não se sabe até hoje quem eram seus pais. Alguns suspeitam que ele seja o bastardo indesejado de um rico proprietário de terras local, provavelmente um membro da família Cronqvist, mas até hoje isso não foi provado.
 TBook_Char_Desc_Gabriel1	Indent>A Ordem batizou o menino de Gabriel, em homenagem ao abençoado Arcanjo Gabriel, e então os irmãos o criaram como se fosse um deles. E o menino era precoce: provou, sem demora, que era extremamente talentoso, desenvolvendo um domínio sem precedentes sobre as artes marciais. Gabriel, por amar as montanhas e todos os lugares altos do mundo, adotou o sobrenome Belmont.
 TBook_Char_Desc_Gabriel2	Indent>Propenso à ambivalência e dotado de um humor sombrio, Gabriel foi profundamente afetado pela morte de sua namoradinha de infância, Marie. Atualmente ele está em uma jornada a pedido dos anciões da Irmandade, carregando consigo um ardente desejo de vingança.
 TBook_Char_Desc_Ghoul0	Indent>A maioria das pessoas acredita que Ghouls são criaturas mortas-vivas. Na verdade, os ancestrais dos Ghouls eram humanos que, devido a uma dieta baseada em carne podre e cadáveres, transformaram-se em monstros horríveis que habitam covas e cemitérios. Os Ghouls geralmente vivem no subsolo, mas às vezes se aventuram em pequenos grupos na superfície em busca de carniça. O vômito dos Ghouls é altamente venenoso, porém pode ser curado pela Magia da Luz.
-TBook_Char_Desc_Goblin0	Indent>Estas criaturas diminutas, perniciosas e mal-humoradas geralmente evitam o contato com humanos. Os Goblins constroem suas casas em torno das raízes das árvores e em áreas úmidas cobertas de musgo, e gostam de caçar em bando. Ainda que possam ser agressivos quando ameaçados, essas criaturas geralmente preferem manter distância dos homens e de suas habitações. Os Goblins são uma espécie à beira da extinção, e em pouco tempo passarão a ser história. Ou um mito.
+TBook_Char_Desc_Goblin0	Indent>Estas criaturas pequenas e mal-humoradas geralmente evitam contato com humanos. Os Goblins constroem suas casas em torno das raízes das árvores e em áreas úmidas cobertas de musgo, e gostam de caçar em bando. Ainda que possam ser agressivos quando ameaçados, essas criaturas geralmente preferem manter distância dos homens e de suas habitações. É uma espécie à beira da extinção, e em pouco tempo passará a ser história. Ou um mito.
 TBook_Char_Desc_GraveDigger0	Indent>Os Necromantes precisavam manter um suprimento constante de cadáveres a fim de organizar o seu exército de mortos-vivos. Para manter os imensos cemitérios onde eram mantidos todos esses corpos, os Necromantes dependiam do Coveiro, um demônio sem nome escravizado e transformado por eles em uma poderosa criatura contaminada pela magia necromântica. O Coveiro utiliza uma pá gigante para exumar os mortos, a qual também serve como uma formidável arma de combate.
-TBook_Char_Desc_Gremlin0	Indent>Os Gremlins são diabretes alados, famosos por causar estragos por onde passam. Esses diabinhos viajam em grandes grupos, infestando construções pelo seu caminho até que os seus ocupantes fujam de medo ou morram. Os Gremlins são capazes de cuspir fogo, uma habilidade herdada de seus ancestrais demoníacos. Seus corpos diminutos, no entanto, não suportam muita violência. Dotadas de um organismo muito volátil, essas criaturas tendem a explodir quando atingidas com força.
+TBook_Char_Desc_Gremlin0	Indent>Os Gremlins são diabretes alados, famosos por causar estragos por onde passam. Esses diabinhos viajam em grandes grupos, infestando construções pelo seu caminho até que seus ocupantes fujam de medo ou morram. Os Gremlins são capazes de cuspir fogo, uma habilidade herdada de seus ancestrais demoníacos. Seus corpos diminutos, no entanto, não suportam muita violência. Dotadas de um organismo muito volátil, essas criaturas tendem a explodir quando atingidas com força.
 TBook_Char_Desc_IceElemental0	Indent>Enterrado muito abaixo da superfície de um antigo lago existe um Titã de guerra, que aguarda para ser encontrado junto dos restos de uma antiga e grandiosa civilização europeia. Muito antes de Roma e da Grécia Antiga, esse grande império possuía uma tecnologia sem igual, e o Titã criado por eles marca o auge das suas grandiosas realizações. Um grande conflito conhecido como 'As Guerras Necromânticas' aniquilou a próspera civilização, fazendo com que a grande obra de engenharia do império fosse perdida.
 TBook_Char_Desc_IceElemental1	Indent>Quando os céus foram isolados de nosso plano terreno pela magia das trevas, as almas dos mortos foram atraídas para este lugar. E de alguma forma, as runas mágicas foram energizadas pelas almas, reanimando o Titã mais uma vez...
 TBook_Char_Desc_LycanthropeGreater0	Indent>Os Grandes Lycans (ou 'puros-sangues') foram criados pelo Senhor dos Lycans a partir de si mesmo. Assim, a condição deles não é considerada doença, uma vez que o processo de transformação foi escolhido deliberadamente. O Senhor dos Lycans concede o dom da licantropia apenas aos seus mais fiéis seguidores, os quais são mantidos em missões especiais não apenas por serem temíveis, mas também por serem inteligentes e formidáveis adversários em combate.
 TBook_Char_Desc_LycanthropeLesser0	Indent>Estas criaturas são seres humanos que foram infectados por uma doença, conhecida como a 'gripe do lobisomem', transmitida geralmente pela mordida de outro Lycan. Há um velho ditado que diz assim: 'Quem é mordido por um Lycan não deve nem correr. Melhor deixar o bicho, bem quietinho, te roer'. E como a maioria dos provérbios é valiosa, este provavelmente é útil também. Após a infecção, o processo de transformação pode levar apenas alguns minutos, substituindo a mente da vítima pelos instintos selvagens de um predador implacável.
 TBook_Char_Desc_Mandrake0	Indent>Ingredientes comuns na criação de poções mágicas, as raízes de mandrágora são um importante recurso para magos e alquimistas de todo o mundo. A colheita de raízes de mandrágora, no entanto, é uma atividade perigosa, pois a planta grita assustadoramente alto quando desenterrada, matando qualquer um que esteja por perto. Quando totalmente crescidas, as raízes se tornam Mandrágoras, seres que sobrevivem drenando a força vital das criaturas mais próximas.
-TBook_Char_Desc_Marie0	Indent>Marie, a filha mais nova de uma rica família de comerciantes, sempre foi atraída pela natureza corajosa da Irmandade da Luz. Curiosa e animada, ela escapava frequentemente de afazes domésticos para ajudar a Irmandade, cozinhando e faxinando para os monges. Durante uma dessas visitas, Marie conheceu o garoto que mais tarde se tornaria seu marido, um órfão chamado Gabriel.
-TBook_Char_Desc_Marie1	Indent>Estes dois jovens foram feitos um para o outro: eles cresceram juntos e trocaram juras de amor eterno. Mantendo as promessas de amor e com a benção tanto da família quanto da Irmandade, ambos se casaram numa idílica manhã. Maria proporcionava um belo contraponto ao humor sombrio de Gabriel: a sua risada muitas vezes era o suficiente para dissipar a aura negativa que pairava sobre ele.
+TBook_Char_Desc_Marie0	Indent>Marie, a filha mais nova de uma rica família de comerciantes, sempre foi atraída pela natureza corajosa da Irmandade da Luz. Curiosa e animada, escapava frequentemente dos afazeres domésticos para ajudar a Irmandade, cozinhando e faxinando para os monges. Durante uma dessas visitas, Marie conheceu o garoto que mais tarde se tornaria seu marido, um órfão chamado Gabriel.
+TBook_Char_Desc_Marie1	Indent>Estes dois jovens foram feitos um para o outro: cresceram juntos e trocaram juras de amor eterno. Mantendo as promessas de amor e com a benção tanto da família quanto da Irmandade, casaram-se numa idílica manhã. Maria proporcionava um belo contraponto ao humor sombrio de Gabriel: a sua risada muitas vezes era o suficiente para dissipar a aura negativa que pairava sobre ele.
 TBook_Char_Desc_Marie2	Indent>Marie foi tragicamente assassinada, e agora Gabriel busca por vingança.
-TBook_Char_Desc_MechanicalM0	Indent>Os Vampiros não foram os únicos moradores do castelo: havia um proprietário anterior, um cientista conhecido como Friedrich Von Frankenstein. Ele utilizava o castelo para ocultar as suas terríveis experiências com vida artificial. A Monstruosidade Mecânica é fruto de um desses experimentos. Frankenstein criou esta máquina gigante em forma de escorpião utilizando um cérebro criado durante um experimento médico malsucedido. A criatura, no entanto, se mostrou quase incontrolável, e agora tumultua o interior do castelo matando todos aqueles que caem em suas garras.
-TBook_Char_Desc_Naiad0	Indent>Um dos maiores perigos reservados pelos pântanos são as criaturas conhecidas como Náiades. Estes seres, geralmente indiferentes, são encontrados deitados próximos aos leitos dos rios e em lugares úmidos e lamacentos, esperando pelo tropeço de aventureiros desavisados. As suas vítimas, já sem sorte, costumam confundir seus membros com galhos de árvores, e logo são afogadas... e devoradas. Antigamente, as Náiades eram belas criaturas adoradas pelos humanos, que ofereciam sacrifícios em sua homenagem. Hoje, no entanto, elas foram esquecidas pelos humanos, e agora se tornaram predadores malignos que assolam tanto os homens quanto outras criaturas.
-TBook_Char_Desc_Necromancer0	Indent>A Necromancia é a mais maligna de todas as artes mágicas, podendo ser realizada apenas pelos seguidores do Necromante. Diferentemente do vampirismo e da licantropia, os poderes necessários para controlar as energias dos mortos não são facilmente adquiridos. O Necromante compartilha apenas uma quantia ínfima do seu poder com os seus seguidores, os quais devem morrer para fazer uso das habilidades concedidas a eles. Uma vez mortos, os seguidores se tornam servos, e o seu mestre então passa a ser capaz de controlá-los a seu bel prazer.
+TBook_Char_Desc_MechanicalM0	Indent>Os Vampiros não foram os únicos moradores do castelo: havia um proprietário anterior, um cientista conhecido como Friedrich Von Frankenstein. Ele utilizava o castelo para ocultar suas terríveis experiências com vida artificial. A Monstruosidade Mecânica é fruto de um desses experimentos. Frankenstein criou esta máquina gigante em forma de escorpião utilizando um cérebro criado durante um experimento médico malsucedido. A criatura, no entanto, se mostrou quase incontrolável, e agora tumultua o interior do castelo matando todos aqueles que caem em suas garras.
+TBook_Char_Desc_Naiad0	Indent>Um dos maiores perigos reservados pelos pântanos são as criaturas conhecidas como Náiades. Estes seres, geralmente indiferentes, são encontrados deitados próximos aos leitos dos rios e em lugares úmidos e lamacentos, esperando pelo tropeço de aventureiros desavisados. Suas vítimas, já sem sorte, costumam confundir seus membros com galhos de árvores, e logo são afogadas... e devoradas. Antigamente, as Náiades eram belas criaturas adoradas pelos humanos, que ofereciam sacrifícios em sua homenagem. Hoje, no entanto, elas foram esquecidas pelos humanos, e agora se tornaram predadores malignos que assolam tanto os homens quanto outras criaturas.
+TBook_Char_Desc_Necromancer0	Indent>A Necromancia é a mais maligna de todas as artes mágicas, podendo ser realizada apenas pelos seguidores do Necromante. Diferentemente do vampirismo e da licantropia, os poderes necessários para controlar as energias dos mortos não são facilmente adquiridos. O Necromante compartilha apenas uma quantia ínfima do seu poder com seus seguidores, os quais devem morrer para fazer uso das habilidades concedidas a eles. Uma vez mortos, os seguidores se tornam servos, e o seu mestre então passa a ser capaz de controlá-los a seu bel prazer.
 TBook_Char_Desc_Ogre0	Indent>Os Gigantes Anubianos são uma antiga espécie de seres vivos, tão antiga quanto a própria terra. Este Ogro em particular é um dos últimos remanescentes de sua raça no mundo. Ele vive entre os paredões desta abandonada fortaleza da montanha, à espera de viajantes desavisados dos quais ele arranca os ossos para moer e fazer pão. Este Ogro, no entanto, não tem conseguido carne humana já há algum tempo, tendo de se contentar com os estranhos Trolls das Cavernas. Os Ogros têm um olfato muito apurado, podendo farejar um homem a quase um quilômetro de distância, habilidade que os torna exímios rastreadores. Felizmente o seu tamanho e o seu jeito desajeitado permitem que sua presa possa vê-lo chegando.
 TBook_Char_Desc_Pan0	Indent>De acordo com o folclore da região, um espírito místico habita as florestas selvagens, protegendo a natureza de todos os males. Cada pessoa, no entanto, atribui uma forma diferente ao espírito: água, cervo, javali, cavalo e assim por diante. Alguns retratam Pã como um sátiro do mal, enquanto outros contam uma história sobre um poderoso e benevolente semideus, servo da própria Mãe Natureza. Mas a Humanidade, tomada pela arrogância, polui e destrói o mundo. Assim, nada mais resta para os espíritos antigos a não ser partir... e Pã poderá enfrentar o mesmo destino em breve.
 TBook_Char_Desc_RagDoll0	Indent>Laura, a 'filha' da Rainha dos Vampiros, deu vida a estas marionetes utilizando um feitiço das trevas de sua própria autoria. Ela é capaz de controlar esses brinquedos e de transferir a força vital de boneco para boneco, o que torna o combate muito mais difícil. Entretanto, assim que o 'espírito interior' deles é derrotado, as marionetes voltam ao normal. A fonte do feitiço reside no interior da costura dos perigosos bonecos, bastando abri-los para acabar com a brincadeira. Isso, por vez, destruirá o espírito para sempre, transformando a criatura em um brinquedo novamente.
@@ -872,7 +872,7 @@ TBook_Char_Desc_Satan0	Indent>Satã, o anjo caído, é o verdadeiro mentor por trás
 TBook_Char_Desc_Satan1	Indent>O anjo caído exerce um poder inimaginável sobre a Terra, e pode usar tanto a energia da Luz quanto a energia das Sombras para lançar feitiços de destruição e conjurar Ceifadores demoníacos de outros planos. Ele é incapaz, porém, de fazer uso de toda a sua força enquanto estiver preso ao plano terrestre. Assim ele acaba enfraquecido ao ser desafiado pelo Escolhido do Paraíso.
 TBook_Char_Desc_Scarecrow0	Indent>Os Espantalhos são constructos mágicos criados por Malphas, a Bruxa dos Corvos, para atacar e matar qualquer coisa que se mova. Malphas criou os Espantalhos para ficar de olho em Baba Yaga e, sempre que possível, para anular os poderes da rival, restringindo seus movimentos. Essas criaturas são despertadas pelos pássaros que obedecem aos comandos da Bruxa dos Corvos. Os Espantalhos são extremamente rápidos, e atacam com foices bem afiadas.
 TBook_Char_Desc_SilverWarrior0	Indent> Pã, reverenciado como um deus no passado, raramente muda para esta forma, preferindo a paz e a proteção de todas as coisas vivas. A armadura mágica de prata é um resquício de tempos antigos, um equipamento usado para combater as forças do mal que ele já não veste há muitos séculos. Agora, por necessidade, Pã veste mais uma vez a antiga armadura para testar Gabriel pela última vez. Pã deposita toda a sua confiança em Deus, pois nenhum cavaleiro falso pode sobreviver ao teste de armas. O perdedor fará o sacrifício supremo, de acordo com a vontade de Deus.
-TBook_Char_Desc_SpiderGiant0	Indent> Estes monstros são os maiores aracnídeos já encontrados até hoje, e são muito mais agressivos do que qualquer outro tipo de aranha. As Aranhas Gigantes podem ser encontradas em praticamente qualquer ambiente, mas elas geralmente preferem lugares escuros e encharcados, como grutas e florestas antigas. Assim como as suas parentes menores, as Aranhas Gigantes podem tecer pegajosas teias de seda, com as quais elas capturam suas presas antes de comê-las. A seda desta aranha é extremamente forte, sendo utilizada até mesmo na criação de cordas incrivelmente resistentes e duradouras. A população de Aranhas Gigantes tem diminuído durante os últimos anos, devido à invasão do homem em seu habitat natural.
+TBook_Char_Desc_SpiderGiant0	Indent> Estes monstros são os maiores aracnídeos já encontrados até hoje, e são muito mais agressivos do que qualquer outro tipo de aranha. As Aranhas Gigantes podem ser encontradas em praticamente qualquer ambiente, mas elas geralmente preferem lugares escuros e encharcados, como grutas e florestas antigas. Assim como suas parentes menores, as Aranhas Gigantes podem tecer pegajosas teias de seda, com as quais elas capturam suas presas antes de comê-las. A seda desta aranha é extremamente forte, sendo utilizada até mesmo na criação de cordas incrivelmente resistentes e duradouras. A população de Aranhas Gigantes tem diminuído durante os últimos anos, devido à invasão do homem em seu habitat natural.
 TBook_Char_Desc_StoneIdol0	Indent>Os Magos-Ferreiros aghartianos formavam uma Ordem especializada na criação de poderosos artefatos. A maioria de suas invenções eram objetos de uso comum, tais como vestimentas e armaduras mágicas e armas encantadas. Porém, a criação mais impressionante da Ordem Aghartiana de Magos-Ferreiros, foram os Titãs. Estes golems de proporções gigantescas foram construídos para fins de defesa, mas os magos foram obrigados a usá-los durante a guerra contra os Senhores das Trevas, na qual a maioria deles foi destruída.
 TBook_Char_Desc_SwordMaster0	Indent>De acordo com um ditado popular, 'O espírito de um bravo guerreiro nunca morre' e, de fato, em alguns lugares impregnados de energia ruim, as almas dos guerreiros mortos nunca deixam o plano material, e permanecem presos aqui com uma única missão: atormentar os seres vivos. Essas almas inquietas costumam vestir roupas esfarrapadas, talvez como uma lembrança de seu passado distante. Com exceção de suas habilidades de combate, os Espadachins perderam qualquer resquício de humanidade.
 TBook_Char_Desc_TrollBig0	Indent>Os Trolls são uma espécie em extinção que vivem principalmente em áreas montanhosas. Eles apresentam um comportamento agressivo e territorial. Isso às vezes pode resultar em ataques aos seres humanos tolos o bastante para invadir o habitat natural dos Trolls. Os Trolls das Cavernas, no entanto, são geralmente indiferentes quando estão juntos de seus semelhantes, e raramente atacam uns aos outros. A indiferença acaba, porém, quando alguém coloca em risco a vida de seus companheiros. Dizem os homens que quando os velhos Trolls morrem naturalmente, seus corpos se transformam em pedra, algo que é possível ser observado claramente em certas formações rochosas.
@@ -880,10 +880,10 @@ TBook_Char_Desc_TrollBigSwamp0	Indent>Os Trolls dos Pântanos são uma rara subesp
 TBook_Char_Desc_TrollSmall0	Indent>Biologicamente falando, grandes ou pequenos, os Trolls são mais ou menos iguais. No entanto, seu comportamento não poderia ser mais diferente: enquanto a subespécie maior se comporta de maneira bastante agressiva, os Pequenos Trolls agem covardemente, e fogem rapidamente quando estão em desvantagem. Nesses casos, as criaturas buscam a proteção de seus primos maiores e mais violentos, enquanto atiram pedras contra seus adversários.
 TBook_Char_Desc_VampireChild0	Indent>A aparência infantil de Laura já levou muitas pessoas à morte, pois ela é mentirosa e também, uma assassina implacável, que já matou centenas de inocentes ao longo dos séculos a fim de saciar o seu desejo de sangue. Embora tenha um corpo de criança, ela possui a astúcia e a inteligência de alguém muito mais velho. Além disso, ela pode ser extremamente cruel, tratando a matança de suas vítimas como um simples joguinho. No entanto, quando repousa sozinha em seu canto, ela se lembra de um passado muito distante, um tempo de carinho e aconchego, quando a bela voz de uma mulher ecoava enquanto ela dormia, sendo confortada em meio a escuridão... uma vida há muito perdida.
 TBook_Char_Desc_VampireWarrior0	Indent>Um Vampiro pode nascer de várias criaturas diferentes: a cerimônia em si envolve a troca de sangue entre o 'anfitrião' e o aspirante a vampiro. O vampirismo, entretanto, deve ser aceito pelo beneficiário, sendo assim uma opção exclusiva para criaturas dotadas de inteligência. Os vampiros de nível mais baixo geralmente assumem a forma de uma criatura com aparência de morcego. Ao longo dos séculos, à medida que se tornam mais poderosos, os vampiros podem apresentar uma aparência cada vez mais humana, caso queiram. Geralmente é possível determinar o poder de um vampiro por sua aparência. Sendo assim, quaisquer vampiros que apresentem um aspecto totalmente humano são certamente incrivelmente poderosos, além de extremamente perigosos. Já os Vampiros Guerreiros mostram sinais de que foram transformados recentemente, e, portanto, não conseguem esconder que são criaturas de baixo nível, submissas à vontade da Rainha dos Vampiros.
-TBook_Char_Desc_WargGreat0	Indent>Pouco se sabe sobre estas bestas ferozes, exceto que elas surgiram logo após a chegada do Senhor dos Lycans. Apesar de sua aparência selvagem, os Wargs são criaturas bastante inteligentes, o que possibilita que sejam domados por pequenos Lycans e utilizados como montaria durante as batalhas. Estas ferozes criaturas atacam os seus oponentes com garras e dentes mortalmente afiados.
+TBook_Char_Desc_WargGreat0	Indent>Pouco se sabe sobre estas bestas ferozes, exceto que elas surgiram logo após a chegada do Senhor dos Lycans. Apesar de sua aparência selvagem, os Wargs são criaturas bastante inteligentes, o que possibilita que sejam domados por pequenos Lycans e utilizados como montaria durante as batalhas. Estas ferozes criaturas atacam seus oponentes com garras e dentes mortalmente afiados.
 TBook_Char_Desc_WargGreatVillage0	Indent>Os Wargs são a principal força de combate dos grandes grupos de Lycans. Algumas das criaturas são 'abençoadas' pelo próprio Senhor dos Lycans, que concede a elas novos poderes como aumento de força e regeneração de ferimentos. Devido à natureza dessa 'benção', os poderes concedidos são intensificados durante a lua cheia.
 TBook_Char_Desc_Warthog0	Indent>A genealogia destes monstruosos javalis tem sido mantida em segredo há séculos entre as tribos dos Goblins. Há todo um processo que envolve criação e alimentação especiais, bem como o uso de magia xamânica. Os Javalis são tão raros atualmente que a posse de mais de um deles é algo que apenas algumas tribos goblins podem sonhar. Os Goblins não usam estas criaturas apenas como montaria durante as batalhas, mas também para consumir todo o lixo e as sobras de alimentos ao seu redor, contribuindo assim para manter o ambiente limpo.
-TBook_Char_Desc_Witch0	Indent>Dizem que este monstro já foi uma bela mulher, uma Bruxa que habitava as montanhas que cercam a fortaleza. Ela era tratada com respeito e admiração, e muitas pessoas viajavam de regiões muito distantes apenas para ouvir os seus sábios conselhos. Na época, ela acabou se apaixonando por um Príncipe que vivia na Fortaleza. Obcecada pelo nobre, ela passou a usar seus poderes na preparação de encantamentos e poções de amor, ansiosa para conquistar e ter o Príncipe só para ela. Infelizmente, outra Bruxa aprisionou o nobre, dando um fim terrível a ele. Tomada pela dor e enlouquecida, Malphas se jogou do alto da torre em direção às rochas. Por incrível que pareça, ela sobreviveu à queda, mas seu corpo estava terrivelmente machucado. Assim, os corvos passaram a se alimentar dela. E ela deles, por muitos e muitos séculos, quando então conseguiu recuperar seus poderes e se transformar nesta transtornada criatura voadora, cuja única intenção é saciar a sua fome por cadáveres. Seus gritos enlouquecidos de fúria preenchem os vales escuros sob a fortaleza, ecoando ao redor da torre, que foi um dia um lugar de amor e de esperança.
+TBook_Char_Desc_Witch0	Indent>Dizem que este monstro já foi uma bela mulher, uma Bruxa que habitava as montanhas que cercam a fortaleza. Ela era tratada com respeito e admiração, e muitas pessoas viajavam de regiões muito distantes apenas para ouvir seus sábios conselhos. Na época, ela acabou se apaixonando por um Príncipe que vivia na Fortaleza. Obcecada pelo nobre, ela passou a usar seus poderes na preparação de encantamentos e poções de amor, ansiosa para conquistar e ter o Príncipe só para ela. Infelizmente, outra Bruxa aprisionou o nobre, dando um fim terrível a ele. Tomada pela dor e enlouquecida, Malphas se jogou do alto da torre em direção às rochas. Por incrível que pareça, ela sobreviveu à queda, mas seu corpo estava terrivelmente machucado. Assim, os corvos passaram a se alimentar dela. E ela deles, por muitos e muitos séculos, quando então conseguiu recuperar seus poderes e se transformar nesta transtornada criatura voadora, cuja única intenção é saciar a sua fome por cadáveres. Seus gritos enlouquecidos de fúria preenchem os vales escuros sob a fortaleza, ecoando ao redor da torre, que foi um dia um lugar de amor e de esperança.
 TBook_Char_Desc_WitchChild0	Indent>Estas criaturas metade humanas, metade pássaros, são as descendentes de Malphas, a Bruxa dos Corvos. Os Filhos da Bruxa são capazes de cuspir fogo e são extremamente voláteis, morrendo muitas vezes numa ardente explosão. Entretanto, como a maioria das entidades conjuradas magicamente, sua existência é de curta duração, e eles tendem a morrer naturalmente poucos dias depois de seu 'nascimento'.
 TBook_Char_Desc_Zobek0	Indent>Se as crônicas da Irmandade são realmente verdadeiras, Zobek é um de seus guerreiros mais antigos. A lista de feitos heroicos atribuídos a ele é tão impressionante quanto o seu vasto conhecimento da arte da guerra. Apesar de sua idade, ele ainda exibe poderosas habilidades de combate.
 TBook_Char_Desc_Zobek1	Indent>A sua arma preferida é uma espada longa simples, com a qual ele lida com maestria. Raramente ele decide vestir o antiquado uniforme da Irmandade da Luz que, segundo ele, é uma herança deixada por um de seus antepassados, um dos membros fundadores da Ordem.
@@ -1020,17 +1020,17 @@ TBook_Scroll_1_4_haunting_path_4_0	Indent>Complete a fase sem recuperar a saúde 
 TBook_Scroll_1_4_haunting_path_4_Title	Descrição da Prova
 TBook_Scroll_1_5_swamp_1_0	Indent>Há alguma coisa na água... algo terrível. Tenho visto homens sendo puxados para o fundo, de onde nunca mais conseguem sair. A localização destas criaturas só pode ser observada pela agitação da água e pelas bolhas que emergem à superfície. Pelo visto é preciso esperar que a bolhas e as ondulações desapareçam antes de avançar pelo pântano. Não é possível dar a volta, pois há nuvens de fumaça venenosa saindo do chão por ambos os lados. Então é preciso ser paciente e esperar pelo momento certo para passar por cima delas.
 TBook_Scroll_1_5_swamp_1_1	Indent>Bah, eu sei que vou morrer, mas ao menos vou morrer lutando, e não engolido por estes malditos lamacentos!
-TBook_Scroll_1_5_swamp_1_Title	Pergaminho do Cavaleiro da Irmandade
-TBook_Scroll_1_5_swamp_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_1_5_swamp_1_Title	História do Cavaleiro da Irmandade
+TBook_Scroll_1_5_swamp_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_5_swamp_2_0	Indent>Existe um mausoléu aqui no pântano, intacto, que não é perturbado há anos. O Cardeal Volpe me informa que o lendário artesão Rinaldo Gandolfi construiu uma relíquia durante a sua passagem por lá, a qual ajudará aquele que leva a Cruz de Combate. Devo admitir que estou preocupado: muitos dos meus companheiros jazem mortos ao longo do caminho, então fico me pergunto se essa busca inútil não será o meu fim também.
-TBook_Scroll_1_5_swamp_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_1_5_swamp_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_5_swamp_3_0	Indent>Alguma coisa está pressionando as tribos dos Goblins a se aproximar cada vez mais de nossas cidades e aldeias, o que tem causado os recentes conflitos entre eles e os humanos. E eu suspeito que tal coisa seja o feitiço negro ao qual fomos enviados para investigar. Algo incrivelmente maligno está tomando conta da terra, e eu me preocupo cada vez mais com o que eu e meus irmãos ainda iremos encontrar pela frente.
 TBook_Scroll_1_5_swamp_4_0	Indent>Complete a fase depois de matar pelo menos 50 Goblins
 TBook_Scroll_1_5_swamp_4_Title	Descrição da Prova
 TBook_Scroll_1_7_pans_temple_1_0	Indent>Os cadáveres revirados dos meus irmãos estão espalhados por toda parte. Eu me sinto culpado por saquear os corpos de meus companheiros, mas vou acabar morto do mesmo jeito se não encontrar mais Gemas da Vida. Perdão, meus irmãos... Não vou durar muito tempo a menos que consiga melhorar minhas chances de sobrevivência... coisas das quais os mortos não precisam mais. Eu sei que há uma Gema da Vida por perto, posso até sentir ela. Mas preciso muito descansar... me sinto tão fraco...
-TBook_Scroll_1_7_pans_temple_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_1_7_pans_temple_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_7_pans_temple_2_0	Indent>Martha, meu amor, temo que não conseguirei mais voltar. Cuide-se, e tome conta de nossa filha amada. Que Deus me perdoe por ter falhado em minha missão! Saiba que você estará sempre em meu coração e que, um dia, estaremos juntos novamente. Do esposo que te ama, Victor.
-TBook_Scroll_1_7_pans_temple_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_1_7_pans_temple_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_7_pans_temple_3_0	Indent>Para alcançar Marie antes que ela morra
 TBook_Scroll_1_7_pans_temple_3_1	Indent>você deve encontrar um caminho para seguir
 TBook_Scroll_1_7_pans_temple_3_2	Indent>Tente superar a sua dor
@@ -1059,15 +1059,15 @@ TBook_Scroll_1_9_oblivion_lake_4_Title	Descrição da Prova
 TBook_Scroll_10_1_marsh_of_silence_4_0	Indent>Complete a fase depois de receber pelo menos 100 pontos de dano por envenenamento da névoa mortal
 TBook_Scroll_10_1_marsh_of_silence_4_Title	Descrição da Prova
 TBook_Scroll_10_1_marsh_of_silence_2_0	Indent>Os restos da última batalha! Os Titãs que aqui descansam são remanescentes de uma era há muito perdida, e são baixas de uma guerra contra a encarnação do mal. A Terra dos Mortos está fechada para pessoas de fé, e apenas aqueles cujos corações são corrompidos podem entrar. Nem eu, nem meus irmãos, podemos passar deste ponto a menos que tenhamos sucumbido à tentação. Pergunto-me: será que alguém poderia derrotar este mal?
-TBook_Scroll_10_1_marsh_of_silence_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_10_1_marsh_of_silence_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_3_0	Indent>É preciso aprender a Magia Sombria para compreender profundamente o mal que enfrentamos. É preciso tornar-se o mal a fim de poder destruí-lo. Não há lugar no Céu para nós quando nos tornamos aquilo que combatemos.
-TBook_Scroll_10_1_marsh_of_silence_3_Title	Pergaminho do Cavaleiro da Irmandade
-TBook_Scroll_10_1_marsh_of_silence_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_10_1_marsh_of_silence_3_Title	História do Cavaleiro da Irmandade
+TBook_Scroll_10_1_marsh_of_silence_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_0	Indent>Muitos caíram. Seus corpos foram espalhados como folhas ao vento. A profecia fala daquele que é puro de coração, mas ninguém que seja puro de coração pode passar por aqui. Se alguém for forte o suficiente para enfrentar a Morte, temo que esse alguém possa ser também uma praga para a humanidade. Talvez estejamos destinados a sermos governados pelo mal? O forte conquistando o fraco: talvez seja essa a vontade de Deus?
 TBook_Scroll_10_2_misty_moor_4_0	Indent>Complete a fase sem deixar que Pã recupere sua saúde durante a luta
 TBook_Scroll_10_2_misty_moor_4_Title	Descrição da Prova
 TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do Inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e eu estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os Céus me ajudem, pois temo que eu não esteja à altura da tarefa!
-TBook_Scroll_10_3_cementery_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_10_3_cementery_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_3_cementery_2_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
 TBook_Scroll_10_3_cementery_2_Extended_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
 TBook_Scroll_10_3_cementery_2_Extended_1	.
@@ -1077,11 +1077,11 @@ TBook_Scroll_10_3_cementery_2_Extended_4	Indent>Cada fechadura abrirá apenas dep
 TBook_Scroll_10_3_cementery_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_10_3_cementery_2_Title	Dica do Manuscrito
 TBook_Scroll_10_3_cementery_3_0	Indent>O calor é inacreditável. Acho que não conseguirei. Se não fosse por Gandolfi e sua incrível criação, eu não teria chegado tão longe. Que Deus proteja Gandolfi e o escolhido. Que Deus proteja a todos nós do feitiço.
-TBook_Scroll_10_3_cementery_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_10_3_cementery_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_3_cementery_4_0	Indent>Complete a fase depois de matar 20 zumbis em uma única sequência aérea
 TBook_Scroll_10_3_cementery_4_Title	Descrição da Prova
 TBook_Scroll_10_5_crematory_oven_1_0	Indent>Deixai toda esperança, ó vós que entrais!
-TBook_Scroll_10_5_crematory_oven_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_10_5_crematory_oven_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_5_crematory_oven_4_0	Indent>Complete a fase e mate pelo menos 15 cadáveres rastejantes conjurados durante a luta contra o coveiro
 TBook_Scroll_10_5_crematory_oven_4_Title	Descrição da Prova
 TBook_Scroll_11_0_the_necromancer_abyss_1_0	Indent>[...] há uma mensagem que aparece com muita frequência na doutrina necromântica, referida às vezes apenas como 'a chave', a qual parece importante para adentrar em seus domínios:
@@ -1102,7 +1102,7 @@ TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_2	Bold>Solução do Quebra-cabe
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_3	Indent>Tenho usado pedras para empurrar os azulejos, mas agora a maioria deles está quebrada, e eu perdi toda a minha força: se alguém ler isto, saiba que eu estava certo, e que cada um dos azulejos representa uma direção para onde mover o fogo mágico através da porta. Para ativar o dispositivo, acerte uma vez o azulejo central...
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_11_0_the_necromancer_abyss_2_Title	Dica do Manuscrito
-TBook_Scroll_11_0_the_necromancer_abyss_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_11_0_the_necromancer_abyss_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_11_0_the_necromancer_abyss_3_0	Indent>Estou preso nesta pedra flutuante. Essas terras são um enorme e insano quebra-cabeça, com milhares de espelhos que podem transportá-lo para qualquer lugar. Assim é a chamada 'Abertura Mágica' dos Necromantes. O problema é descobrir para onde cada espelho leva: passei o dia e a noite aqui, e fico cada vez mais cansado a cada porta que abro. Por que a morte não me encontra e me leva?
 TBook_Scroll_11_0_the_necromancer_abyss_4_0	Indent>Complete a fase depois de destruir 60 ceifadores
 TBook_Scroll_11_0_the_necromancer_abyss_4_Title	Descrição da Prova
@@ -1113,52 +1113,52 @@ TBook_Scroll_12_3_final_fight_4_Title	Descrição da Prova
 TBook_Scroll_2_10_black_knight_4_0	Indent>Complete a fase e derrote o Cavaleiro Negro Golem sem usar a energia da Magia da Luz
 TBook_Scroll_2_10_black_knight_4_Title	Descrição da Prova
 TBook_Scroll_2_2_enchanted_forest_1_0	Indent>Meu companheiro de armas foi se aventurar enquanto eu descanso um pouco. O calor do sol é implacável, e minha ferida ainda me incomoda. Eu dei a ele minha Gema da Vida na esperança de que ele possa encontrar provisões antes do cair da noite, pois nossos suprimentos já estão acabando. Ele é um bom rapaz, forte e ansioso, mas ainda precisa aprender a ser paciente em combate se quiser sobreviver. Espero que eu não tenha dado a Gema da Vida em vão...
-TBook_Scroll_2_2_enchanted_forest_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_2_enchanted_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_2_0	Indent>A Grande Dekuh foi um dia a maior e mais bela árvore da floresta: ela era tão alta que sua copa podia ser vista a quilômetros de distância. Algumas pessoas acreditavam que ela tinha vida, e que seus poderes mágicos protegiam a floresta dos ataques das criaturas das trevas.
 TBook_Scroll_2_2_enchanted_forest_2_1	Indent>Não sei se as lendas são verdadeiras, mas a verdade é que os Senhores das Trevas, talvez por verem a árvore como um símbolo da vida, amaldiçoaram-na com uma praga que ainda vive sob seu toco morto.
-TBook_Scroll_2_2_enchanted_forest_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_2_enchanted_forest_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_3_0	Indent>Deus está nos punindo por causa de nossos pecados. O caos tomou conta do mundo e iremos todos morrer em breve, presos no limbo entre o Céu e a Terra, sem chance de redenção, sem meios de fuga. Eu fui gravemente ferido, e os Lycans podem sentir o cheiro do sangue: eles estão me caçando. Meu destino é iminente. Senhor, perdoe-me. O Cardeal Volpe nos enviou à morte, e para quê? Eu e meus companheiros guerreiros restamos derrotados e perdidos pelo caminho. Maldito seja ele e sua missão inútil: ele e os anciãos também deveriam estar sofrendo pelos seus pecados!
-TBook_Scroll_2_2_enchanted_forest_3_Title	Pergaminho do Cavaleiro da Irmandade
-TBook_Scroll_2_2_enchanted_forest_4_0	Indent>Complete a fase depois de matar 30 Goblins com as suas próprias granadas.
+TBook_Scroll_2_2_enchanted_forest_3_Title	História do Cavaleiro da Irmandade
+TBook_Scroll_2_2_enchanted_forest_4_0	Indent>Complete a fase depois de matar 30 Goblins com suas próprias granadas.
 TBook_Scroll_2_2_enchanted_forest_4_Title	Descrição da Prova
 TBook_Scroll_2_3_underground_cave_1_0	Indent>Tenho seguido os rastros de Rinaldo Gandolfi, famoso alquimista e membro da Irmandade da Luz. Não sei o que o levou a deixar a ordem ou mesmo por que ele desapareceu do meio da civilização, mas que suas habilidades seriam muito úteis nestes tempos sombrios, isso é certo. Dizem que ele criou muitas armas e relíquias mágicas, e que ele as esconde em lugares difíceis de encontrar, onde somente os mais comprometidos e merecedores podem encontrá-las.
-TBook_Scroll_2_3_underground_cave_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_3_underground_cave_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_2_0	Indent>Para onde quer que eu olhe, há morte e decadência. Deus nos abandonou. Eu abandonei a minha busca: é impossível. Não quero morrer para terminar como meus companheiros, caídos à beira da estrada, destinados a serem um recurso para outros aventureiros. Eu não quero um destino assim!
-TBook_Scroll_2_3_underground_cave_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_3_underground_cave_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_3_0	Indent>Embora sejam grandes, as Aranhas são surpreendentemente rápidas e ágeis. Ouvi dizer que um guerreiro habilidoso pode domá-las até certo ponto, cansando elas o bastante para montá-los como um Javali. Também ouvi que suas teias podem ser usadas para tecer pontes fortes o suficiente para aguentar o peso de um homem adulto. Incrível! Talvez eu esteja perdendo o juízo preso neste lugar infernal: devo estar louco por acreditar em uma coisa dessas...!
-TBook_Scroll_2_3_underground_cave_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_3_underground_cave_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_4_0	Indent>Complete a fase depois de matar pelo menos 10 inimigos enquanto estiver infectado pelo veneno da Aranha
 TBook_Scroll_2_3_underground_cave_4_Title	Descrição da Prova
 TBook_Scroll_2_4_labyrinth_entrance_1_0	Indent>Há Lycans à frente e Javalis atrás: será que não há descanso nem para os perversos? Decidi me esconder aqui até que seja seguro fugir, pois este lugar está repleto de asseclas do Senhor dos Lycans e eu não consigo encontrar um caminho para cidade. Os arredores à minha volta são difíceis de percorrer, exigindo habilidades que eu claramente não possuo. Tenho tanta fome, não como há dias...
-TBook_Scroll_2_4_labyrinth_entrance_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_4_labyrinth_entrance_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_2_0	Indent>Tenho praticado minhas habilidades de luta e descobri que, se eu bloquear com frequência, posso aumentar minha concentração. O esforço está valendo a pena porque posso me concentrar muito mais rápido, o que me permite manter a Magia ativa durante todo o combate.
-TBook_Scroll_2_4_labyrinth_entrance_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_4_labyrinth_entrance_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_3_0	Indent>Toda criatura é fraca contra uma arma específica. Quem for esperto, conseguirá deduzir qual é o ponto fraco de cada criatura e usá-lo contra elas. Farei algumas anotações, um tipo de bestiário, para lembrar o que preciso saber sobre cada monstro e qual é a melhor forma de derrotá-lo.
-TBook_Scroll_2_4_labyrinth_entrance_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_4_labyrinth_entrance_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_4_0	Indent>Complete a fase depois de matar pelo menos 5 Javalis
 TBook_Scroll_2_4_labyrinth_entrance_4_Title	Descrição da Prova
 TBook_Scroll_2_6_underground_dungeons_1_0	Indent>Tenho saqueado os cadáveres dos meus irmãos em busca de Gemas. Se eu coletar o suficiente, serei invencível. Tolos, enquanto estão ocupados tentando salvar o mundo, eu logo serei capaz de conquistá-lo com o meu novo poder! Sei que há uma Gema da Luz por perto, e eu vou encontrá-la. Ninguém pode me deter agora... ninguém!
-TBook_Scroll_2_6_underground_dungeons_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_6_underground_dungeons_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_6_underground_dungeons_2_0	Indent>Aprendi que revisitar áreas pode trazer resultados interessantes. Encontrei itens e relíquias que eu não conseguia na época, mas à medida que fui me tornando mais forte, pude revisitar os lugares e coletar itens valiosos para melhorar minhas habilidades. Continuarei conferindo o mapa para ter certeza de que não estou deixando nada de útil para trás!
-TBook_Scroll_2_6_underground_dungeons_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_6_underground_dungeons_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_6_underground_dungeons_4_0	Indent>Complete a fase depois de matar pelo menos 20 Pequenos Trolls enquanto estiver montado em um Troll
 TBook_Scroll_2_6_underground_dungeons_4_Title	Descrição da Prova
 TBook_Scroll_2_7_labyrinth_ruins_ii_1_0	Indent>Senhor, por favor, ajude-me a encontrar um caminho por esta cidade cruel. Fui um servo fiel, bom, honesto e decente. Tenho visto criaturas montadas em Wargs que parecem quase domesticados sob seu controle. Como isso é possível? Senhor, por favor, mostre-me como proceder de modo que eu possa continuar com a minha missão de reunir este mundo com o seu reino dos céus. Amém.
-TBook_Scroll_2_7_labyrinth_ruins_ii_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_7_labyrinth_ruins_ii_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_7_labyrinth_ruins_ii_2_0	Indent>Esta cidade é um labirinto, mas deduzo que é possível encontrar o caminho com paciência e cuidado. Procurei em cantos e recantos e acabei encontrando gemas e itens que serão, sem dúvida, muito úteis mais tarde. Também consegui pegar algumas adagas de prata, que são especialmente úteis contra os Lycans.
-TBook_Scroll_2_7_labyrinth_ruins_ii_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_7_labyrinth_ruins_ii_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_7_labyrinth_ruins_ii_3_0	Indent>Muitas áreas estão bloqueadas, mas descobri que os Trolls das Cavernas são bons em destruir barreiras e portões. Se um Troll for atingido com bastante força, ele ficará atordoado a ponto de ser domado e usado à vontade. Será que é possível domar outras criaturas da mesma forma?
-TBook_Scroll_2_7_labyrinth_ruins_ii_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_7_labyrinth_ruins_ii_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_7_labyrinth_ruins_ii_4_0	Indent>Complete a fase sem usar a energia da Magia Sombria
 TBook_Scroll_2_7_labyrinth_ruins_ii_4_Title	Descrição da Prova
 TBook_Scroll_2_8_dark_dungeon_1_0	Indent>Guano de Gremlin. Parece nojento, mas a verdade é que essa substância era extremamente valiosa na cultura Aghartiana. Ele é inflamável e queima lentamente, com uma chama azulada muito quente. Essas características fazem dela uma boa fonte de energia, e por isso seu uso era comum durante a primeira era da cidade mítica, ao menos até ser substituída por Cristais Negros mais potentes.
-TBook_Scroll_2_8_dark_dungeon_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_8_dark_dungeon_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_dark_dungeon_2_0	Indent>Maldita perna quebrada. O Stefano e o Michael seguiram em frente para buscar ajuda. Estou muito contente por termos nos reunido, pois trabalhar sozinho estava sendo muito difícil. O Stefano tem uma Gema das Sombras que lhe confere habilidades extremamente poderosas, mas temo que isso esteja mudando sua personalidade. Ele desenvolveu um temperamento forte, e demonstra um prazer fora do comum ao executar seus adversários. Na verdade, eu não deveria estar reclamando. Agora que ele não está aqui, sinto-me vulnerável. Logo ele deve estar de volta... Espero.
-TBook_Scroll_2_8_dark_dungeon_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_8_dark_dungeon_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_dark_dungeon_4_0	Indent>Complete a fase sem agarrar nenhum Gremlin
 TBook_Scroll_2_8_dark_dungeon_4_Title	Descrição da Prova
 TBook_Scroll_2_8_stone_idol_mausoleum_1_0	Indent>Eu ouvi as lendas sobre as Guerras Necromânticas e sobre a avançada civilização dos Aghartianos. Dizem que um dos seus Titãs de guerra descansa por estas bandas. Clamo a Deus para que o Necromante nunca encontre e comande um desses gigantes, já que eles são capazes, sozinhos, de destruir cidades inteiras. Vou revirar a cidade inteira por pistas sobre o seu paradeiro e, com sorte, descobrir uma maneira de destruir essa abominação.
-TBook_Scroll_2_8_stone_idol_mausoleum_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_8_stone_idol_mausoleum_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_stone_idol_mausoleum_2_0	Indent>O povo de Agharta usava as gemas carregadas de magia sombria para alimentar muitos dispositivos diferentes. Esse conhecimento ainda sobrevive nas gigantes portas de pedra que bloqueiam a entrada à câmara dos Titãs, e que podem ser abertas apenas com a energia de um Cristal Negro completo. Porém, não consigo encontrar a maneira certa para fazer isso...
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_0	Indent>O povo de Agharta usava as gemas carregadas de magia sombria para alimentar muitos dispositivos diferentes. Esse conhecimento ainda sobrevive nas gigantes portas de pedra que bloqueiam a entrada à câmara dos Titãs, e que podem ser abertas apenas com a energia de um Cristal Negro completo. Porém, não consigo encontrar a maneira certa para fazer isso...
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_1	.
@@ -1167,7 +1167,7 @@ TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_3	Indent>... Descobri uma soluç
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Title	Dica do Manuscrito
 TBook_Scroll_2_8_stone_idol_mausoleum_3_0	Indent>A lendária cidade de Agharta. Uma vista impressionante, a qual nunca pensei que presenciaria. Aqui é muito perigoso: a cidade está cheia de Lycans e Lobisomens, então passei a procurar por nódulos de cristal, já que quando você coleta quatro deles, é possível criar um Cristal Negro capaz de liberar um demônio do Plano das Sombras. Isso é extremamente útil para aniquilar muitos inimigos de uma só vez.
-TBook_Scroll_2_8_stone_idol_mausoleum_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_2_8_stone_idol_mausoleum_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_stone_idol_mausoleum_4_0	Indent>Complete a fase depois de absorver 20 Orbs Elementares de uma só vez.
 TBook_Scroll_2_8_stone_idol_mausoleum_4_Title	Descrição da Prova
 TBook_Scroll_2_9_stone_idol_temple_4_0	Indent>Complete a fase e derrote o Titã do Ídolo de Pedra em menos de 2 minutos
@@ -1184,47 +1184,47 @@ TBook_Scroll_3_0_the_gauntlet_1_Extended_5	Indent>Com essas duas pistas, há apen
 TBook_Scroll_3_0_the_gauntlet_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_3_0_the_gauntlet_1_Title	Dica do Manuscrito
 TBook_Scroll_3_0_the_gauntlet_2_0	Indent>Esta civilização em ruínas é testemunha do maior engenho do homem. Entristece-me saber que todos os segredos que aqui residem em breve estarão perdidos, muitos deles afundados no fundo do Oceano Pelárgico. A influência do Senhor dos Lycans é forte aqui, e os Wargs, Lobisomens e Lycans vagam por todos os cantos desta terra. Preciso me movimentar rapidamente e em silêncio, tomando cuidado para não ser visto. Não descobri nada sobre o feitiço que separou o nosso mundo dos Céus, mas a cada dia que passa uma coisa fica ainda mais clara: O Senhor das Sombras precisa morrer!
-TBook_Scroll_3_0_the_gauntlet_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_3_0_the_gauntlet_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_3_0_the_gauntlet_3_0	Indent>Na noite passada, sonhei que uma linda mulher me visitava. Ela era encantadora, hipnotizante. Ela me disse que um guerreiro estava chegando, um guerreiro que destruiria o Senhor dos Lycans, e que ela e seu povo iriam ajudá-lo. Ela era a Rainha das Fadas, e falava uma língua que eu não reconhecia, mas ainda assim eu conseguia entender todas as palavras que ela dizia. Eu jamais verei tamanha beleza neste mundo novamente. Se eu morrer hoje, morrerei tendo visto e vivenciado coisas que nenhum outro homem poderá ter a pretensão de tomar de mim. Então posso declarar, com alegria, que existe mesmo um 'Bolo' no fim do caminho!
-TBook_Scroll_3_0_the_gauntlet_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_3_0_the_gauntlet_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_3_0_the_gauntlet_4_0	Indent>Complete a fase depois de matar 15 inimigos ofuscados pelas Fadas.
 TBook_Scroll_3_0_the_gauntlet_4_Title	Descrição da Prova
 TBook_Scroll_3_3_the_dark_lord_4_0	Indent>Complete a fase e derrote o Senhor dos Lycans sem usar energia da Magia da Luz.
 TBook_Scroll_3_3_the_dark_lord_4_Title	Descrição da Prova
 TBook_Scroll_4_1_fortress_1_0	Indent>Conforme temíamos, a fortaleza foi tomada pelas forças do mal. Uma criatura tenebrosa, parecida com um pássaro, fez da torre seu ninho pessoal, enquanto um monstro enorme perambula ao redor dos velhos muros do castelo, protegendo-o. Não tive notícias dos outros cavaleiros, então presumirei que o pior aconteceu e tentarei retornar à Irmandade, para informá-los de que esta passagem se voltou contra nós.
-TBook_Scroll_4_1_fortress_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_4_1_fortress_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_1_fortress_2_0	Indent>Os rugidos de uma criatura terrível assombram este lugar. Até mesmo os Trolls têm medo. Lembro-me de histórias da minha infância que falavam de uma Bruxa que vivia aqui. Que Deus nos salve desse mal. Temo que a Irmandade seja destruída e que o mundo seja consumido pelas trevas. O que seria de nós?
-TBook_Scroll_4_1_fortress_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_4_1_fortress_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_1_fortress_3_0	Indent>O Mal existe aqui, um mal traiçoeiro que consome a bravura dos homens. Parece que há um Ogro no castelo, à espreita. Acho incrível que histórias infantis possam se tornar realidade: lembro do meu pai lendo contos sobre essas criaturas quando eu era criança e, se não me falha a memória, elas são lentas e pesadas enquanto atacam. Para ter alguma chance na luta contra essa besta gigante, precisarei de algo que me permita correr e me movimentar rapidamente.
-TBook_Scroll_4_1_fortress_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_4_1_fortress_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_1_fortress_4_0	Indent>Complete a fase e derrote o Ogro sem ser atingido por seus ataques
 TBook_Scroll_4_1_fortress_4_Title	Descrição da Prova
 TBook_Scroll_4_2_fortress_witch_1_0	Indent>A prova do pobre irmão Adolfus termina aqui. Tenho certeza de que ele deve estar em algum lugar no andar de baixo, mas não consigo passar por esta porta. Deve haver outra maneira de entrar, talvez descendo a montanha lá fora eu consiga... droga, algo se aproxima...
-TBook_Scroll_4_2_fortress_witch_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_4_2_fortress_witch_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_2_fortress_witch_2_0	Indent>Conheço a Lenda de Malphas, ainda assim, nunca pensei que a enfrentaria sozinho. Tenho um plano para derrotá-la: dizem que ela lança seus ovos contra você, dois quais saem crianças medonhas. Suponho que se houvesse uma forma de jogar os ovos de volta nela, seria possível impedir o nascimento dessas criaturas e fazê-la provar do próprio veneno... mas como exatamente eu poderia fazer isso?
-TBook_Scroll_4_2_fortress_witch_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_4_2_fortress_witch_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_2_fortress_witch_4_0	Indent>Complete a fase e derrote a Bruxa dos Corvos sem matar mais do que 2 de seus filhos
 TBook_Scroll_4_2_fortress_witch_4_Title	Descrição da Prova
-TBook_Scroll_5_1_dark_forest_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_1_dark_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_1_dark_forest_1_0	Indent>Houve inúmeras aparições de Chupa-cabras nesta região. Essa criatura não é conhecida por ser mortal e maligna, mas sim por ser um estorvo. Preciso levar informações à Irmandade e aconselhar meus camaradas a pegar o máximo de Flores das Fadas que puderem. Os escritos dizem que os Chupa-cabras são fascinados por qualquer coisa que tenha relação com as Fadas, e as flores são uma boa tática para distrair essa criatura maldita enquanto se tenta recuperar qualquer coisa que elas tenham roubado.
-TBook_Scroll_5_1_dark_forest_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_1_dark_forest_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_1_dark_forest_2_0	Indent>Estou guardando Cristais Negros porque eles são muito úteis em combate. Deparei-me com um velho que parecia confuso e senil, ainda assim havia algo em seus olhos, como uma inteligência aguçada. Ele dizia ser um amigo, e perguntou se eu havia encontrado as relíquias que ele havia deixado para nós. Eu disse a ele que não estava entendo. Ele disse que rezaria por mim e, de repente, saiu correndo na noite. O que ele quis dizer com relíquias?
-TBook_Scroll_5_1_dark_forest_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_1_dark_forest_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_1_dark_forest_3_0	Indent>Estamos bem perto de Wygol aqui, e logo ali fica o Castelo Vampiro. É preciso procurar abrigo à noite a fim de se proteger de um possível ataque. Faz muito frio, e enviar mensagens para a Irmandade está sendo uma tarefa difícil. Na noite passada, recebi um comunicado de que nos encontraremos na Aldeia Wygol para atacar a fortaleza do Vampiro. Valha-me Deus! Tenho medo de me tornar uma daquelas criaturas chupadoras de sangue!
 TBook_Scroll_5_1_dark_forest_4_0	Indent>Complete a fase recuperando suas Relíquias dos Chupa-cabras em menos de 3 minutos após o roubo
 TBook_Scroll_5_1_dark_forest_4_Title	Descrição da Prova
 TBook_Scroll_5_11_sewers_1_0	Indent>Há esqueletos aqui e eles são terríveis. Mas descobri seu ponto fraco. Você precisa ser paciente ao combatê-los, pois com o tempo eles vão se espatifar no chão, como se estivessem mortos. Então você deve destruir os ossos com um golpe poderoso antes que eles se juntem novamente. Você terá de lutar contra eles novamente caso perca a oportunidade.
-TBook_Scroll_5_11_sewers_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_11_sewers_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_11_sewers_2_0	Indent>Relatório de Situação:
 TBook_Scroll_5_11_sewers_2_1	.
 TBook_Scroll_5_11_sewers_2_2	Indent>Conforme explicado no relatório anterior, a condição do sistema de esgotos de Wygol não permite que os Vampiros realizem um ataque contra a aldeia através dos antigos túneis. Os poucos pontos de entrada foram lacrados, e a armadilha de espinhos, apesar de estar um pouco corroída, ainda funciona perfeitamente. Para conseguir superar esses obstáculos, qualquer invasor em potencial precisaria da ajuda deste lado. Pessoalmente, não consigo imaginar um membro da Irmandade ajudando os Senhores das Trevas. De qualquer forma, não vejo mais ninguém por aqui além destes ossos empoeirados.
-TBook_Scroll_5_11_sewers_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_11_sewers_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_11_sewers_4_0	Indent>Complete a fase depois de matar 3 Esqueletos Guerreiros sem destruir seus escudos
 TBook_Scroll_5_11_sewers_4_Title	Descrição da Prova
 TBook_Scroll_5_2_isolated_village_1_0	Indent>Os reforços enviados pela Irmandade devem chegar em breve, mas, mesmo assim, temo que não teremos homens o bastante para deter essas terríveis criaturas. O Irmão Frederico informa que as Fadas, se combinadas à Magia da Luz, podem ser úteis contra os demônios sugadores de sangue. O problema é: onde encontrar Fadas?
-TBook_Scroll_5_2_isolated_village_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_2_isolated_village_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_2_isolated_village_2_0	Indent>Deveríamos nos reunir aqui para preparar um ataque ao castelo. Eu não vi ninguém ainda, então vou descansar no mausoléu esta noite. Não é seguro aqui: Ghouls e Vampiros rondam à noite em busca de almas perdidas, e eu não pretendo ser pego a céu aberto. Os Ghouls são um sério problema já que seu vômito é altamente venenoso e eu, no momento, tenho pouca Magia da Luz, que é a única coisa que pode neutralizar o veneno.
-TBook_Scroll_5_2_isolated_village_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_2_isolated_village_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_2_isolated_village_4_0	Indent>Complete a fase sem deixar Zobek matar um único Ghoul
 TBook_Scroll_5_2_isolated_village_4_Title	Descrição da Prova
 TBook_Scroll_5_2_isolated_village_a_4_0	Indent>Complete a fase depois de atacar o Vampiro de Elite com sua própria lâmina por 4 vezes consecutivas
@@ -1237,9 +1237,9 @@ TBook_Scroll_5_4_abbey_catacombs_1_Extended_3	Indent>Consegui mover o selo mágic
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_1_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_2_0	Indent>Eu devo estar louco. De que outra forma eu teria aceitado uma missão como esta? Infiltrar-me na Abadia, sozinho, para recuperar uma relíquia misteriosa? Que loucura! Este lugar está cheio de armadilhas diabólicas e criaturas indescritíveis que querem sugar toda minha vida.
-TBook_Scroll_5_4_abbey_catacombs_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_4_abbey_catacombs_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_3_0	Indent>Ouvi dizer que Gandolfi saiu à busca do Vampiro que lhe tomou sua filha amada. Essa foi a sua motivação para criar a Cruz de Combate e suas Relíquias de aprimoramento. Eu passei por um mausoléu mais cedo que poderia abrigar os aprimoramentos da Cruz, mas a arma é mantida em segredo nas câmaras secretas da Irmandade. Na verdade, a Relíquia não tem importância ou valor para mim. Fico imaginando se algum dia a veremos sendo usada em combate. Será que a profecia algum dia se realizará? Será que algum dia descobriremos o que aconteceu com Gandolfi?
-TBook_Scroll_5_4_abbey_catacombs_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_4_abbey_catacombs_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_4_0	Indent>Complete a fase sem deixar que Zobek caia uma vez sequer durante o combate
 TBook_Scroll_5_4_abbey_catacombs_4_Title	Descrição da Prova
 TBook_Scroll_5_4_abbey_catacombs_a_1_0	Indent>O abade foi muito esperto ao criar um quebra-cabeça baseado na luz do sol para proteger a si mesmo dos Vampiros. Os habitantes disseram que estas portas vão reagir apenas a um raio de sol, mas não consigo entender como...
@@ -1250,24 +1250,24 @@ TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_3	Indent>Encontrei alguns manuscri
 TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_a_1_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_a_2_0	Indent>Maldito seja! O abade encheu este lugar de armadilhas! Uma coisa interessante e digna de nota é que as Fadas podem realmente ajudar a distrair os inimigos por aqui. Tenho usado meus suprimentos de Flores das Fadas, e essas criaturinhas maravilhosas têm dado conta de qualquer inimigo. Só espero que elas não acabem, ou estarei acabado.
-TBook_Scroll_5_4_abbey_catacombs_a_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_4_abbey_catacombs_a_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_a_3_0	Indent>Deve haver alguma maneira de mover esses espelhos... eles devem pesar uma tonelada! Queria ter algo poderoso o bastante para movê-los. Talvez assim eu consiga encontrar uma saída.
-TBook_Scroll_5_4_abbey_catacombs_a_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_4_abbey_catacombs_a_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_a_4_0	Indent>Complete a fase resolvendo o quebra-cabeça das luzes e espelhos em menos de 2 minutos e meio.
 TBook_Scroll_5_4_abbey_catacombs_a_4_Title	Descrição da Prova
 TBook_Scroll_5_8_abbey_tower_1_0	Indent>Consegui entrar na abadia, mas isso me custou caro: dois de meus irmãos jazem mortos pelas malditas armadilhas de Dorin. Maldito seja aquele covarde egoísta! A Relíquia que ele possui poderia salvar a muitos, mas ele a mantém trancada para proteger a si mesmo. E ele ainda se diz um homem de Deus? É difícil perdoar tal comportamento. Tantas vidas perdidas por sua causa. Maldita seja sua alma! Irmã Laverne, Irmão Bernard... Hei de vingar-vos!
 TBook_Scroll_5_8_abbey_tower_1_1	.
 TBook_Scroll_5_8_abbey_tower_1_2	Indent>H.
-TBook_Scroll_5_8_abbey_tower_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_8_abbey_tower_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_8_abbey_tower_2_0	Indent>É importante recuperar a concentração novamente se você estiver quase sem Magia, pois assim os inimigos deixarão cair seus Orbs Elementares. Não adianta apenas sair cortando os inimigos. Você deve ser paciente: ataque o inimigo e se esquive, ataque e se esquive, de forma lenta e cuidadosa. Quando estiver concentrado, absorva os orbs em seu reservatório de Magia. Esta é a maneira de derrotar as criaturas da noite.
-TBook_Scroll_5_8_abbey_tower_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_5_8_abbey_tower_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_8_abbey_tower_4_0	Indent>Complete a fase depois de encontrar e destruir 100 objetos quebráveis antes de acabar o tempo previsto
 TBook_Scroll_5_8_abbey_tower_4_Title	Descrição da Prova
 TBook_Scroll_6_1_courtyard_1_0	Indent>Acho que quebrei minha perna quando caí, então provavelmente não sairei daqui tão cedo...
 TBook_Scroll_6_1_courtyard_1_1	Indent>... Isto é mesmo estranho: parece que os Vampiros mantêm Wargs e Trolls como prisioneiros. Suspeito que eles se alimentam das criaturas quando o estoque de sangue humano está no fim. Ouvi dizer que, há muitos séculos, este castelo pertenceu à família Bernhard. Eles devem ter sido expulsos quando a Rainha dos Vampiros chegou. Algo se aproxima... parece... ossos chacoalhando...
-TBook_Scroll_6_1_courtyard_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_1_courtyard_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_1_courtyard_2_0	Indent>Ouvi dizer que a relíquia na abadia faz mais do que destruir Vampiros: quando combinada com a Magia da Luz, ela também pode criar um escudo temporário ao redor daquele que a carrega. Bem que eu queria ter um item assim, pois os Vampiros são fortes demais, e eu já estou cansado de lutar. Preciso descansar, mesmo que por alguns minutos.
-TBook_Scroll_6_1_courtyard_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_1_courtyard_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_1_courtyard_4_0	Indent>Complete a fase matando 3 Esqueletos Guerreiros enquanto monta um Warg.
 TBook_Scroll_6_1_courtyard_4_Title	Descrição da Prova
 TBook_Scroll_6_1_courtyard_a_1_0	Indent>Todas as pistas apontam para cá, mas não consigo encontrar a chave do castelo em lugar algum. A única coisa que encontrei foi esta inscrição na pedra, mas ela não faz sentido:
@@ -1284,9 +1284,9 @@ TBook_Scroll_6_1_courtyard_a_2_0	Indent>Seda de Aranha: Um dos materiais mais fo
 TBook_Scroll_6_1_courtyard_a_2_1	.
 TBook_Scroll_6_1_courtyard_a_2_2	Indent>(Há algumas anotações rabiscadas na parte de trás do manuscrito:)
 TBook_Scroll_6_1_courtyard_a_2_3	Indent>O povo de Wygol me contou sobre os jardins abandonados do castelo... Se eu pudesse colocar as mãos naquele monte de seda crua, eu poderia deixar a Irmandade e me tornar um homem rico e poderoso!
-TBook_Scroll_6_1_courtyard_a_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_1_courtyard_a_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_1_courtyard_a_3_0	Indent>Preciso descobrir como chegar do outro lado dos jardins. Deve haver uma maneira de atravessar sobre a cobertura! Tenho buscado por pistas na neve, por algum sinal da passagem de objetos móveis. Se eu pudesse achar uma coluna ou uma estátua, eu poderia movê-la ou empurrá-la para perto da cerca e então alcançar o outro lado.
-TBook_Scroll_6_1_courtyard_a_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_1_courtyard_a_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_1_courtyard_a_4_0	Indent>Complete a fase depois de derrotar 15 Mandrágoras em menos de 15 segundos
 TBook_Scroll_6_1_courtyard_a_4_Title	Descrição da Prova
 TBook_Scroll_6_3_castle_hall_1_0	Indent>Outro conjunto de Runas Mágicas: dizem que o texto gravado nesta parede dá pistas sobre como ativá-las:
@@ -1346,13 +1346,13 @@ TBook_Scroll_6_3_game_room_1_7	Indent>Os Lycans, por exemplo, podem ser movidos 
 TBook_Scroll_6_3_game_room_1_8	Indent>Já os Vampiros podem drenar vida de uma peça subjacente, causando menos dano, mas curando a si mesmos.
 TBook_Scroll_6_3_game_room_1_9	Indent>Os Necromantes podem conjurar Zumbis em qualquer lugar do tabuleiro, e também podem atacar a dois quadrados de distância, ignorando o valor da armadura da peça adversária.
 TBook_Scroll_6_3_castle_hall_3_0	Indent>Onde está esse irmão que é, supostamente, nosso salvador? Onde está esse guerreiro de luz? Mais mentiras sonhadas pela Igreja para nos manter subservientes à sua vontade, sem dúvida. Como é possível que Deus exista se ele permite o assassinato e a morte de tantos dos nossos irmãos?
-TBook_Scroll_6_3_castle_hall_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_3_castle_hall_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_3_castle_hall_4_0	Indent>Complete a fase vencendo os Jogos Vampíricos de Guerra sem perder mais de 3 peças
 TBook_Scroll_6_3_castle_hall_4_Title	Descrição da Prova
 TBook_Scroll_6_5_refectory_1_0	Indent>O cozinheiro do castelo tem uma chave que eu preciso. Céus, ele é repugnante. Tenho até medo de pensar o que ele dá de comer a esses Ghouls. Preciso daquela chave, mas como pegá-la? Eu tenho de tirá-lo da cozinha ou encontrar um jeito de entrar no lugar onde ele prepara essas refeições tenebrosas. Não será uma tarefa fácil, pois ele parece um adversário à altura e não tenho certeza se terei forças suficientes para lidar com ele!
-TBook_Scroll_6_5_refectory_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_5_refectory_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_5_refectory_2_0	Indent>Parece haver um andar acima deste, embora eu não saiba como acessá-lo. Deve haver algum segredo que me ajude a sair deste lugar abandonado por Deus. Não me restam Fadas e meu Cristal Negro está incompleto. Deus me abandonou aqui... eles estão chegando... Posso ouvi-los. Perdoe-me, Iris... parece que jamais verei seu belo rosto novamente...
-TBook_Scroll_6_5_refectory_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_6_5_refectory_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_5_refectory_3_0	Indent>Siga as pistas para abrir a porta para a varanda:
 TBook_Scroll_6_5_refectory_3_1	Indent>Há três runas de cada cor
 TBook_Scroll_6_5_refectory_3_2	Indent>Da esquerda para a direita, a terceira e a sexta runas são da mesma cor
@@ -1386,9 +1386,9 @@ TBook_Scroll_7_1_balcony_1_Extended_7	Indent>Há também alguns números escritos n
 TBook_Scroll_7_1_balcony_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_7_1_balcony_1_Title	Dica do Manuscrito
 TBook_Scroll_7_1_balcony_2_0	Indent>Observei o tamanho do Castelo e ele realmente é enorme. O Senhor das Trevas que aqui governa está bem protegido, e temo que ninguém da nossa Irmandade jamais conseguirá chegar perto o bastante para desafiá-lo. Está frio aqui, e o vento faz tremer até os ossos. Tenho sorte de não ter sido descoberto ainda, mas não sei quanto tempo isso vai durar.
-TBook_Scroll_7_1_balcony_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_7_1_balcony_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_1_balcony_3_0	Indent>O Castelo foi um dia um lugar onde experimentos terríveis eram conduzidos. Já ouvi gente falando sobre mecanismos de relógio que continuam funcionando sem motivo aparente, e também sobre estranhas engenhocas que vagam pelos seus escuros corredores. Raios atingem este lugar com frequência: será que são eles que dão vida a essas... coisas? Seria o próprio castelo um condutor gigante da grande quantidade de energia necessária para ressuscitar essas abominações e os experimentos que as criaram?
-TBook_Scroll_7_1_balcony_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_7_1_balcony_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_1_balcony_4_0	Indent>Complete a fase depois de resolver o quebra-cabeça dos portões lógicos em 7 movimentos
 TBook_Scroll_7_1_balcony_4_Title	Descrição da Prova
 TBook_Scroll_7_3_chromatic_observatory_1_0	Indent>Fiquei dois dias neste labirinto tentando descobrir uma forma de sair. Com um pouco de observação é fácil ver que esses estranhos dispositivos criam barreiras mortais entre as vermelhas e as azuis. Agora preciso apenas encontrar uma forma de fazê-las trocar de cor...
@@ -1408,12 +1408,12 @@ TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_2	Bold>Solução do Quebra-cab
 TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_3	Indent>Agora eu entendi. É necessário usar Magia Sombria e algum tipo de feitiço de corrida, mas eu não tenho essa habilidade. Acho que não há escapatória para mim.
 TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_7_3_chromatic_observatory_a_1_Title	Dica do Manuscrito
-TBook_Scroll_7_3_chromatic_observatory_a_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_7_3_chromatic_observatory_a_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_3_chromatic_observatory_a_2_0	Indent>(Informações tiradas de livros encontrados na Biblioteca da Abadia de Wygol)
 TBook_Scroll_7_3_chromatic_observatory_a_2_1	Indent>[...] de acordo com histórias locais e alguns textos de bruxaria, há rumores de que este castelo era assombrado muito antes dos Vampiros o habitarem. Essa lenda era tão impressionante que até hoje só algumas pessoas se atrevem a chamar o lugar de 'lar' [...]
 TBook_Scroll_7_3_chromatic_observatory_a_2_2	Indent>[...] Uma das famílias donas do Castelo, o clã Bernhard, fez supostamente um pacto com uma criatura do inferno, o que fez com que a construção fosse possuída pelo demônio. É provável que isto seja apenas um mito criado para prejudicar a reputação da família, mas o fato que o castelo poder ser uma entidade viva poderia explicar como é que, após séculos, ninguém conseguiu criar um mapa completo dele, mesmo depois de gastar recursos consideráveis para uma tarefa tão simples [...]
 TBook_Scroll_7_3_chromatic_observatory_a_3_0	Indent>Estou usando constantemente a Magia Sombria, e tenho medo do que ela fez comigo. Pensamentos sombrios atormentam minha mente, e quanto mais magia eu uso, mais eu gosto de matar. Ó Senhor, a sensação de estripar essas criaturas é tão boa... mas os sonhos... eles me perseguem todas as noites até que eu não possa mais aguentá-los. O que será de mim? Desviei-me para tão longe da luz que temo que em breve me tornarei um mensageiro do mal.
-TBook_Scroll_7_3_chromatic_observatory_a_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_7_3_chromatic_observatory_a_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_3_chromatic_observatory_a_4_0	Indent>Complete a fase destruindo 10 Brinquedos Mortais usando golpes normais antes de matar qualquer um deles com um agarramento
 TBook_Scroll_7_3_chromatic_observatory_a_4_Title	Descrição da Prova
 TBook_Scroll_8_1_tower_base_1_0	Indent>Eu usei toda energia de magia que ainda possuía para resolver este quebra-cabeça, mas não consegui passar por ele... disseram-me que estas pistas seriam suficientes para chegar à solução, mas não consegui encontrá-la:
@@ -1432,8 +1432,8 @@ TBook_Scroll_8_1_tower_base_1_Extended_7	Indent>Talvez seja o frio aqui em cima,
 TBook_Scroll_8_1_tower_base_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_8_1_tower_base_1_Title	Dica do Manuscrito
 TBook_Scroll_8_1_tower_base_2_0	Indent>Vi uma criança chorando na escuridão. Meu primeiro pensamento foi confortá-la, mas algo ficou na minha cabeça. Há um mal ao redor dela, algo... profano. Fugi rapidamente escalando as muralhas do castelo e agora estou exausto. Não consegui encontrar muitas gemas aqui, pois muitos de meus irmãos não chegaram tão longe. Temo que a tarefa que nos foi dada seja impossível e que o mundo esteja perdido. Mas não posso desistir.
-TBook_Scroll_8_1_tower_base_2_Title	Pergaminho do Cavaleiro da Irmandade
-TBook_Scroll_8_1_tower_base_4_0	Indent>Complete a fase depois de matar 10 Gremlins usando apenas suas Adagas de prata
+TBook_Scroll_8_1_tower_base_2_Title	História do Cavaleiro da Irmandade
+TBook_Scroll_8_1_tower_base_4_0	Indent>Complete a fase depois de matar 10 Gremlins usando apenas as Adagas de prata
 TBook_Scroll_8_1_tower_base_4_Title	Descrição da Prova
 TBook_Scroll_8_2_the_tower_4_0	Indent>Complete a fase e chegue ao corredor de cima em menos de 5:00 minutos
 TBook_Scroll_8_2_the_tower_4_Title	Descrição da Prova
@@ -1456,12 +1456,12 @@ TBook_Scroll_8_3_top_corridor_4_0	Indent>Complete a fase depois de manter o medi
 TBook_Scroll_8_3_top_corridor_4_Title	Descrição da Prova
 TBook_Scroll_8_4_the_throne_room_4_0	Indent>Complete a fase e derrote a Rainha dos Vampiros depois que ele matar pelo menos 10 de seus próprios Vampiros Guerreiros.
 TBook_Scroll_8_4_the_throne_room_4_Title	Descrição da Prova
-TBook_Scroll_9_1_bones_forest_1_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_9_1_bones_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_1_bones_forest_1_0	Indent>Dizem que uma Bruxa assombra estas bandas, então preciso manter a guarda. Cruzei com monstros e enfrentei incontáveis desafios pelo caminho, mas foi na adversidade que encontrei forças em Deus. Desenvolvi habilidades consideráveis com armas, e dominar a magia da Luz e das Sombras mostrou-se útil. Sinto que estou forte o suficiente para desafiar qualquer coisa agora, e poucas criaturas poderiam me derrotar. Deixai o Senhor dos Mortos temer...
 TBook_Scroll_9_1_bones_forest_1_1	Indent>(O manuscrito termina abruptamente)
-TBook_Scroll_9_1_bones_forest_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_9_1_bones_forest_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_1_bones_forest_2_0	Indent>Os Chupa-cabras vagam por aqui. Preciso avisar a Irmandade. Essas criaturas malditas não fazem nada além de roubar relíquias e fazer brincadeiras estúpidas. Temos coisas mais importantes a fazer do que participar dessas brincadeiras. Precisamos salvar o mundo dos Senhores das Trevas! A morte caminha sobre o mundo e a terra sofre. Sugiro acabar com os Chupa-cabras de uma vez por todas e extirpar sua existência. Esta será a obra de Deus e é Deus quem nos comanda! Matem a escória!
-TBook_Scroll_9_1_bones_forest_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_9_1_bones_forest_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_1_bones_forest_3_0	Indent>Eu o vi! Gandolfi está vivo! Ele se esconde na floresta, sob a aparência de um velho mendigo. Tenho certeza de que é ele. É o guerreiro pelo qual estávamos esperando. Ele irá derrotar os Senhores das Trevas com sua arma lendária e salvará a todos nós! Sabia que ele retornaria! Louvado seja o Senhor!
 TBook_Scroll_9_1_bones_forest_4_0	Indent>Complete a fase depois de matar 10 cadáveres sem cabeça, sem ser agarrado por eles nenhuma vez
 TBook_Scroll_9_1_bones_forest_4_Title	Descrição da Prova
@@ -1473,9 +1473,9 @@ TBook_Scroll_9_3_woes_moor_1_Extended_3	Indent>Eu não estava louco! Os espantalh
 TBook_Scroll_9_3_woes_moor_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_9_3_woes_moor_1_Title	Dica do Manuscrito
 TBook_Scroll_9_3_woes_moor_2_0	Indent>Esta terra já foi repleta de vida e beleza. Mas agora, olhe para ela. O cheiro da morte está por toda parte. Os espantalhos veem tudo, e eu ouvi que os corvos de Malphas vigiam este lugar e depois informam sua senhora. Uma antiga lenda conta que uma Bruxa matou o namorado de Malphas, que então lhe jurou vingança. Será que o antigo corvo ainda vive ou será que é mais uma assustadora história de ninar?
-TBook_Scroll_9_3_woes_moor_2_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_9_3_woes_moor_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_3_woes_moor_3_0	Indent>Vi a minha morte, e ela é realmente terrível. Mas o que me conforta é que meus sonhos me dizem que alguém irá triunfar e derrotar o Senhor das Sombras. Fico imaginando se ele já começou sua jornada nesta terra, acabando com aqueles que destruiriam tudo o que amamos. Se começou, que Deus o acompanhe, meu amigo. Mate e continue matando em nome do Pai, do Filho e do Espírito Santo. Que todos aqueles que se colocam no caminho do Senhor sintam sua ira!
-TBook_Scroll_9_3_woes_moor_3_Title	Pergaminho do Cavaleiro da Irmandade
+TBook_Scroll_9_3_woes_moor_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_3_woes_moor_4_0	Indent>Complete a fase com as três chaves assustando os corvos apenas 13 vezes
 TBook_Scroll_9_3_woes_moor_4_Title	Descrição da Prova
 TBook_Scroll_9_4_1_the_music_box_1_0	Indent>Caixa de Música Mk.III - instruções de uso:
@@ -1639,7 +1639,7 @@ Menu_Loading_3_0_the_gauntlet	Os sonhos são um portal para a mente, e agora Gabr
 Menu_Loading_3_3_the_dark_lord	Gabriel lutou longa e arduamente para chegar até aqui, e agora ele enfrenta o seu mais difícil desafio. O Senhor dos Lycans deve ser derrotado se Gabriel espera ter alguma chance de trazer a sua amada de volta. Temo que ele vá sofrer ainda mais do que ele imagina ao descobrir a verdade. Ainda assim, o seu ódio e o seu ardente desejo de vingança não podem ser subestimados. Ele tem a luva e a arma de Gandolfi. Ele é uma força com a qual até mesmo o Senhor dos Lycans terá dificuldade em lidar. Bom... logo ele vai superar esse mal. Em breve o mundo estará livre dos Senhores das Trevas, e planos sonhados há muito tempo poderão se tornar realidade. Vá, meu amigo... vá e destrua esta criatura de uma vez por todas.
 Menu_Loading_4_1_fortress	O que está feito não pode ser desfeito. Cornell não mais existe. É uma pena que a irmandade da luz, ordem à qual nós dois pertencemos, seja também a razão pela qual o mundo está um caos. Gabriel, você provou o seu valor, meu amigo. Você tem um pedaço da máscara de Deus. Dizem que essa relíquia pode trazer os mortos de volta à vida. Dizem que esta relíquia pode conferir um poder além da compreensão humana. Agora, com a ajuda do Deus antigo, ele vai em direção à terra dos Vampiros, ainda mais fundo no coração das trevas.
 Menu_Loading_4_2_fortress_witch	É triste a história da Bruxa que guarda esta fortaleza. É uma triste história sobre um amor perdido. Uma história não muito diferente daquela vivida pelo nosso bravo herói. Pena, no entanto, é algo que ele não pode mais sentir. Ele é imune a ela. A pena por essas criaturas 'malignas' será deixada de lado em prol da vingança. Então adeus, outrora bela Malphas: você não incomodará mais a humanidade. E quando você desaparecer no vácuo saiba que foi o amor que, enfim, a destruiu.
-Menu_Loading_5_1_dark_forest	Então parece que Pã salvou Gabriel mais uma vez: que sorte contar com a sua chegada! Gabriel entra agora na periferia do território dos Vampiros. Um inverno gelado tem assolado está terra há anos, expulsando os habitantes para regiões de clima mais quente. Aqueles teimosos o bastante para ficar já se acostumaram com a fria morte que os visita todas as noites, levando para sempre os seus entes queridos. Os Vampiros prosperam no frio e aterrorizam a vida daqueles que rogam por calor e companhia. Um guerreiro virá nesta noite. Um cavaleiro de armadura brilhante com a morte ao seu lado. Ele vem para pegá-las, criaturas da noite.
+Menu_Loading_5_1_dark_forest	Então parece que Pã salvou Gabriel mais uma vez: que sorte contar com a sua chegada! Gabriel entra agora na periferia do território dos Vampiros. Um inverno gelado tem assolado está terra há anos, expulsando os habitantes para regiões de clima mais quente. Aqueles teimosos o bastante para ficar já se acostumaram com a fria morte que os visita todas as noites, levando para sempre seus entes queridos. Os Vampiros prosperam no frio e aterrorizam a vida daqueles que rogam por calor e companhia. Um guerreiro virá nesta noite. Um cavaleiro de armadura brilhante com a morte ao seu lado. Ele vem para pegá-las, criaturas da noite.
 Menu_Loading_5_2_isolated_village	Esta aldeia é um dos últimos vestígios da civilização humana neste lugar de morte e frio. E ela não está muito longe do nosso próximo objetivo: o Castelo Vampiro. Eu tenho alguns assuntos a tratar aqui, assuntos que poderiam estragar os nossos planos. Vou tratar deles e tentar me reencontrar com Gabriel depois. Ele não tem dormido há dias desde que encontramos a garota. A dor ainda está estampada em seu rosto, e sua alma é movida apenas pelo ódio. Não falaremos sobre isso. Ele não deve saber que eu já percebi tudo, e que eu o segui até aqui.
 Menu_Loading_5_4_abbey_catacombs	Nós mergulhamos nas profundezas da Abadia, prontos para lutar contra o mal que nos confronta. O abade, Vincent Dorin, foi um homem bom e gentil que ajudava o povo de Wygol. Mas agora ele se tornou um covarde desgarrado que se esconde na Abadia, cercado de armadilhas inteligentes. O povo, desprotegido, pagou um preço alto por sua traição. A noite caiu lá fora, e a qualquer momento estaremos vulneráveis aos ataques dos Vampiros. Temos de estar vigilantes. Precisamos trabalhar juntos se quisermos ter sucesso em obter a relíquia protegida pelo abade. Isso nos ajudará, e muito, a derrotar a horda vampírica mais tarde.
 Menu_Loading_5_4_abbey_catacombs_a	As armadilhas espalhadas pelo abade são realmente complicadas, mas ainda assim conseguimos invadir os claustros interiores. A biblioteca está a um passo daqui, se não me falha a memória. Meu amigo parece cansado e preocupado. Com o peso do mundo sobre os ombros. Posso ver que ele está escondendo um segredo terrível dentro de si. Ele tenta enterrá-lo, mas então a raiva toma conta. Não podemos nos atrasar. Nós precisamos encontrar Dorin e tomar dele aquilo que precisamos antes que a culpa nos consuma. A necessidade de muitos sobrepuja a necessidade de poucos. Não podemos derramar nenhuma lágrima pelos mortos: temos que ser fortes e devemos destruir os Senhores das Trevas a qualquer custo.
@@ -1651,7 +1651,7 @@ Menu_Loading_6_1_courtyard_a	Parece que entrar no castelo será mais difícil do q
 Menu_Loading_6_3_castle_hall	O tempo está se esgotando. A noite já se aproxima. Logo o castelo estará repleto de vampiros. Os mais poderosos de sua espécie são capazes de assumir a aparência de humanos de ascendência aristocrática. Gabriel deve se manter vigilante agora, pois as aparências enganam. Ouvi dizer que neste lugar é possível enfrentar os mais mortais dos inimigos sem perceber até que seja tarde demais.
 Menu_Loading_6_5_refectory	Ela tem o corpo de uma criança inocente, mas a inteligência e a astúcia de um predador experiente. Ela matará Gabriel num piscar de olhos se for capaz. A bela Laura, transformada muitos séculos atrás, leva uma cruel e solitária existência desde então. Gabriel tem que tomar muito cuidado a partir de agora, com a certeza de que a 'mãe' dela, aquela que comanda por aqui, está plenamente consciente de sua presença. E também com a certeza de que a própria Laura tem um importante papel nesta história.
 Menu_Loading_7_1_balcony	O Carniceiro que comandava as cozinhas do castelo costumava alimentar os Ghouls com cadáveres. A eficiência da criadagem da Rainha é realmente assustadora. Os Vampiros drenam o sangue e os Ghouls se alimentam dos restos: nada é desperdiçado. O uso de seus poderes está tornando Gabriel muito mais forte do que eu esperava. Ele vai precisar de mais do que força física quando enfrentá-la. Ela pode colocar um encanto sobre o seu coração, que o deixará tentado a esquecer de tudo aquilo que viveu, inclusive de sua amada. Ela tem o outro pedaço da máscara, e eu temo que ele acabe sendo derrotado.
-Menu_Loading_7_3_chromatic_observatory	Esta parte do castelo era o local onde o aclamado cientista Friedrich von Frankenstein conduzia as suas experiências com vida artificial. Ele era completamente louco, e realizava experimentos terríveis em busca dos segredos da vida. A sua morte foi igualmente terrível. A Rainha Vampira o levou, mas o manteve vivo por séculos, se alimentado dele diariamente, mantendo o cientista à beira da morte ainda vivo e consciente. Poucos sabem por que ela fez isso... ela um dia amou a vida, amou todas as coisas vivas. E antes de se tornar um dos Senhores das Trevas, ela jurou que puniria Frankenstein por seus atos. E como um Senhor das Trevas, ela manteve sua palavra.
+Menu_Loading_7_3_chromatic_observatory	Esta parte do castelo era o local onde o aclamado cientista Friedrich von Frankenstein conduzia suas experiências com vida artificial. Ele era completamente louco, e realizava experimentos terríveis em busca dos segredos da vida. A sua morte foi igualmente terrível. A Rainha Vampira o levou, mas o manteve vivo por séculos, se alimentado dele diariamente, mantendo o cientista à beira da morte ainda vivo e consciente. Poucos sabem por que ela fez isso... ela um dia amou a vida, amou todas as coisas vivas. E antes de se tornar um dos Senhores das Trevas, ela jurou que puniria Frankenstein por seus atos. E como um Senhor das Trevas, ela manteve sua palavra.
 Menu_Loading_7_3_chromatic_observatory_a	Gabriel finalmente derrotou a abominação de Frankenstein. Este lugar infernal é, sozinho, suficiente para frustrar a determinação de qualquer homem, mas ainda assim Gabriel parece totalmente disposto a continuar até o fim. Eu mal consigo reconhecer o meu velho amigo agora. Uma forte determinação tomou conta dele, e o seu coração já não carrega nenhuma compaixão. Ele não tem nem dormido, lamentavelmente. Ele apenas se enfurece com o mundo e com as criaturas que se atrevem a enfrentá-lo. O próximo desafio vai forçar ainda mais a sua mente, e eu temo que isso possa destruí-la para sempre.
 Menu_Loading_8_1_tower_base	Curioso, não? Parece que o amor pode ser uma arma poderosa, mesmo para aqueles que estão mortos. Laura poupou a sua vida. Ainda que tivesse o poder de retirá-la, ela a devolveu para ele, por amor. Talvez ela ainda se lembre dos braços de sua verdadeira mãe ao seu redor, confortando-a antes de ela se tornar a criatura que é hoje. Talvez ela ainda se lembre dos sentimentos de amor, mesmo tendo perdido o seu coração há vários séculos. O amor de uma criança não conhece limites ou amargura: é um amor puro. O que será que vai acontecer com ela, essa alma perdida, quando matarmos e enviarmos a sua 'mãe' para as profundezas do inferno, que é o seu devido lugar?
 Menu_Loading_8_2_the_tower	Posso ver claramente em seu rosto que a misericórdia vampiresca está maquinando seus pensamentos. Será que Laura o faz lembrar-se da pobre Claudia? Ver a sua amada Marie novamente trouxe muitas lembranças. O amor de Marie é tudo o que ele tem agora, e a esperança de abraçá-la novamente é a sua única esperança. Ele está perto agora, perto da cadela que comanda esses vermes Vampiros. Gabriel vai fazê-la pagar pelas injustiças que ele sofreu em suas mãos. Ela é poderosa, ela vai fazer o possível e o impossível para tentá-lo, para trazê-lo para o seu lado. Ainda resta resolver, primeiro, a questão da torre mecânica. Outra invenção maluca do Frankenstein que vai apenas atrasar a sua doce vingança. Espero.
@@ -1662,7 +1662,7 @@ Menu_Loading_9_3_woes_moor	O cheiro de morte é forte. Uma bruxa exerce poder aqu
 Menu_Loading_9_4_1_the_music_box	A velha bruxa lançou um feitiço sobre Gabriel, tornando-o pequeninho. Pequeninho o bastante para entrar na Caixa de Música e recuperar a rosa azul que ela tanto quer. A velha bruxa me deixou nervoso. Algo que ela disse me deixou muito inquieto. Ela mencionou o 'Rei dos Anjos'... Tenho certeza de que ela falou isso. O que isso significa? Por que sinto tamanha apreensão? Espero que Gabriel tenha sucesso, e rápido, para que possamos seguir caminho. Assim que ele partir, matarei este corvo maligno para garantir que ela nunca mais coloque alguém em perigo.
 Menu_Loading_10_1_marsh_of_silence	Baba Yaga enviou o nosso herói para o Cemitério dos Titãs e eu enviei a sua alma para o mundo dos mortos. Ela não vai mais nos incomodar agora. Agora meu amigo adentra a Terra dos Mortos, e sua batalha final está chegando. Eu preciso encontrar o meu próprio caminho e tentar encontrá-lo em algum ponto. Ele está por conta própria por ora. A terra exige sacrifício... um sacrifício que eu espero que ele possa fazer, pois sem isso ele não chegará muito longe. Devo ter fé nele agora. A semente foi semeada há muito tempo, e ela floresce maravilhosamente. Ele chegou até aqui pelo caminho... Devo acreditar que ele vai percorrê-lo até o fim.
 Menu_Loading_10_2_misty_moor	Os poderosos Necromantes têm usado este terreno, outrora sagrado, para criar um exército de mortos. Conquistando terras vizinhas, as legiões de Zumbis devoraram os vivos e deram origem a toda esta desolação. Homem algum viajou por aqui sem conhecer a morte. Gabriel enfrenta agora o seu maior desafio. Ele agora bate seus punhos contra as portas do verdadeiro inferno na Terra, e o Senhor que aqui comanda está a escutá-lo, esperando por ele. Sorrindo...
-Menu_Loading_10_3_cementery	Então o velho deus está morto. A que ponto chegamos, enfim. O sangue de um deus abriu o caminho. Bom, Gabriel, muito bom. Há apenas um Deus verdadeiro, e todos os usurpadores devem ser descartados. Contudo, o sacrifício de Pã não foi em vão. Agora nosso guerreiro da luz pode prosseguir para o seu destino final. O Senhor dos Mortos é o mais poderoso dos Senhores das Trevas. Gabriel precisará de todas as suas forças para derrotá-lo. Eu me preocupo com ele: sua mente está cansada, enferma talvez. Ele questiona a sua própria fé, questiona o seu próprio coração. Poderá ele vencer? Venha, meu amigo, venha um pouco mais e você poderá ver a sua Marie novamente.
+Menu_Loading_10_3_cementery	Então o velho deus está morto. A que ponto chegamos, enfim. O sangue de um deus abriu o caminho. Bom, Gabriel, muito bom. Há apenas um Deus verdadeiro, e todos os usurpadores devem ser descartados. Contudo, o sacrifício de Pã não foi em vão. Agora nosso guerreiro da luz pode prosseguir para o seu destino final. O Senhor dos Mortos é o mais poderoso dos Senhores das Trevas. Gabriel precisará de todas as forças para derrotá-lo. Eu me preocupo com ele: sua mente está cansada, enferma talvez. Ele questiona a sua própria fé, questiona o seu próprio coração. Poderá ele vencer? Venha, meu amigo, venha um pouco mais e você poderá ver a sua Marie novamente.
 Menu_Loading_10_5_crematory_oven	Alimentado pelas próprias chamas do Inferno, o forno crematório é onde o Coveiro realiza o seu trabalho medonho. Um poderoso demônio que carrega uma pá tão afiada quanto um cutelo, com a qual ele pode cortar um homem em dois com apenas um golpe. O Coveiro rasgará a própria alma de Gabriel na primeira oportunidade que tiver. Ainda assim, sinto que nosso herói tem poder de sobra para lidar com essa criatura. Isso poderá ser realmente interessante. Sinto a raiva de Gabriel brotando dentro de si, e me pergunto quem será o mais terrível: o demônio ou o nosso herói?
 Menu_Loading_11_0_the_necromancer_abyss	Aconteceu, enfim: eis o abismo do Necromante aos seus pés. Ele é sombrio e terrível, e os gritos dos mortos o seguem aonde quer que ele vá. Não há nada além de ódio em seu coração. Ódio por aqueles levaram sua amada. Por aqueles que o levaram a fazer coisas terríveis. Por aqueles que levaram sua humanidade. Ó descendentes da morte, é chegada a hora de colher a tempestade: eis aí o Príncipe das Trevas.
 Menu_Loading_11_8_dracolich	Olhe para ele, tão sombrio, tão lindo. Ele veio pela vingança e a sua vingança ele terá. Uma máquina de matar sem remorso, impiedosa. O que aconteceu com você, Gabriel? O que se você se tornou? O amor cegou você, meu amigo, mas você mudou. A sua jornada está perto do fim, o sonho já está à vista. Agora você deve enfrentar a morte e vencê-la. A máscara é um poderoso artefato, e aquele que a usa pode fazer qualquer coisa! Trazer os mortos de volta à vida, governar o mundo, destruir o universo, desafiar o próprio Deus. Você é o escolhido, Gabriel. Você é o escolhido!
@@ -1798,7 +1798,7 @@ Menu_Historic_Continue	Continuar a Última Missão
 Menu_Keep_Switch_Sticks	Movimento
 Menu_Keep_Stick_Left	.
 Menu_Keep_Stick_Right	.
-Menu_Warning_CancelConfig	Você vai perder as suas alterações
+Menu_Warning_CancelConfig	Você vai perder suas alterações
 Menu_CancelConfig_Question	Cancelar Configuração?
 Menu_Controls_Absorb_Dark	Absorver Magia Sombria
 Menu_Controls_Absorb_Light	Absorver Magia da Luz
@@ -2025,7 +2025,7 @@ Menu_Picture_4_1_fortress4	O Ogro socou os muros de fora da fortaleza, tentando 
 Menu_Picture_4_1_fortress5	O Ogro socou e socou tentando esmagar o humano irritante que continuava a incomodá-lo.
 Menu_Picture_4_1_fortress6	Algumas das paredes internas da fortaleza caíram, bloqueando as passagens secretas com escombros.
 Menu_Picture_4_1_fortress7	Trolls de todos os tamanhos desciam dos muros da fortaleza para atacar o guerreiro da Irmandade.
-Menu_Picture_4_1_fortress8	Gabriel procurou pelos ardilosos Chupa-cabras ao redor das ruínas, na tentativa de recuperar as suas Relíquias roubadas.
+Menu_Picture_4_1_fortress8	Gabriel procurou pelos ardilosos Chupa-cabras ao redor das ruínas, na tentativa de recuperar suas Relíquias roubadas.
 Menu_Picture_4_1_fortress9	Após recuperar suas Relíquias, Gabriel seguiu em direção à torre alta que coroava a fortaleza da montanha.
 Menu_Picture_4_2_fortress_witch	Um fogo ardia inesperadamente queimando o andar mais baixo da torre.
 Menu_Picture_4_2_fortress_witch1	Gabriel estremeceu ao abandonar o calorzinho do interior da torre.
@@ -2103,7 +2103,7 @@ Menu_Picture_8_4_the_throne_room	A tempestade de neve que atingia a torre foi fi
 Menu_Picture_8_4_the_throne_room1	Carmilla convocou seus asseclas e retirou-se da arena, observando Gabriel conforme ele lutava contra seus inimigos.
 Menu_Picture_8_4_the_throne_room2	A Rainha dos Vampiros transformou-se em uma criatura monstruosa, descendo para a arena e preparada para destruir Gabriel.
 Menu_Picture_9_1_bones_forest	Os Ombros de Seraph ajudaram Gabriel a superar os obstáculos que havia na desolada Floresta dos Ossos.
-Menu_Picture_9_1_bones_forest1	Com gritos terríveis, o grupo de criaturas que pareciam zumbis arrancaram as suas próprias cabeças e as jogaram contra Gabriel.
+Menu_Picture_9_1_bones_forest1	Com gritos terríveis, o grupo de criaturas que pareciam zumbis arrancaram as próprias cabeças e as jogaram contra Gabriel.
 Menu_Picture_9_1_bones_forest2	Sem as relíquias mágicas, Gabriel jamais teria sido capaz de sair da Floresta dos Ossos.
 Menu_Picture_9_3_woes_moor	Até aquele momento, Gabriel não havia encontrado nenhum sinal dos três espantalhos dentro da cidade abandonada.
 Menu_Picture_9_3_woes_moor1	Os bandos de corvos que sobrevoavam o lugar eram a chave para despertar os espantalhos remanescentes na cidade.
@@ -2389,7 +2389,7 @@ Scene_CH01_PansChallenge0	Pan_Off>Salve a sua amada de seu destino... e prove se
 Scene_CH01_Revelation0	Marie>Aah!
 Scene_CH01_Revelation1ALT	Gabriel>O que significa isso? Diga-me!
 Scene_CH01_Revelation2	Pan>Significa apenas que você passou no teste. Você é digno de entrar no Lago do Esquecimento.
-Scene_CH01_Revelation3	Pan>Certifique-se de levar as suas Adagas com você. Nunca se sabe.
+Scene_CH01_Revelation3	Pan>Certifique-se de levar suas Adagas com você. Nunca se sabe.
 Scene_CH01_LakeofOblivion0	Zobek_Off>O Lago do Esquecimento, onde os vivos podem se comunicar com os mortos. É aqui onde eu e Gabriel nos encontraremos.
 Scene_CH01_Marie0	Zobek>Dê-me a sua adaga, rápido!
 Scene_CH01_Marie2	Gabriel>Marie!
@@ -2797,8 +2797,8 @@ Trial_1_7_pans_temple_Descr	Complete a fase depois de vencer a prova do Pã em %s
 Trial_1_7_pans_temple_Complete	Você completou a fase após vencer a prova do Pã em %s movimentos
 Trial_1_9_oblivion_lake_Descr	Complete a fase e derrote o Titã de Gelo em menos de %s minutos
 Trial_1_9_oblivion_lake_Complete	Você completou a fase e derrotou o Titã de Gelo em %s minutos
-Trial_2_2_enchanted_forest_Descr	Complete a fase depois de matar %s Goblins com as suas próprias granadas
-Trial_2_2_enchanted_forest_Complete	Você completou a fase depois de matar %s Goblins com as suas próprias granadas
+Trial_2_2_enchanted_forest_Descr	Complete a fase depois de matar %s Goblins com suas próprias granadas
+Trial_2_2_enchanted_forest_Complete	Você completou a fase depois de matar %s Goblins com suas próprias granadas
 Trial_2_3_underground_cave_Descr	Complete a fase depois de matar pelo menos %s inimigos enquanto estiver infectado pelo veneno da Aranha
 Trial_2_3_underground_cave_Complete	Você completou a fase depois de matar %s inimigos enquanto estava infectado pelo veneno da Aranha.
 Trial_2_4_labyrinth_entrance_Descr	Complete a fase depois de matar pelo menos %s Javalis
@@ -2851,8 +2851,8 @@ Trial_7_3_chromatic_observatory_Descr	Complete a fase e desative a Monstruosidad
 Trial_7_3_chromatic_observatory_Complete	Você completou a fase e desativou a Monstruosidade Mecânica usando apenas a bobina de tesla no laboratório
 Trial_7_3_chromatic_observatory_a_Descr	Complete a fase destruindo %s Brinquedos Mortais usando golpes normais antes de matar qualquer um deles com um agarramento
 Trial_7_3_chromatic_observatory_a_Complete	Você completou a fase destruindo %s Brinquedos Mortais usando golpes normais antes de matá-los com um agarramento.
-Trial_8_1_tower_base_Descr	Complete a fase depois de matar %s Gremlins usando apenas as suas Adagas de prata
-Trial_8_1_tower_base_Complete	Você completou a fase depois de matar %s Gremlins usando apenas as suas Adagas de prata
+Trial_8_1_tower_base_Descr	Complete a fase depois de matar %s Gremlins usando apenas as Adagas de prata
+Trial_8_1_tower_base_Complete	Você completou a fase depois de matar %s Gremlins usando apenas as Adagas de prata
 Trial_8_2_the_tower_Complete	Você completou a fase e chegou ao corredor de cima em %s minutos
 Trial_8_2_the_tower_Descr	Complete a fase e chegue ao corredor de cima em menos de %s minutos
 Trial_8_3_top_corridor_Complete	Você completou a fase depois de manter o medidor de concentração em seu valor máximo por %s segundos
@@ -2885,7 +2885,7 @@ Tip_Combat_2	Os inimigos têm diferentes valores de resistência para cada uma de 
 Tip_Combat_3	Você pode realizar uma 'Recuperação Rápida' pressionando o botão de pulo depois de ser jogado ao chão.
 Tip_Combat_4	Quando usado corretamente, o salto mortal é uma manobra muito eficaz, especialmente contra grandes inimigos desajeitados.
 Tip_Combat_4d	Quando usado corretamente, o salto mortal é uma manobra muito eficaz, especialmente contra grandes inimigos desajeitados.
-Tip_Combat_5	Inimigos e objetos quebráveis podem ter munição para as suas armas secundárias.
+Tip_Combat_5	Inimigos e objetos quebráveis podem ter munição para suas armas secundárias.
 Tip_Combat_6	Você pode revisitar fases anteriores a qualquer momento para encontrar itens que você deixou para trás ou para ganhar mais pontos de Experiência. Isso também aumenta o seu percentual de conclusão.
 Tip_Combat_7	A maioria dos inimigos são especialmente vulneráveis a uma ou mais de suas armas secundárias: confira o ponto fraco deles a qualquer momento no seu Livro de Viagem.
 Tip_Combat_7d	A maioria dos inimigos são especialmente vulneráveis a uma ou mais de suas armas secundárias: confira o ponto fraco deles a qualquer momento no seu Livro de Viagem.
@@ -2896,8 +2896,8 @@ Tip_Combat_Blockable_2	Um bloqueio sincronizado bem-sucedido pode deixar qualque
 Tip_Combat_Boss	Se a Barra de Saúde de um inimigo se tornar cinza, isso significa que uma ação especial é necessária para causar ainda mais danos.
 Tip_Combat_Butcher	O Carniceiro pode utilizar várias ferramentas da sua cozinha para se proteger ou atacar você. Observe com cuidado qual ele carrega e reaja de acordo.
 Tip_Combat_Butcher_2	Você pode forçar o Carniceiro a derrubar qualquer arma que ele esteja carregando (exceto o seu cutelo), atacando-o com força. A Magia Sombria vai ajudar com isso!
-Tip_Combat_Chupacabras	Evite lutas demoradas enquanto você estiver sem as suas relíquias mágicas.
-Tip_Combat_Chupacabras_2	Os Chupa-cabras não roubam as suas armas secundárias: então faça uso delas para compensar a falta dos poderes das relíquias.
+Tip_Combat_Chupacabras	Evite lutas demoradas enquanto você estiver sem as relíquias mágicas.
+Tip_Combat_Chupacabras_2	Os Chupa-cabras não roubam as armas secundárias: então faça uso delas para compensar a falta dos poderes das relíquias.
 Tip_Combat_Chupacabras_3	Os Chupa-cabras darão pistas sobre a sua localização, caso você preste atenção ao que eles estão dizendo.
 Tip_Combat_DarkMagic_Enabled	Ataques carregados com Magia Sombria causam muito mais danos.
 Tip_Combat_Dodgeable	Lembre-se de se esquivar com mais frequência.
@@ -2922,7 +2922,7 @@ Tip_Combat_Ogre_3	O Ogro sinaliza a maioria de seus ataques. Observe os sinais p
 Tip_Combat_Ogre_4	Há uma estátua mágica por perto, a qual você pode usar para recuperar a sua magia!
 Tip_Combat_Ogre_5	Ataque as mãos do Ogro ou aproxime-se dele para atacar o seu torso: ambas as estratégias funcionam!
 Tip_Combat_Ragdoll	Os brinquedos de Laura não podem ser destruídos a menos que você arranque a força vital de dentro deles!
-Tip_Combat_Ragdoll_2	Tente atordoar os bonecos com os seus ataques e, em seguida, execute um agarramento para arrancar a alma deles!
+Tip_Combat_Ragdoll_2	Tente atordoar os bonecos com seus ataques e, em seguida, execute um agarramento para arrancar a alma deles!
 Tip_Combat_Satan	A maioria dos ataques de Satã são baseados nas Magias da Luz e das Sombras. Você pode combater ambas as magias utilizando o efeito mágico contrário a cada uma delas.
 Tip_Combat_Satan_2	Você pode ativar a sua magia mesmo durante um ataque. Reaja o mais rápido possível quando Satã alterar sua magia.
 Tip_Combat_Satan_3	A aura reluzente em torno do cajado de Satã reflete o tipo de magia que ele está usando em um determinado momento.
@@ -2930,7 +2930,7 @@ Tip_Combat_Satan_4	A magia de Gabriel é quase ilimitada enquanto Anjo. Aproveite
 Tip_Combat_SilverWarrior	O Pã, assim como você, pode controlar as Magias da Luz e das Sombras. Tente atacá-lo com uma magia oposta para conter seus ataques.
 Tip_Combat_SilverWarrior_2	Observe a cor da aura em torno de Pã para saber qual tipo de magia ele está usando e como combatê-la.
 Tip_Combat_SilverWarrior_3	Você pode ativar a sua magia mesmo durante um ataque. Reaja o mais rápido possível quando Pã alterar sua magia.
-Tip_Combat_SpiderGiant	Você pode prever os ataques de uma Aranha ao observar de perto os seus movimentos. Execute bloqueios e esquivas para derrotar as Aranhas.
+Tip_Combat_SpiderGiant	Você pode prever os ataques de uma Aranha ao observar de perto seus movimentos. Execute bloqueios e esquivas para derrotar as Aranhas.
 Tip_Combat_Unblockable	Sinais reluzentes sobre os ataques inimigos são avisos de que eles são indefensíveis.
 Tip_Combat_Witch	A Bruxa dos Corvos não recebe dano enquanto a sua Barra de Saúde estiver cinza. Espere ela parar de se mover antes de atacá-la.
 Tip_Combat_Witch_2	Até mesmo Adagas carregadas de Magia Sombria são ineficazes contra a Bruxa dos Corvos.
