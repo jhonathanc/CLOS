@@ -2505,7 +2505,7 @@ Scene_CH03_DarkLordLycans9	Gabriel>É você quem é ignorante. Ignorante em relação
 Scene_CH03_DarkLordLycans10	Lycan_DarkLord>Ouça-me... Muitos séculos atrás, três grandes guerreiros fundaram a Irmandade da Luz, a ordem à qual você pertence.
 Scene_CH03_DarkLordLycans10_1	Lycan_DarkLord>Seu único objetivo era servir a Deus e derrotar o Diabo...
 Scene_CH03_DarkLordLycans11	Lycan_DarkLord>Por décadas, os fundadores lutaram furiosamente contra as crias de Satã, até que finalmente conseguiram fazer a balança pender em favor de Deus...
-Scene_CH03_DarkLordLycans11_1	Lycan_DarkLord>Seu comprometimento com a cruzada era tão grande que os seus estudos sobre a santa iluminação os levaram a três lugares sagrados,
+Scene_CH03_DarkLordLycans11_1	Lycan_DarkLord>Seu comprometimento com a cruzada era tão grande que seus estudos sobre a santa iluminação os levaram a três lugares sagrados,
 Scene_CH03_DarkLordLycans11_2	Lycan_DarkLord>onde o poder de Deus convergia com tanta intensidade que chegou a forjar uma ponte entre o real e o espiritual...
 Scene_CH03_DarkLordLycans12	Lycan_DarkLord>Os fundadores usaram esse poder para purificar a si mesmos, abandonando suas formas humanas e se transformando em seres espirituais, cujos poderes eram precedidos apenas pelos poderes de Deus.
 Scene_CH03_DarkLordLycans13	Gabriel>Você não diz nada que eu já não soubesse, besta!
@@ -2571,7 +2571,7 @@ Scene_CH06_GamesRoom5	Gabriel>Eu estou aqui pela Rainha dos Vampiros.
 Scene_CH06_GamesRoom6	VampireGirl>Eu te conto onde ela está se você jogar meu jogo.
 Scene_CH06_GamesRoom7	Gabriel>Ela?
 Scene_CH06_GamesRoom8	VampireGirl>A mãe não gosta de visitantes. Mas eu te mostro onde ela está se você jogar.
-Scene_CH06_GamesRoom9	Gabriel>Eu não tenho tempo para os seus jogos. Preciso encontrá-la agora.
+Scene_CH06_GamesRoom9	Gabriel>Eu não tenho tempo para seus jogos. Preciso encontrá-la agora.
 Scene_CH06_GamesRoom10	VampireGirl>Então não vou ajudá-lo!
 Scene_CH06_GamesRoom11	Gabriel>Tudo bem.
 Scene_CH06_GamesRoom12	VampireGirl>Você nunca vai encontrá-la... só eu sei o caminho secreto... Eu vou deixá-lo fazer a primeira jogada.
