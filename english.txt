@@ -68,14 +68,6 @@ PS3_ErrorUnhandled	Erro sem tratamento.
 PS3_ErrorFile	Erro na leitura de disco. Verifique o disco e tente novamente.
 GammaHelp	Mova o analógico esquerdo para a esquerda ou para a direita até que apenas uma das máscaras apareça na tela.
 PS3_AutoSave_TrophiesDeactivated	Os dados salvos são de outro usuário. Você não será capaz de obter troféus.
-PC_AutoSave_Loading	Carregando...
-PC_AutoSave_LoadingError	Erro ao carregar dados.
-PC_AutoSave_Saving	Salvando...
-PC_AutoSave_SavingError	Erro ao salvar dados.
-PC_AutoSave_Warning	Este jogo salva dados automaticamente em determinados momentos.
-PC_Autosave_Deactivated	Você não será capaz de salvar seu progresso no jogo.
-PC_AutoSave_ErrorSize	Não há espaço livre suficiente no disco rígido.
-PC_AutoSave_Corrupt	O jogo salvo está danificado. Os dados salvos automaticamente serão substituídos.
 PS3_AutoSave_Loading	Carregando...
 PS3_AutoSave_LoadingError	Falha ao carregar.
 PS3_AutoSave_Saving	Salvando...
@@ -481,7 +473,6 @@ PS3_1_1_UNBLOCK_TUTO_0	Este ataque não pode ser bloqueado!
 PS3_1_1_UNBLOCK_TUTO_1	Saia daí agora!
 1_1_RECOVER_TUTO	.
 PS3_1_1_RECOVER_TUTO	Recuperação Rápida!
-PC_Hint_Checkpoint	Checkpoint Alcançado
 PS3_Hint_Checkpoint	Checkpoint Alcançado!
 Hint_Break_Any_TrollBig	Você não pode destruir este obstáculo por conta própria...
 Hint_Break_Any_TrollBig_Mount	.
@@ -1019,15 +1010,15 @@ TBook_Scroll_1_1_besieged_village_4_Title	Descrição da Prova
 TBook_Scroll_1_4_haunting_path_4_0	Indent>Complete a fase sem recuperar a saúde de forma alguma
 TBook_Scroll_1_4_haunting_path_4_Title	Descrição da Prova
 TBook_Scroll_1_5_swamp_1_0	Indent>Há alguma coisa na água... algo terrível. Tenho visto homens sendo puxados para o fundo, de onde nunca mais conseguem sair. A localização destas criaturas só pode ser observada pela agitação da água e pelas bolhas que emergem à superfície. Pelo visto é preciso esperar que a bolhas e as ondulações desapareçam antes de avançar pelo pântano. Não é possível dar a volta, pois há nuvens de fumaça venenosa saindo do chão por ambos os lados. Então é preciso ser paciente e esperar pelo momento certo para passar por cima delas.
-TBook_Scroll_1_5_swamp_1_1	Indent>Bah, eu sei que vou morrer, mas ao menos vou morrer lutando, e não engolido por estes malditos lamacentos!
+TBook_Scroll_1_5_swamp_1_1	Indent>Bah, sei que vou morrer, mas ao menos vou morrer lutando, e não engolido por estes malditos lamacentos!
 TBook_Scroll_1_5_swamp_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_5_swamp_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_5_swamp_2_0	Indent>Existe um mausoléu aqui no pântano, intacto, que não é perturbado há anos. O Cardeal Volpe me informa que o lendário artesão Rinaldo Gandolfi construiu uma relíquia durante sua passagem por lá, a qual ajudará aquele que leva a Cruz de Combate. Devo admitir que estou preocupado: muitos dos meus companheiros jazem mortos ao longo do caminho, então fico me pergunto se essa busca inútil não será o meu fim também.
 TBook_Scroll_1_5_swamp_3_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_1_5_swamp_3_0	Indent>Alguma coisa está pressionando as tribos dos Goblins a se aproximar cada vez mais de nossas cidades e aldeias, o que tem causado os recentes conflitos entre eles e os humanos. E eu suspeito que tal coisa seja o feitiço negro ao qual fomos enviados para investigar. Algo incrivelmente maligno está tomando conta da terra, e eu me preocupo cada vez mais com o que eu e meus irmãos ainda iremos encontrar pela frente.
+TBook_Scroll_1_5_swamp_3_0	Indent>Alguma coisa está pressionando as tribos dos Goblins a se aproximar cada vez mais de nossas cidades e aldeias, o que tem causado os recentes conflitos entre eles e os humanos. E suspeito que tal coisa seja o feitiço negro ao qual fomos enviados para investigar. Algo incrivelmente maligno está tomando conta da terra, e me preocupo cada vez mais com o que eu e meus irmãos ainda iremos encontrar pela frente.
 TBook_Scroll_1_5_swamp_4_0	Indent>Complete a fase depois de matar pelo menos 50 Goblins
 TBook_Scroll_1_5_swamp_4_Title	Descrição da Prova
-TBook_Scroll_1_7_pans_temple_1_0	Indent>Os cadáveres revirados dos meus irmãos estão espalhados por toda parte. Eu me sinto culpado por saquear os corpos de meus companheiros, mas vou acabar morto do mesmo jeito se não encontrar mais Gemas da Vida. Perdão, meus irmãos... Não vou durar muito tempo a menos que consiga melhorar minhas chances de sobrevivência... coisas das quais os mortos não precisam mais. Eu sei que há uma Gema da Vida por perto, posso até sentir ela. Mas preciso muito descansar... me sinto tão fraco...
+TBook_Scroll_1_7_pans_temple_1_0	Indent>Os cadáveres revirados dos meus irmãos estão espalhados por toda parte. Me sinto culpado por saquear os corpos de meus companheiros, mas vou acabar morto do mesmo jeito se não encontrar mais Gemas da Vida. Perdão, meus irmãos... Não vou durar muito tempo a menos que consiga melhorar minhas chances de sobrevivência... coisas das quais os mortos não precisam mais. Sei que há uma Gema da Vida por perto, posso até sentir ela. Mas preciso muito descansar... me sinto tão fraco...
 TBook_Scroll_1_7_pans_temple_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_7_pans_temple_2_0	Indent>Martha, meu amor, temo que não conseguirei mais voltar. Cuide-se, e tome conta de nossa filha amada. Que Deus me perdoe por ter falhado em minha missão! Saiba que você estará sempre em meu coração e que, um dia, estaremos juntos novamente. Do esposo que te ama, Victor.
 TBook_Scroll_1_7_pans_temple_2_Title	História do Cavaleiro da Irmandade
@@ -1066,7 +1057,7 @@ TBook_Scroll_10_1_marsh_of_silence_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_0	Indent>Muitos caíram. Seus corpos foram espalhados como folhas ao vento. A profecia fala daquele que é puro de coração, mas ninguém que seja puro de coração pode passar por aqui. Se alguém for forte o suficiente para enfrentar a Morte, temo que esse alguém possa ser também uma praga para a humanidade. Talvez estejamos destinados a sermos governados pelo mal? O forte conquistando o fraco: talvez seja essa a vontade de Deus?
 TBook_Scroll_10_2_misty_moor_4_0	Indent>Complete a fase sem deixar que Pã recupere sua saúde durante a luta
 TBook_Scroll_10_2_misty_moor_4_Title	Descrição da Prova
-TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do Inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e eu estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os Céus me ajudem, pois temo que eu não esteja à altura da tarefa!
+TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do Inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os Céus me ajudem, pois temo que eu não esteja à altura da tarefa!
 TBook_Scroll_10_3_cementery_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_3_cementery_2_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
 TBook_Scroll_10_3_cementery_2_Extended_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
@@ -1099,7 +1090,7 @@ TBook_Scroll_11_0_the_necromancer_abyss_2_0	Indent>'Cores são movimentos.' Isso 
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_0	Indent>'Cores são movimentos.' Isso foi o que a bruxa disse antes de me trazer aqui. Inicialmente eu não sabia do que ela estava falando, mas agora tenho certeza de aquilo tinha relação com estes azulejos no chão
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_1	.
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_2	Bold>Solução do Quebra-cabeça
-TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_3	Indent>Tenho usado pedras para empurrar os azulejos, mas agora a maioria deles está quebrada, e eu perdi toda minha força: se alguém ler isto, saiba que eu estava certo, e que cada um dos azulejos representa uma direção para onde mover o fogo mágico através da porta. Para ativar o dispositivo, acerte uma vez o azulejo central...
+TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_3	Indent>Tenho usado pedras para empurrar os azulejos, mas agora a maioria deles está quebrada, e perdi toda minha força: se alguém ler isto, saiba que eu estava certo, e que cada um dos azulejos representa uma direção para onde mover o fogo mágico através da porta. Para ativar o dispositivo, acerte uma vez o azulejo central...
 TBook_Scroll_11_0_the_necromancer_abyss_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_11_0_the_necromancer_abyss_2_Title	Dica do Manuscrito
 TBook_Scroll_11_0_the_necromancer_abyss_3_Title	História do Cavaleiro da Irmandade
@@ -1112,24 +1103,24 @@ TBook_Scroll_12_3_final_fight_4_0	Indent>Complete a fase e derrote o Satã sem se
 TBook_Scroll_12_3_final_fight_4_Title	Descrição da Prova
 TBook_Scroll_2_10_black_knight_4_0	Indent>Complete a fase e derrote o Cavaleiro Negro Golem sem usar a energia da Magia da Luz
 TBook_Scroll_2_10_black_knight_4_Title	Descrição da Prova
-TBook_Scroll_2_2_enchanted_forest_1_0	Indent>Meu companheiro de armas foi se aventurar enquanto eu descanso um pouco. O calor do sol é implacável, e minha ferida ainda me incomoda. Eu dei a ele minha Gema da Vida na esperança de que ele possa encontrar provisões antes do cair da noite, pois nossos suprimentos já estão acabando. Ele é um bom rapaz, forte e ansioso, mas ainda precisa aprender a ser paciente em combate se quiser sobreviver. Espero que eu não tenha dado a Gema da Vida em vão...
+TBook_Scroll_2_2_enchanted_forest_1_0	Indent>Meu companheiro de armas foi se aventurar enquanto descanso um pouco. O calor do sol é implacável, e minha ferida ainda me incomoda. Dei a ele minha Gema da Vida na esperança de que ele possa encontrar provisões antes do cair da noite, pois nossos suprimentos já estão acabando. Ele é um bom rapaz, forte e ansioso, mas ainda precisa aprender a ser paciente em combate se quiser sobreviver. Espero que eu não tenha dado a Gema da Vida em vão...
 TBook_Scroll_2_2_enchanted_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_2_0	Indent>A Grande Dekuh foi um dia a maior e mais bela árvore da floresta: ela era tão alta que sua copa podia ser vista a quilômetros de distância. Algumas pessoas acreditavam que ela tinha vida, e que seus poderes mágicos protegiam a floresta dos ataques das criaturas das trevas.
 TBook_Scroll_2_2_enchanted_forest_2_1	Indent>Não sei se as lendas são verdadeiras, mas a verdade é que os Senhores das Trevas, talvez por verem a árvore como um símbolo da vida, amaldiçoaram-na com uma praga que ainda vive sob seu toco morto.
 TBook_Scroll_2_2_enchanted_forest_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_2_2_enchanted_forest_3_0	Indent>Deus está nos punindo por causa de nossos pecados. O caos tomou conta do mundo e iremos todos morrer em breve, presos no limbo entre o Céu e a Terra, sem chance de redenção, sem meios de fuga. Eu fui gravemente ferido, e os Lycans podem sentir o cheiro do sangue: eles estão me caçando. Meu destino é iminente. Senhor, perdoe-me. O Cardeal Volpe nos enviou à morte, e para quê? Eu e meus companheiros guerreiros restamos derrotados e perdidos pelo caminho. Maldito seja ele e sua missão inútil: ele e os anciãos também deveriam estar sofrendo pelos seus pecados!
+TBook_Scroll_2_2_enchanted_forest_3_0	Indent>Deus está nos punindo por causa de nossos pecados. O caos tomou conta do mundo e iremos todos morrer em breve, presos no limbo entre o Céu e a Terra, sem chance de redenção, sem meios de fuga. Fui gravemente ferido, e os Lycans podem sentir o cheiro do sangue: eles estão me caçando. Meu destino é iminente. Senhor, perdoe-me. O Cardeal Volpe nos enviou à morte, e para quê? Eu e meus companheiros guerreiros restamos derrotados e perdidos pelo caminho. Maldito seja ele e sua missão inútil: ele e os anciãos também deveriam estar sofrendo pelos seus pecados!
 TBook_Scroll_2_2_enchanted_forest_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_4_0	Indent>Complete a fase depois de matar 30 Goblins com suas próprias granadas.
 TBook_Scroll_2_2_enchanted_forest_4_Title	Descrição da Prova
 TBook_Scroll_2_3_underground_cave_1_0	Indent>Tenho seguido os rastros de Rinaldo Gandolfi, famoso alquimista e membro da Irmandade da Luz. Não sei o que o levou a deixar a ordem ou mesmo por que ele desapareceu do meio da civilização, mas que suas habilidades seriam muito úteis nestes tempos sombrios, isso é certo. Dizem que ele criou muitas armas e relíquias mágicas, e que ele as esconde em lugares difíceis de encontrar, onde somente os mais comprometidos e merecedores podem encontrá-las.
 TBook_Scroll_2_3_underground_cave_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_2_3_underground_cave_2_0	Indent>Para onde quer que eu olhe, há morte e decadência. Deus nos abandonou. Eu abandonei minha busca: é impossível. Não quero morrer para terminar como meus companheiros, caídos à beira da estrada, destinados a serem um recurso para outros aventureiros. Eu não quero um destino assim!
+TBook_Scroll_2_3_underground_cave_2_0	Indent>Para onde quer que eu olhe, há morte e decadência. Deus nos abandonou. Abandonei minha busca: é impossível. Não quero morrer para terminar como meus companheiros, caídos à beira da estrada, destinados a serem um recurso para outros aventureiros. Não quero um destino assim!
 TBook_Scroll_2_3_underground_cave_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_3_0	Indent>Embora sejam grandes, as Aranhas são surpreendentemente rápidas e ágeis. Ouvi dizer que um guerreiro habilidoso pode domá-las até certo ponto, cansando elas o bastante para montá-los como um Javali. Também ouvi que suas teias podem ser usadas para tecer pontes fortes o suficiente para aguentar o peso de um homem adulto. Incrível! Talvez eu esteja perdendo o juízo preso neste lugar infernal: devo estar louco por acreditar em uma coisa dessas...!
 TBook_Scroll_2_3_underground_cave_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_4_0	Indent>Complete a fase depois de matar pelo menos 10 inimigos enquanto estiver infectado pelo veneno da Aranha
 TBook_Scroll_2_3_underground_cave_4_Title	Descrição da Prova
-TBook_Scroll_2_4_labyrinth_entrance_1_0	Indent>Há Lycans à frente e Javalis atrás: será que não há descanso nem para os perversos? Decidi me esconder aqui até que seja seguro fugir, pois este lugar está repleto de asseclas do Senhor dos Lycans e eu não consigo encontrar um caminho para cidade. Os arredores à minha volta são difíceis de percorrer, exigindo habilidades que eu claramente não possuo. Tenho tanta fome, não como há dias...
+TBook_Scroll_2_4_labyrinth_entrance_1_0	Indent>Há Lycans à frente e Javalis atrás: será que não há descanso nem para os perversos? Decidi me esconder aqui até que seja seguro fugir, pois este lugar está repleto de asseclas do Senhor dos Lycans e não consigo encontrar um caminho para cidade. Os arredores à minha volta são difíceis de percorrer, exigindo habilidades que claramente não possuo. Tenho tanta fome, não como há dias...
 TBook_Scroll_2_4_labyrinth_entrance_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_2_0	Indent>Tenho praticado minhas habilidades de luta e descobri que, se eu bloquear com frequência, posso aumentar minha concentração. O esforço está valendo a pena porque posso me concentrar muito mais rápido, o que me permite manter a Magia ativa durante todo o combate.
 TBook_Scroll_2_4_labyrinth_entrance_2_Title	História do Cavaleiro da Irmandade
@@ -1137,7 +1128,7 @@ TBook_Scroll_2_4_labyrinth_entrance_3_0	Indent>Toda criatura é fraca contra uma 
 TBook_Scroll_2_4_labyrinth_entrance_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_4_0	Indent>Complete a fase depois de matar pelo menos 5 Javalis
 TBook_Scroll_2_4_labyrinth_entrance_4_Title	Descrição da Prova
-TBook_Scroll_2_6_underground_dungeons_1_0	Indent>Tenho saqueado os cadáveres dos meus irmãos em busca de Gemas. Se eu coletar o suficiente, serei invencível. Tolos, enquanto estão ocupados tentando salvar o mundo, eu logo serei capaz de conquistá-lo com meu novo poder! Sei que há uma Gema da Luz por perto, e eu vou encontrá-la. Ninguém pode me deter agora... ninguém!
+TBook_Scroll_2_6_underground_dungeons_1_0	Indent>Tenho saqueado os cadáveres dos meus irmãos em busca de Gemas. Se eu coletar o suficiente, serei invencível. Tolos, enquanto estão ocupados tentando salvar o mundo, logo serei capaz de conquistá-lo com meu novo poder! Sei que há uma Gema da Luz por perto, e vou encontrá-la. Ninguém pode me deter agora... ninguém!
 TBook_Scroll_2_6_underground_dungeons_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_6_underground_dungeons_2_0	Indent>Aprendi que revisitar áreas pode trazer resultados interessantes. Encontrei itens e relíquias que eu não conseguia na época, mas à medida que fui me tornando mais forte, pude revisitar os lugares e coletar itens valiosos para melhorar minhas habilidades. Continuarei conferindo o mapa para ter certeza de que não estou deixando nada de útil para trás!
 TBook_Scroll_2_6_underground_dungeons_2_Title	História do Cavaleiro da Irmandade
@@ -1157,7 +1148,7 @@ TBook_Scroll_2_8_dark_dungeon_2_0	Indent>Maldita perna quebrada. O Stefano e o M
 TBook_Scroll_2_8_dark_dungeon_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_dark_dungeon_4_0	Indent>Complete a fase sem agarrar nenhum Gremlin
 TBook_Scroll_2_8_dark_dungeon_4_Title	Descrição da Prova
-TBook_Scroll_2_8_stone_idol_mausoleum_1_0	Indent>Eu ouvi as lendas sobre as Guerras Necromânticas e sobre a avançada civilização dos Aghartianos. Dizem que um dos seus Titãs de guerra descansa por estas bandas. Clamo a Deus para que o Necromante nunca encontre e comande um desses gigantes, já que eles são capazes, sozinhos, de destruir cidades inteiras. Vou revirar a cidade inteira por pistas sobre seu paradeiro e, com sorte, descobrir uma maneira de destruir essa abominação.
+TBook_Scroll_2_8_stone_idol_mausoleum_1_0	Indent>Ouvi as lendas sobre as Guerras Necromânticas e sobre a avançada civilização dos Aghartianos. Dizem que um dos seus Titãs de guerra descansa por estas bandas. Clamo a Deus para que o Necromante nunca encontre e comande um desses gigantes, já que eles são capazes, sozinhos, de destruir cidades inteiras. Vou revirar a cidade inteira por pistas sobre seu paradeiro e, com sorte, descobrir uma maneira de destruir essa abominação.
 TBook_Scroll_2_8_stone_idol_mausoleum_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_stone_idol_mausoleum_2_0	Indent>O povo de Agharta usava as gemas carregadas de magia sombria para alimentar muitos dispositivos diferentes. Esse conhecimento ainda sobrevive nas gigantes portas de pedra que bloqueiam a entrada à câmara dos Titãs, e que podem ser abertas apenas com a energia de um Cristal Negro completo. Porém, não consigo encontrar a maneira certa para fazer isso...
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_0	Indent>O povo de Agharta usava as gemas carregadas de magia sombria para alimentar muitos dispositivos diferentes. Esse conhecimento ainda sobrevive nas gigantes portas de pedra que bloqueiam a entrada à câmara dos Titãs, e que podem ser abertas apenas com a energia de um Cristal Negro completo. Porém, não consigo encontrar a maneira certa para fazer isso...
@@ -1185,7 +1176,7 @@ TBook_Scroll_3_0_the_gauntlet_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_3_0_the_gauntlet_1_Title	Dica do Manuscrito
 TBook_Scroll_3_0_the_gauntlet_2_0	Indent>Esta civilização em ruínas é testemunha do maior engenho do homem. Entristece-me saber que todos os segredos que aqui residem em breve estarão perdidos, muitos deles afundados no fundo do Oceano Pelárgico. A influência do Senhor dos Lycans é forte aqui, e os Wargs, Lobisomens e Lycans vagam por todos os cantos desta terra. Preciso me movimentar rapidamente e em silêncio, tomando cuidado para não ser visto. Não descobri nada sobre o feitiço que separou o nosso mundo dos Céus, mas a cada dia que passa uma coisa fica ainda mais clara: O Senhor das Sombras precisa morrer!
 TBook_Scroll_3_0_the_gauntlet_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_3_0_the_gauntlet_3_0	Indent>Na noite passada, sonhei que uma linda mulher me visitava. Ela era encantadora, hipnotizante. Ela me disse que um guerreiro estava chegando, um guerreiro que destruiria o Senhor dos Lycans, e que ela e seu povo iriam ajudá-lo. Ela era a Rainha das Fadas, e falava uma língua que eu não reconhecia, mas ainda assim eu conseguia entender todas as palavras que ela dizia. Eu jamais verei tamanha beleza neste mundo novamente. Se eu morrer hoje, morrerei tendo visto e vivenciado coisas que nenhum outro homem poderá ter a pretensão de tomar de mim. Então posso declarar, com alegria, que existe mesmo um 'Bolo' no fim do caminho!
+TBook_Scroll_3_0_the_gauntlet_3_0	Indent>Na noite passada, sonhei que uma linda mulher me visitava. Ela era encantadora, hipnotizante. Ela me disse que um guerreiro estava chegando, um guerreiro que destruiria o Senhor dos Lycans, e que ela e seu povo iriam ajudá-lo. Ela era a Rainha das Fadas, e falava uma língua que eu não reconhecia, mas ainda assim eu conseguia entender todas as palavras que ela dizia. Jamais verei tamanha beleza neste mundo novamente. Se eu morrer hoje, morrerei tendo visto e vivenciado coisas que nenhum outro homem poderá ter a pretensão de tomar de mim. Então posso declarar, com alegria, que existe mesmo um 'Bolo' no fim do caminho!
 TBook_Scroll_3_0_the_gauntlet_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_3_0_the_gauntlet_4_0	Indent>Complete a fase depois de matar 15 inimigos ofuscados pelas Fadas.
 TBook_Scroll_3_0_the_gauntlet_4_Title	Descrição da Prova
@@ -1223,7 +1214,7 @@ TBook_Scroll_5_11_sewers_4_0	Indent>Complete a fase depois de matar 3 Esqueletos
 TBook_Scroll_5_11_sewers_4_Title	Descrição da Prova
 TBook_Scroll_5_2_isolated_village_1_0	Indent>Os reforços enviados pela Irmandade devem chegar em breve, mas, mesmo assim, temo que não teremos homens o bastante para deter essas terríveis criaturas. O Irmão Frederico informa que as Fadas, se combinadas à Magia da Luz, podem ser úteis contra os demônios sugadores de sangue. O problema é: onde encontrar Fadas?
 TBook_Scroll_5_2_isolated_village_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_2_isolated_village_2_0	Indent>Deveríamos nos reunir aqui para preparar um ataque ao castelo. Eu não vi ninguém ainda, então vou descansar no mausoléu esta noite. Não é seguro aqui: Ghouls e Vampiros rondam à noite em busca de almas perdidas, e eu não pretendo ser pego a céu aberto. Os Ghouls são um sério problema já que seu vômito é altamente venenoso e eu, no momento, tenho pouca Magia da Luz, que é a única coisa que pode neutralizar o veneno.
+TBook_Scroll_5_2_isolated_village_2_0	Indent>Deveríamos nos reunir aqui para preparar um ataque ao castelo. Não vi ninguém ainda, então vou descansar no mausoléu esta noite. Não é seguro aqui: Ghouls e Vampiros rondam à noite em busca de almas perdidas, e não pretendo ser pego a céu aberto. Os Ghouls são um sério problema já que seu vômito é altamente venenoso e eu, no momento, tenho pouca Magia da Luz, que é a única coisa que pode neutralizar o veneno.
 TBook_Scroll_5_2_isolated_village_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_2_isolated_village_4_0	Indent>Complete a fase sem deixar Zobek matar um único Ghoul
 TBook_Scroll_5_2_isolated_village_4_Title	Descrição da Prova
@@ -1236,9 +1227,9 @@ TBook_Scroll_5_4_abbey_catacombs_1_Extended_2	Bold>Solução do Quebra-cabeça
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_3	Indent>Consegui mover o selo mágico ao redor da zona usando este mecanismo. No entanto, não consigo mantê-lo preso por tempo suficiente para chegar até o portal antes que ele volte para o lugar. Espero que alguém me ajude antes que seja tarde demais...
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_1_Title	Dica do Manuscrito
-TBook_Scroll_5_4_abbey_catacombs_2_0	Indent>Eu devo estar louco. De que outra forma eu teria aceitado uma missão como esta? Infiltrar-me na Abadia, sozinho, para recuperar uma relíquia misteriosa? Que loucura! Este lugar está cheio de armadilhas diabólicas e criaturas indescritíveis que querem sugar toda minha vida.
+TBook_Scroll_5_4_abbey_catacombs_2_0	Indent>Devo estar louco. De que outra forma eu teria aceitado uma missão como esta? Infiltrar-me na Abadia, sozinho, para recuperar uma relíquia misteriosa? Que loucura! Este lugar está cheio de armadilhas diabólicas e criaturas indescritíveis que querem sugar toda minha vida.
 TBook_Scroll_5_4_abbey_catacombs_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_4_abbey_catacombs_3_0	Indent>Ouvi dizer que Gandolfi saiu à busca do Vampiro que lhe tomou sua filha amada. Essa foi sua motivação para criar a Cruz de Combate e suas Relíquias de aprimoramento. Eu passei por um mausoléu mais cedo que poderia abrigar os aprimoramentos da Cruz, mas a arma é mantida em segredo nas câmaras secretas da Irmandade. Na verdade, a Relíquia não tem importância ou valor para mim. Fico imaginando se algum dia a veremos sendo usada em combate. Será que a profecia algum dia se realizará? Será que algum dia descobriremos o que aconteceu com Gandolfi?
+TBook_Scroll_5_4_abbey_catacombs_3_0	Indent>Ouvi dizer que Gandolfi saiu à busca do Vampiro que lhe tomou sua filha amada. Essa foi sua motivação para criar a Cruz de Combate e suas Relíquias de aprimoramento. Passei por um mausoléu mais cedo que poderia abrigar os aprimoramentos da Cruz, mas a arma é mantida em segredo nas câmaras secretas da Irmandade. Na verdade, a Relíquia não tem importância ou valor para mim. Fico imaginando se algum dia a veremos sendo usada em combate. Será que a profecia algum dia se realizará? Será que algum dia descobriremos o que aconteceu com Gandolfi?
 TBook_Scroll_5_4_abbey_catacombs_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_4_0	Indent>Complete a fase sem deixar que Zobek caia uma vez sequer durante o combate
 TBook_Scroll_5_4_abbey_catacombs_4_Title	Descrição da Prova
@@ -1246,7 +1237,7 @@ TBook_Scroll_5_4_abbey_catacombs_a_1_0	Indent>O abade foi muito esperto ao criar
 TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_0	Indent>O abade foi muito esperto ao criar um quebra-cabeça baseado na luz do sol para proteger a si mesmo dos Vampiros. Os habitantes disseram que estas portas vão reagir apenas a um raio de sol, mas não consigo entender como...
 TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_1	.
 TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_2	Bold>Solução do Quebra-cabeça
-TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_3	Indent>Encontrei alguns manuscritos antigos do abade com anotações sobre a biblioteca: '... mesmo se alguém conseguir mover todas as estátuas com espelhos para o fim dos seus trilhos, eu fiz com que os monges construíssem uma parede no caminho da luz, perto da última porta, para que nenhuma força humana possa abri-la.
+TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_3	Indent>Encontrei alguns manuscritos antigos do abade com anotações sobre a biblioteca: '... mesmo se alguém conseguir mover todas as estátuas com espelhos para o fim dos seus trilhos, fiz com que os monges construíssem uma parede no caminho da luz, perto da última porta, para que nenhuma força humana possa abri-la.
 TBook_Scroll_5_4_abbey_catacombs_a_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_a_1_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_a_2_0	Indent>Maldito seja! O abade encheu este lugar de armadilhas! Uma coisa interessante e digna de nota é que as Fadas podem realmente ajudar a distrair os inimigos por aqui. Tenho usado meus suprimentos de Flores das Fadas, e essas criaturinhas maravilhosas têm dado conta de qualquer inimigo. Só espero que elas não acabem, ou estarei acabado.
@@ -1266,7 +1257,7 @@ TBook_Scroll_5_8_abbey_tower_4_Title	Descrição da Prova
 TBook_Scroll_6_1_courtyard_1_0	Indent>Acho que quebrei minha perna quando caí, então provavelmente não sairei daqui tão cedo...
 TBook_Scroll_6_1_courtyard_1_1	Indent>... Isto é mesmo estranho: parece que os Vampiros mantêm Wargs e Trolls como prisioneiros. Suspeito que eles se alimentam das criaturas quando o estoque de sangue humano está no fim. Ouvi dizer que, há muitos séculos, este castelo pertenceu à família Bernhard. Eles devem ter sido expulsos quando a Rainha dos Vampiros chegou. Algo se aproxima... parece... ossos chacoalhando...
 TBook_Scroll_6_1_courtyard_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_6_1_courtyard_2_0	Indent>Ouvi dizer que a relíquia na abadia faz mais do que destruir Vampiros: quando combinada com a Magia da Luz, ela também pode criar um escudo temporário ao redor daquele que a carrega. Bem que eu queria ter um item assim, pois os Vampiros são fortes demais, e eu já estou cansado de lutar. Preciso descansar, mesmo que por alguns minutos.
+TBook_Scroll_6_1_courtyard_2_0	Indent>Ouvi dizer que a relíquia na abadia faz mais do que destruir Vampiros: quando combinada com a Magia da Luz, ela também pode criar um escudo temporário ao redor daquele que a carrega. Bem que eu queria ter um item assim, pois os Vampiros são fortes demais, e já estou cansado de lutar. Preciso descansar, mesmo que por alguns minutos.
 TBook_Scroll_6_1_courtyard_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_1_courtyard_4_0	Indent>Complete a fase matando 3 Esqueletos Guerreiros enquanto monta um Warg.
 TBook_Scroll_6_1_courtyard_4_Title	Descrição da Prova
@@ -1300,7 +1291,7 @@ TBook_Scroll_6_3_castle_hall_1_Extended_3	Indent>As duas runas colocadas no Nort
 TBook_Scroll_6_3_castle_hall_1_Extended_4	.
 TBook_Scroll_6_3_castle_hall_1_Extended_5	Bold>Solução do Quebra-cabeça
 TBook_Scroll_6_3_castle_hall_1_Extended_6	Indent>Com tantas janelas ao redor fica fácil descobrir a orientação do castelo, o que faz desta a única solução possível:
-TBook_Scroll_6_3_castle_hall_1_Extended_7	Indent>Agora eu preciso esperar até amanhecer para abrir o caminho às runas, utilizando a luz solar e as estátuas com espelhos. Só espero que os Vampiros não me encontrem hoje à noite...
+TBook_Scroll_6_3_castle_hall_1_Extended_7	Indent>Agora preciso esperar até amanhecer para abrir o caminho às runas, utilizando a luz solar e as estátuas com espelhos. Só espero que os Vampiros não me encontrem hoje à noite...
 TBook_Scroll_6_3_castle_hall_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_6_3_castle_hall_1_Title	Dica do Manuscrito
 TBook_Scroll_6_3_castle_hall_2_Extended_0	Indent>Este é um jogo de tabuleiro, similar ao xadrez, para dois jogadores.
@@ -1349,7 +1340,7 @@ TBook_Scroll_6_3_castle_hall_3_0	Indent>Onde está esse irmão que é, supostamente
 TBook_Scroll_6_3_castle_hall_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_3_castle_hall_4_0	Indent>Complete a fase vencendo os Jogos Vampíricos de Guerra sem perder mais de 3 peças
 TBook_Scroll_6_3_castle_hall_4_Title	Descrição da Prova
-TBook_Scroll_6_5_refectory_1_0	Indent>O cozinheiro do castelo tem uma chave que eu preciso. Céus, ele é repugnante. Tenho até medo de pensar o que ele dá de comer a esses Ghouls. Preciso daquela chave, mas como pegá-la? Eu tenho de tirá-lo da cozinha ou encontrar um jeito de entrar no lugar onde ele prepara essas refeições tenebrosas. Não será uma tarefa fácil, pois ele parece um adversário à altura e não tenho certeza se terei forças suficientes para lidar com ele!
+TBook_Scroll_6_5_refectory_1_0	Indent>O cozinheiro do castelo tem uma chave que preciso. Céus, ele é repugnante. Tenho até medo de pensar o que ele dá de comer a esses Ghouls. Preciso daquela chave, mas como pegá-la? Eu tenho de tirá-lo da cozinha ou encontrar um jeito de entrar no lugar onde ele prepara essas refeições tenebrosas. Não será uma tarefa fácil, pois ele parece um adversário à altura e não tenho certeza se terei forças suficientes para lidar com ele!
 TBook_Scroll_6_5_refectory_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_6_5_refectory_2_0	Indent>Parece haver um andar acima deste, embora eu não saiba como acessá-lo. Deve haver algum segredo que me ajude a sair deste lugar abandonado por Deus. Não me restam Fadas e meu Cristal Negro está incompleto. Deus me abandonou aqui... eles estão chegando... Posso ouvi-los. Perdoe-me, Iris... parece que jamais verei seu belo rosto novamente...
 TBook_Scroll_6_5_refectory_2_Title	História do Cavaleiro da Irmandade
@@ -1401,18 +1392,18 @@ TBook_Scroll_7_3_chromatic_observatory_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_7_3_chromatic_observatory_1_Title	Dica do Manuscrito
 TBook_Scroll_7_3_chromatic_observatory_4_0	Indent>Complete a fase e desative a Monstruosidade Mecânica usando apenas a bobina de tesla no laboratório, depois que ela estiver ativada
 TBook_Scroll_7_3_chromatic_observatory_4_Title	Descrição da Prova
-TBook_Scroll_7_3_chromatic_observatory_a_1_0	Indent>Os azulejos parecem ser um tipo de chave para abrir a porta. Consegui iluminar uma seção ativando minha última Gema das Sombras em um dos cantos, mas eu simplesmente não consigo ativá-la rápido o bastante para iluminar os quatro cantos...
-TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_0	Indent>Os azulejos parecem ser um tipo de chave para abrir a porta. Consegui iluminar uma seção ativando minha última Gema das Sombras em um dos cantos, mas eu simplesmente não consigo ativá-la rápido o bastante para iluminar os quatro cantos...
+TBook_Scroll_7_3_chromatic_observatory_a_1_0	Indent>Os azulejos parecem ser um tipo de chave para abrir a porta. Consegui iluminar uma seção ativando minha última Gema das Sombras em um dos cantos, mas simplesmente não consigo ativá-la rápido o bastante para iluminar os quatro cantos...
+TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_0	Indent>Os azulejos parecem ser um tipo de chave para abrir a porta. Consegui iluminar uma seção ativando minha última Gema das Sombras em um dos cantos, mas simplesmente não consigo ativá-la rápido o bastante para iluminar os quatro cantos...
 TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_1	.
 TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_2	Bold>Solução do Quebra-cabeça
-TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_3	Indent>Agora eu entendi. É necessário usar Magia Sombria e algum tipo de feitiço de corrida, mas eu não tenho essa habilidade. Acho que não há escapatória para mim.
+TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_3	Indent>Agora entendi. É necessário usar Magia Sombria e algum tipo de feitiço de corrida, mas não tenho essa habilidade. Acho que não há escapatória para mim.
 TBook_Scroll_7_3_chromatic_observatory_a_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_7_3_chromatic_observatory_a_1_Title	Dica do Manuscrito
 TBook_Scroll_7_3_chromatic_observatory_a_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_3_chromatic_observatory_a_2_0	Indent>(Informações tiradas de livros encontrados na Biblioteca da Abadia de Wygol)
 TBook_Scroll_7_3_chromatic_observatory_a_2_1	Indent>[...] de acordo com histórias locais e alguns textos de bruxaria, há rumores de que este castelo era assombrado muito antes dos Vampiros o habitarem. Essa lenda era tão impressionante que até hoje só algumas pessoas se atrevem a chamar o lugar de 'lar' [...]
 TBook_Scroll_7_3_chromatic_observatory_a_2_2	Indent>[...] Uma das famílias donas do Castelo, o clã Bernhard, fez supostamente um pacto com uma criatura do inferno, o que fez com que a construção fosse possuída pelo demônio. É provável que isto seja apenas um mito criado para prejudicar a reputação da família, mas o fato que o castelo poder ser uma entidade viva poderia explicar como é que, após séculos, ninguém conseguiu criar um mapa completo dele, mesmo depois de gastar recursos consideráveis para uma tarefa tão simples [...]
-TBook_Scroll_7_3_chromatic_observatory_a_3_0	Indent>Estou usando constantemente a Magia Sombria, e tenho medo do que ela fez comigo. Pensamentos sombrios atormentam minha mente, e quanto mais magia eu uso, mais eu gosto de matar. Ó Senhor, a sensação de estripar essas criaturas é tão boa... mas os sonhos... eles me perseguem todas as noites até que eu não possa mais aguentá-los. O que será de mim? Desviei-me para tão longe da luz que temo que em breve me tornarei um mensageiro do mal.
+TBook_Scroll_7_3_chromatic_observatory_a_3_0	Indent>Estou usando constantemente a Magia Sombria, e tenho medo do que ela fez comigo. Pensamentos sombrios atormentam minha mente, e quanto mais magia uso, mais gosto de matar. Ó Senhor, a sensação de estripar essas criaturas é tão boa... mas os sonhos... eles me perseguem todas as noites até que eu não possa mais aguentá-los. O que será de mim? Desviei-me para tão longe da luz que temo que em breve me tornarei um mensageiro do mal.
 TBook_Scroll_7_3_chromatic_observatory_a_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_3_chromatic_observatory_a_4_0	Indent>Complete a fase destruindo 10 Brinquedos Mortais usando golpes normais antes de matar qualquer um deles com um agarramento
 TBook_Scroll_7_3_chromatic_observatory_a_4_Title	Descrição da Prova
@@ -1472,7 +1463,7 @@ TBook_Scroll_9_3_woes_moor_1_Extended_2	Bold>Solução do Quebra-cabeça
 TBook_Scroll_9_3_woes_moor_1_Extended_3	Indent>Eu não estava louco! Os espantalhos estão mesmo vivos, mas eles reagem apenas aos pássaros. Sabendo disso, fiz um mapa que mostra os postes e a posição dos espantalhos e dos corvos. Note que, em alguns casos, você terá que usar mais de um bando de pássaros para fazer pelo menos um deles ir pelo caminho certo.
 TBook_Scroll_9_3_woes_moor_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_9_3_woes_moor_1_Title	Dica do Manuscrito
-TBook_Scroll_9_3_woes_moor_2_0	Indent>Esta terra já foi repleta de vida e beleza. Mas agora, olhe para ela. O cheiro da morte está por toda parte. Os espantalhos veem tudo, e eu ouvi que os corvos de Malphas vigiam este lugar e depois informam sua senhora. Uma antiga lenda conta que uma Bruxa matou o namorado de Malphas, que então lhe jurou vingança. Será que o antigo corvo ainda vive ou será que é mais uma assustadora história de ninar?
+TBook_Scroll_9_3_woes_moor_2_0	Indent>Esta terra já foi repleta de vida e beleza. Mas agora, olhe para ela. O cheiro da morte está por toda parte. Os espantalhos veem tudo, e ouvi que os corvos de Malphas vigiam este lugar e depois informam sua senhora. Uma antiga lenda conta que uma Bruxa matou o namorado de Malphas, que então lhe jurou vingança. Será que o antigo corvo ainda vive ou será que é mais uma assustadora história de ninar?
 TBook_Scroll_9_3_woes_moor_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_3_woes_moor_3_0	Indent>Vi minha morte, e ela é realmente terrível. Mas o que me conforta é que meus sonhos me dizem que alguém irá triunfar e derrotar o Senhor das Sombras. Fico imaginando se ele já começou sua jornada nesta terra, acabando com aqueles que destruiriam tudo o que amamos. Se começou, que Deus o acompanhe, meu amigo. Mate e continue matando em nome do Pai, do Filho e do Espírito Santo. Que todos aqueles que se colocam no caminho do Senhor sintam sua ira!
 TBook_Scroll_9_3_woes_moor_3_Title	História do Cavaleiro da Irmandade
@@ -1537,7 +1528,7 @@ CHUPACABRA_111	Chupacabra>Não muito perto... Não tão longe...
 CHUPACABRA_112	Chupacabra>Hmmm... Ainda aí?
 CHUPACABRA_113	Chupacabra>Morno... Sim, sim! Hehe!
 CHUPACABRA_120	Chupacabra>Zzzz
-CHUPACABRA_121	Chupacabra>'Bocejo
+CHUPACABRA_121	Chupacabra>(Bocejo)
 CHUPACABRA_122	Chupacabra>Hehe! Frio, frio... FRIO!
 CHUPACABRA_123	Chupacabra>Frio como gelo!
 CHUPACABRA_200	Chupacabra>Na sua frente... Tá me enxergando????
@@ -1545,12 +1536,12 @@ CHUPACABRA_201	Chupacabra>Míope é você??
 CHUPACABRA_202	Chupacabra>QUENTE! Quente...!
 CHUPACABRA_203	Chupacabra>Rá rá... Me encontrou!
 CHUPACABRA_210	Chupacabra>Venha, venha, no meio do caminho!
-CHUPACABRA_211	Chupacabra>Hehe! Eu não estou aí!
+CHUPACABRA_211	Chupacabra>Hehe! Não estou aí!
 CHUPACABRA_212	Chupacabra>Rá rá... Qual é, procure direito!
 CHUPACABRA_213	Chupacabra>Morno... Quentinho
 CHUPACABRA_220	Chupacabra>Burro é você!
 CHUPACABRA_221	Chupacabra>Frioooo...
-CHUPACABRA_222	Chupacabra>'Tiritando
+CHUPACABRA_222	Chupacabra>(Tremor)
 CHUPACABRA_223	Chupacabra>Tão longe... Longe... Longe... Hehehe!
 Babba_Off_Msg_1	Witch>Encontre Rosa Azul pra Baba!
 Babba_Off_Msg_2a	Witch>Hahahiaa...
@@ -1589,7 +1580,7 @@ Silver_Warrior_Taunt_12	Silver_Warrior>A Luz e as Sombras são as chaves para me 
 Silver_Warrior_Taunt_13	Silver_Warrior>Você não vencerá até aprender que Luz e Sombras são os dois lados da mesma moeda!
 Silver_Warrior_Taunt_14	Silver_Warrior>Você não percebeu que a Luz e as Sombras anulam uma a outra?
 Silver_Warrior_Taunt_15	Silver_Warrior>Você não estará pronto para cumprir seu destino se não me matar!
-Lycan_Dark_Lord_Human_Taunt_0	Lycan_DarkLord>Eu sou Cornell, o Senhor dos Lycans!
+Lycan_Dark_Lord_Human_Taunt_0	Lycan_DarkLord>Sou Cornell, o Senhor dos Lycans!
 Lycan_Dark_Lord_Human_Taunt_1	Lycan_DarkLord>Isso é o melhor que a Irmandade pode oferecer?
 Lycan_Dark_Lord_Human_Taunt_2	Lycan_DarkLord>Suas habilidades nem se comparam com as minhas!
 Lycan_Dark_Lord_Human_Taunt_3	Lycan_DarkLord>Você se considera mesmo um 'guerreiro'?
@@ -1600,19 +1591,19 @@ Lycan_Dark_Lord_Beast_Taunt_3	Lycan_DarkLord>Vou esmagá-lo como o inseto que voc
 Lycan_Dark_Lord_Beast_Taunt_4	Lycan_DarkLord>De hoje você não passa!
 Vampire_Human_Dark_Lord_Taunt_1	Vampire_Queen>Ide, meus filhos! Bebam seu sangue!
 Vampire_Human_Dark_Lord_Taunt_2	Vampire_Queen>Não resista... torne-se um de nós!
-Vampire_Human_Dark_Lord_Taunt_3	Vampire_Queen>Jure lealdade a mim e talvez eu lhe poupe a vida!
+Vampire_Human_Dark_Lord_Taunt_3	Vampire_Queen>Jure lealdade a mim e talvez eu poupe sua vida!
 Vampire_Human_Dark_Lord_Taunt_4	Vampire_Queen>Você conhecerá a dor, Gabriel!
-Vampire_Monster_Dark_Lord_Taunt_1	Vampire_Queen>Veja o verdadeiro poder um Senhor das Trevas!
-Vampire_Monster_Dark_Lord_Taunt_2	Vampire_Queen>Você vai se arrepender por me rejeitar, Gabriel!
+Vampire_Monster_Dark_Lord_Taunt_1	Vampire_Queen>Veja o verdadeiro poder de um Senhor das Trevas!
+Vampire_Monster_Dark_Lord_Taunt_2	Vampire_Queen>Você se arrependerá por me rejeitar, Gabriel!
 Vampire_Monster_Dark_Lord_Taunt_3	Vampire_Queen>Humano arrogante... você acha mesmo que pode me derrotar?
 Vampire_Monster_Dark_Lord_Taunt_4	Vampire_Queen>Olhe para a Carmilla... não sou linda?
 Satan_Taunt_1	Satan>O Pã não ensinou nada a você?
-Satan_Taunt_2	Satan>Abaixe sua arma e eu terei piedade!
+Satan_Taunt_2	Satan>Abaixe sua arma e terei piedade!
 Satan_Taunt_3	Satan>Curve-se diante de mim, é Satã quem ordena!
 Satan_Taunt_4	Satan>Deus não te ama! Ele deixou sua amada morrer!
 Satan_Taunt_5	Satan>Você foi enganado, Gabriel! Ela se foi para sempre!
 Satan_Taunt_6	Satan>Você com certeza pode lutar melhor, Gabriel!
-Satan_Taunt_7	Satan>Impossível! ... seria... este... o poder de Deus?
+Satan_Taunt_7	Satan>Impossível! Seria... este... o poder de Deus?
 Satan_Taunt_8	Satan>Morra Belmont!
 Satan_Taunt_9	Satan>Vou varrer o nome Belmont deste mundo! Para sempre!
 Satan_Taunt_10	Satan>Você acha que pode me derrotar!
@@ -1625,42 +1616,42 @@ Menu_Loading_1_1_besieged_village	Uma tempestade está chegando. A humanidade enf
 Menu_Loading_1_4_haunting_path	Eu o sigo para dentro da antiga floresta, observando de longe: ele é mesmo forte. O Deus único vem para expulsar a muitos, mas aqui neste lugar a influência Dele é mínima e tênue. Os antigos deuses ainda reinam aqui. Poucos ousam ir tão longe floresta adentro. Ele é perturbado por sonhos, sonhos que corroem sua própria alma. Ele descansará à noite, mas o descanso não virá facilmente. A batalha o enfraqueceu, mas ele sabe que o sonho retornará. E embora não tema nada nesta Terra, ainda assim seus pesadelos enfraquecem sua força interior, deixando um aperto frio em seu coração. Amanhã ele seguirá pelo velho caminho de caça, mas enquanto... ele sonha.
 Menu_Loading_1_5_swamp	Sozinho novamente, acompanhado apenas de seus pensamentos, ele continua em sua jornada para encontrar a quem procura. Quem ou o que era aquela estranha criatura? Há uma energia aqui, conhecida por poucos, um poder que pode ter alguma influência sobre os acontecimentos. Quem sabe o guardião do lago esteja ciente dele agora e possa auxiliá-lo em sua busca? Resta ainda a ser resolvido o pequeno problema do Brejo Morto, um lugar que já tirou a vida de muitos homens da Irmandade. O cheiro de morte é forte aqui, e o perigo espreita em cada esquina. Mas nada irá detê-lo... nada ficará em seu caminho.
 Menu_Loading_1_7_pans_temple	O fedor do brejo desaparece na memória, e uma terra de grande beleza aparece diante dele, um paraíso onde a natureza vive em harmonia com todos os seres vivos, um verdadeiro refúgio àqueles que buscam por isso. Ele está perto agora, perto dos antigos deuses e dos antigos costumes. Há muito esquecido pelos homens, este reino já foi reverenciado por todos. Agora, contudo, resta apenas uma pequena parte dele. E em breve até esta parte desaparecerá. O amuleto sente seu mestre: sua jornada está perto do fim. Ele precisará de toda sua força agora, de toda sua inteligência caso queira ser bem-sucedido aqui, caso queira convencer o antigo deus a ajudá-lo.
-Menu_Loading_1_9_oblivion_lake	O teste o deixou abalado. Eu vejo a dúvida em seus olhos à medida que ele vai em direção ao lago. Então Pã está a ajudá-lo agora? Isso é bom. Talvez seja um bom sinal. Fico imaginando se ele sabe o que o aguarda naquele lugar onde os mortos podem contatar os vivos. Está frio agora. Vejo que o vento frio atravessa seu coração. Sinta! Ele precisará de ajuda caso queira ser bem-sucedido. Ele não pode falhar. Ele não falhará, não agora... não enquanto isso depender de mim.
-Menu_Loading_2_2_enchanted_forest	Nós trilhamos caminhos diferentes, ele e eu. Meus instintos me dizem que ele está cheio de esperança, uma esperança que sempre o levará adiante. Bom. Talvez ele seja o escolhido, um guerreiro de coração puro capaz de nos livrar de todo o mal... talvez. Fico imaginando o que se passou em sua cabeça quando ele a viu lá, sua amada. Será que ele viu aquilo que sonhava ou viu seu futuro sendo levado para longe, como folhas ao vento? Eu fico à espreita dele enquanto ele se afasta da influência de Pã. Há uma floresta ao leste que leva à terra dos Lycans. Lá estão as decadentes e esquecidas ruínas de uma antiga civilização. Antiga prova da visão e do engenho do homem, hoje elas não passam de mais uma conquista da Natureza, que reivindica para si todas as coisas do mundo.
+Menu_Loading_1_9_oblivion_lake	O teste o deixou abalado. Vejo a dúvida em seus olhos à medida que ele vai em direção ao lago. Então Pã está a ajudá-lo agora? Isso é bom. Talvez seja um bom sinal. Fico imaginando se ele sabe o que o aguarda naquele lugar onde os mortos podem contatar os vivos. Está frio agora. Vejo que o vento frio atravessa seu coração. Sinta! Ele precisará de ajuda caso queira ser bem-sucedido. Ele não pode falhar. Ele não falhará, não agora... não enquanto isso depender de mim.
+Menu_Loading_2_2_enchanted_forest	Nós trilhamos caminhos diferentes, ele e eu. Meus instintos me dizem que ele está cheio de esperança, uma esperança que sempre o levará adiante. Bom. Talvez ele seja o escolhido, um guerreiro de coração puro capaz de nos livrar de todo o mal... talvez. Fico imaginando o que se passou em sua cabeça quando ele a viu lá, sua amada. Será que ele viu aquilo que sonhava ou viu seu futuro sendo levado para longe, como folhas ao vento? Fico à espreita dele enquanto ele se afasta da influência de Pã. Há uma floresta ao leste que leva à terra dos Lycans. Lá estão as decadentes e esquecidas ruínas de uma antiga civilização. Antiga prova da visão e do engenho do homem, hoje elas não passam de mais uma conquista da Natureza, que reivindica para si todas as coisas do mundo.
 Menu_Loading_2_3_underground_cave	Ele está se tornando cada vez mais forte a cada passo que dá: sua coragem no campo de batalha é inegável. Ele vai precisar de coragem agora. Os Goblins são uma coisa, mas há outras criaturas nos cantos mais escuros do mundo, criaturas que desconhecem sua situação, mas que lutam por sua própria sobrevivência. Muitos irmãos que tombaram são testemunhas disto: sim, seus ossos esbranquiçados servem de adorno aos túneis tortuosos deste lugar esquecido por Deus. Ele corre sempre em direção ao perigo. Quem é a caça e quem é o caçador? Quem sabe quando chegar a hora dessas criaturas elas conheçam o medo ao olhar nos olhos de sua presa. Vá, meu amigo, vá salvar seu amor!
 Menu_Loading_2_4_labyrinth_entrance	Então ele encontrou outra das melhorias de Gandolfi? Que inesperado, tomara que seja útil nos desafios que vêm por aí. A cidade perdida de Agharta se apresenta à sua frente Pergunto-me se você realmente sabe o que está à sua frente, Gabriel... o que será que Deus reservou para você? A terra dos Lycans! Esta cidade arruinada pertence agora ao Senhor deles, e você pode ter certeza de que ele não vai permitir sua passagem sem antes confiscar sua vida. Mas você precisa derrotá-lo para trazê-la de volta, meu amigo. Você precisa esmagá-lo na poeira, como o inseto que ele é.
 Menu_Loading_2_6_underground_dungeons	Esta antiga cidade tem muitas camadas, cada uma servindo como fundamento para outra. É um labirinto emaranhado de passagens esquecidas e becos sem saída. O perigo espreita em cada esquina. Ele tem demonstrado grande resistência, mas esta jornada vai levar muito mais tempo do que o esperado, levando-o por profundezas não exploradas há séculos pelo homem. Ele precisará fazer uso de toda sua inteligência para encontrar uma rota alternativa para o centro da Cidade... onde seu destino o aguarda!
 Menu_Loading_2_7_labyrinth_ruins_ii	Agharta já foi uma das maiores cidades do mundo antigo, mas não tardou a cair sob o ataque do Senhor dos Lycans. Havia inúmeros Lycans, e a cidade foi totalmente arrasada. As Guerras Necromânticas, como eram conhecidas, destruíram as avançadas tecnologias que os Aghartianos guardavam a sete chaves. Os Titãs acabaram tombando, e então as pessoas foram massacradas, uma a uma, ou transformadas em bestas submissas ao seu novo conquistador. Não restou ninguém para contar a história...
-Menu_Loading_2_8_dark_dungeon	Quem é esta estranha garota? Ela certamente não sobreviveria sozinha neste buraco dos infernos. Gabriel a segue pelas profundezas da cidade. Para onde será que ela o leva? É estranho. Eu não ouço palavra alguma, mas ainda assim parece que Gabriel está se comunicando com ela de alguma forma... Algo me diz que ela tem um papel a desempenhar nesta história...
-Menu_Loading_2_8_stone_idol_mausoleum	O Destino jogou seus dados, e agora a sorte está lançada. Eu sabia que essa criança teria algum papel nessa história, e parece que agora Gabriel finalmente encontrou ajuda. Isso um bom presságio para nossa busca. O Golem que protege a menina tem algo que poderia ser muito útil no futuro... algo inesperado até então. Meu caro amigo, eu vejo seu destino diante de mim, e ele é realmente terrível. Ainda assim, tenho confiança de que tudo se dará conforme eu havia previsto.
-Menu_Loading_2_9_stone_idol_temple	Os três companheiros adentram a câmara dos Titãs. O que os espera lá é tudo o que resta da grande tecnologia dos Aghartianos. Esta batalha será um teste para eles, e não há mais como voltar agora. O tabuleiro está pronto. As peças, em jogo. Agora vejamos o que acontece e quem sairá vitorioso. A criança e seu Golem vão ajudar, e eu espero que assim que a batalha acabar, Gabriel tenha coragem de fazer o que é necessário. Necessário para que a nossa jornada seja bem-sucedida, pois há ainda a questão dos Senhores das Trevas, os quais têm poderes ainda mais terríveis.
+Menu_Loading_2_8_dark_dungeon	Quem é esta estranha garota? Ela certamente não sobreviveria sozinha neste buraco dos infernos. Gabriel a segue pelas profundezas da cidade. Para onde será que ela o leva? É estranho. Não ouço palavra alguma, mas ainda assim parece que Gabriel está se comunicando com ela de alguma forma... Algo me diz que ela tem um papel a desempenhar nesta história...
+Menu_Loading_2_8_stone_idol_mausoleum	O Destino jogou seus dados, e agora a sorte está lançada. Eu sabia que essa criança teria algum papel nessa história, e parece que agora Gabriel finalmente encontrou ajuda. Isso um bom presságio para nossa busca. O Golem que protege a menina tem algo que poderia ser muito útil no futuro... algo inesperado até então. Meu caro amigo, vejo seu destino diante de mim, e ele é realmente terrível. Ainda assim, tenho confiança de que tudo se dará conforme eu havia previsto.
+Menu_Loading_2_9_stone_idol_temple	Os três companheiros adentram a câmara dos Titãs. O que os espera lá é tudo o que resta da grande tecnologia dos Aghartianos. Esta batalha será um teste para eles, e não há mais como voltar agora. O tabuleiro está pronto. As peças, em jogo. Agora vejamos o que acontece e quem sairá vitorioso. A criança e seu Golem vão ajudar, e espero que assim que a batalha acabar, Gabriel tenha coragem de fazer o que é necessário. Necessário para que a nossa jornada seja bem-sucedida, pois há ainda a questão dos Senhores das Trevas, os quais têm poderes ainda mais terríveis.
 Menu_Loading_2_10_black_knight	Uma grande vitória! Gabriel conquistou a confiança da garota. E juntos eles retêm um poder assustador. Ela é tão jovem, tão bonita. A vida é tão frágil aqui nos confins da humanidade, e ainda assim ela conseguiu sobreviver neste lugar implacável com a ajuda do seu Cavaleiro Negro protetor. O sono virá em breve para levá-los com ele. Cansados e exaustos eles descansam, mas esta noite o destino chamará mais uma vez, e temo que meu amigo nunca mais será o mesmo.
 Menu_Loading_3_0_the_gauntlet	Os sonhos são um portal para a mente, e agora Gabriel paga um preço terrível por ter sucumbido ao cansaço. As muitas noites passadas em claro desde que lhe tomaram sua amada, o medo de pegar no sono, os pesadelos que o assombram: tudo desempenha um papel. Será que ele matou a pobrezinha? Ou há alguma outra explicação...? A dúvida o corrói agora, comendo sua própria alma. O Golem protegeu a criança por séculos, amava muito ela, e de forma alguma deixaria Gabriel viver sem desafiá-lo. Poucos homens conseguiriam prosseguir. A maioria abandonaria a busca, mas algo dentro dele o forçava a seguir sempre adiante. Uma força sombria tomou conta dele, e todas as criaturas da noite passarão a temê-lo agora!
 Menu_Loading_3_3_the_dark_lord	Gabriel lutou longa e arduamente para chegar até aqui, e agora ele enfrenta seu mais difícil desafio. O Senhor dos Lycans deve ser derrotado se Gabriel espera ter alguma chance de trazer sua amada de volta. Temo que ele vá sofrer ainda mais do que ele imagina ao descobrir a verdade. Ainda assim, seu ódio e seu ardente desejo de vingança não podem ser subestimados. Ele tem a luva e a arma de Gandolfi. Ele é uma força com a qual até mesmo o Senhor dos Lycans terá dificuldade em lidar. Bom... logo ele vai superar esse mal. Em breve o mundo estará livre dos Senhores das Trevas, e planos sonhados há muito tempo poderão se tornar realidade. Vá, meu amigo... vá e destrua esta criatura de uma vez por todas.
 Menu_Loading_4_1_fortress	O que está feito não pode ser desfeito. Cornell não mais existe. É uma pena que a irmandade da luz, ordem à qual nós dois pertencemos, seja também a razão pela qual o mundo está um caos. Gabriel, você provou seu valor, meu amigo. Você tem um pedaço da máscara de Deus. Dizem que essa relíquia pode trazer os mortos de volta à vida. Dizem que esta relíquia pode conferir um poder além da compreensão humana. Agora, com a ajuda do Deus antigo, ele vai em direção à terra dos Vampiros, ainda mais fundo no coração das trevas.
 Menu_Loading_4_2_fortress_witch	É triste a história da Bruxa que guarda esta fortaleza. É uma triste história sobre um amor perdido. Uma história não muito diferente daquela vivida pelo nosso bravo herói. Pena, no entanto, é algo que ele não pode mais sentir. Ele é imune a ela. A pena por essas criaturas 'malignas' será deixada de lado em prol da vingança. Então adeus, outrora bela Malphas: você não incomodará mais a humanidade. E quando você desaparecer no vácuo saiba que foi o amor que, enfim, a destruiu.
 Menu_Loading_5_1_dark_forest	Então parece que Pã salvou Gabriel mais uma vez: que sorte contar com sua chegada! Gabriel entra agora na periferia do território dos Vampiros. Um inverno gelado tem assolado está terra há anos, expulsando os habitantes para regiões de clima mais quente. Aqueles teimosos o bastante para ficar já se acostumaram com a fria morte que os visita todas as noites, levando para sempre seus entes queridos. Os Vampiros prosperam no frio e aterrorizam a vida daqueles que rogam por calor e companhia. Um guerreiro virá nesta noite. Um cavaleiro de armadura brilhante com a morte ao seu lado. Ele vem para pegá-las, criaturas da noite.
-Menu_Loading_5_2_isolated_village	Esta aldeia é um dos últimos vestígios da civilização humana neste lugar de morte e frio. E ela não está muito longe do nosso próximo objetivo: o Castelo Vampiro. Eu tenho alguns assuntos a tratar aqui, assuntos que poderiam estragar os nossos planos. Vou tratar deles e tentar me reencontrar com Gabriel depois. Ele não tem dormido há dias desde que encontramos a garota. A dor ainda está estampada em seu rosto, e sua alma é movida apenas pelo ódio. Não falaremos sobre isso. Ele não deve saber que eu já percebi tudo, e que eu o segui até aqui.
+Menu_Loading_5_2_isolated_village	Esta aldeia é um dos últimos vestígios da civilização humana neste lugar de morte e frio. E ela não está muito longe do nosso próximo objetivo: o Castelo Vampiro. Tenho alguns assuntos a tratar aqui, assuntos que poderiam estragar os nossos planos. Vou tratar deles e tentar me reencontrar com Gabriel depois. Ele não tem dormido há dias desde que encontramos a garota. A dor ainda está estampada em seu rosto, e sua alma é movida apenas pelo ódio. Não falaremos sobre isso. Ele não deve saber que já percebi tudo, e que o segui até aqui.
 Menu_Loading_5_4_abbey_catacombs	Nós mergulhamos nas profundezas da Abadia, prontos para lutar contra o mal que nos confronta. O abade, Vincent Dorin, foi um homem bom e gentil que ajudava o povo de Wygol. Mas agora ele se tornou um covarde desgarrado que se esconde na Abadia, cercado de armadilhas inteligentes. O povo, desprotegido, pagou um preço alto por sua traição. A noite caiu lá fora, e a qualquer momento estaremos vulneráveis aos ataques dos Vampiros. Temos de estar vigilantes. Precisamos trabalhar juntos se quisermos ter sucesso em obter a relíquia protegida pelo abade. Isso nos ajudará, e muito, a derrotar a horda vampírica mais tarde.
 Menu_Loading_5_4_abbey_catacombs_a	As armadilhas espalhadas pelo abade são realmente complicadas, mas ainda assim conseguimos invadir os claustros interiores. A biblioteca está a um passo daqui, se não me falha a memória. Meu amigo parece cansado e preocupado. Com o peso do mundo sobre os ombros. Posso ver que ele está escondendo um segredo terrível dentro de si. Ele tenta enterrá-lo, mas então a raiva toma conta. Não podemos nos atrasar. Nós precisamos encontrar Dorin e tomar dele aquilo que precisamos antes que a culpa nos consuma. A necessidade de muitos sobrepuja a necessidade de poucos. Não podemos derramar nenhuma lágrima pelos mortos: temos que ser fortes e devemos destruir os Senhores das Trevas a qualquer custo.
-Menu_Loading_5_8_abbey_tower	A torre na Abadia de Wygol era um lugar onde os homens de Deus buscavam conhecimento e protegiam as pessoas com o amor de Cristo. Agora ela é o refúgio de um homem enlouquecido pelo medo. Dorin abandonou seu povo à morte ou a ainda algo pior. Uma poderosa relíquia mantém os Vampiros à distância, e nós precisamos pegá-la se quisermos ter alguma chance contra os lacaios dos Senhores das Trevas. Eu conheço um caminho secreto que me levará até o topo da torre por um caminho diferente. Gabriel terá que encontrar seu próprio caminho agora.
-Menu_Loading_5_2_isolated_village_a	O poder para derrotar os Vampiros está em nossas mãos. E aquele bastardo do Dorin já deve estar se explicando para Deus agora. Se alguém merecia morrer, esse alguém era ele. Ninguém vai derramar uma lágrima sequer por sua vida miserável. Outros tantos tiveram o mesmo destino por sua culpa. A busca está indo bem. Nós temos o que precisamos para enfrentar a Rainha dos Vampiros e eu sinto que Gabriel está determinado a enfrentá-la. Os Vampiros devem saber que temos a relíquia, e eu tenho certeza de que eles farão o que puderem para nos deter.
+Menu_Loading_5_8_abbey_tower	A torre na Abadia de Wygol era um lugar onde os homens de Deus buscavam conhecimento e protegiam as pessoas com o amor de Cristo. Agora ela é o refúgio de um homem enlouquecido pelo medo. Dorin abandonou seu povo à morte ou a ainda algo pior. Uma poderosa relíquia mantém os Vampiros à distância, e nós precisamos pegá-la se quisermos ter alguma chance contra os lacaios dos Senhores das Trevas. Conheço um caminho secreto que me levará até o topo da torre por um caminho diferente. Gabriel terá que encontrar seu próprio caminho agora.
+Menu_Loading_5_2_isolated_village_a	O poder para derrotar os Vampiros está em nossas mãos. E aquele bastardo do Dorin já deve estar se explicando para Deus agora. Se alguém merecia morrer, esse alguém era ele. Ninguém vai derramar uma lágrima sequer por sua vida miserável. Outros tantos tiveram o mesmo destino por sua culpa. A busca está indo bem. Nós temos o que precisamos para enfrentar a Rainha dos Vampiros e sinto que Gabriel está determinado a enfrentá-la. Os Vampiros devem saber que temos a relíquia, e tenho certeza de que eles farão o que puderem para nos deter.
 Menu_Loading_5_11_sewers	A aldeia Wygol está segura, por enquanto. Os Vampiros perderam um dos seus comandantes, Brauner, e a notícia chegará rapidamente até a Rainha dos Vampiros. Isso foi um duro golpe, mas eles não vão demorar muito a se reagrupar. Felizmente um dos aldeões nos revelou um caminho secreto para o castelo do demônio. O caminho vai levar Gabriel pelos esgotos e, então, direto para as presas da morte. Os aldeões o chamam de 'Salvador dos Deuses', e sua arma eles chamam de 'Matadora de Vampiros'. Ah, Gandolfi, como você ficaria contente. Quanto a mim, assim que eu acabar minha missão por aqui, seguirei meu amigo e o ajudarei no que eu puder.
 Menu_Loading_6_1_courtyard	Apesar de todos seus esforços para tentar adentrar o castelo sem ser notado, os Vampiros sabem que Gabriel está a caminho. A noite se aproxima rapidamente, e em breve ele terá de usar todo seu poder e inteligência para derrotar os pesadelos que habitam este lugar de morte e decadência. Sua força cresce dia após dia, mas seu ódio também se intensifica profundamente. Ele come pouco e dorme menos ainda. Sua amada Marie está lá, em seus pensamentos: ele sabe que sua jornada ainda está longe de terminar. Temo que este castelo vá empurrá-lo para o abismo do qual não há escapatória.
 Menu_Loading_6_1_courtyard_a	Parece que entrar no castelo será mais difícil do que o esperado. Gabriel vai ter que navegar pelos jardins do labirinto. Um homem pode se perder para sempre neste lugar, ou ser devorado pelas criaturas que assombram estes labirínticos corredores. Estes jardins eram os mais bonitos de toda a Europa, e muitos peregrinos vinham de terras muito distantes para visitar as áreas do castelo e apreciar sua eterna beleza. Agora jazem podres e perdidos, decadentes enquanto vive seu mestre.
 Menu_Loading_6_3_castle_hall	O tempo está se esgotando. A noite já se aproxima. Logo o castelo estará repleto de vampiros. Os mais poderosos de sua espécie são capazes de assumir a aparência de humanos de ascendência aristocrática. Gabriel deve se manter vigilante agora, pois as aparências enganam. Ouvi dizer que neste lugar é possível enfrentar os mais mortais dos inimigos sem perceber até que seja tarde demais.
 Menu_Loading_6_5_refectory	Ela tem o corpo de uma criança inocente, mas a inteligência e a astúcia de um predador experiente. Ela matará Gabriel num piscar de olhos se for capaz. A bela Laura, transformada muitos séculos atrás, leva uma cruel e solitária existência desde então. Gabriel tem que tomar muito cuidado a partir de agora, com a certeza de que a 'mãe' dela, aquela que comanda por aqui, está plenamente consciente de sua presença. E também com a certeza de que a própria Laura tem um importante papel nesta história.
-Menu_Loading_7_1_balcony	O Carniceiro que comandava as cozinhas do castelo costumava alimentar os Ghouls com cadáveres. A eficiência da criadagem da Rainha é realmente assustadora. Os Vampiros drenam o sangue e os Ghouls se alimentam dos restos: nada é desperdiçado. O uso de seus poderes está tornando Gabriel muito mais forte do que eu esperava. Ele vai precisar de mais do que força física quando enfrentá-la. Ela pode colocar um encanto sobre seu coração, que o deixará tentado a esquecer de tudo aquilo que viveu, inclusive de sua amada. Ela tem o outro pedaço da máscara, e eu temo que ele acabe sendo derrotado.
+Menu_Loading_7_1_balcony	O Carniceiro que comandava as cozinhas do castelo costumava alimentar os Ghouls com cadáveres. A eficiência da criadagem da Rainha é realmente assustadora. Os Vampiros drenam o sangue e os Ghouls se alimentam dos restos: nada é desperdiçado. O uso de seus poderes está tornando Gabriel muito mais forte do que eu esperava. Ele vai precisar de mais do que força física quando enfrentá-la. Ela pode colocar um encanto sobre seu coração, que o deixará tentado a esquecer de tudo aquilo que viveu, inclusive de sua amada. Ela tem o outro pedaço da máscara, e temo que ele acabe sendo derrotado.
 Menu_Loading_7_3_chromatic_observatory	Esta parte do castelo era o local onde o aclamado cientista Friedrich von Frankenstein conduzia suas experiências com vida artificial. Ele era completamente louco, e realizava experimentos terríveis em busca dos segredos da vida. Sua morte foi igualmente terrível. A Rainha Vampira o levou, mas o manteve vivo por séculos, se alimentado dele diariamente, mantendo o cientista à beira da morte ainda vivo e consciente. Poucos sabem por que ela fez isso... ela um dia amou a vida, amou todas as coisas vivas. E antes de se tornar um dos Senhores das Trevas, ela jurou que puniria Frankenstein por seus atos. E como um Senhor das Trevas, ela manteve sua palavra.
-Menu_Loading_7_3_chromatic_observatory_a	Gabriel finalmente derrotou a abominação de Frankenstein. Este lugar infernal é, sozinho, suficiente para frustrar a determinação de qualquer homem, mas ainda assim Gabriel parece totalmente disposto a continuar até o fim. Eu mal consigo reconhecer meu velho amigo agora. Uma forte determinação tomou conta dele, e seu coração já não carrega nenhuma compaixão. Ele não tem nem dormido, lamentavelmente. Ele apenas se enfurece com o mundo e com as criaturas que se atrevem a enfrentá-lo. O próximo desafio vai forçar ainda mais sua mente, e eu temo que isso possa destruí-la para sempre.
+Menu_Loading_7_3_chromatic_observatory_a	Gabriel finalmente derrotou a abominação de Frankenstein. Este lugar infernal é, sozinho, suficiente para frustrar a determinação de qualquer homem, mas ainda assim Gabriel parece totalmente disposto a continuar até o fim. Mal consigo reconhecer meu velho amigo agora. Uma forte determinação tomou conta dele, e seu coração já não carrega nenhuma compaixão. Ele não tem nem dormido, lamentavelmente. Ele apenas se enfurece com o mundo e com as criaturas que se atrevem a enfrentá-lo. O próximo desafio vai forçar ainda mais sua mente, e temo que isso possa destruí-la para sempre.
 Menu_Loading_8_1_tower_base	Curioso, não? Parece que o amor pode ser uma arma poderosa, mesmo para aqueles que estão mortos. Laura poupou sua vida. Ainda que tivesse o poder de retirá-la, ela a devolveu para ele, por amor. Talvez ela ainda se lembre dos braços de sua verdadeira mãe ao seu redor, confortando-a antes de ela se tornar a criatura que é hoje. Talvez ela ainda se lembre dos sentimentos de amor, mesmo tendo perdido seu coração há vários séculos. O amor de uma criança não conhece limites ou amargura: é um amor puro. O que será que vai acontecer com ela, essa alma perdida, quando matarmos e enviarmos a 'mãe' dela para as profundezas do inferno, que é seu devido lugar?
 Menu_Loading_8_2_the_tower	Posso ver claramente em seu rosto que a misericórdia vampiresca está maquinando seus pensamentos. Será que Laura o faz lembrar-se da pobre Claudia? Ver sua amada Marie novamente trouxe muitas lembranças. O amor de Marie é tudo o que ele tem agora, e a esperança de abraçá-la novamente é sua única esperança. Ele está perto agora, perto da cadela que comanda esses vermes Vampiros. Gabriel vai fazê-la pagar pelas injustiças que ele sofreu em suas mãos. Ela é poderosa, ela vai fazer o possível e o impossível para tentá-lo, para trazê-lo para seu lado. Ainda resta resolver, primeiro, a questão da torre mecânica. Outra invenção maluca do Frankenstein que vai apenas atrasar sua doce vingança. Espero.
 Menu_Loading_8_3_top_corridor	Os mecanismos e as engrenagens gigantes continuam a funcionar, mas Gabriel continua a superá-los. Ele agora está no centro do mal. A escuridão está por toda parte, cercando-o por todos os lados. Aqui ele vai conhecer o irmão daquele destruído por ele na aldeia. Seu nome: Olrox. Os irmãos têm sido os dois grandes campeões dela, mas ainda assim sinto que seu reinado do mal termina aqui, nesta noite. Olrox e seu irmão Brauner são traidores que se aliaram à Rainha quando ela se tornou um dos Senhores das Trevas. Desde então ele vem espalhando o terror pelas terras por onde passa, mas agora ele vai encontrar alguém que é melhor e mais poderoso do que ele. Alguém que traz uma mensagem desprovida de qualquer misericórdia. Olrox conhecerá Gabriel Belmont e sua Matadora de Vampiros!
-Menu_Loading_8_4_the_throne_room	O sangue de Olrox abriu o caminho para a Rainha. Ela carrega o outro pedaço da máscara de Deus, o qual Gabriel deve tomar caso queira ficar com sua amada mais uma vez. Ela tentará seduzi-lo, encantá-lo, mas ele verá através de sua máscara, tenho certeza. Ele é tão forte agora que até mesmo ela deve temer encontrar a morte em suas mãos. Eu posso sentir o medo nela, um cheiro de medo. Os Vampiros podem sentir os vivos, mas não os mortos. Ela sabe que Gabriel está aqui, mas ainda assim não consegue sentir a morte por perto. Ela sabe o que ele quer. Pobre e bela Carmilla, você derramará lágrimas de sangue antes do amanhecer.
-Menu_Loading_9_1_bones_forest	Então Pã anda novamente oferecendo conselhos e palavras de sabedoria para o nosso herói. Gabriel agora tem raiva: a traição de Carmilla o fez questionar sua própria fé. A irmandade não significa mais nada para ele. Ele quer apenas sua Marie de volta. Ele tem agora tem os dois pedaços da máscara, restando encontrar apenas mais um para deixá-la completa. Agora ele deve viajar para a Terra dos Mortos e enfrentar o último Senhor. A morte em pessoa. Há ainda muitas léguas pela frente, e eu não posso correr o risco de ser visto, pois duvido que até mesmo um de seus companheiros de irmandade possa ajudá-lo agora. Ele deve partir para onde ninguém pode segui-lo: para o abismo.
+Menu_Loading_8_4_the_throne_room	O sangue de Olrox abriu o caminho para a Rainha. Ela carrega o outro pedaço da máscara de Deus, o qual Gabriel deve tomar caso queira ficar com sua amada mais uma vez. Ela tentará seduzi-lo, encantá-lo, mas ele verá através de sua máscara, tenho certeza. Ele é tão forte agora que até mesmo ela deve temer encontrar a morte em suas mãos. Posso sentir o medo nela, um cheiro de medo. Os Vampiros podem sentir os vivos, mas não os mortos. Ela sabe que Gabriel está aqui, mas ainda assim não consegue sentir a morte por perto. Ela sabe o que ele quer. Pobre e bela Carmilla, você derramará lágrimas de sangue antes do amanhecer.
+Menu_Loading_9_1_bones_forest	Então Pã anda novamente oferecendo conselhos e palavras de sabedoria para o nosso herói. Gabriel agora tem raiva: a traição de Carmilla o fez questionar sua própria fé. A irmandade não significa mais nada para ele. Ele quer apenas sua Marie de volta. Ele tem agora tem os dois pedaços da máscara, restando encontrar apenas mais um para deixá-la completa. Agora ele deve viajar para a Terra dos Mortos e enfrentar o último Senhor. A morte em pessoa. Há ainda muitas léguas pela frente, e não posso correr o risco de ser visto, pois duvido que até mesmo um de seus companheiros de irmandade possa ajudá-lo agora. Ele deve partir para onde ninguém pode segui-lo: para o abismo.
 Menu_Loading_9_3_woes_moor	O cheiro de morte é forte. Uma bruxa exerce poder aqui, mas sinto que Gabriel tem força de sobra para enfrentá-la. Os ossos de seus companheiros estão espalhados por todos os lados, mas ele parece alheio a tudo. Determinado e firme para seguir adiante, ele continua a lutar, irredutível. Ele não tem dormido há dias e descansa apenas brevemente. Às vezes o escuto falando com ela, dizendo que a ama, que eles ficarão juntos novamente. No escuro ele chora por ela. Ou por sua própria alma, talvez.
 Menu_Loading_9_4_1_the_music_box	A velha bruxa lançou um feitiço sobre Gabriel, tornando-o pequeninho. Pequeninho o bastante para entrar na Caixa de Música e recuperar a rosa azul que ela tanto quer. A velha bruxa me deixou nervoso. Algo que ela disse me deixou muito inquieto. Ela mencionou o 'Rei dos Anjos'... Tenho certeza de que ela falou isso. O que isso significa? Por que sinto tamanha apreensão? Espero que Gabriel tenha sucesso, e rápido, para que possamos seguir caminho. Assim que ele partir, matarei este corvo maligno para garantir que ela nunca mais coloque alguém em perigo.
-Menu_Loading_10_1_marsh_of_silence	Baba Yaga enviou o nosso herói para o Cemitério dos Titãs e eu enviei sua alma para o mundo dos mortos. Ela não vai mais nos incomodar agora. Agora meu amigo adentra a Terra dos Mortos, e sua batalha final está chegando. Eu preciso encontrar meu próprio caminho e tentar encontrá-lo em algum ponto. Ele está por conta própria por ora. A terra exige sacrifício... um sacrifício que eu espero que ele possa fazer, pois sem isso ele não chegará muito longe. Devo ter fé nele agora. A semente foi semeada há muito tempo, e ela floresce maravilhosamente. Ele chegou até aqui pelo caminho... Devo acreditar que ele vai percorrê-lo até o fim.
+Menu_Loading_10_1_marsh_of_silence	Baba Yaga enviou o nosso herói para o Cemitério dos Titãs e enviei sua alma para o mundo dos mortos. Ela não vai mais nos incomodar agora. Agora meu amigo adentra a Terra dos Mortos, e sua batalha final está chegando. Eu preciso encontrar meu próprio caminho e tentar encontrá-lo em algum ponto. Ele está por conta própria por ora. A terra exige sacrifício... um sacrifício que eu espero que ele possa fazer, pois sem isso ele não chegará muito longe. Devo ter fé nele agora. A semente foi semeada há muito tempo, e ela floresce maravilhosamente. Ele chegou até aqui pelo caminho... Devo acreditar que ele vai percorrê-lo até o fim.
 Menu_Loading_10_2_misty_moor	Os poderosos Necromantes têm usado este terreno, outrora sagrado, para criar um exército de mortos. Conquistando terras vizinhas, as legiões de Zumbis devoraram os vivos e deram origem a toda esta desolação. Homem algum viajou por aqui sem conhecer a morte. Gabriel enfrenta agora seu maior desafio. Ele agora bate seus punhos contra as portas do verdadeiro inferno na Terra, e o Senhor que aqui comanda está a escutá-lo, esperando por ele. Sorrindo...
 Menu_Loading_10_3_cementery	Então o velho deus está morto. A que ponto chegamos, enfim. O sangue de um deus abriu o caminho. Bom, Gabriel, muito bom. Há apenas um Deus verdadeiro, e todos os usurpadores devem ser descartados. Contudo, o sacrifício de Pã não foi em vão. Agora nosso guerreiro da luz pode prosseguir para seu destino final. O Senhor dos Mortos é o mais poderoso dos Senhores das Trevas. Gabriel precisará de todas as forças para derrotá-lo. Eu me preocupo com ele: sua mente está cansada, enferma talvez. Ele questiona sua própria fé, questiona seu próprio coração. Poderá ele vencer? Venha, meu amigo, venha um pouco mais e você poderá ver sua Marie novamente.
 Menu_Loading_10_5_crematory_oven	Alimentado pelas próprias chamas do Inferno, o forno crematório é onde o Coveiro realiza seu trabalho medonho. Um poderoso demônio que carrega uma pá tão afiada quanto um cutelo, com a qual ele pode cortar um homem em dois com apenas um golpe. O Coveiro rasgará a própria alma de Gabriel na primeira oportunidade que tiver. Ainda assim, sinto que nosso herói tem poder de sobra para lidar com essa criatura. Isso poderá ser realmente interessante. Sinto a raiva de Gabriel brotando dentro de si, e me pergunto quem será o mais terrível: o demônio ou o nosso herói?
@@ -2147,7 +2138,7 @@ Mission_CH01_BesiegedVillage0	Villager>Socorro, estou sendo atacado!
 Mission_CH01_BesiegedVillage1	Villager>Preciso de ajuda!
 Mission_CH01_BesiegedVillage2	Villager>Guerreiro, tire isso de cima de mim!
 Mission_CH01_BesiegedVillage3	Villager>Não deixe que me matem!
-Mission_CH01_BesiegedVillage4	Villager>Eu não aguento mais!
+Mission_CH01_BesiegedVillage4	Villager>Não aguento mais!
 Mission_CH01_BesiegedVillage5	Villager>Me ajude!
 Mission_CH01_BesiegedVillage6	Villager>Tire isso de cima de mim!
 Mission_CH01_BesiegedVillage7	Villager>Me ajude, eu imploro, me ajude!
@@ -2210,8 +2201,8 @@ Mission_CH05_GraveY_Comb16	Zobek>Para trás, demônios!
 Mission_CH05_GraveY_Comb17	Zobek>Para trás, demônios!
 Mission_CH05_GraveY_Comb18	Zobek>Suma da minha vista!
 Mission_CH05_GraveY_Comb19	Zobek>Suma da minha vista!
-Mission_CH05_GraveY_Comb20	Zobek>Eu vou destruir todos vocês!
-Mission_CH05_GraveY_Comb21	Zobek>Eu vou destruir todos vocês!
+Mission_CH05_GraveY_Comb20	Zobek>Vou destruir todos vocês!
+Mission_CH05_GraveY_Comb21	Zobek>Vou destruir todos vocês!
 Mission_CH05_GraveY_Comb22	Zobek>Vocês todos terão o mesmo destino!
 Mission_CH05_GraveY_Comb23	Zobek>Vocês todos terão o mesmo destino!
 Mission_CH05_GraveY_Comb24	Zobek>Você está morto!
@@ -2229,9 +2220,9 @@ Mission_CH05_GraveY_Bf3Comb2	Zobek>Precisamos fechar a saída deles!
 Mission_CH05_GraveY_Bf3Comb3	Zobek>Precisamos nos certificar de que eles não sairão do buraco novamente!
 Mission_CH05_GraveY_Bf3Comb4	Zobek>Tem de haver uma estátua por perto com a qual possamos bloquear o buraco.
 Mission_CH05_GraveY_Statue0	Gabriel>Zobek, me ajude a derrubar essa estátua!
-Mission_CH05_GraveY_Statue1	Gabriel>Eu preciso da sua ajuda com essa estátua, Zobek!
+Mission_CH05_GraveY_Statue1	Gabriel>Preciso da sua ajuda com essa estátua, Zobek!
 Mission_CH05_GraveY_Statue2	Gabriel>Me ajude, Zobek! Nós podemos derrubar a estátua apenas se fizermos isso juntos!
-Mission_CH05_GraveY_Statue3	Gabriel>Eu preciso que você empurre a estátua pelo outro lado, Zobek!
+Mission_CH05_GraveY_Statue3	Gabriel>Preciso que você empurre a estátua pelo outro lado, Zobek!
 Mission_CH05_GraveY_Statue4	Zobek>Como quiser!
 Mission_CH05_GraveY_Statue5	Zobek>Estou indo!
 Mission_CH05_GraveY_Statue6	Zobek>Estou indo, espere!
@@ -2251,19 +2242,19 @@ Mission_CH05_CataC_Comb6	Zobek>Você está morto... MESMO!
 Mission_CH05_CataC_Comb7	Zobek>Vocês já não são homens há muito tempo!
 Mission_CH05_CataC_Comb8	Zobek>Para trás, demônios!
 Mission_CH05_CataC_Comb9	Zobek>Suma da minha vista!
-Mission_CH05_CataC_Comb10	Zobek>Eu vou destruir todos vocês!
+Mission_CH05_CataC_Comb10	Zobek>Vou destruir todos vocês!
 Mission_CH05_CataC_Comb11	Zobek>Vocês todos terão o mesmo destino!
 Mission_CH05_CataC_Comb12	Zobek>Você está morto!
 Mission_CH05_CataC_Gate1Bf0	Zobek>Temos de abrir aquela porta, do contrário não sairemos vivos daqui!
 Mission_CH05_CataC_Gate1Bf1	Zobek>Vejo um dispositivo que pode nos ajudar a abrir a porta!
 Mission_CH05_CataC_Gate1Bf2	Zobek>Precisamos de uma barra de metal para ativar a porta!
 Mission_CH05_CataC_Gate1Help0	Gabriel>Zobek, me ajude com a alavanca!
-Mission_CH05_CataC_Gate1Help1	Gabriel>Eu preciso da sua ajuda com a alavanca, Zobek!
+Mission_CH05_CataC_Gate1Help1	Gabriel>Preciso da sua ajuda com a alavanca, Zobek!
 Mission_CH05_CataC_Gate1Help2	Zobek>Agora mesmo!
 Mission_CH05_CataC_Gate1Help3	Zobek>Estou indo!
 Mission_CH05_CataC_Gate1Help4	Zobek>Estou indo, espere!
 Mission_CH05_CataC_Gate1Help5	Zobek>Essa é uma boa ideia!
-Mission_CH05_CataC_Gate1Hurry0	Zobek>Ande! Eu não posso aguentar por muito tempo!
+Mission_CH05_CataC_Gate1Hurry0	Zobek>Ande! Não posso aguentar por muito tempo!
 Mission_CH05_CataC_Gate1Hurry1	Zobek>Atravesse para o outro lado, rápido!
 Mission_CH05_CataC_Gate1Hurry2	Zobek>Vamos, vamos, atravesse agora!
 Mission_CH05_CataC_Gate2Bf0	Zobek>Deve haver uma maneira de derrubar a grade.
@@ -2274,15 +2265,15 @@ Mission_CH05_CataC_Gate2Bf2K0	Zobek>Aquele abade bastardo se protegeu bem. Preci
 Mission_CH05_CataC_Ceiling1Stone0	Zobek>Apoie a próxima placa antes de ficarmos trancados aqui
 Mission_CH05_CataC_Ceiling1Stone1	Zobek>Apoie a próxima placa, rápido!
 Mission_CH05_CataC_Ceiling1Stone2	Zobek>Rápido, apoie a próxima placa ou morreremos aqui!
-Mission_CH05_CataC_Ceiling1Stone3	Zobek>Eu não vou aguentar por muito tempo, apoie a próxima placa!
+Mission_CH05_CataC_Ceiling1Stone3	Zobek>Não vou aguentar por muito tempo, apoie a próxima placa!
 Mission_CH05_CataC_Ceiling2Stone0	Gabriel>Zobek, rápido, siga em frente e apoie a próxima placa!
 Mission_CH05_CataC_Ceiling2Stone1	Gabriel>Ande, escore a próxima placa!
-Mission_CH05_CataC_Ceiling2Stone2	Gabriel>Eu não consigo segurá-la, ande!
+Mission_CH05_CataC_Ceiling2Stone2	Gabriel>Não consigo segurá-la, ande!
 Mission_CH05_CataC_Ceiling2Stone3	Zobek>Estou indo!
 Mission_CH05_CataC_Ceiling2Stone4	Zobek>Estou indo, espere!
 Mission_CH05_CataC_Ceiling3Stone0	Zobek>Corra, saia daqui!
 Mission_CH05_CataC_Ceiling3Stone1	Zobek>Rápido ou morreremos aqui!
-Mission_CH05_CataC_Ceiling3Stone2	Zobek>Eu não posso aguentar por muito tempo, saia daqui!
+Mission_CH05_CataC_Ceiling3Stone2	Zobek>Não posso aguentar por muito tempo, saia daqui!
 Mission_CH05_CataC_1Key0	Zobek>Lá está uma das chaves que precisamos!
 Mission_CH05_CataC_2Key0	Zobek>Que lugar estranho... Lá está a chave!
 Mission_CH05_CataC_2Key1	Zobek>Estes dispositivos são como aqueles que acabamos de usar...
@@ -2308,7 +2299,7 @@ Mission_CH05_Cloister_Comb6	Zobek>Você está morto... MESMO!
 Mission_CH05_Cloister_Comb7	Zobek>Vocês já não são homens há muito tempo!
 Mission_CH05_Cloister_Comb8	Zobek>Para trás, demônios!
 Mission_CH05_Cloister_Comb9	Zobek>Suma da minha vista!
-Mission_CH05_Cloister_Comb10	Zobek>Eu vou destruir todos vocês!
+Mission_CH05_Cloister_Comb10	Zobek>Vou destruir todos vocês!
 Mission_CH05_Cloister_Comb11	Zobek>Vocês todos terão o mesmo destino!
 Mission_CH05_Cloister_Comb12	Zobek>Você está morto!
 Mission_CH05_Cloister_ArwTipHelp0	Zobek>Gabriel, acho que a direção do dispositivo determina a posição do selo, mas está faltando uma peça!
@@ -2321,18 +2312,18 @@ Mission_CH05_Cloister_ArwTipSeal4	Zobek>Estou indo, espere!
 Mission_CH05_Cloister_ArwTipAf0	Zobek>Muito bem!
 Mission_CH05_Cloister_ArwTipAf1	Zobek>Muito bem!
 Mission_CH05_Cloister_ArwTipAf2	Zobek>Muito bem!
-Mission_CH05_ArmourCombBf0	Gabriel>Procure uma saída! Eu vou detê-lo!
+Mission_CH05_ArmourCombBf0	Gabriel>Procure uma saída! Vou detê-lo!
 Mission_CH6_Wargame_NoPlay0	VampireGirl>Estou perdendo a paciência...
 Mission_CH6_Wargame_NoPlay1	VampireGirl>Gire a roda, agora!
 Mission_CH6_Wargame_NoPlay2	VampireGirl>... Estou ficando entediada!
 Mission_CH6_Wargame_NoPlay3	VampireGirl>Você quer que eu gire a roda por você?
-Mission_CH6_Wargame_NoPlay4	VampireGirl>... Eu ainda estou esperando...
+Mission_CH6_Wargame_NoPlay4	VampireGirl>... Ainda estou esperando...
 Mission_CH6_Wargame_NoPlay5	VampireGirl>Vá em frente, jogue, é muito fácil!
-Mission_CH6_Wargame_1PieceGirl0	VampireGirl>Eu nunca gostei dessa peça mesmo...
+Mission_CH6_Wargame_1PieceGirl0	VampireGirl>Nunca gostei dessa peça mesmo...
 Mission_CH6_Wargame_1PieceGaby0	VampireGirl>Você é tão previsível!
 Mission_CH6_Wargame_2PieceGirl0	VampireGirl>Isso NÃO me abalou!
 Mission_CH6_Wargame_2PieceGaby0	VampireGirl>Mais uma para mim! Você vai perder...
-Mission_CH6_Wargame_3PieceGirl0	VampireGirl>Não é justo! Eu quero ganhar! Mas você ganhou o direito de continuar em sua jornada...
+Mission_CH6_Wargame_3PieceGirl0	VampireGirl>Não é justo! Quero ganhar! Mas você ganhou o direito de continuar sua jornada...
 Mission_CH6_Wargame_3PieceGaby0	VampireGirl>Você é terrível! Mais uma partida?
 Mission_CH07_RagDollsCombat_Init0	VampireGirl>Agora... brinque com meus bonecos!
 Mission_CH07_RagDollsCombat_1DollTemp0	VampireGirl>Hmm... nada mal! mas isso não vai ajudá-lo agora!
@@ -2366,9 +2357,9 @@ Scene_CH01_CampFire8	Pan>Ouvi dizer que você procura pelo Guardião do Lago. Vou 
 Scene_CH01_HuntingPath0	Pan>Não posso seguir em frente. Você encontrará o que procura adiante.
 Scene_CH01_Mausoleum0	Gabriel>Perdoe-me, irmão... mas minha necessidade é muito maior que a sua.
 Scene_CH01_PansTemple0	Gabriel>Apareça!
-Scene_CH01_PansTemple0_1	Gabriel>A Irmandade precisa de sua ajuda... Eu preciso da sua ajuda.
-Scene_CH01_PansTemple1	Pan>Eu sei quem você é, Gabriel...
-Scene_CH01_PansTemple2	Pan>Eu sou o guardião do Lago do Esquecimento, onde os vivos podem se comunicar com os mortos.
+Scene_CH01_PansTemple0_1	Gabriel>A Irmandade precisa de sua ajuda... Preciso da sua ajuda.
+Scene_CH01_PansTemple1	Pan>Sei quem você é, Gabriel...
+Scene_CH01_PansTemple2	Pan>Sou o guardião do Lago do Esquecimento, onde os vivos podem se comunicar com os mortos.
 Scene_CH01_PansTemple3	Pan>Diga-me, guerreiro, você está ciente do que está acontecendo no mundo?
 Scene_CH01_PansTemple4	Gabriel>Fomos abandonados por Deus.
 Scene_CH01_PansTemple4_1	Gabriel>Criaturas do vazio chegam para tomar as almas dos homens, para varrer a humanidade da face da Terra.
@@ -2377,7 +2368,7 @@ Scene_CH01_PansTemple6	Gabriel>Eles não acham que Deus tenha nos abandonado... E
 Scene_CH01_PansTemple6_1	Gabriel>Um feitiço que isolou o nosso mundo dos céus, cortando nossa ligação com Deus e permitindo que o mal florescia livremente.
 Scene_CH01_PansTemple7	Pan>Por que a Irmandade da Luz o enviou até o Lago do Esquecimento?
 Scene_CH01_PansTemple8	Gabriel>Eles sonharam que uma mensagem aguardava por mim neste lago: uma mensagem que contém uma pista para a nossa salvação.
-Scene_CH01_PansTemple8_1	Gabriel>Eu fui instruído a procurá-lo, na esperança de que você pudesse me mostrar o caminho.
+Scene_CH01_PansTemple8_1	Gabriel>Fui instruído a procurá-lo, na esperança de que você pudesse me mostrar o caminho.
 Scene_CH01_PansTemple9	Pan>Os Anciãos acreditam que esses sonhos são a última mensagem dos Céus, e que você deveria descobrir alguma coisa da qual ainda não sabemos... É isso?
 Scene_CH01_PansTemple10	Gabriel>... Sim... Minha esposa, Maria, foi assassinada há quase dois dias pelo mal que percorre estas terras...
 Scene_CH01_PansTemple10_1	Gabriel>Sua alma e a daqueles que partiram recentemente estão presas aqui, e não conseguem encontrar a paz.
@@ -2400,22 +2391,22 @@ Scene_CH01_Marie6	Gabriel>E eu por ver o seu...
 Scene_CH01_Marie6_1	Gabriel>Meu amor, os Anciãos da Ordem esperam que você possa nos ajudar a entender o que está acontecendo...
 Scene_CH01_Marie6_2	Gabriel>... o mundo tem sido isolado dos Céus.
 Scene_CH01_Marie6_3	Gabriel>Alguns acreditam que Deus tenha nos abandonado. Será verdade?
-Scene_CH01_Marie7	Marie>Eu sinto que... que os espíritos estão tentando falar comigo.
+Scene_CH01_Marie7	Marie>Sinto que... que os espíritos estão tentando falar comigo.
 Scene_CH01_Marie7_1	Marie>Eles sussurram coisas para mim...
-Scene_CH01_Marie7_2	Marie>É difícil entender todos eles. É... é tão escuro, tanta gente chorando. Eu não consigo achá-los na escuridão.
+Scene_CH01_Marie7_2	Marie>É difícil entender todos eles. É... é tão escuro, tanta gente chorando. Não consigo achá-los na escuridão.
 Scene_CH01_Marie7_3	Marie>Estou assustada...
 Scene_CH01_Marie7_3a	Marie>Há mais alguma coisa... Uma sombra sobre minha mente.
 Scene_CH01_Marie7_4	Marie>Você tem de nos ajudar, Gabriel.
 Scene_CH01_Marie8	Gabriel>O que eles estão te dizendo? Quem são 'Eles'?
 Scene_CH01_Marie9	Marie>Eles são os Espíritos que fundaram sua Ordem... E que o poder dos Senhores das Trevas é a chave.
-Scene_CH01_Marie9_1	Marie>Eles falam sobre uma profecia... Eu não entendo o que eles querem dizer...
-Scene_CH01_Marie9_2	Marie>Sinto que estou desaparecendo... Eu não posso vê-lo... a escuridão está se fechando ao meu redor. Eu te amo, Gabriel...
-Scene_CH01_Marie10	Gabriel>Não... Marie, não se vá! Marie!... Eu também te amo...
+Scene_CH01_Marie9_1	Marie>Eles falam sobre uma profecia... Não entendo o que eles querem dizer...
+Scene_CH01_Marie9_2	Marie>Sinto que estou desaparecendo... Não posso vê-lo... a escuridão está se fechando ao meu redor. Eu te amo, Gabriel...
+Scene_CH01_Marie10	Gabriel>Não... Marie, não se vá! Marie!... Também te amo...
 Scene_CH01_Marie11	Gabriel>Por que você está aqui? Quem o enviou?
 Scene_CH01_Marie12	Zobek>Sou Zobek, um guerreiro da sua Irmandade. O Pã e eu somos velhos conhecidos.
 Scene_CH01_Marie12_1	Zobek>Ele teve a impressão de que você precisaria de minha ajuda.
 Scene_CH01_Marie13	Gabriel>Hmm... Já ouvi falar de você. Desculpe-me. Meu nome é Belmont.
-Scene_CH01_Marie14	Zobek>Eu sei quem você é. Aquele espírito era de alguém que você conhecia?
+Scene_CH01_Marie14	Zobek>Sei quem você é. Aquele espírito era de alguém que você conhecia?
 Scene_CH01_Marie15	Gabriel>Sim, era... minha esposa...
 Scene_CH01_Marie16	Zobek>Perdoe-me: não pude deixar de ouvir o que ela te contou.
 Scene_CH01_Marie16_1	Zobek>Parece que os Espíritos que fundaram a nossa Ordem estão tentando nos dizer algo muito importante através dela.
@@ -2433,7 +2424,7 @@ Scene_CH01_Marie21_2	Zobek>... Não está vendo, Gabriel? Você pode trazê-la de vo
 Scene_CH01_Marie22	Gabriel>Se o que você diz é verdade, então precisamos agir rápido e em segredo.
 Scene_CH01_Marie22_1	Gabriel>Os Senhores das Trevas não podem suspeitar que estamos atrás deles ou voltarão toda a atenção para nós.
 Scene_CH01_Marie23	Gabriel>Você e eu devemos seguir rotas diferentes...
-Scene_CH01_Marie23_1	Gabriel>Eu vou seguir caminho para a Terra dos Lycans. Você segue para o território dos Vampiros e prepare o terreno...
+Scene_CH01_Marie23_1	Gabriel>Vou seguir caminho para a Terra dos Lycans. Você segue para o território dos Vampiros e prepare o terreno...
 Scene_CH01_Marie23_2	Gabriel>Então seguiremos juntos até o Senhor dos Necromantes... seus domínios estão mais distantes.
 Scene_CH01_Marie23_3	Gabriel>Nosso inimigo não deve suspeitar de nada.
 Scene_CH01_Marie24	Zobek>Tome. Isso permite que você absorva energia espiritual e vai ajudar a curar seus ferimentos.
@@ -2447,10 +2438,10 @@ Scene_CH02_Ambush_A1	Claudia>Você viu o poder que reside nesses cristais?
 Scene_CH02_Ambush_A2	Claudia>Os cristais podem ser realmente úteis em combate.
 Scene_CH02_Ambush_A3	Claudia>Você pode encontrar fragmentos de cristal espalhados por todo lado. Eu mesmo costumo procurar por eles.
 Scene_CH02_Ambush_A4	Gabriel>Como posso ouvir sua voz se...
-Scene_CH02_Ambush_A5	Claudia>... Não estou movendo meus lábios? Eu tenho O Dom! Eu também posso ler mentes.
+Scene_CH02_Ambush_A5	Claudia>... Não estou movendo meus lábios? Tenho O Dom! Também posso ler mentes.
 Scene_CH02_Ambush_A6	Gabriel>Quem é você?
 Scene_CH02_Ambush_A7	Claudia>Meu nome é Claudia e ele é meu protetor...
-Scene_CH02_Ambush_A7_1	Claudia>Ele cuida de mim. Em troca, eu capturo almas malignas para que ele possa absorver a energia delas.
+Scene_CH02_Ambush_A7_1	Claudia>Ele cuida de mim. Em troca, capturo almas malignas para que ele possa absorver a energia delas.
 Scene_CH02_Ambush_A7_2	Claudia>Sem isso, ele deixaria de funcionar, mas... há algo diferente em você...
 Scene_CH02_Ambush_A7_3	Claudia>Você parece bom de alguma forma, então não vamos matá-lo!
 Scene_CH02_Ambush_A8	Gabriel>Fico aliviado por ouvir isso.
@@ -2458,9 +2449,9 @@ Scene_CH02_Ambush_A9	Claudia>Está tudo bem. Deixe-me ler seus pensamentos.
 Scene_CH02_Ambush_A10	Claudia>Não!
 Scene_CH02_Ambush_A11	Gabriel>O que foi? O que houve?
 Scene_CH02_Ambush_A12	Claudia>... Você está aqui para matar os Senhores das Trevas e tomar o poder deles. Você quer salvar a todos nós.... e trazer aquela que você ama de volta...
-Scene_CH02_Ambush_A13	Claudia>Eu não tenho medo... Nós vamos com você. Sozinho você não vai conseguir.
+Scene_CH02_Ambush_A13	Claudia>Não tenho medo... Nós vamos com você. Sozinho você não vai conseguir.
 Scene_CH02_Ambush_A14	Gabriel>Não, Claudia. Eu devo fazer isso sozinho.
-Scene_CH02_Ambush_A15	Claudia>Eu sei o caminho... você não. Você precisa de mim! Você precisa dele.
+Scene_CH02_Ambush_A15	Claudia>Sei o caminho... você não. Você precisa de mim! Você precisa dele.
 Scene_CH02_Ambush_A16	Gabriel>Está bem...
 Scene_CH02_Ambush_B0	Claudia>Durante séculos a vida transbordava nesta cidade.
 Scene_CH02_Ambush_B1	Claudia>Ela era um santuário de magia, sabedoria e harmonia.
@@ -2480,26 +2471,26 @@ Scene_CH02_Ambush_B8	Claudia>Você precisa encontrar quatro fragmentos para criar
 Scene_CH02_ClaudiasDeath_A0	Claudia>Os Titãs não mais existem.
 Scene_CH02_ClaudiasDeath_A1	Claudia>Ela era a última de sua espécie.
 Scene_CH02_ClaudiasDeath_A2	Gabriel>Seguimos em frente?
-Scene_CH02_ClaudiasDeath_A3	Claudia>Deveríamos descansar... está anoitecendo. Eu sei um lugar.
-Scene_CH02_ClaudiasDeath_B0	Claudia>Eu sabia desde a primeira vez que toquei em seu rosto. Eu vi meu destino. Estou pronta.
+Scene_CH02_ClaudiasDeath_A3	Claudia>Deveríamos descansar... está anoitecendo. Conheço um lugar.
+Scene_CH02_ClaudiasDeath_B0	Claudia>Eu sabia desde a primeira vez que toquei em seu rosto. Vi meu destino. Estou pronta.
 Scene_CH02_ClaudiasDeath_B1	Claudia>Argh!
 Scene_CH02_ClaudiasDeath_C1	Pan>Não deixe a escuridão possuí-lo, Gabriel.
 Scene_CH02_ClaudiasDeath_C2	Pan>Você deve remover a luva do cavaleiro. Ela é uma chave, e chegará um momento em que você precisará muito dela.
-Scene_CH02_ClaudiasDeath_C3	Gabriel>Não! Eu não vou continuar sem ela. Eu não vou machucá-los.
+Scene_CH02_ClaudiasDeath_C3	Gabriel>Não! Não vou continuar sem ela. Não vou machucá-los.
 Scene_CH02_ClaudiasDeath_C4	Pan>Receio que seja tarde mais para isso...
 Scene_CH02_ClaudiasDeath_D0	Gabriel>Não... não... não...
 Scene_CH02_DarkGauntlet0	Gabriel>.
 Scene_CH02_DarkGauntlet1	Gabriel>.
 Scene_CH02_DarkGauntlet2	Gabriel>.
-Scene_CH03_DarkLordLycans0	Gabriel>Eu vim cumprir a profecia.
+Scene_CH03_DarkLordLycans0	Gabriel>Vim cumprir a profecia.
 Scene_CH03_DarkLordLycans1	Lycan_DarkLord>Meus acólitos não estavam mentindo: um guerreiro da Irmandade, aqui, em solo Lycan!
-Scene_CH03_DarkLordLycans2	Lycan_DarkLord>Fico imaginando, guerreiro, se você sabe onde está e quem sou eu...
-Scene_CH03_DarkLordLycans3	Gabriel>Eu estou sobre uma terra profanada: e você e aqueles de seu clã não merecem viver.
+Scene_CH03_DarkLordLycans2	Lycan_DarkLord>Fico imaginando, guerreiro, se você sabe onde está e quem sou...
+Scene_CH03_DarkLordLycans3	Gabriel>Estou sobre uma terra profanada: e você e aqueles de seu clã não merecem viver.
 Scene_CH03_DarkLordLycans4	Lycan_DarkLord>Muahhahaha...
 Scene_CH03_DarkLordLycans5	Lycan_DarkLord>Você diz que está aqui para cumprir uma profecia...
-Scene_CH03_DarkLordLycans6	Gabriel>Você e os outros Senhores das Trevas estão protegendo um poder em seus santuários. Eu vim tomar esse poder.
+Scene_CH03_DarkLordLycans6	Gabriel>Você e os outros Senhores das Trevas estão protegendo um poder em seus santuários. Vim tomar esse poder.
 Scene_CH03_DarkLordLycans7	Lycan_DarkLord>Você? Sozinho? Como ousa entrar em meu santuário interno e me ditar suas mortais e insignificantes regras?
-Scene_CH03_DarkLordLycans8	Lycan_DarkLord>Eu sou imortal, homenzinho, e eu sei da sua profecia, mas você é ignorante...
+Scene_CH03_DarkLordLycans8	Lycan_DarkLord>Sou imortal, homenzinho, e sei da sua profecia, mas você é ignorante...
 Scene_CH03_DarkLordLycans8_1	Lycan_DarkLord>... ignorante em relação à verdade de sua situação.
 Scene_CH03_DarkLordLycans9	Gabriel>É você quem é ignorante. Ignorante em relação à dor e ao sofrimento que você trouxe para esta terra.
 Scene_CH03_DarkLordLycans10	Lycan_DarkLord>Ouça-me... Muitos séculos atrás, três grandes guerreiros fundaram a Irmandade da Luz, a ordem à qual você pertence.
@@ -2508,7 +2499,7 @@ Scene_CH03_DarkLordLycans11	Lycan_DarkLord>Por décadas, os fundadores lutaram fu
 Scene_CH03_DarkLordLycans11_1	Lycan_DarkLord>Seu comprometimento com a cruzada era tão grande que seus estudos sobre a santa iluminação os levaram a três lugares sagrados,
 Scene_CH03_DarkLordLycans11_2	Lycan_DarkLord>onde o poder de Deus convergia com tanta intensidade que chegou a forjar uma ponte entre o real e o espiritual...
 Scene_CH03_DarkLordLycans12	Lycan_DarkLord>Os fundadores usaram esse poder para purificar a si mesmos, abandonando suas formas humanas e se transformando em seres espirituais, cujos poderes eram precedidos apenas pelos poderes de Deus.
-Scene_CH03_DarkLordLycans13	Gabriel>Você não diz nada que eu já não soubesse, besta!
+Scene_CH03_DarkLordLycans13	Gabriel>Você não disse nada que eu já não soubesse, besta!
 Scene_CH03_DarkLordLycans14	Lycan_DarkLord>Mal sabiam eles que o que eles haviam deixado para trás não eram suas carcaças desprovidas de alma, mas sim o lado negro de cada um deles.
 Scene_CH03_DarkLordLycans14_1	Lycan_DarkLord>Não está vendo? Foi assim que passamos a existir, nós a quem vocês chamam de Senhores das Trevas!
 Scene_CH03_DarkLordLycans15	Gabriel>Não! Você mente!
@@ -2526,7 +2517,7 @@ Scene_CH03_PowerofSpirits_B0_1	Pan>Você deve unir os dois que restaram. Venha co
 Scene_CH03_PowerofSpirits_B1	Gabriel>Onde estamos? Que lugar é este?
 Scene_CH03_PowerofSpirits_B3	Pan>O Desfiladeiro dos Corvos. A terra dos Vampiros está além daquelas colinas Uma poderosa Bruxa protege este domínio. Não posso seguir em frente.
 Scene_CH03_PowerofSpirits_B4	Gabriel>Quem é você, e por que você me ajuda?
-Scene_CH03_PowerofSpirits_B5	Pan>Você pode pensar que eu estou lhe ajudando... mas você estaria errado. Eu não sirvo a ninguém. É bom que você lembre disso!
+Scene_CH03_PowerofSpirits_B5	Pan>Você pode pensar que estou lhe ajudando... mas você estaria errado. Não sirvo a ninguém. É bom que você lembre disso!
 Scene_CH05_Zobek0	Zobek>Agradeça a Deus por você ainda estar entre os vivos, meu amigo.
 Scene_CH05_Zobek1	Gabriel>O Senhor Lycan foi derrotado. Eu tenho seu poder. O que aconteceu aqui?
 Scene_CH05_Zobek2	Zobek>Eu o parabenizo pela sua vitória, mas estes companheiros não foram tão afortunados.
@@ -2546,7 +2537,7 @@ Scene_CH05_LybraryLobbyExit1	Zobek>Saia daqui! Vou manter o alçapão aberto!
 Scene_CH05_TheAbbot0	Gabriel>Onde está o abade?
 Scene_CH05_TheAbbot1	Zobek>Lá dentro.
 Scene_CH05_TheAbbot2	Abbot>Não, não! Fiquem longe de mim!
-Scene_CH05_TheAbbot3	Abbot>Eu sei quem são vocês! O Diabo os enviou! Vocês são demônios que servem a ele!
+Scene_CH05_TheAbbot3	Abbot>Sei quem são vocês! O Diabo os enviou! Vocês são demônios que servem a ele!
 Scene_CH05_TheAbbot4	Abbot>Ele me disse que vocês viriam. Ele faz isso para me atormentar...
 Scene_CH05_TheAbbot5	Gabriel>Seu povo morreu enquanto você se escondia atrás da única coisa que poderia tê-los salvado. Você não merece chamar a si mesmo de homem de Deus.
 Scene_CH05_TheAbbot6	Zobek>Gabriel...
@@ -2561,22 +2552,22 @@ Scene_CH05_TheAbbot13	Gabriel>O que foi? O que está acontecendo?
 Scene_CH05_TheAbbot14	Kid>Eles querem o senhor. Eles o querem sozinho. Você deve ir para a aldeia ou eles matarão todos nós.
 Scene_CH05_TheAbbot15	Zobek>Você sabe que isso é uma armadilha...?
 Scene_CH05_TheAbbot16	Gabriel>Sei. Mas ainda assim, devo ir.
-Scene_CH05_TheAbbot17	Zobek>Faça o que tem de ser feito. Eu vou cuidar do menino.
+Scene_CH05_TheAbbot17	Zobek>Faça o que tem de ser feito. Vou cuidar do menino.
 Scene_CH06_GamesRoom0	VampireGirl>Olá. Você veio para jogar?
 Scene_CH06_GamesRoom1	VampireGirl>O tabuleiro está pronto para você.
 Scene_CH06_GamesRoom2	VampireGirl>Gostou?
 Scene_CH06_GamesRoom3	Gabriel>Estou procurando por...
 Scene_CH06_GamesRoom4	VampireGirl>Você não quer jogar?
-Scene_CH06_GamesRoom5	Gabriel>Eu estou aqui pela Rainha dos Vampiros.
-Scene_CH06_GamesRoom6	VampireGirl>Eu te conto onde ela está se você jogar meu jogo.
+Scene_CH06_GamesRoom5	Gabriel>Estou aqui pela Rainha dos Vampiros.
+Scene_CH06_GamesRoom6	VampireGirl>Te conto onde ela está se você jogar meu jogo.
 Scene_CH06_GamesRoom7	Gabriel>Ela?
-Scene_CH06_GamesRoom8	VampireGirl>A mãe não gosta de visitantes. Mas eu te mostro onde ela está se você jogar.
-Scene_CH06_GamesRoom9	Gabriel>Eu não tenho tempo para seus jogos. Preciso encontrá-la agora.
+Scene_CH06_GamesRoom8	VampireGirl>A mãe não gosta de visitantes. Mas te mostro onde ela está se você jogar.
+Scene_CH06_GamesRoom9	Gabriel>Não tenho tempo para seus jogos. Preciso encontrá-la agora.
 Scene_CH06_GamesRoom10	VampireGirl>Então não vou ajudá-lo!
 Scene_CH06_GamesRoom11	Gabriel>Tudo bem.
-Scene_CH06_GamesRoom12	VampireGirl>Você nunca vai encontrá-la... só eu sei o caminho secreto... Eu vou deixá-lo fazer a primeira jogada.
-Scene_CH06_GamesRoom13	Gabriel>Parece que eu não tenho muito escolha...
-Scene_CH07_VioletChamber0	VampireGirl>Não é justo! Eu nunca perco!
+Scene_CH06_GamesRoom12	VampireGirl>Você nunca vai encontrá-la... só eu sei o caminho secreto... Vou deixá-lo fazer a primeira jogada.
+Scene_CH06_GamesRoom13	Gabriel>Parece que não tenho muita escolha...
+Scene_CH07_VioletChamber0	VampireGirl>Não é justo! Nunca perco!
 Scene_CH07_VioletChamber1	VampireGirl>Você é um trapaceiro... e vai pagar por isso!
 Scene_CH07_VampiresMercy0	VampireGirl>Eu te avisei...
 Scene_CH07_VampiresMercy1	VampireGirl>Eu iria vencer!
@@ -2584,31 +2575,31 @@ Scene_CH07_VampiresMercy3	VampireGirl>Ninguém ganha de mim! Ouviu? Ninguém!
 Scene_CH07_VampiresMercy5	VampireGirl>Não resista. Abrace a doce morte.
 Scene_CH07_VampiresMercy7	Gabriel>Marie?!
 Scene_CH07_VampiresMercy8	Marie>Lute, Gabriel. Não é sua hora, não agora. Muita coisa depende de você.
-Scene_CH07_VampiresMercy9	Gabriel>Eu não tenho mais nada... Tenho feito coisas questionáveis... Eu falhei.
-Scene_CH07_VampiresMercy10	VampireGirl>Eu invejo você... Eu invejo vocês dois.
-Scene_CH07_VampiresMercy11	VampireGirl>Eu não quero mais brincar.
+Scene_CH07_VampiresMercy9	Gabriel>Não tenho mais nada... Tenho feito coisas questionáveis... Falhei.
+Scene_CH07_VampiresMercy10	VampireGirl>Eu invejo você... invejo vocês dois.
+Scene_CH07_VampiresMercy11	VampireGirl>Não quero mais brincar.
 Scene_CH08_TopCorridor0	Elite_Vampire>Você não passará por aqui!
 Scene_CH08_TopCorridor1	Gabriel>Você não ficará no meu caminho!
 Scene_CH08_VampireQueen0	Vampire_Queen>Disseram-me que você está à minha procura, guerreiro. Que você busca obter o poder da minha... outra metade?
 Scene_CH08_VampireQueen1	Vampire_Queen>Você é belo e corajoso... Você não preferiria ficar comigo... para sempre?
-Scene_CH08_VampireQueen1_1	Vampire_Queen>Eu posso te mostrar muitas coisas, muitos prazeres...
+Scene_CH08_VampireQueen1_1	Vampire_Queen>Posso te mostrar muitas coisas, muitos prazeres...
 Scene_CH08_VampireQueen3	Gabriel>Suas promessas vazias não significam nada para mim.
 Scene_CH08_VampireQueen3_1	Gabriel>Você e seus Irmãos traíram a todos nós. Você é a razão pela qual o mundo está em trevas.
-Scene_CH08_VampireQueen4	Vampire_Queen>Você é um tolo, Gabriel. Você pensa que eu não sei quem você é?
+Scene_CH08_VampireQueen4	Vampire_Queen>Você é um tolo, Gabriel. Você pensa que não sei quem você é?
 Scene_CH08_VampireQueen4_1	Vampire_Queen>Minha irmã, com toda sua piedade, não queria nada além do bem para o mundo, mas em sua arrogância ela acabou me gerando, amaldiçoando a si mesma.
 Scene_CH08_VampireQueen4_2	Vampire_Queen>A humanidade está arruinada, e você precisa escolher um lado, guerreiro.
 Scene_CH08_VampireQueen5	Gabriel>Eu escolho a vida, e não a morte e a decadência, como você.
 Scene_CH08_VampireQueen6	Vampire_Queen>A morte é meramente uma questão de perspectiva.
 Scene_CH08_VampireQueen6_1	Vampire_Queen>Não somos tão diferentes, você e eu.
 Scene_CH08_VampireQueen6_2	Vampire_Queen>Seu Deus não pode salvá-lo agora... você será um de nós, um dia. É inevitável.
-Scene_CH08_VampireQueen7	Gabriel>Não... Eu vou tomar os três poderes e uni-los.
+Scene_CH08_VampireQueen7	Gabriel>Não... Vou tomar os três poderes e uni-los.
 Scene_CH08_VampireQueen8	Vampire_Queen>Você mataria aqueles que fundaram sua ordem sagrada? Você consegue ser mais frio do que eu.
 Scene_CH08_VampireQueen8_1	Vampire_Queen>Quem é o verdadeiro monstro aqui, Gabriel?
 Scene_CH08_VampireQueen10	Vampire_Queen>Ah, seu pobre tolo iludido... você acha que pode trazer alguém de volta dos mortos, não é? Alguém que você... ama?
 Scene_CH08_VampireQueen11	Vampire_Queen>Você foi traído. Não há ressurreição, apenas a morte em vida que você vê diante de si!
 Scene_CH08_VampireQueen12	Vampire_Queen>Junte-se a ela, então!
 Scene_CH08_PansApparition0	Pan>Em breve... o destino de cada ser vivo estará nas palmas de suas mãos.
-Scene_CH08_PansApparition1	Gabriel>Agora eu sei que os fundadores da Ordem criaram os Senhores das Trevas. Eles são uma e a mesma coisa.
+Scene_CH08_PansApparition1	Gabriel>Agora sei que os fundadores da Ordem criaram os Senhores das Trevas. Eles são uma e a mesma coisa.
 Scene_CH08_PansApparition2	Gabriel>Eles ascenderam aos Céus como espíritos puros, mas deixaram seu lado negro para trás.
 Scene_CH08_PansApparition3	Gabriel>Por que estamos pagando pela estupidez e arrogância deles? Diga-me, pelo que estou lutando?
 Scene_CH08_PansApparition4	Pan>Somente quando olhamos para dentro de nós mesmos é que podemos realmente começar a entender.
@@ -2641,21 +2632,21 @@ Scene_CH09_WitchsSpell3	Gabriel>Agora, cumpra sua promessa.
 Scene_CH09_WitchsSpell4	Witch>Claro, claro. Baba boa mulher. Baba não mentir.
 Scene_CH10_SilverWarrior0	Gabriel>Parece que nossos caminhos se cruzaram novamente.
 Scene_CH10_SilverWarrior1	Pan>Porém, um deles deve acabar aqui.
-Scene_CH10_SilverWarrior2	Gabriel>Eu cansei dos seus enigmas. Fale claramente ao menos uma vez.
+Scene_CH10_SilverWarrior2	Gabriel>Cansei dos seus enigmas. Fale claramente ao menos uma vez.
 Scene_CH10_SilverWarrior3	Pan>Nada é completamente claro, Guerreiro... Você está envolto em trevas. Você age como um cego à verdade.
 Scene_CH10_SilverWarrior4	Pan>Deixe-me iluminá-lo.
 Scene_CH10_PansDeath0	Gabriel>Por quê? Por que você me fez lutar contra você?
 Scene_CH10_PansDeath1	Pan>Porque é assim que deve ser... Nós todos devemos fazer sacrifícios para encontrar a redenção.
-Scene_CH10_PansDeath2	Gabriel>Não, eu não queria isso. Eu não pedi por isso...
-Scene_CH10_PansDeath3	Pan>Sangue deve ser derramado para que este caminho se abra para você. Eu aceito meu destino... Você pode aceitar o seu?
-Scene_CH10_PansDeath4	Gabriel>Eu não sou digno. Eu não sou puro de coração...
+Scene_CH10_PansDeath2	Gabriel>Não, eu não queria isso. Não pedi por isso...
+Scene_CH10_PansDeath3	Pan>Sangue deve ser derramado para que este caminho se abra para você. Aceito meu destino... Você pode aceitar o seu?
+Scene_CH10_PansDeath4	Gabriel>Não sou digno. Não sou puro de coração...
 Scene_CH11_DracolichApp0	Necromancer>Impressionante, guerreiro. Estou espantado que você tenha chegado tão longe.
-Scene_CH11_DracolichApp1	Gabriel>Eu vim para acabar com isso, feiticeiro.
+Scene_CH11_DracolichApp1	Gabriel>Vim para acabar com isso, feiticeiro.
 Scene_CH11_DracolichApp2	Necromancer>Com que autoridade?
 Scene_CH11_DracolichApp3	Necromancer>Que direito você tem de me julgar quando tanto sangue foi derramado pelas suas próprias mãos?
 Scene_CH11_DracolichApp3_1	Necromancer>Olhe para si: você se deleita com a morte. Somos um e a mesma coisa. Você e eu.
 Scene_CH11_DracolichApp4	Gabriel>Você não vai me deter!
-Scene_CH11_DracolichApp5	Necromancer>Haha... Não, eu não vou lhe deter.
+Scene_CH11_DracolichApp5	Necromancer>Haha... Não, não vou lhe deter.
 Scene_CH11_DracolichApp6	Necromancer>Olhe para mim, hipócrita! Contemple a morte gloriosa!
 Scene_CH12_EndingI_GabysDeath0	Gabriel>Oblivium sempre terão demônios.
 Scene_CH12_EndingI_GabysDeath1	Zobek>Parabéns. Você fez um bom trabalho, meu amigo.
@@ -2671,14 +2662,14 @@ Scene_CH12_EndingI_GabysDeath8_1	Zobek>Eu sabia que isso iria forçar meus irmãos
 Scene_CH12_EndingI_GabysDeath8_2	Zobek>A profecia era o último raio de esperança deles em meio às trevas!
 Scene_CH12_EndingI_GabysDeath9	Zobek>Nós, os Senhores das Trevas, como você nos chama, fomos impotentes por muito tempo... presos a uma incômoda trégua por anos 
 Scene_CH12_EndingI_GabysDeath9_1	Zobek>cada um possuindo sua parte do poder, mas incapaz de ter domínio sobre os outros. Até agora.
-Scene_CH12_EndingI_GabysDeath10	Zobek>Eu fiquei tão cansado desses anos de proliferação.
+Scene_CH12_EndingI_GabysDeath10	Zobek>Fiquei tão cansado desses anos de proliferação.
 Scene_CH12_EndingI_GabysDeath10_1	Zobek>Uma trégua constante entre nós três. Cada um sem disposição para ceder ou cooperar com os outros.
 Scene_CH12_EndingI_GabysDeath10_2	Zobek>Eles eram muito cegos para ver o potencial do poder que detínhamos... contanto que fossem combinados...
 Scene_CH12_EndingI_GabysDeath11	Zobek>Eu desejava o poder absoluto, e estava preparado para investigar até nas profundezas do Inferno pelo conhecimento necessário para adquiri-lo.
 Scene_CH12_EndingI_GabysDeath11_1	Zobek>Lutei contra hordas de demônios e me tornei forte. Então, uma grande e terrível força vasta entrou dentro mim, expandindo meu conhecimento sobre as artes das trevas a níveis inimagináveis.
 Scene_CH12_EndingI_GabysDeath12	Zobek>Tudo o que eu precisava era de alguém para restaurar o poder luminoso dos Espíritos de acordo com a profecia, e você tem sido um perfeito joguete.
-Scene_CH12_EndingI_GabysDeath13	Zobek>... Claro, eu não poderia levantar suspeita de que era eu quem desejava o poder para mim... Não... Eu usei a profecia como cobertura... e você... meu cavaleiro de armadura brilhante!
-Scene_CH12_EndingI_GabysDeath14	Gabriel>Eu não vou permitir que você fique no meu caminho, Zobek.
+Scene_CH12_EndingI_GabysDeath13	Zobek>... Claro, eu não poderia levantar suspeita de que era eu quem desejava o poder para mim... Não... Usei a profecia como cobertura... e você... meu cavaleiro de armadura brilhante!
+Scene_CH12_EndingI_GabysDeath14	Gabriel>Não vou permitir que você fique no meu caminho, Zobek.
 Scene_CH12_EndingI_GabysDeath15	Zobek>Tenho certeza que não.
 Scene_CH12_EndingI_GabysDeath16	Zobek>Mas na verdade você não tem voz nem vez nesta matéria, meu caro amigo. Eu poderia matá-lo facilmente por sua insolência, mas felizmente... não há necessidade.
 Scene_CH12_EndingI_GabysDeath17	Gabriel>O que você quer dizer com isso?
@@ -2692,7 +2683,7 @@ Scene_CH12_EndingI_GabysDeath22_2	Zobek>Pobre Claudinha... tão doce.
 Scene_CH12_EndingI_GabysDeath23	Gabriel>Não...
 Scene_CH12_EndingI_GabysDeath24	Zobek>Você superou até mesmo minhas expectativas! Matando e massacrando rumo à vitória!
 Scene_CH12_EndingI_GabysDeath24_1	Zobek>Há uma terrível escuridão dentro de você, meu amigo... Seu ardente desejo de ressuscitar sua querida Marie o deixou cego à escuridão!
-Scene_CH12_EndingI_GabysDeath25	Zobek>Enquanto você dormia, eu fui capaz de...
+Scene_CH12_EndingI_GabysDeath25	Zobek>Enquanto você dormia, fui capaz de...
 Scene_CH12_EndingI_GabysDeath26	Zobek>... influenciá-lo com essa máscara, mas nem mesmo eu fui capaz de prever a besta que existia em seu interior.
 Scene_CH12_EndingI_GabysDeath27	Zobek>Foi fácil por demais fazê-lo matá-los. Sua queda pelo matar e pela morte era insaciável.
 Scene_CH12_EndingI_GabysDeath28	Zobek>Você só precisava de um empurrãozinho e pronto: lá ia você em busca da única coisa que poderia trazê-la de volta.
@@ -2707,11 +2698,11 @@ Scene_CH12_EndingI_GabysDeath39	Zobek>Deixe-me livrá-lo de seu pesado fardo... A
 Zobek_XTRA_LAUGH	Zobek>.
 Scene_CH12_EndingI_ZobekEnd0	Satan>Saudações, Poderoso Zobek.
 Scene_CH12_EndingI_ZobekEnd1	Zobek>Quem está aí... quem...??
-Scene_CH12_EndingI_ZobekEnd2	Satan>Você não se lembra de mim? Eu fui até você no vazio, eu lhe concedi poder e conhecimento. Um poder que você nunca poderia ter obtido sozinho.
-Scene_CH12_EndingI_ZobekEnd2_1	Satan>Você certamente não esqueceu. Na verdade, eu plantei a ideia deste elaborado estratagema dentro de sua mente minúscula para servir meu propósito maior.
-Scene_CH12_EndingI_ZobekEnd2_2	Satan>Eu não preciso mais de sua ajuda. O poder é meu agora!
+Scene_CH12_EndingI_ZobekEnd2	Satan>Você não se lembra de mim? Fui até você no vazio, lhe concedi poder e conhecimento. Um poder que você nunca poderia ter obtido sozinho.
+Scene_CH12_EndingI_ZobekEnd2_1	Satan>Você certamente não esqueceu. Na verdade, plantei a ideia deste elaborado estratagema dentro de sua mente minúscula para servir meu propósito maior.
+Scene_CH12_EndingI_ZobekEnd2_2	Satan>Não preciso mais de sua ajuda. O poder é meu agora!
 Scene_CH12_EndingI_ZobekEnd3	Zobek>Não, Nãããooo...
-Scene_CH12_EndingI_ZobekEnd4_JC	Satan>Pai! Eu vou até você... Antes do fim VOCÊ se curvará diante de MIM!
+Scene_CH12_EndingI_ZobekEnd4_JC	Satan>Pai! vou até você... Antes do fim VOCÊ se curvará diante de MIM!
 Scene_CH12_EndingI_Limbo1	Spirits>Chegou sua, Gabriel... Não tenha medo... Venha conosco. Junte-se a nós!
 Scene_CH12_EndingI_Limbo2	Marie>Afastem-se dele! Não acordem ele!
 Scene_CH12_EndingI_Limbo3	Spirits>.
@@ -2720,9 +2711,9 @@ Scene_CH12_EndingI_Limbo5	Marie>.
 Scene_CH12_EndingI_Limbo6	Marie>Se vocês o levarem, estaremos todos perdidos. A escuridão triunfará, e nunca, jamais, haverá paz ou esperança.
 Scene_CH12_EndingI_Limbo6_1	Marie>Ficaremos presos para sempre. Vocês não entendem? Devemos conceder a ele o poder de voltar.
 Scene_CH12_EndingI_Limbo7	Spirits>Ele nos libertará? Veremos a luz como foi prometido?
-Scene_CH12_EndingI_Limbo8	Marie>Eu acredito nele. Seu coração é puro. Ele é a nossa última esperança! A nossa única esperança...
+Scene_CH12_EndingI_Limbo8	Marie>Acredito nele. Seu coração é puro. Ele é a nossa última esperança! A nossa única esperança...
 Scene_CH12_EndingI_NewGaby0	Satan>Então... ele abandonou você também? Assim seja. Junte-se a mim. Eu o amarei mais do que Ele.
-Scene_CH12_EndingI_NewGaby1	Satan>Eu já fui adorado acima de todos os outros. Eu também não merecia ser expulso... abandonado.
+Scene_CH12_EndingI_NewGaby1	Satan>Já fui adorado acima de todos os outros. Eu também não merecia ser expulso... abandonado.
 Scene_CH12_EndingI_NewGaby1_1	Satan>Agora você sabe como é, não sabe...? O ódio pode nos trazer de volta, nos dar forças. Aceite-o!
 Scene_CH12_EndingI_NewGaby2	Gabriel>Ele se importa é com aquilo que os homens têm em seus corações. Ele ama a você como ama a mim. Temos apenas que pedir pelo seu perdão, no fundo de nós mesmos, para sermos recebidos novamente.
 Scene_CH12_EndingI_NewGaby3	Satan>Vocês macacos não merecem a redenção. É MEU direito divino governar ao seu lado como um igual... Ou talvez mais do que isso...
@@ -2730,24 +2721,24 @@ Scene_CH12_EndingI_NewGaby4	Gabriel>Você preferiria governar com a força e o pod
 Scene_CH12_EndingI_NewGaby5	Satan>Você ousa me desafiar? Você morrerá por sua blasfêmia. Sua alma pertence a mim!
 Scene_CH12_Final_Satan0	Satan>Tire suas mãos de mim, assassino! Sua alma está condenada!
 Scene_CH12_Final_Satan1	Gabriel>Peço perdão e misericórdia àqueles a quem prejudiquei.
-Scene_CH12_Final_Satan1_1	Gabriel>O que eu fiz, fiz sem saber, mas eu mudaria tudo se pudesse.
+Scene_CH12_Final_Satan1_1	Gabriel>O que fiz, fiz sem saber, mas mudaria tudo se pudesse.
 Scene_CH12_Final_Satan2	Satan>Ele não está ouvindo, Gabriel. Seu destino está selado!
-Scene_CH12_Final_Satan3	Gabriel>Todo homem tem o poder de se arrepender. Eu tenho fé nisso...
+Scene_CH12_Final_Satan3	Gabriel>Todo homem tem o poder de se arrepender. Tenho fé nisso...
 Scene_CH12_Final_Satan4	Gabriel>Perdoe-me, perdoe-me... meu Deus.
 Scene_CH12_Final_Satan5	Satan>Vou me divertir tanto com sua Marie. Vou apresentar a ela tantos prazeres...
 Scene_CH12_Final_Satan6	Gabriel>A alma dela irá somente a Ele...
 Scene_CH12_Final_Satan7	Gabriel>assim que eu acabar com você, Anjo!
 Scene_CH12_Final_Marie0	Marie>Meu amor...
-Scene_CH12_Final_Marie1	Gabriel>Eu... estou... vivo? Não... Eu não quero isso. Por que minha vida foi dada de volta a mim?
-Scene_CH12_Final_Marie2	Marie>É o seu destino. Você recebeu de volta aquilo que foi retirado injustamente de você.
+Scene_CH12_Final_Marie1	Gabriel>Eu... estou... vivo? Não... Não quero isso. Por que minha vida foi dada de volta a mim?
+Scene_CH12_Final_Marie2	Marie>É seu destino. Você recebeu de volta aquilo que foi retirado injustamente de você.
 Scene_CH12_Final_Marie3	Marie>Para que se arrependa de seus pecados... para que repare seus erros.
 Scene_CH12_Final_Marie4	Gabriel>Mas sem você...?
 Scene_CH12_Final_Marie5	Marie>Você libertou todos eles. Você salvou a todos nós, Gabriel.
-Scene_CH12_Final_Marie6	Gabriel>Eu não pude salvá-la...
+Scene_CH12_Final_Marie6	Gabriel>Não pude salvá-la...
 Scene_CH12_Final_Marie7	Marie>Eu sabia que não poderia te contar, ou desespero teria corroído sua determinação e então tudo estaria perdido.
-Scene_CH12_Final_Marie8	Marie>Eu tive fé em você, tive a esperança de que você seria forte o bastante para libertar o mundo, e você não me decepcionou.
-Scene_CH12_Final_Marie9	Gabriel>Eu não sou digno de sua fé. Do seu amor... Eu não sou nada...
-Scene_CH12_Final_Marie10	Marie>Você é um bom homem, Gabriel. Você é como Deus planejou: falível, mas capaz de grandes coisas... Eu amei você como continuo amando agora.
+Scene_CH12_Final_Marie8	Marie>Tive fé em você, tive a esperança de que você seria forte o bastante para libertar o mundo, e você não me decepcionou.
+Scene_CH12_Final_Marie9	Gabriel>Não sou digno de sua fé. Do seu amor... Não sou nada...
+Scene_CH12_Final_Marie10	Marie>Você é um bom homem, Gabriel. Você é como Deus planejou: falível, mas capaz de grandes coisas... Amei você como continuo amando agora.
 Scene_CH12_Final_Marie11	Marie>Vejo diante mim um homem que recuperou a graça de Deus, e que tem meu perdão e o perdão de todas as almas perdidas deste mundo.
 Scene_CH12_Final_Marie12	Marie>Você salvou a todos nós e... salvou a si mesmo.
 Scene_CH12_Final_Marie13	Marie>A máscara é um instrumento poderoso. Ela nos permite ver através dos olhos de Deus.
@@ -2755,13 +2746,13 @@ Scene_CH12_Final_Marie14	Gabriel>Ela pode realmente trazer os mortos de volta?
 Scene_CH12_Final_Marie15	Marie>Sim... Veja...
 Scene_CH12_Final_Marie16	Gabriel>A esperança de um tolo...
 Scene_CH12_Final_Marie17	Marie>É tarde demais para mim, meu amor...
-Scene_CH12_Final_Marie18	Marie>... Eu não posso voltar.
+Scene_CH12_Final_Marie18	Marie>... Não posso voltar.
 Scene_CH12_Final_Marie19	Gabriel>Não... não... não vá.
-Scene_CH12_Final_Marie20	Marie>É minha hora. A luz está chamando... Eu não temo.
+Scene_CH12_Final_Marie20	Marie>É minha hora. A luz está chamando... Não temo.
 Scene_CH12_Final_Marie21	Gabriel>Não... por favor. Fique. Fique comigo!
 Scene_CH12_Final_Marie22	Marie>É lindo, Gabriel... tão lindo...
 Scene_CH12_Final_Marie23	Marie>Ela está me chamando... chamando...
-Scene_CH12_Final_Marie24	Gabriel>Eu te amo... Marie... Eu te amo. Perdoe-me.
+Scene_CH12_Final_Marie24	Gabriel>Te amo... Marie... Te amo. Perdoe-me.
 Scene_CH12_Final_Marie25	Marie>Eu amo você...
 Scene_CH12_Epilogue_1	Zobek>Um esconderijo inusitado para o Príncipe das Trevas.
 Scene_CH12_Epilogue_2	Zobek>Não acha?
@@ -2782,9 +2773,9 @@ Scene_CH12_Epilogue_16	Zobek>Ajude-me a detê-lo... ou você e eu nos tornaremos s
 Scene_CH12_Epilogue_17	Zobek>É hora de sair deste túmulo miserável que você criou para si mesmo!
 Scene_CH12_Epilogue_18	Zobek>Para de se esconder nas sombras!
 Scene_CH12_Epilogue_19	Zobek>Você não se importa que ele vá escravizá-lo?
-Scene_CH12_Epilogue_20	Zobek>Eu sei pelo que você anseia...
-Scene_CH12_Epilogue_21	Zobek>Eu não posso morrer... ainda assim... Não posso viver.
-Scene_CH12_Epilogue_22	Zobek>Ajude-me, e eu poderei libertá-lo da imortalidade.
+Scene_CH12_Epilogue_20	Zobek>Sei o que você anseia...
+Scene_CH12_Epilogue_21	Zobek>Não posso morrer... ainda assim... Não posso viver.
+Scene_CH12_Epilogue_22	Zobek>Ajude-me, e poderei libertá-lo da imortalidade.
 Scene_CH12_Epilogue_23	Zobek>Em breve, velho amigo... em breve... isso estará acabado.
 TRIAL_COMPLETE	Prova concluída!
 Trial_1_1_besieged_village_Descr	Complete a fase derrotando o Grande Warg com pelo menos um sobrevivente da aldeia
