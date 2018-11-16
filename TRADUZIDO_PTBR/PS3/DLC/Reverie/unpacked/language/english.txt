@@ -1671,8 +1671,8 @@ Vampire_Human_Dark_Lord_Taunt_1	Vampire_Queen>Ide, meus filhos! Bebam seu sangue
 Vampire_Human_Dark_Lord_Taunt_2	Vampire_Queen>Não resista... torne-se um de nós!
 Vampire_Human_Dark_Lord_Taunt_3	Vampire_Queen>Jure lealdade a mim e talvez eu poupe sua vida!
 Vampire_Human_Dark_Lord_Taunt_4	Vampire_Queen>Você conhecerá a dor, Gabriel!
-Vampire_Monster_Dark_Lord_Taunt_1	Vampire_Queen>Veja o verdadeiro poder um Senhor das Trevas!
-Vampire_Monster_Dark_Lord_Taunt_2	Vampire_Queen>Você vai se arrepender por me rejeitar, Gabriel!
+Vampire_Monster_Dark_Lord_Taunt_1	Vampire_Queen>Veja o verdadeiro poder de um Senhor das Trevas!
+Vampire_Monster_Dark_Lord_Taunt_2	Vampire_Queen>Você se arrependerá por me rejeitar, Gabriel!
 Vampire_Monster_Dark_Lord_Taunt_3	Vampire_Queen>Humano arrogante... você acha mesmo que pode me derrotar?
 Vampire_Monster_Dark_Lord_Taunt_4	Vampire_Queen>Olhe para a Carmilla... não sou linda?
 Satan_Taunt_1	Satan>O Pã não ensinou nada a você?
@@ -1681,7 +1681,7 @@ Satan_Taunt_3	Satan>Curve-se diante de mim, é Satã quem ordena!
 Satan_Taunt_4	Satan>Deus não te ama! Ele deixou sua amada morrer!
 Satan_Taunt_5	Satan>Você foi enganado, Gabriel! Ela se foi para sempre!
 Satan_Taunt_6	Satan>Você com certeza pode lutar melhor, Gabriel!
-Satan_Taunt_7	Satan>Impossível! ... seria... este... o poder de Deus?
+Satan_Taunt_7	Satan>Impossível! Seria... este... o poder de Deus?
 Satan_Taunt_8	Satan>Morra Belmont!
 Satan_Taunt_9	Satan>Vou varrer o nome Belmont deste mundo! Para sempre!
 Satan_Taunt_10	Satan>Você acha que pode me derrotar!
