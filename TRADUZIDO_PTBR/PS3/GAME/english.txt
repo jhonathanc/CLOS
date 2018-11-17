@@ -66,13 +66,13 @@ Summary_Chess_Back	Voltar ao Menu Principal
 PS3_ErrorInstallationCorrupted	O jogo instalado está danificado e será fechado. Você precisa deletar o jogo instalado e efetuar uma nova instalação para jogar.
 PS3_ErrorUnhandled	Erro sem tratamento.
 PS3_ErrorFile	Erro na leitura de disco. Verifique-o e tente novamente.
-GammaHelp	Mova o analógico esquerdo para a esquerda ou direita até que apenas uma das máscaras apareça na tela.
+GammaHelp	Mova o analógico esquerdo para a esquerda ou direita até que apenas uma máscara esteja visível.
 PS3_AutoSave_TrophiesDeactivated	Os dados salvos são de outro usuário. Você não será capaz de obter troféus.
 PS3_AutoSave_Loading	Carregando...
 PS3_AutoSave_LoadingError	Falha ao carregar.
 PS3_AutoSave_Saving	Salvando...
 PS3_AutoSave_SavingError	Falha ao salvar.
-PS3_AutoSave_Warning	Este jogo salva dados automaticamente em determinados momentos. Não desligue o aparelho enquanto o ícone de salvamento automático for exibido ou enquanto o indicador de acesso ao disco rígido estiver piscando.
+PS3_AutoSave_Warning	Este jogo salva dados automaticamente. Não desligue o aparelho enquanto o ícone de salvamento automático for exibido ou enquanto o indicador de acesso ao disco rígido estiver piscando.
 PS3_Autosave_Deactivated	Você não será capaz de salvar seu progresso no jogo.
 PS3_AutoSave_ErrorSize	Não há espaço livre suficiente no disco rígido.
 PS3_AutoSave_Corrupt	Falha ao carregar. O jogo salvo está danificado. Os dados salvos automaticamente serão substituídos.
@@ -102,7 +102,7 @@ Demo_Splash_4_2	.
 Demo_Splash_4_3	.
 Demo_Splash_4_4	.
 HELP_WARNING_MUD	Você está afundando na lama. Saia antes que seja tarde demais!
-HELP_MESSAGE_STAKE	Você precisa aprimorar sua Cruz de Combate para ativar este dispositivo. Retorne quando suas habilidades melhorarem.
+HELP_MESSAGE_STAKE	Você precisa aprimorar sua Cruz de Combate para ativar este dispositivo. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_0	Talvez você possa usar a Magia Sombria...
 HELP_MESSAGE_1	Use um Javali para arrombar a porta da muralha.
 HELP_MESSAGE_2	Use a Aranha para tecer uma ponte sobre o abismo.
@@ -136,7 +136,7 @@ PS3_HELP_MESSAGE_1.5_E	Aperte R2 para Agarrar.
 HELP_MESSAGE_1.5_F	.
 PS3_HELP_MESSAGE_1.5_F	Mova-se para cima ou para baixo movendo o analógico esquerdo. Aperte [[SQUARE]] ou [[TRIANGLE]] para atravessar superfícies frágeis.
 HELP_MESSAGE_1.5_G	Suba sobre a saliência saltando em sua direção.
-HELP_MESSAGE_1.5_H	Mova-se para a esquerda ou para a direita movendo o analógico esquerdo na mesma direção.
+HELP_MESSAGE_1.5_H	Mova-se para a esquerda ou para a direita movendo o analógico esquerdo na direção desejada.
 HELP_MESSAGE_1.5_I	.
 PS3_HELP_MESSAGE_1.5_I	Salte por cima movendo o analógico esquerdo em direção à saliência e pressionando [[CROSS]].
 HELP_MESSAGE_1.5_K	Agora sua Cruz de Combate pode enganchar nestes 'Pontos de Engate'.
@@ -174,13 +174,13 @@ HELP_MESSAGE_1.7_H	.
 PS3_HELP_MESSAGE_1.7_H	[[CIRCLE]] Sair
 PS3_HELP_MESSAGE_1.7_H_JAP	[[CROSS]] Sair
 HELP_MESSAGE_1.7_I	Você não pode alcançar a Arca da Irmandade. Volte mais tarde quando suas habilidades melhorarem.
-HELP_MESSAGE_1.9_A	O Titã está com o braço preso no gelo. Descubra uma maneira de subir em seu braço.
+HELP_MESSAGE_1.9_A	O Titã está com o braço preso no gelo. Descubra uma maneira de subir no braço dele.
 HELP_MESSAGE_1.9_B	.
 PS3_HELP_MESSAGE_1.9_B	Aperte R2 para subir no Titã.
 HELP_MESSAGE_1.9_C	Procure e destrua as runas que animam o Titã.
 HELP_MESSAGE_1.9_D	.
 PS3_HELP_MESSAGE_1.9_D	Aperte [[SQUARE]] repetidamente para destruir a runa.
-HELP_MESSAGE_2.2_A	Encontre uma fonte de magia elementar para recarregar com magia sua nova Gema da Luz.
+HELP_MESSAGE_2.2_A	Encontre uma fonte de magia elementar para recarregar sua nova Gema da Luz.
 HELP_MESSAGE_2.2_B	Aperte e segure o analógico esquerdo para absorver energia elementar da estátua e recarregar seu reservatório de Magia.
 HELP_MESSAGE_2.2_C	.
 PS3_HELP_MESSAGE_2.2_C	Aperte L1 para ativar ou desativar sua Magia da Luz.
@@ -215,10 +215,10 @@ HELP_MESSAGE_2.2_TUTOLM_G	.
 PS3_HELP_MESSAGE_2.2_TUTOLM_G	Você pode ativar ou desativar sua Magia da Luz a qualquer momento, pressionando L1.
 HELP_MESSAGE_2.2_X	.
 PS3_HELP_MESSAGE_2.2_X	Aperte e segure L3 para absorver energia elementar e recarregar sua Magia da Luz.
-HELP_MESSAGE_2.2_Y	Este dispositivo requer Magia Sombria para ser ativado. Retorne quando suas habilidades melhorarem.
+HELP_MESSAGE_2.2_Y	Este dispositivo requer Magia Sombria para ser ativado. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_2.2_Z	Esta é uma estátua de energia elementar. Use-a para restaurar seus níveis de magia.
 HELP_MESSAGE_2.3_A	Você foi envenenado. Ative sua Magia da Luz para combater os efeitos do veneno!
-HELP_MESSAGE_2.3_B	Você precisa aprimorar sua Cruz de Combate para serrar este totem. Retorne quando suas habilidades melhorarem.
+HELP_MESSAGE_2.3_B	Você precisa aprimorar sua Cruz de Combate para serrar este totem. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_2.3_C	.
 PS3_HELP_MESSAGE_2.3_C	Aperte R2 para subir na teia!
 HELP_MESSAGE_2.3_D	.
@@ -230,7 +230,7 @@ HELP_MESSAGE_2.3_G	Agora você pode usar a Cruz de Combate para cortar certos obs
 HELP_MESSAGE_2.3_TUTOJUMP	.
 PS3_HELP_MESSAGE_2.3_TUTOJUMP	Aperte [[CROSS]] para saltar para trás de forma segura.
 HELP_MESSAGE_2.4_A	Você deve achar um meio de explodir esta barreira...
-HELP_MESSAGE_2.4_A_1	Porta pesada. Somente a força de uma poderosa fera poderia quebrá-la.
+HELP_MESSAGE_2.4_A_1	Porta pesada. Somente uma poderosa fera poderia quebrá-la.
 HELP_MESSAGE_2.4_B	.
 PS3_HELP_MESSAGE_2.4_B	O Javali está atordoado. Aperte R2 para montá-lo.
 HELP_MESSAGE_2.4_C	Talvez agora você possa quebrar aquela porta: mire o Javali na direção que você quer seguir e deixe o resto com a fera!
@@ -247,7 +247,7 @@ HELP_MESSAGE_2.5_A	.
 PS3_HELP_MESSAGE_2.5_A	Aperte R2 para utilizar o mecanismo.
 HELP_MESSAGE_2.5_B	Use o analógico esquerdo para rodar o mecanismo.
 HELP_MESSAGE_2.6_A	Este dispositivo requer Magia Sombria para ser ativado.
-HELP_MESSAGE_2.6_B	Encontre uma fonte de magia elementar para recarregar com magia sua nova Gema das Sombras.
+HELP_MESSAGE_2.6_B	Encontre uma fonte de magia elementar para recarregar sua nova Gema das Sombras.
 HELP_MESSAGE_2.6_C	.
 PS3_HELP_MESSAGE_2.6_C	Aperte e segure R3 para absorver energia elementar da estátua e recarregar seu reservatório de Magia Sombria.
 HELP_MESSAGE_2.6_D	.
@@ -260,7 +260,7 @@ HELP_MESSAGE_2.6_H	.
 PS3_HELP_MESSAGE_2.6_H	O Troll está atordoado. Aperte R2 para montá-lo.
 HELP_MESSAGE_2.6_I	Os Trolls são criaturas muito poderosas. Use-os para destruir os obstáculos com os quais Gabriel não consegue lidar.
 HELP_MESSAGE_2.6_J	.
-PS3_HELP_MESSAGE_2.6_J	Agora você pode combinar as Magias da Luz e das Sombras, o que permite a você fazer uso de estratégias muito poderosas para derrotar seus inimigos! Use a Magia da Luz (botão L1) para recuperar sua saúde. Use a Magia Sombria (botão R1) para causar mais danos.
+PS3_HELP_MESSAGE_2.6_J	Agora você pode combinar as Magias da Luz e das Sombras, o que permite a você fazer uso de estratégias muito poderosas para derrotar seus inimigos! Use a Magia da Luz (botão L1) para recuperar sua saúde. Use a Magia Sombria (botão R1) para causar mais dano.
 HELP_MESSAGE_2.6_K	.
 PS3_HELP_MESSAGE_2.6_K	Use a Magia da Luz (botão L1) para recuperar sua saúde. Use a Magia Sombria (botão R1) para causar mais dano.
 HELP_MESSAGE_2.6_L	.
@@ -280,7 +280,7 @@ HELP_MESSAGE_2.7_B	.
 PS3_HELP_MESSAGE_2.7_B	O Warg está atordoado. Aperte R2 para montá-lo.
 HELP_MESSAGE_2.7_C	.
 PS3_HELP_MESSAGE_2.7_C	Dê dois toques no analógico esquerdo para correr em direção à ponte e então aperte [[CROSS]] para cruzá-la.
-HELP_MESSAGE_2.7_D	Você precisa ser mais forte para empurrar esta estátua. Retorne quando suas habilidades melhorarem.
+HELP_MESSAGE_2.7_D	Você precisa ser mais forte para empurrar esta estátua. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_2.7_E	É impossível subir aqui. É melhor você encontrar um caminho alternativo.
 HELP_MESSAGE_2.8_A	Use o direcional para selecionar o Cristal Negro.
 HELP_MESSAGE_2.8_B	.
@@ -379,7 +379,7 @@ HELP_MESSAGE_10_3_B	Muito bem! Agora destrua as outras cabeças.
 HELP_MESSAGE_10_3_C	Você precisa de um Cristal Negro para ativá-lo.
 HELP_MESSAGE_11.0_A_0	Selecionar Signo
 HELP_MESSAGE_11.0_A_1	Selecionar Dia
-HELP_MESSAGE_11.0_A_2	Selecionar Fase da Lua
+HELP_MESSAGE_11.0_A_2	Selecionar Fase Lunar
 HELP_MESSAGE_11.0_B	Executar Ordem
 HELP_MESSAGE_11.0_C	Sair
 HELP_MESSAGE_Door_0_Fairies_3.0_T	Você precisa achar três Fadas para abrir esta porta.
@@ -661,8 +661,8 @@ TBook_Action_Desc_CounterstrikeD0	Indent>Você pode executar um devastador contra
 TBook_Action_Desc_Dagger0	Indent>Selecione as Adagas e aperte [[B]] para atirar uma delas contra um inimigo. Você pode mirar manualmente antes de atirar movendo o analógico esquerdo na direção desejada. São eficazes principalmente contra pequenos Lycans, grandes Lycans e Wargs.
 TBook_Action_Desc_DaggerWave0	Indent>Aperte e segure [[B]] para atirar várias Adagas de uma vez só. Você pode atirar no máximo 5 Adagas ao mesmo tempo.
 TBook_Action_Desc_DarkFocusMode0	.
-PS3_TBook_Action_Desc_DarkFocusMode0	Indent>Aperte e segure R1 para ativar o modo Sombra Final. Com o modo ativado, o analógico esquerdo permite que o personagem execute poderosos movimentos de ataque na direção desejada.
-TBook_Action_Desc_DirectionalAttack0	Indent>Um ataque direto básico executado com sua corrente. Acertará apenas os inimigos que estão diretamente à sua frente.
+PS3_TBook_Action_Desc_DarkFocusMode0	Indent>Aperte e segure R1 para ativar o modo Sombra Final. Com o modo ativado, o analógico esquerdo permite executar poderosos movimentos de ataque na direção desejada.
+TBook_Action_Desc_DirectionalAttack0	Indent>Um ataque direto básico executado com sua corrente. Acertará apenas os inimigos que estão à sua frente.
 TBook_Action_Desc_DivineShield0	Indent>Arremessar um Frasco de Água Benta com a Magia da Luz ativada criará uma barreira mágica ao seu redor. A barreira pode desviar muitos ataques inimigos sem comprometer seus movimentos e ataques.
 TBook_Action_Desc_Dodge0	.
 PS3_TBook_Action_Desc_Dodge0	Indent>Use o analógico esquerdo enquanto bloqueia (botão L2) para se esquivar de ataques inimigos.
@@ -725,7 +725,7 @@ TBook_Action_Desc_ShadowFlames0	Indent>Com a Magia Sombria ativada, este combo p
 TBook_Action_Desc_Shoryuken0	Indent>Uppercut de luva Negra Este ataque levanta joga vários inimigos próximos para o ar, permitindo que você continue o combo com outros ataques aéreos.
 TBook_Action_Desc_ShoulderCharge0	Indent>Com a Magia Sombria ativada, você pode transformar energia carregada em um movimento de ataque. A ombrada também pode ser usada para destruir e ultrapassar portas e paredes danificadas. Fique atento a sinais como queda de poeira e detritos.
 TBook_Action_Desc_Somersault0	.
-PS3_TBook_Action_Desc_Somersault0	Indent>Use o botão de pulo ([[A]]) enquanto bloqueia (botão L2) para saltar sobre um inimigo e cair de pé atrás dele.
+PS3_TBook_Action_Desc_Somersault0	Indent>Aperte [[A]] enquanto bloqueia (botão L2) para saltar sobre um inimigo e cair de pé atrás dele.
 TBook_Action_Desc_SomersaultStrike0	Indent>Depois de realizar um salto mortal sobre os inimigos, aperte [[X]] três vezes imediatamente para atacá-los por trás antes que eles possam reagir.
 TBook_Action_Desc_SpinningChain0	Indent>Aperte e segure [[Y]] enquanto estiver no ar para usar este ataque amplo e finalizar qualquer combo de ataque aéreo. Sua corrente vai varrer à sua volta e acertar quaisquer inimigos que estejam ao seu redor enquanto você pousar.
 TBook_Action_Desc_Sprint0	Indent>Dê dois toques no analógico esquerdo para dar uma corrida. Você pode saltar longas distâncias enquanto corre.
