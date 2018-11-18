@@ -790,7 +790,7 @@ TBook_Action_Name_Concentration	Concentração em Combate
 TBook_Action_Name_CounterstrikeA	Contragolpe Amplo
 TBook_Action_Name_CounterstrikeD	Contragolpe Direto
 TBook_Action_Name_Dagger	Adagas de Arremesso
-TBook_Action_Name_DaggerWave	Saraivada de Adagas
+TBook_Action_Name_DaggerWave	Rajada de Adagas
 TBook_Action_Name_DarkFocusMode	Sombra Final
 TBook_Action_Name_DarkMagic	Magia Sombria
 TBook_Action_Name_DirectionalAttack	Ataque Direto
@@ -878,7 +878,7 @@ TBook_Char_Desc_LycanthropeGreater0	Indent>Os Grandes Lycans (ou 'puros-sangues'
 TBook_Char_Desc_LycanthropeLesser0	Indent>Estas criaturas são seres humanos que foram infectados por uma doença, conhecida como a 'gripe do lobisomem', transmitida geralmente pela mordida de outro Lycan. Há um velho ditado que diz assim: 'Quem é mordido por um Lycan não deve nem correr. Melhor deixar o bicho, bem quietinho, te roer'. E como a maioria dos provérbios é valiosa, este provavelmente é útil também. Após a infecção, o processo de transformação pode levar apenas alguns minutos, substituindo a mente da vítima pelos instintos selvagens de um predador implacável.
 TBook_Char_Desc_Mandrake0	Indent>Ingredientes comuns na criação de poções mágicas, as raízes de mandrágora são um importante recurso para magos e alquimistas de todo o mundo. A colheita de raízes de mandrágora, no entanto, é uma atividade perigosa, pois a planta grita assustadoramente alto quando desenterrada, matando qualquer um que esteja por perto. Quando totalmente crescidas, as raízes se tornam Mandrágoras, seres que sobrevivem drenando a força vital das criaturas mais próximas.
 TBook_Char_Desc_Marie0	Indent>Marie, a filha mais nova de uma rica família de comerciantes, sempre foi atraída pela natureza corajosa da Irmandade da Luz. Curiosa e animada, escapava frequentemente dos afazeres domésticos para ajudar a Irmandade, cozinhando e faxinando para os monges. Durante uma dessas visitas, Marie conheceu o garoto que mais tarde se tornaria seu marido, um órfão chamado Gabriel.
-TBook_Char_Desc_Marie1	Indent>Estes dois jovens foram feitos um para o outro: cresceram juntos e trocaram juras de amor eterno. Mantendo as promessas de amor e com a benção tanto da família quanto da Irmandade, casaram-se numa idílica manhã. Maria proporcionava um belo contraponto ao humor sombrio de Gabriel: a risada dela muitas vezes era o suficiente para dissipar a aura negativa que pairava sobre ele.
+TBook_Char_Desc_Marie1	Indent>Estes dois jovens foram feitos um para o outro: cresceram juntos e trocaram juras de amor eterno. Mantendo as promessas de amor e com a benção tanto da família quanto da Irmandade, casaram-se numa idílica manhã. Marie proporcionava um belo contraponto ao humor sombrio de Gabriel: a risada dela muitas vezes era o suficiente para dissipar a aura negativa que pairava sobre ele.
 TBook_Char_Desc_Marie2	Indent>Marie foi tragicamente assassinada, e agora Gabriel busca por vingança.
 TBook_Char_Desc_MechanicalM0	Indent>Os Vampiros não foram os únicos moradores do castelo: havia um proprietário anterior, um cientista conhecido como Friedrich Von Frankenstein. Ele utilizava o castelo para ocultar suas terríveis experiências com vida artificial. A Monstruosidade Mecânica é fruto de um desses experimentos. Frankenstein criou esta máquina gigante em forma de escorpião utilizando um cérebro criado durante um experimento médico malsucedido. A criatura, no entanto, se mostrou quase incontrolável, e agora tumultua o interior do castelo matando todos aqueles que caem em suas garras.
 TBook_Char_Desc_Naiad0	Indent>Um dos maiores perigos reservados pelos pântanos são as criaturas conhecidas como Náiades. Estes seres, geralmente indiferentes, são encontrados deitados próximos aos leitos dos rios e em lugares úmidos e lamacentos, esperando pelo tropeço de aventureiros desavisados. Suas vítimas, já sem sorte, costumam confundir seus membros com galhos de árvores, e logo são afogadas... e devoradas. Antigamente, as Náiades eram belas criaturas adoradas pelos humanos, que ofereciam sacrifícios em sua homenagem. Hoje, no entanto, elas foram esquecidas pelos humanos, e agora se tornaram predadores malignos que assolam tanto os homens quanto outras criaturas.
@@ -1586,23 +1586,23 @@ TBook_Tutorial_CloseWarningOptions	%s Sim        %s Não
 TBook_Tutorial_SelectTab	.
 PS3_TBook_Tutorial_SelectTab	Você ainda tem um movimento de combate para comprar na página de Habilidades. Acesse a página pressionando L1.
 CHUPACABRA_000	Chupacabra>Quente, quente!
-CHUPACABRA_001	Chupacabra>Fumacê 
+CHUPACABRA_001	Chupacabra>Fumacê
 CHUPACABRA_002	Chupacabra>QUENTE!
 CHUPACABRA_003	Chupacabra>Cooee... Aqui!
-CHUPACABRA_010	Chupacabra>Morno... 
-CHUPACABRA_011	Chupacabra>Tá esquentando 
-CHUPACABRA_012	Chupacabra>Hmmm... Morno 
-CHUPACABRA_013	Chupacabra>Tão perto... Mas tão longe! 
+CHUPACABRA_010	Chupacabra>Morno...
+CHUPACABRA_011	Chupacabra>Tá esquentando
+CHUPACABRA_012	Chupacabra>Hmmm... Morno
+CHUPACABRA_013	Chupacabra>Tão perto... Mas tão longe!
 CHUPACABRA_020	Chupacabra>Frio... Muito frio!
-CHUPACABRA_021	Chupacabra>Congelando... Brrr 
-CHUPACABRA_022	Chupacabra>Rá rá... Brrrrrr 
-CHUPACABRA_023	Chupacabra>Friozinho... Friozinho 
+CHUPACABRA_021	Chupacabra>Congelando... Brrr
+CHUPACABRA_022	Chupacabra>Rá rá... Brrrrrr
+CHUPACABRA_023	Chupacabra>Friozinho... Friozinho
 CHUPACABRA_100	Chupacabra>Olá... Olá!
 CHUPACABRA_101	Chupacabra>Rá rá... Cego é você!
-CHUPACABRA_102	Chupacabra>Aqui, macaquinho! 
+CHUPACABRA_102	Chupacabra>Aqui, macaquinho!
 CHUPACABRA_103	Chupacabra>Escaldante!
 CHUPACABRA_110	Chupacabra>Óculos precisa você!
-CHUPACABRA_111	Chupacabra>Não muito perto... Não tão longe... 
+CHUPACABRA_111	Chupacabra>Não muito perto... Não tão longe...
 CHUPACABRA_112	Chupacabra>Hmmm... Ainda aí?
 CHUPACABRA_113	Chupacabra>Morno... Sim, sim! Hehe!
 CHUPACABRA_120	Chupacabra>Zzzz
@@ -2583,7 +2583,7 @@ Scene_CH01_PansTemple7	Pan>Por que a Irmandade da Luz o enviou até o Lago do Esq
 Scene_CH01_PansTemple8	Gabriel>Eles sonharam que uma mensagem aguardava por mim neste lago: uma mensagem que contém uma pista para a nossa salvação.
 Scene_CH01_PansTemple8_1	Gabriel>Fui instruído a procurá-lo, na esperança de que você pudesse me mostrar o caminho.
 Scene_CH01_PansTemple9	Pan>Os Anciãos acreditam que esses sonhos são a última mensagem dos Céus, e que você deveria descobrir alguma coisa da qual ainda não sabemos... É isso?
-Scene_CH01_PansTemple10	Gabriel>... Sim... Minha esposa, Maria, foi assassinada há quase dois dias pelo mal que percorre estas terras...
+Scene_CH01_PansTemple10	Gabriel>... Sim... Minha esposa, Marie, foi assassinada há quase dois dias pelo mal que percorre estas terras...
 Scene_CH01_PansTemple10_1	Gabriel>Sua alma e a daqueles que partiram recentemente estão presas aqui, e não conseguem encontrar a paz.
 Scene_CH01_PansTemple11	Pan>E foi por isso que eles o enviaram até o Lago do Esquecimento, por acreditarem que ela estaria esperando por você aqui? Para entregar uma mensagem a você?
 Scene_CH01_PansTemple12	Gabriel>Sim... Você me ajudaria?
@@ -2724,7 +2724,7 @@ Scene_CH03_DarkLordLycans19	Lycan_DarkLord>Ah, irmão. Até você tem de sorrir dia
 Scene_CH03_DarkLordLycans20	Lycan_DarkLord>Talvez ele esteja mesmo disposto a se sacrificar por você. Pelo bem maior. Eu, no entanto, não estou.
 Scene_CH03_PowerofSpirits_A0	Gabriel>.
 Scene_CH03_PowerofSpirits_A1	Marie>Apressa-te, meu amor. Tome o poder antes que ele seja perdido.
-Scene_CH03_PowerofSpirits_A2	Gabriel>Oblivium sempre terão demônios.
+Scene_CH03_PowerofSpirits_A2	Gabriel>Oblivium sempiternum daemonis
 Scene_CH03_PowerofSpirits_B0	Pan>Você ganhou um grande poder, mas ainda não é o bastante.
 Scene_CH03_PowerofSpirits_B0_1	Pan>Você deve unir os dois que restaram. Venha comigo, nosso tempo está acabando.
 Scene_CH03_PowerofSpirits_B1	Gabriel>Onde estamos? Que lugar é este?
@@ -2861,7 +2861,7 @@ Scene_CH11_DracolichApp3_1	Necromancer>Olhe para si: você se deleita com a morte
 Scene_CH11_DracolichApp4	Gabriel>Você não vai me deter!
 Scene_CH11_DracolichApp5	Necromancer>Haha... Não, não vou lhe deter.
 Scene_CH11_DracolichApp6	Necromancer>Olhe para mim, hipócrita! Contemple a morte gloriosa!
-Scene_CH12_EndingI_GabysDeath0	Gabriel>Oblivium sempre terão demônios.
+Scene_CH12_EndingI_GabysDeath0	Gabriel>Oblivium sempiternum daemonis
 Scene_CH12_EndingI_GabysDeath1	Zobek>Parabéns. Você fez um bom trabalho, meu amigo.
 Scene_CH12_EndingI_GabysDeath2	Zobek>Vejo que conseguiu unir os poderes. Excelente!
 Scene_CH12_EndingI_GabysDeath3	Gabriel>Agora podemos acabar com isso de uma vez por todas. Venha...
