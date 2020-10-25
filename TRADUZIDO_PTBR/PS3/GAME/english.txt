@@ -111,13 +111,13 @@ HELP_MESSAGE_4	Pegue o braço do Titã preso no gelo.
 HELP_MESSAGE_5	.
 PS3_HELP_MESSAGE_5	Aperte [[TRIANGLE]] para chamar Zobek.
 HELP_MESSAGE_5.4_A	Zobek não pode ajudar você enquanto ele estiver atordoado.
-HELP_MESSAGE_1.1_A	Ataques enfraquecem você. Encontre a Fonte de Saúde mais próxima.
+HELP_MESSAGE_1.1_A	Ataques enfraquecem você. Encontre a Fonte da Vida mais próxima.
 HELP_MESSAGE_1.1_B	.
-PS3_HELP_MESSAGE_1.1_B	Aperte R2 para utilizar a Fonte de Saúde.
+PS3_HELP_MESSAGE_1.1_B	Aperte R2 para utilizar a Fonte da Vida.
 HELP_MESSAGE_1.1_C	.
 PS3_HELP_MESSAGE_1.1_C	Segure R2 para pegar a estaca.
 HELP_MESSAGE_1.1_D	.
-PS3_HELP_MESSAGE_1.1_D	Aperte e segure L2 para bloquear. Movimente-se enquanto bloqueado para se esquivar.
+PS3_HELP_MESSAGE_1.1_D	Aperte e segure L2 para bloquear. Movimente-se enquanto bloqueia para se esquivar.
 HELP_MESSAGE_1.4_A	.
 PS3_HELP_MESSAGE_1.4_A	Aperte [[SQUARE]] para atacar os wargs ou aperte [[TRIANGLE]] para atacar os lycans. Mire seus ataques usando o analógico esquerdo.
 HELP_MESSAGE_1.4_B	.
@@ -130,7 +130,7 @@ HELP_MESSAGE_1.5_C	.
 PS3_HELP_MESSAGE_1.5_C	Você encontrou um manuscrito. Leia ele em seu Livro de Viagem.
 HELP_MESSAGE_1.5_D	A granada goblin arrancou a árvore!
 HELP_MESSAGE_1.5_D1	A granada foi desarmada. Tente de novo.
-HELP_MESSAGE_1.5_D2	A árvore foi arrancada... um poderoso impacto poderia derrubá-la.
+HELP_MESSAGE_1.5_D2	A árvore foi desenraizada... um poderoso impacto poderia derrubá-la.
 HELP_MESSAGE_1.5_E	.
 PS3_HELP_MESSAGE_1.5_E	Aperte R2 para Agarrar.
 HELP_MESSAGE_1.5_F	.
@@ -153,17 +153,17 @@ HELP_MESSAGE_1.5_R	.
 PS3_HELP_MESSAGE_1.5_R	Agarre o Goblin para pegar sua granada! Lembre-se: você precisa pressionar R2 para agarrar um inimigo.
 HELP_MESSAGE_1.5_S	.
 PS3_HELP_MESSAGE_1.5_S	Pegue e jogue a granada pressionando R2!
-HELP_MESSAGE_1.5_T	Você pode descer aqui. Vá até a beira para que Gabriel possa se pendurar.
+HELP_MESSAGE_1.5_T	Você pode descer aqui. Vá até a borda para que Gabriel possa se pendurar.
 HELP_MESSAGE_1.5_U	Use o analógico esquerdo para descer até a saliência abaixo.
 HELP_MESSAGE_1.5_V	.
 PS3_HELP_MESSAGE_1.5_V	Mova o analógico esquerdo para baixo e aperte [[CROSS]] para descer.
 HELP_MESSAGE_1.5_V1	SAIA DAÍ AGORA!
-HELP_MESSAGE_1.5_V2	Você pode descer os muros fazendo rapel, pressionando o analógico esquerdo para baixo.
+HELP_MESSAGE_1.5_V2	Você pode fazer rapel nas paredes, pressionando o analógico esquerdo para baixo.
 HELP_MESSAGE_1.5_V3	.
 PS3_HELP_MESSAGE_1.5_V3	Aperte [[CROSS]] para soltar.
 HELP_MESSAGE_1.7_A	Crie uma ponte entre Gabriel e Marie.
 HELP_MESSAGE_1.7_B	.
-PS3_HELP_MESSAGE_1.7_B	Pan oferece a você uma pista para resolver o enigma. Confira seu Livro de Viagem pressionando SELECT.
+PS3_HELP_MESSAGE_1.7_B	Pan lhe ofereceu uma pista para resolver o enigma. Confira seu Livro de Viagem pressionando SELECT.
 HELP_MESSAGE_1.7_C	Selecionar Anel
 HELP_MESSAGE_1.7_D	Girar Anel no sentido horário
 HELP_MESSAGE_1.7_E	Girar Anel no sentido anti-horário
@@ -177,31 +177,31 @@ HELP_MESSAGE_1.7_I	Você não pode alcançar a Arca da Irmandade. Volte mais tarde 
 HELP_MESSAGE_1.9_A	O Titã está com o braço preso no gelo. Descubra uma maneira de subir no braço dele.
 HELP_MESSAGE_1.9_B	.
 PS3_HELP_MESSAGE_1.9_B	Aperte R2 para subir no Titã.
-HELP_MESSAGE_1.9_C	Procure e destrua as runas que animam o Titã.
+HELP_MESSAGE_1.9_C	Procure e destrua as runas que dão vida ao Titã.
 HELP_MESSAGE_1.9_D	.
 PS3_HELP_MESSAGE_1.9_D	Aperte [[SQUARE]] repetidamente para destruir a runa.
 HELP_MESSAGE_2.2_A	Encontre uma fonte de magia elementar para recarregar sua nova Gema da Luz.
 HELP_MESSAGE_2.2_B	Aperte e segure o analógico esquerdo para absorver energia elementar da estátua e recarregar seu reservatório de Magia.
 HELP_MESSAGE_2.2_C	.
 PS3_HELP_MESSAGE_2.2_C	Aperte L1 para ativar ou desativar sua Magia da Luz.
-HELP_MESSAGE_2.2_D	Você pode absorver um pouco de saúde dos inimigos com a Magia da Luz.
+HELP_MESSAGE_2.2_D	Recupere sua saúde ao atacar inimigos com sua Magia da Luz ativada.
 HELP_MESSAGE_2.2_E	Absorva Orbs Elementares dos inimigos derrotados para recarregar sua Gema da Luz.
 HELP_MESSAGE_2.2_F	Confira seu Livro de Viagem. Você tem uma nova habilidade!
 HELP_MESSAGE_2.2_G	.
 PS3_HELP_MESSAGE_2.2_G	Zobek deu a você um Medalhão de Magia da Luz. Aperte L1 para ativá-lo.
 HELP_MESSAGE_2.2_H	O reservatório de Magia da Luz mostra seu atual nível de magia.
-HELP_MESSAGE_2.2_I	Ataques carregados com Magia da Luz recuperam sua saúde, mas gastam sua magia.
+HELP_MESSAGE_2.2_I	Ataques com a Magia da Luz recuperam sua saúde, mas gastam sua magia.
 HELP_MESSAGE_2.2_J	.
 PS3_HELP_MESSAGE_2.2_J	Aperte L1 novamente para desativar a Magia da Luz.
 HELP_MESSAGE_2.2_K	Este é um orb elementar. Você pode absorvê-lo para recarregar seu reservatório de Magia da Luz.
 HELP_MESSAGE_2.2_L	Aperte e segure o analógico esquerdo para absorver o orb elementar antes que ele desapareça.
 HELP_MESSAGE_2.2_M	.
 PS3_HELP_MESSAGE_2.2_M	Muito bem! Aperte SELECT para conferir novos combos de Magia da Luz e outras habilidades disponíveis no seu Livro de Viagem.
-HELP_MESSAGE_2.2_TUTOFOCUS_A	A Barra de Concentração é mostrada na parte inferior da tela durante o combate. Acenda todas as runas ao acertar os inimigos e evitar danos!
+HELP_MESSAGE_2.2_TUTOFOCUS_A	A Barra de Concentração é mostrada na parte inferior da tela durante o combate. Para acender todas as runas, acerte os inimigos evitando danos!
 HELP_MESSAGE_2.2_TUTOFOCUS_B	.
-PS3_HELP_MESSAGE_2.2_TUTOFOCUS_B	Ativando sua magia interrompe sua concentração!
+PS3_HELP_MESSAGE_2.2_TUTOFOCUS_B	Ativar sua magia interrompe sua concentração!
 HELP_MESSAGE_2.2_TUTOFOCUS_C	Você perde concentração ao ser atingido!
-HELP_MESSAGE_2.2_TUTOFOCUS_D	Isso mesmo! Agora mantenha sua concentração para que os inimigos soltem Orbs Elementares após cada golpe bem-sucedido, permitindo que você mantenha seu suprimento de magia durante o combate ou até você perder sua concentração.
+HELP_MESSAGE_2.2_TUTOFOCUS_D	Isso ai! Agora mantenha sua concentração para que os inimigos soltem Orbs Elementares após cada golpe bem-sucedido, permitindo que você mantenha seu suprimento de magia durante o combate ou até você perder sua concentração.
 HELP_MESSAGE_2.2_TUTOFOCUS_E	Você encontrou o Manuscrito de Concentração!
 HELP_MESSAGE_2.2_TUTOLM_A	Estes são Orbs Elementares.
 HELP_MESSAGE_2.2_TUTOLM_B	Você é capaz de absorvê-los graças ao Medalhão de Magia da Luz que Zobek deu a você.
@@ -210,13 +210,13 @@ PS3_HELP_MESSAGE_2.2_TUTOLM_C	Antes que eles desapareçam, aperte e segure L3 par
 HELP_MESSAGE_2.2_TUTOLM_D	.
 PS3_HELP_MESSAGE_2.2_TUTOLM_D	Você acabou de converter energia elementar em Magia da Luz! Aperte L1 para ativar seu poder de Magia da Luz.
 HELP_MESSAGE_2.2_TUTOLM_E	Você recupera sua saúde ao atacar inimigos com sua Magia da Luz ativada. No entanto, parte do seu reservatório de Magia da Luz será gasto. Use este poder com sabedoria!
-HELP_MESSAGE_2.2_TUTOLM_F	Os inimigos não vão soltar Orbs Elementares enquanto você mantém sua magia ativada. Você consegue Orbs Elementares somente ao matar inimigos com sua magia desativada.
+HELP_MESSAGE_2.2_TUTOLM_F	Os inimigos não vão soltar Orbs Elementares enquanto você usa magia. Você consegue Orbs Elementares somente ao matar inimigos sem usar magia.
 HELP_MESSAGE_2.2_TUTOLM_G	.
 PS3_HELP_MESSAGE_2.2_TUTOLM_G	Você pode ativar ou desativar sua Magia da Luz a qualquer momento, pressionando L1.
 HELP_MESSAGE_2.2_X	.
 PS3_HELP_MESSAGE_2.2_X	Aperte e segure L3 para absorver energia elementar e recarregar sua Magia da Luz.
 HELP_MESSAGE_2.2_Y	Este dispositivo requer Magia Sombria para ser ativado. Volte quando suas habilidades melhorarem.
-HELP_MESSAGE_2.2_Z	Esta é uma estátua de energia elementar. Use-a para restaurar seus níveis de magia.
+HELP_MESSAGE_2.2_Z	Essa é uma estátua de energia elementar. Use-a para restaurar seus níveis de magia.
 HELP_MESSAGE_2.3_A	Você foi envenenado. Ative sua Magia da Luz para combater os efeitos do veneno!
 HELP_MESSAGE_2.3_B	Você precisa aprimorar sua Cruz de Combate para serrar este totem. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_2.3_C	.
@@ -229,23 +229,23 @@ PS3_HELP_MESSAGE_2.3_F	Aperte R2 para usar a chave.
 HELP_MESSAGE_2.3_G	Agora você pode usar a Cruz de Combate para cortar certos obstáculos.
 HELP_MESSAGE_2.3_TUTOJUMP	.
 PS3_HELP_MESSAGE_2.3_TUTOJUMP	Aperte [[CROSS]] para saltar para trás de forma segura.
-HELP_MESSAGE_2.4_A	Você deve achar um meio de explodir esta barreira...
+HELP_MESSAGE_2.4_A	Você deve achar um meio de explodir essa barreira...
 HELP_MESSAGE_2.4_A_1	Porta pesada. Somente uma poderosa fera poderia quebrá-la.
 HELP_MESSAGE_2.4_B	.
 PS3_HELP_MESSAGE_2.4_B	O Javali está atordoado. Aperte R2 para montá-lo.
-HELP_MESSAGE_2.4_C	Talvez agora você possa quebrar aquela porta: mire o Javali na direção que você quer seguir e deixe o resto com a fera!
+HELP_MESSAGE_2.4_C	Talvez agora você possa quebrar aquela porta: mire o Javali na direção desejada e deixe o resto com a fera!
 HELP_MESSAGE_2.4_D	.
 PS3_HELP_MESSAGE_2.4_D	Segure os botões L2 e R2 ao mesmo tempo para estrangular sua montaria.
 HELP_MESSAGE_2.4_E	.
 PS3_HELP_MESSAGE_2.4_E	Aperte [[SQUARE]] ou [[TRIANGLE]] para se afastar da parede e então [[CROSS]] para se soltar.
-HELP_MESSAGE_2.4_F	Esta parte da parede parece frágil, mas você não é forte o bastante para derrubá-la. Ainda...
-HELP_MESSAGE_2.4_G	Talvez você possa derrubar esta parede...
+HELP_MESSAGE_2.4_F	Essa parte da parede parece frágil, mas você não é forte o bastante para derrubá-la. Não ainda...
+HELP_MESSAGE_2.4_G	Talvez você possa derrubar essa parede...
 HELP_MESSAGE_2.4_H	Você precisa recuperar suas relíquias dos Chupa-cabras antes de tentar isso...
-HELP_MESSAGE_2.4_I	Esta porta parece frágil, mas você não é forte o bastante para derrubá-la... Ainda.
-HELP_MESSAGE_2.4_J	Talvez você possa quebrar esta porta...
+HELP_MESSAGE_2.4_I	Essa porta parece frágil, mas você não é forte o bastante para derrubá-la... Ainda.
+HELP_MESSAGE_2.4_J	Talvez você possa quebrar essa porta...
 HELP_MESSAGE_2.5_A	.
 PS3_HELP_MESSAGE_2.5_A	Aperte R2 para utilizar o mecanismo.
-HELP_MESSAGE_2.5_B	Use o analógico esquerdo para rodar o mecanismo.
+HELP_MESSAGE_2.5_B	Use o analógico esquerdo para girar o mecanismo.
 HELP_MESSAGE_2.6_A	Este dispositivo requer Magia Sombria para ser ativado.
 HELP_MESSAGE_2.6_B	Encontre uma fonte de magia elementar para recarregar sua nova Gema das Sombras.
 HELP_MESSAGE_2.6_C	.
@@ -253,7 +253,7 @@ PS3_HELP_MESSAGE_2.6_C	Aperte e segure R3 para absorver energia elementar da est
 HELP_MESSAGE_2.6_D	.
 PS3_HELP_MESSAGE_2.6_D	Aperte R1 para ativar ou desativar sua Magia Sombria.
 HELP_MESSAGE_2.6_E	Você causa mais dano ao atacar os inimigos com sua Magia Sombria ativada. No entanto, parte do seu reservatório de Magia Sombria será gasto. Use este poder com sabedoria!
-HELP_MESSAGE_2.6_F	Você precisar usar a Magia Sombria para ativar esta runa.
+HELP_MESSAGE_2.6_F	Você precisa usar a Magia Sombria para ativar essa runa.
 HELP_MESSAGE_2.6_G	.
 PS3_HELP_MESSAGE_2.6_G	Ative sua Magia Sombria (botão R1) para utilizar este dispositivo.
 HELP_MESSAGE_2.6_H	.
@@ -265,7 +265,7 @@ HELP_MESSAGE_2.6_K	.
 PS3_HELP_MESSAGE_2.6_K	Use a Magia da Luz (botão L1) para recuperar sua saúde. Use a Magia Sombria (botão R1) para causar mais dano.
 HELP_MESSAGE_2.6_L	.
 PS3_HELP_MESSAGE_2.6_L	A Aranha deixou cair uma Gema de Magia da Luz! Aproxime-se dela para pegá-la, pressionando R2.
-HELP_MESSAGE_2.6_M	Talvez você possa usar esta árvore para ajudá-lo a atravessar.
+HELP_MESSAGE_2.6_M	Talvez você possa usar essa árvore para ajudá-lo a atravessar.
 HELP_MESSAGE_2.6_N	.
 PS3_HELP_MESSAGE_2.6_N	A Aranha está atordoada. Aperte R2 para montá-la.
 HELP_MESSAGE_2.6_O	.
@@ -275,33 +275,33 @@ PS3_HELP_MESSAGE_2.6_P	Aperte [[TRIANGLE]] para criar uma ponte com a teia da Ar
 HELP_MESSAGE_2.6_Q	.
 PS3_HELP_MESSAGE_2.6_Q	Use o analógico esquerdo para mover à esquerda ou à direita. Aperte [[CROSS]] para se soltar.
 HELP_MESSAGE_2.6_R	Você encontrou o Medalhão de Magia Sombria!
-HELP_MESSAGE_2.7_A	Você não pode saltar esta distância por conta própria...
+HELP_MESSAGE_2.7_A	Você não pode saltar essa distância sozinho...
 HELP_MESSAGE_2.7_B	.
 PS3_HELP_MESSAGE_2.7_B	O Warg está atordoado. Aperte R2 para montá-lo.
 HELP_MESSAGE_2.7_C	.
 PS3_HELP_MESSAGE_2.7_C	Dê dois toques no analógico esquerdo para correr em direção à ponte e então aperte [[CROSS]] para cruzá-la.
-HELP_MESSAGE_2.7_D	Você precisa ser mais forte para empurrar esta estátua. Volte quando suas habilidades melhorarem.
+HELP_MESSAGE_2.7_D	Você precisa ser mais forte para empurrar essa estátua. Volte quando suas habilidades melhorarem.
 HELP_MESSAGE_2.7_E	É impossível subir aqui. É melhor você encontrar um caminho alternativo.
 HELP_MESSAGE_2.8_A	Use o direcional para selecionar o Cristal Negro.
 HELP_MESSAGE_2.8_B	.
 PS3_HELP_MESSAGE_2.8_B	Os Cristais Negros são armas muito poderosas: este já está completo. Liberte o demônio preso no interior do cristal pressionando [[CIRCLE]].
-HELP_MESSAGE_2.8_D	Você precisa de um Cristal Negro completo para ativar esta estátua. Procure por mais pedaços nas proximidades das ruínas.
-HELP_MESSAGE_2.8_E	Você precisa de um Cristal Negro completo para ativar esta estátua.
+HELP_MESSAGE_2.8_D	Você precisa de um Cristal Negro completo para ativar essa estátua. Procure por mais pedaços nas proximidades das ruínas.
+HELP_MESSAGE_2.8_E	Você precisa de um Cristal Negro completo para ativar essa estátua.
 HELP_MESSAGE_3.0_A	.
 PS3_HELP_MESSAGE_3.0_A	Você poderia mover a estátua com o poder da luva. Segure L2 e aperte [[SQUARE]].
 HELP_MESSAGE_3.0_B	.
 PS3_HELP_MESSAGE_3.0_B	Isso não é o bastante. Carregue seu ataque segurando [[SQUARE]].
-HELP_MESSAGE_3.0_C	Você pode precisar combinar a Magia Sombria com a luva para quebrar esta porta.
+HELP_MESSAGE_3.0_C	Você pode precisar combinar a Magia Sombria com a luva para quebrar essa porta.
 HELP_MESSAGE_3.0_D	Você encontrou o reservatório de fadas. Procure pelas flores das fadas nas torres para carregar o reservatório.
 HELP_MESSAGE_3.0_E	O reservatório está vazio.
 HELP_MESSAGE_3.0_F	Você pegou uma Fada. Você ainda precisa de mais duas.
 HELP_MESSAGE_3.0_G	Você pegou uma Fada. Você ainda precisa de mais uma.
 HELP_MESSAGE_3.0_H	Você pegou uma Fada. Siga para o portão principal!
-HELP_MESSAGE_3.0_I	Você perdeu uma ou mais de suas Fadas. Procure por mais flores das fadas para substituí-las!
+HELP_MESSAGE_3.0_I	Você perdeu algumas Fadas. Procure por mais flores das fadas para substituí-las!
 HELP_MESSAGE_3.3_A	As Botas Ciclone permitem que você corra curtas distâncias: dê dois toques para qualquer direção no analógico esquerdo.
 HELP_MESSAGE_3.3_B	.
 PS3_HELP_MESSAGE_3.3_B	Aperte [[CROSS]] enquanto corre para saltar ainda mais longe.
-HELP_MESSAGE_3.3_Z	É preciso usar Magia para ativar esta runa...
+HELP_MESSAGE_3.3_Z	É preciso usar Magia para ativar essa runa...
 HELP_MESSAGE_4.1	Você não será capaz de avançar até que você recupere suas relíquias dos Chupa-cabras.
 HELP_MESSAGE_CHUPACABRAS	Os Chupa-cabras roubaram suas relíquias e poderes! Pegue elas de volta!
 HELP_MESSAGE_4.1_RELICS_BACK	Você recuperou todas as relíquias e poderes!
@@ -326,7 +326,7 @@ HELP_MESSAGE_7.3_B	Mover Lente
 HELP_MESSAGE_7.3_C	Sair
 HELP_MESSAGE_9.1_B	Suas Asas também podem ajudá-lo a saltar mais alto e mais longe.
 HELP_MESSAGE_9.1_C	Aperte o botão de pulo duas vezes para usar suas novas Asas.
-HELP_MESSAGE_9.1_D	Você não pode saltar esta distância sem suas relíquias...
+HELP_MESSAGE_9.1_D	Você não pode saltar essa distância sem suas relíquias...
 HELP_MESSAGE_9.3_A	Um bando de corvos acabou de chegar.
 HELP_MESSAGE_9.3_B	Um novo bando de corvos acabou de chegar.
 HELP_MESSAGE_9.3_C	Os corvos voaram para outro lugar.
@@ -382,17 +382,17 @@ HELP_MESSAGE_11.0_A_1	Selecionar Dia
 HELP_MESSAGE_11.0_A_2	Selecionar Fase Lunar
 HELP_MESSAGE_11.0_B	Executar Ordem
 HELP_MESSAGE_11.0_C	Sair
-HELP_MESSAGE_Door_0_Fairies_3.0_T	Você precisa achar três Fadas para abrir esta porta.
-HELP_MESSAGE_Door_1_Fairies_3.0_T	Você tem apenas uma Fada: procure por mais duas para abrir esta porta.
-HELP_MESSAGE_Door_2_Fairies_3.0_T	Você tem duas Fadas: encontre mais uma para abrir esta porta.
+HELP_MESSAGE_Door_0_Fairies_3.0_T	Você precisa achar três Fadas para abrir essa porta.
+HELP_MESSAGE_Door_1_Fairies_3.0_T	Você tem apenas uma Fada: procure por mais duas para abrir essa porta.
+HELP_MESSAGE_Door_2_Fairies_3.0_T	Você tem duas Fadas: encontre mais uma para abrir essa porta.
 HELP_MESSAGE_KEY	Você encontrou a chave!
 HELP_MESSAGE_KEYS	Você encontrou uma das chaves necessárias!
 HELP_MESSAGE_KEY_2.3	Você encontrou uma Chave de Pedra Rúnica.
 HELP_MESSAGE_KEY_2.8	Você encontrou uma das Pedras Rúnicas da ponte que estavam perdidas.
 HELP_MESSAGE_KEY_5.4	Você encontrou uma das Chaves do Claustro da Abadia.
 HELP_MESSAGE_KEY_6.1	Você encontrou a Chave do Vampiro.
-HELP_MESSAGE_KEY_6.5	Você encontrou a Chave do Carniceiro.
-HELP_MESSAGE_KEY_6.5_A	O Carniceiro deixou cair uma Chave. Você precisa dela para sair da cozinha.
+HELP_MESSAGE_KEY_6.5	Você encontrou a Chave do Açougueiro.
+HELP_MESSAGE_KEY_6.5_A	O Açougueiro deixou cair uma Chave. Você precisa dela para sair da cozinha.
 HELP_MESSAGE_KEY_7.1	Você encontrou a Chave da Varanda.
 HELP_MESSAGE_KEY_7.3	Você encontrou a Chave Branca.
 HELP_MESSAGE_KEY_8.1	Você encontrou a Chave da Torre.
@@ -413,7 +413,7 @@ HELP_MESSAGE_Chapter1_Lavadora	.
 HELP_MESSAGE_Chapter1_Grip	.
 HELP_MESSAGE_Chapter1_Pan_Puzzle_Pieces	.
 HELP_MESSAGE_Chapter1_Pan_Puzzle	.
-PS3_HELP_MESSAGE_Chapter1_Fountain	Aperte R2 para utilizar a Fonte de Saúde.
+PS3_HELP_MESSAGE_Chapter1_Fountain	Aperte R2 para utilizar a Fonte da Vida.
 PS3_HELP_MESSAGE_Chapter1_FallenKnight	Aperte R2 para examinar o cadáver do cavaleiro caído.
 PS3_HELP_MESSAGE_Chapter1_Grenades	Aperte R2 para pegar a granada.
 PS3_HELP_MESSAGE_Chapter1_Tree	Aperte R2 para examinar a árvore.
@@ -421,7 +421,7 @@ PS3_HELP_MESSAGE_Chapter1_Lavadora	Aperte R2 para abrir a Arca da Irmandade.
 PS3_HELP_MESSAGE_Chapter1_Grip	Aperte R2 para Agarrar.
 PS3_HELP_MESSAGE_Chapter1_Pan_Puzzle_Pieces	Aperte R2 para examinar as gravuras.
 PS3_HELP_MESSAGE_Chapter1_Pan_Puzzle	Aperte R2 para usar o Amuleto de Pã.
-Warning_Mud	A névoa é venenosa! Não encoste nela!
+Warning_Mud	A névoa é venenosa! Saia daí!
 CHAPTER_1_GRIP_HELP	.
 PS3_CHAPTER_1_GRIP_HELP	Aperte R2 para interagir.
 1_1_BASIC_ATTACK_TUTORIAL	.
@@ -443,11 +443,11 @@ PS3_1_1_MG_MOMENT_CATCH_TUTORIAL_1	Espere...
 1_1_MG_MOMENT_CATCH_TUTORIAL_2	.
 PS3_1_1_MG_MOMENT_CATCH_TUTORIAL_2	Aperte qualquer botão agora!
 1_1_LIFE_FOUNTAIN_TUTORIAL_0	.
-PS3_1_1_LIFE_FOUNTAIN_TUTORIAL_0	Esta é uma Fonte de Saúde. Use-a para restaurar sua saúde. Você pode interagir com tudo o que brilha assim!
+PS3_1_1_LIFE_FOUNTAIN_TUTORIAL_0	Essa é uma Fonte da Vida. Use-a para restaurar sua saúde. Você pode interagir com tudo o que brilha assim!
 1_1_LIFE_FOUNTAIN_TUTORIAL_1	.
-PS3_1_1_LIFE_FOUNTAIN_TUTORIAL_1	Use a Fonte de Saúde agora. Aperte R2 próximo dela.
+PS3_1_1_LIFE_FOUNTAIN_TUTORIAL_1	Use a Fonte da Vida agora. Aperte R2 próximo dela.
 1_1_DAGGER_TUTORIAL_0	.
-PS3_1_1_DAGGER_TUTORIAL_0	Os inimigos derrotados muitas vezes deixam cair recompensas. Pegue estas Adagas antes que elas desapareçam!
+PS3_1_1_DAGGER_TUTORIAL_0	Os inimigos derrotados geralmente deixam recompensas. Pegue estas Adagas antes que elas desapareçam!
 1_1_DAGGER_TUTORIAL_1	.
 PS3_1_1_DAGGER_TUTORIAL_1	Pegue as Adagas antes que elas desapareçam!
 1_1_JUMP_TUTORIAL_0	.
@@ -462,7 +462,7 @@ PS3_1_1_JUMP_TUTORIAL_3	Agora execute um ataque aéreo sobre um inimigo, pression
 PS3_1_1_NEW_COMBO_AVALIABLE	Aperte SELECT a qualquer momento para acessar seu Livro de Viagem.
 1_1_IMPALE_WARG	Aperte e segure []
 1_1_IMPALE_WARG_TOO_EARLY	.
-PS3_1_1_IMPALE_WARG_TOO_EARLY	Cedo demais! O warg sabe o que você pretende fazer!
+PS3_1_1_IMPALE_WARG_TOO_EARLY	Muito cedo! O warg sabe o que você pretende fazer!
 1_4_SYNC_BLOCK_TUTORIAL	.
 PS3_1_4_SYNC_BLOCK_TUTORIAL	Tente Bloquear (botão L2) em sincronia com um ataque inimigo.
 1_4_SYNC_ATTACK_TUTORIAL_HELP	.
@@ -474,16 +474,16 @@ PS3_1_1_UNBLOCK_TUTO_1	Saia daí agora!
 1_1_RECOVER_TUTO	.
 PS3_1_1_RECOVER_TUTO	Recuperação Rápida!
 PS3_Hint_Checkpoint	Checkpoint Alcançado!
-Hint_Break_Any_TrollBig	Você não pode destruir este obstáculo por conta própria...
+Hint_Break_Any_TrollBig	Você não pode destruir esse obstáculo por conta própria...
 Hint_Break_Any_TrollBig_Mount	.
 PS3_Hint_Break_Any_TrollBig_Mount	Use os ataques do Troll ([[SQUARE]] ou [[TRIANGLE]]) para destruir o obstáculo.
-Hint_Break_Any_TrollBigSwamp	Você não pode destruir este obstáculo por conta própria...
-Hint_Break_Any_Warthog	Até mesmo as granadas dos goblins seriam inúteis contra esta porta blindada...
+Hint_Break_Any_TrollBigSwamp	Você não pode destruir esse obstáculo por conta própria...
+Hint_Break_Any_Warthog	Até mesmo as granadas dos goblins seriam inúteis contra essa porta blindada...
 Hint_Break_Any_GoblinGrenade	As granadas poderiam derrubá-la...
-Hint_Break_DungeonDoorA_WargGreat	Esta porta é pesada demais: você vai precisar de braços mais fortes para quebrá-la...
-Hint_Break_TrollDoorA_TrollBig	Você não pode destruir esta porta por conta própria...
-Hint_Break_LAB_RocksBTroll_TrollBig	Você não pode destruir estas pedras por conta própria...
-Hint_Break_WarthogDoorA_Warthog	Esta porta é muito resistente: quem sabe se você tomar impulso...
+Hint_Break_DungeonDoorA_WargGreat	Essa porta é muito pesada: você vai precisar de braços mais fortes para quebrá-la...
+Hint_Break_TrollDoorA_TrollBig	Você não pode destruir essa porta por conta própria...
+Hint_Break_LAB_RocksBTroll_TrollBig	Você não pode destruir essas pedras por conta própria...
+Hint_Break_WarthogDoorA_Warthog	Essa porta é muito resistente: quem sabe se você tomar impulso...
 Hint_Bridge_Any_SpiderGiant_Mount	.
 PS3_Hint_Bridge_Any_SpiderGiant_Mount	Use o ataque de teia da Aranha ([[TRIANGLE]]) para tecer uma ponte.
 Hint_Climb_Any_WargGreat	.
@@ -499,8 +499,8 @@ Hint_ElectricButton	Dê um soco neste botão para ligá-lo ou desligá-lo.
 Hint_ElectricBase	É necessário colocar uma bateria aqui.
 Hint_Jump_Abort_WargGreat	Tome impulso antes de saltar.
 Hint_Jump_Any_Warthog	Um pouco mais de velocidade ajudaria a saltar sobre o buraco...
-Hint_MechanismPush	Dê um soco neste botão para ligá-lo.
-Hint_Punch_Button_Default	Use o poder da luva para ativar este botão.
+Hint_MechanismPush	Dê um soco nesse botão para ligá-lo.
+Hint_Punch_Button_Default	Use o poder da luva para ativar esse botão.
 Hint_Sprint_Jump_Gap	Tome impulso para então dar um salto duplo.
 PS3_Tutorial_Accept	[[CROSS]] Aceitar
 TUTORIAL_SUCCESS	.
@@ -817,7 +817,7 @@ TBook_Char_Desc_Abbot0	Indent>A abadia de Wygol sempre foi um lugar de paz e med
 TBook_Char_Desc_AnimArmour0	Indent>Estas armaduras vazias ganharam 'vida' temporariamente quando foram possuídas por um poltergeist. Elas servem à Rainha dos Vampiros, protegendo e patrulhando os salões e os corredores do Castelo. O espírito deste poltergeist pode passar de armadura para armadura a seu prazer, embora tenha descansado por vários dias após a mudança. Uma vez estabelecido dentro de uma armadura, o poltergeist pode viajar livremente entre duas dimensões, gerando sempre uma descarga elétrica que indica uma abertura entre o nosso mundo e o mundo dos espíritos. Você pode saber quando uma armadura está possuída quando um estranho brilho sobrenatural avermelhado emana de dentro dela, indicando que seu habitante fantasma está acordado.
 TBook_Char_Desc_BabaYaga0	Indent>Esta velha feiosa é uma personagem mítica que faz parte do folclore popular, e é geralmente descrita como uma bruxa malvada que come crianças e vive em uma cabana construída sobre um par de pernas de galinha. Embora parte dessas lendas sejam verdadeiras, sua casa não fica em cima de duas pernas de galinha. Quanto ao resto, porém... quem sabe? Baba Yaga gosta de preparar um chá especial feito a partir das pétalas de uma rara rosa azul, o qual transforma temporariamente esta velha bruxa em uma bela jovem. Embora ela às vezes ajude as pessoas, geralmente é muito perigoso pedir um favor a ela, a menos que você seja muito educado e possa lhe oferecer algo em troca.
 TBook_Char_Desc_BlackKnight0	Indent>Este Golem foi criado a partir de técnicas semelhantes àquelas empregadas na construção dos Titãs. Contudo, era necessário dispor de um corpo humano para imbuir a armadura com um grande poder. Então o pai de Claudia usou o cadáver de um assassino mudo para tecer a alma deste dentro da armadura, forjando este ser mágico. O Cavaleiro Negro precisa de almas para funcionar, e por isso Claudia atrai criaturas malignas para que ele possa devorá-las. Apesar disso, o Cavaleiro Negro não é mau: a alma do assassino preso na armadura espera pela redenção enquanto protege sua pupila. Ele vê a filha muda de seu criador como um semelhante, uma criatura que ele acabou aprendendo a amar.
-TBook_Char_Desc_Butcher0	Indent>De alguma forma, este monstro de origem desconhecida se tornou o 'cozinheiro oficial' dos Vampiros. A Rainha dos Vampiros usa o Carniceiro para alimentar os Ghouls, Wargs e outras criaturas que vivem no recinto do castelo.
+TBook_Char_Desc_Butcher0	Indent>De alguma forma, este monstro de origem desconhecida se tornou o 'cozinheiro oficial' dos Vampiros. A Rainha dos Vampiros usa o Açougueiro para alimentar os Ghouls, Wargs e outras criaturas que vivem no recinto do castelo.
 TBook_Char_Desc_Butcher1	Indent>Ele carrega um enorme cutelo de ferro como sua arma principal. Ele não é exatamente um guerreiro, mas é perigoso e habilidoso com as ferramentas disponíveis em sua cozinha. No entanto, devido ao seu tamanho, ele precisa se 'abastecer' constantemente para manter a resistência.
 TBook_Char_Desc_Chupacabra0	Indent>Retratados muitas vezes como monstros maus e chupadores de sangue, as únicas obsessões dos Chupa-cabras são as relíquias mágicas. Ao avistar tais artefatos, eles farão qualquer coisa para pegá-los. Porém os Chupa-cabras não são criaturas intrinsecamente más. Na maioria das vezes eles devolvem tudo o que roubam após uma breve brincadeira de esconde-esconde.
 TBook_Char_Desc_Claudia0	Indent>Claudia é uma órfã muda que vive nas ruínas de Agharta, a capital destruída de uma grande civilização do passado. A raça que criou a cidade viveu uma vida muito longa, geralmente por muitos séculos, e Claudia compartilha dessa característica. Tendo resistido por inúmeros anos em meio à poeira e a decadência, ela desenvolveu poderes telepáticos de comunicação com seu fiel guardião, o Cavaleiro Negro. A telepatia é uma antiga forma de comunicação predileta por seus ancestrais. O forte vínculo desenvolvido entre ela e seu protetor blindado já salvou a ambos em diversas ocasiões. Claudia é corajosa e despreocupada, sem medo de enfrentar o perigo. Ainda assim ela carrega dentro de si uma tristeza que nunca vai deixá-la: a perda de seu amado pai.
@@ -885,7 +885,7 @@ TBook_Char_Name_Abbot	Vincent Dorin
 TBook_Char_Name_AnimArmour	Armadura Animada
 TBook_Char_Name_BabaYaga	Baba Yaga
 TBook_Char_Name_BlackKnight	Cavaleiro Negro Golem
-TBook_Char_Name_Butcher	Carniceiro
+TBook_Char_Name_Butcher	Açougueiro
 TBook_Char_Name_Chupacabra	Chupa-cabras
 TBook_Char_Name_Claudia	Claudia
 TBook_Char_Name_CreepingCoffin	Caixão Rastejante
@@ -1359,7 +1359,7 @@ TBook_Scroll_6_5_refectory_3_Extended_6	Bold>Solução do Quebra-cabeça
 TBook_Scroll_6_5_refectory_3_Extended_7	Indent>Alguém escreveu esta nota de rodapé na parte de trás do manuscrito:
 TBook_Scroll_6_5_refectory_3_Extended_Title	Dica do Manuscrito
 TBook_Scroll_6_5_refectory_3_Title	Dica do Manuscrito
-TBook_Scroll_6_5_refectory_4_0	Indent>Complete a fase e derrote o Carniceiro após ele ter usado pelo menos 15 objetos que estão na cozinha
+TBook_Scroll_6_5_refectory_4_0	Indent>Complete a fase e derrote o Açougueiro após ele ter usado pelo menos 15 objetos que estão na cozinha
 TBook_Scroll_6_5_refectory_4_Title	Descrição da Prova
 TBook_Scroll_7_1_balcony_1_0	Indent>Há algo escrito nas laterais desta estranha máquina:
 TBook_Scroll_7_1_balcony_1_1	Indent>A cor não deverá mais ser vermelha
@@ -1641,7 +1641,7 @@ Menu_Loading_6_1_courtyard	Apesar de todos seus esforços para tentar adentrar o 
 Menu_Loading_6_1_courtyard_a	Parece que entrar no castelo será mais difícil do que o esperado. Gabriel vai ter que navegar pelos jardins do labirinto. Um homem pode se perder para sempre neste lugar, ou ser devorado pelas criaturas que assombram estes labirínticos corredores. Estes jardins eram os mais bonitos de toda a Europa, e muitos peregrinos vinham de terras muito distantes para visitar as áreas do castelo e apreciar sua eterna beleza. Agora jazem podres e perdidos, decadentes enquanto vive seu mestre.
 Menu_Loading_6_3_castle_hall	O tempo está se esgotando. A noite já se aproxima. Logo o castelo estará repleto de vampiros. Os mais poderosos de sua espécie são capazes de assumir a aparência de humanos de ascendência aristocrática. Gabriel deve se manter vigilante agora, pois as aparências enganam. Ouvi dizer que neste lugar é possível enfrentar os mais mortais dos inimigos sem perceber até que seja tarde demais.
 Menu_Loading_6_5_refectory	Ela tem o corpo de uma criança inocente, mas a inteligência e a astúcia de um predador experiente. Ela matará Gabriel num piscar de olhos se for capaz. A bela Laura, transformada muitos séculos atrás, leva uma cruel e solitária existência desde então. Gabriel tem que tomar muito cuidado a partir de agora, com a certeza de que a 'mãe' dela, aquela que comanda por aqui, está plenamente consciente de sua presença. E também com a certeza de que a própria Laura tem um importante papel nesta história.
-Menu_Loading_7_1_balcony	O Carniceiro que comandava as cozinhas do castelo costumava alimentar os Ghouls com cadáveres. A eficiência da criadagem da Rainha é realmente assustadora. Os Vampiros drenam o sangue e os Ghouls se alimentam dos restos: nada é desperdiçado. O uso de seus poderes está tornando Gabriel muito mais forte do que eu esperava. Ele vai precisar de mais do que força física quando enfrentá-la. Ela pode colocar um encanto sobre seu coração, que o deixará tentado a esquecer de tudo aquilo que viveu, inclusive de sua amada. Ela tem o outro pedaço da máscara, e temo que ele acabe sendo derrotado.
+Menu_Loading_7_1_balcony	O Açougueiro que comandava as cozinhas do castelo costumava alimentar os Ghouls com cadáveres. A eficiência da criadagem da Rainha é realmente assustadora. Os Vampiros drenam o sangue e os Ghouls se alimentam dos restos: nada é desperdiçado. O uso de seus poderes está tornando Gabriel muito mais forte do que eu esperava. Ele vai precisar de mais do que força física quando enfrentá-la. Ela pode colocar um encanto sobre seu coração, que o deixará tentado a esquecer de tudo aquilo que viveu, inclusive de sua amada. Ela tem o outro pedaço da máscara, e temo que ele acabe sendo derrotado.
 Menu_Loading_7_3_chromatic_observatory	Esta parte do castelo era o local onde o aclamado cientista Friedrich von Frankenstein conduzia suas experiências com vida artificial. Ele era completamente louco, e realizava experimentos terríveis em busca dos segredos da vida. Sua morte foi igualmente terrível. A Rainha Vampira o levou, mas o manteve vivo por séculos, se alimentado dele diariamente, mantendo o cientista à beira da morte ainda vivo e consciente. Poucos sabem por que ela fez isso... ela um dia amou a vida, amou todas as coisas vivas. E antes de se tornar um dos Senhores das Trevas, ela jurou que puniria Frankenstein por seus atos. E como um Senhor das Trevas, ela manteve sua palavra.
 Menu_Loading_7_3_chromatic_observatory_a	Gabriel finalmente derrotou a abominação de Frankenstein. Este lugar infernal é, sozinho, suficiente para frustrar a determinação de qualquer homem, mas ainda assim Gabriel parece totalmente disposto a continuar até o fim. Mal consigo reconhecer meu velho amigo agora. Uma forte determinação tomou conta dele, e seu coração já não carrega nenhuma compaixão. Ele não tem nem dormido, lamentavelmente. Ele apenas se enfurece com o mundo e com as criaturas que se atrevem a enfrentá-lo. O próximo desafio vai forçar ainda mais sua mente, e temo que isso possa destruí-la para sempre.
 Menu_Loading_8_1_tower_base	Curioso, não? Parece que o amor pode ser uma arma poderosa, mesmo para aqueles que estão mortos. Laura poupou sua vida. Ainda que tivesse o poder de retirá-la, ela a devolveu para ele, por amor. Talvez ela ainda se lembre dos braços de sua verdadeira mãe ao seu redor, confortando-a antes de ela se tornar a criatura que é hoje. Talvez ela ainda se lembre dos sentimentos de amor, mesmo tendo perdido seu coração há vários séculos. O amor de uma criança não conhece limites ou amargura: é um amor puro. O que será que vai acontecer com ela, essa alma perdida, quando matarmos e enviarmos a 'mãe' dela para as profundezas do inferno, que é seu devido lugar?
@@ -2063,8 +2063,8 @@ Menu_Picture_6_3_castle_hall3	Após o pôr do sol, os Vampiros eram capazes de and
 Menu_Picture_6_3_castle_hall4	A misteriosa criança vampira desafiou Gabriel a jogar uma estranha partida de 'xadrez'.
 Menu_Picture_6_3_game_room	.
 Menu_Picture_6_5_refectory	Dentro do refeitório, o cheiro de carne pútrida invadia as narinas do nosso herói.
-Menu_Picture_6_5_refectory1	O Carniceiro, com a faca em uma mão e a espada em outra, partiu contra Gabriel.
-Menu_Picture_6_5_refectory2	Gabriel pegou a chave que o Carniceiro deixou cair, usou-a para abrir a porta e deixou a cozinha maldita para trás.
+Menu_Picture_6_5_refectory1	O Açougueiro, com a faca em uma mão e a espada em outra, partiu contra Gabriel.
+Menu_Picture_6_5_refectory2	Gabriel pegou a chave que o Açougueiro deixou cair, usou-a para abrir a porta e deixou a cozinha maldita para trás.
 Menu_Picture_6_5_refectory3	A saída para o lado de fora da varanda estava protegida por um bando de inimigos tenebrosos.
 Menu_Picture_7_1_balcony	Assim que saiu, mais Vampiros partiram em direção a Gabriel.
 Menu_Picture_7_1_balcony1	Gabriel usou os poucos pedaços de madeira que sobraram para andar sobre o telhado em ruínas do castelo.
@@ -2834,8 +2834,8 @@ Trial_6_1_courtyard_a_Descr	Complete a fase depois de derrotar %s Mandrágoras em
 Trial_6_1_courtyard_a_Complete	Você completou a fase depois de derrotar %s Mandrágoras em menos de 15 segundos
 Trial_6_3_castle_hall_Descr	Complete a fase vencendo os Jogos Vampíricos de Guerra sem perder mais de %s peças
 Trial_6_3_castle_hall_Complete	Você completou a fase e ganhou os Jogos Vampíricos de Guerra perdendo apenas %s peça(s)
-Trial_6_5_refectory_Descr	Complete a fase e derrote o Carniceiro após ele ter usado pelo menos %s objetos que estão na cozinha
-Trial_6_5_refectory_Complete	Você completou a fase e derrotou o Carniceiro após ele ter usado pelo %s objetos da cozinha
+Trial_6_5_refectory_Descr	Complete a fase e derrote o Açougueiro após ele ter usado pelo menos %s objetos que estão na cozinha
+Trial_6_5_refectory_Complete	Você completou a fase e derrotou o Açougueiro após ele ter usado pelo %s objetos da cozinha
 Trial_7_1_balcony_Descr	Complete a fase depois de resolver o quebra-cabeça dos portões lógicos em menos de %s movimentos
 Trial_7_1_balcony_Complete	Você completou a fase depois de resolver o quebra-cabeça dos portões lógicos em %s movimentos
 Trial_7_3_chromatic_observatory_Descr	Complete a fase e desative a Monstruosidade Mecânica usando apenas a bobina de tesla no laboratório, depois que ela estiver ativada
@@ -2885,8 +2885,8 @@ Tip_Combat_Available_Combo	O ícone do escudo reluzente da interface indica a dis
 Tip_Combat_Blockable	Muitos dos ataques dos inimigos podem ser bloqueados, evitando qualquer tipo de dano.
 Tip_Combat_Blockable_2	Um bloqueio sincronizado bem-sucedido pode deixar qualquer inimigo vulnerável a um contra-ataque.
 Tip_Combat_Boss	Se a Barra de Saúde de um inimigo se tornar cinza, isso significa que uma ação especial é necessária para causar ainda mais danos.
-Tip_Combat_Butcher	O Carniceiro pode utilizar várias ferramentas da sua cozinha para se proteger ou atacar você. Observe com cuidado qual ele carrega e reaja de acordo.
-Tip_Combat_Butcher_2	Você pode forçar o Carniceiro a derrubar qualquer arma que ele esteja carregando (exceto o cutelo), atacando-o com força. A Magia Sombria vai ajudar com isso!
+Tip_Combat_Butcher	O Açougueiro pode utilizar várias ferramentas da sua cozinha para se proteger ou atacar você. Observe com cuidado qual ele carrega e reaja de acordo.
+Tip_Combat_Butcher_2	Você pode forçar o Açougueiro a derrubar qualquer arma que ele esteja carregando (exceto o cutelo), atacando-o com força. A Magia Sombria vai ajudar com isso!
 Tip_Combat_Chupacabras	Evite lutas demoradas enquanto você estiver sem as relíquias mágicas.
 Tip_Combat_Chupacabras_2	Os Chupa-cabras não roubam as armas secundárias: então faça uso delas para compensar a falta dos poderes das relíquias.
 Tip_Combat_Chupacabras_3	Os Chupa-cabras darão pistas sobre sua localização, caso você preste atenção ao que eles estão dizendo.
@@ -3169,12 +3169,12 @@ Artwork_ArtworkName_191	Escadaria
 Artwork_ArtworkName_192	Armadura Decorativa
 Artwork_ArtworkName_193	Vampiro Guerreiro
 Artwork_ArtworkName_194	Sala Lateral
-Artwork_ArtworkName_195	Carniceiro
+Artwork_ArtworkName_195	Açougueiro
 Artwork_ArtworkName_196	Cozinha
 Artwork_ArtworkName_197	Refeitório
 Artwork_ArtworkName_198	Caldeirão de Carne
 Artwork_ArtworkName_199	Forno da Cozinha
-Artwork_ArtworkName_200	O Fim do Carniceiro
+Artwork_ArtworkName_200	O Fim do Açougueiro
 Artwork_ArtworkName_201	Armadura Decorativa (II)
 Artwork_ArtworkName_202	Saída do Refeitório (Topo)
 Artwork_ArtworkName_203	Saída do Refeitório (Fundo)
