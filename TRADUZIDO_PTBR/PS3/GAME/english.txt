@@ -6,11 +6,11 @@ Elite_Vampire	Vampiro de Elite
 Gabriel	Gabriel
 Kid	Garoto
 Lycan_DarkLord	Senhor dos Lycans
-Silver_Warrior	Pã
+Silver_Warrior	Pan
 Marie	Marie
 Necromancer	Necromante
-Pan	Pã
-Pan_Off	Pã
+Pan	Pan
+Pan_Off	Pan
 Satan	Satã
 Spirits	Espíritos
 Vampire_Queen	A Rainha dos Vampiros
@@ -420,7 +420,7 @@ PS3_HELP_MESSAGE_Chapter1_Tree	Aperte R2 para examinar a árvore.
 PS3_HELP_MESSAGE_Chapter1_Lavadora	Aperte R2 para abrir a Arca da Irmandade.
 PS3_HELP_MESSAGE_Chapter1_Grip	Aperte R2 para Agarrar.
 PS3_HELP_MESSAGE_Chapter1_Pan_Puzzle_Pieces	Aperte R2 para examinar as gravuras.
-PS3_HELP_MESSAGE_Chapter1_Pan_Puzzle	Aperte R2 para usar o Amuleto de Pã.
+PS3_HELP_MESSAGE_Chapter1_Pan_Puzzle	Aperte R2 para usar o Amuleto de Pan.
 Warning_Mud	A névoa é venenosa! Saia daí!
 CHAPTER_1_GRIP_HELP	.
 PS3_CHAPTER_1_GRIP_HELP	Aperte R2 para interagir.
@@ -512,7 +512,7 @@ PS3_Mounts_0	Aperte R2 enquanto o Javali estiver atordoado para montá-lo.
 PS3_Dark_Magic_0	Aperte e segure R3 para absorver Orbs Elementares e recarregar sua Magia Sombria.
 PS3_Dark_Magic_1	Aperte R1 para ativar e desativar sua Magia Sombria.
 PS3_Dark_Magic_2	Ataques carregados com Magia Sombria causam muito mais danos.
-PS3_Magic_Boots_0	Dê dois toques no analógico esquerdo para dar uma corrida.
+PS3_Magic_Boots_0	Dê dois toques no analógico esquerdo para correr.
 PS3_Magic_Boots_1	Com a Magia Sombria ativa, segure L2 e use o analógico esquerdo para carregar.
 PS3_Runes_Puzzle_0	Use a Magia da Luz ou das Sombras para carregar as runas na parede.
 PS3_Runes_Puzzle_1	Descubra a sequência correta para abrir a porta.
@@ -562,7 +562,7 @@ TBook_Action_Desc_RideSpider8	.
 PS3_TBook_Action_Desc_RideSpider1	Indent>Aperte R2 enquanto a Aranha estiver atordoada para montá-la.
 PS3_TBook_Action_Desc_RideSpider3	Indent>Aperte [[SQUARE]] para executar um ataque corpo a corpo.
 PS3_TBook_Action_Desc_RideSpider4	Indent>Aperte [[TRIANGLE]] para executar um ataque à distância.
-PS3_TBook_Action_Desc_RideSpider6	Indent>As Aranhas podem usar suas teias para interagir com o mundo à sua volta. Aperte [[TRIANGLE]] para utilizar a teia sobre um objeto interativo reluzente.
+PS3_TBook_Action_Desc_RideSpider6	Indent>As Aranhas podem usar as teias para interagir com o mundo. Aperte [[TRIANGLE]] para utilizar a teia sobre um objeto interativo reluzente.
 PS3_TBook_Action_Desc_RideSpider8	Indent>Aperte e segure os botões R2 e L2 ao mesmo tempo para desmontar da Aranha e matá-la.
 TBook_Action_Desc_RideWarg0	Bold>Montar
 TBook_Action_Desc_RideWarg2	Bold>Ataques
@@ -624,7 +624,7 @@ TBook_Action_Constraint_LightFairy	Com a Magia da Luz ativada:
 TBook_Action_Constraint_LightFlash	Com a Magia da Luz ativada:
 TBook_Action_Constraint_ShadowFlames	Com a Magia Sombria ativada:
 TBook_Action_Constraint_ShoulderCharge	Com a Magia Sombria ativada:
-TBook_Action_Constraint_SomersaultStrike	Depois de dar o salto mortal sobre o inimigo:
+TBook_Action_Constraint_SomersaultStrike	Depois de dar um salto mortal sobre o inimigo:
 TBook_Action_Constraint_SpinningChain	Enquanto estiver no ar:
 TBook_Action_Constraint_Stomp	Enquanto estiver no ar:
 TBook_Action_Constraint_SyncBlock	Bem na hora:
@@ -634,23 +634,23 @@ TBook_Action_Desc_AirGrab0	.
 PS3_TBook_Action_Desc_AirGrab0	Indent>Aperte R2 enquanto estiver no ar para agarrar um inimigo e tirá-lo do chão. Combine isso com outros ataques aéreos para aumentar o combo. Esse ataque só funciona contra inimigos menores.
 TBook_Action_Desc_AreaAttack0	Indent>Um ataque amplo básico de efeito executado com sua corrente acertará todos os inimigos ao seu redor.
 TBook_Action_Desc_AvalanchePunch0	.
-PS3_TBook_Action_Desc_AvalanchePunch0	Indent>Enquanto você estiver no ar, execute este ataque para lançar uma onda de poder da luva Negra em direção ao solo. Os inimigos menores mais próximos serão jogados para o ar, permitindo que você continue o combo com outros ataques. Aperte e segure os botões L2 e [[Y]], carregue a luva o máximo possível e então solte os botões para lançar o ataque.
+PS3_TBook_Action_Desc_AvalanchePunch0	Indent>Enquanto você estiver no ar, execute este ataque para lançar uma onda de poder da Luva Negra em direção ao solo. Os inimigos menores mais próximos serão jogados para o ar, permitindo que você continue o combo com outros ataques. Aperte e segure os botões L2 e [[TRIANGLE]], carregue a luva o máximo possível e então solte os botões para lançar o ataque.
 TBook_Action_Desc_Block0	.
 PS3_TBook_Action_Desc_Block0	Indent>Aperte e segure L2 para bloquear ataques inimigos.
 TBook_Action_Desc_Block1	.
 PS3_TBook_Action_Desc_Block1	Indent>Ataques indefensíveis são indicados com um flash luminoso de alerta.
-TBook_Action_Desc_ChainSaw0	Indent>Corte em pedaços um inimigo à sua frente com este ataque de corrente giratória. Segurar [[X]] no final do combo aumentará a duração do ataque.
+TBook_Action_Desc_ChainSaw0	Indent>Corte em pedaços um inimigo à sua frente com este ataque de corrente giratória. Segurar [[SQUARE]] no final do combo aumentará a duração do ataque.
 TBook_Action_Desc_CircularChain0	Indent>Uma combinação de ataques é útil em várias situações de combate. Ela começa com um ataque direto seguido por dois ataques amplos. Use isso para atacar um inimigo diretamente, mantendo os outros à distância.
 TBook_Action_Desc_ComboA0	Indent>Uma série de ataques amplos interligados. Menos poderosa do que um ataque direto, mas muito útil para controlar a multidão.
-TBook_Action_Desc_ComboChainBarrier_Upgrade0	Indent>Aperte e segure [[Y]] para iniciar uma sequência de poderosos ataques amplos. Você pode controlar a direção dos ataques durante o combo com o analógico esquerdo. Os inimigos em frente e atrás de você também podem ser atingidos por essa série de ataques de corrente.
-TBook_Action_Desc_ComboChainBarrier_Upgrade1	Indent>Com este aprimoramento você pode encerrar a sequência do combo a qualquer momento, pressionando [[Y]] pela segunda vez, executando um poderoso golpe final que também serve para anular o bloqueio do inimigo.
-TBook_Action_Desc_ComboChainBarrier0	Indent>Aperte e segure [[Y]] para iniciar uma sequência de poderosos ataques amplos. Você pode controlar a direção dos ataques durante o combo com o analógico esquerdo. Os inimigos em frente e atrás de você também podem ser atingidos por essa série de ataques de corrente.
+TBook_Action_Desc_ComboChainBarrier_Upgrade0	Indent>Aperte e segure [[TRIANGLE]] para iniciar uma sequência de poderosos ataques amplos. Você pode controlar a direção dos ataques durante o combo com o analógico esquerdo. Os inimigos em frente e atrás de você também podem ser atingidos por essa série de ataques de corrente.
+TBook_Action_Desc_ComboChainBarrier_Upgrade1	Indent>Com este aprimoramento você pode encerrar a sequência do combo a qualquer momento, pressionando [[TRIANGLE]] pela segunda vez, executando um poderoso golpe final que também serve para anular o bloqueio do inimigo.
+TBook_Action_Desc_ComboChainBarrier0	Indent>Aperte e segure [[TRIANGLE]] para iniciar uma sequência de poderosos ataques amplos. Você pode controlar a direção dos ataques durante o combo com o analógico esquerdo. Os inimigos em frente e atrás de você também podem ser atingidos por essa série de ataques de corrente.
 TBook_Action_Desc_ComboD0	Indent>Uma série de ataques diretos interligados. O último golpe da sequência anula bloqueios, expondo o inimigo a novos ataques.
-TBook_Action_Desc_ComboDHeavy_Upgrade_Upgrade0	Indent>Aperte e segure [[X]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[X]] repetidamente acrescentará novos golpes ao combo.
+TBook_Action_Desc_ComboDHeavy_Upgrade_Upgrade0	Indent>Aperte e segure [[SQUARE]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[SQUARE]] repetidamente acrescentará novos golpes ao combo.
 TBook_Action_Desc_ComboDHeavy_Upgrade_Upgrade1	Indent>Este aprimoramento acrescenta um golpe final à sequência do combo que também serve para anular o bloqueio do inimigo.
-TBook_Action_Desc_ComboDHeavy_Upgrade0	Indent>Aperte e segure [[X]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[X]] repetidamente acrescentará novos golpes ao combo.
+TBook_Action_Desc_ComboDHeavy_Upgrade0	Indent>Aperte e segure [[SQUARE]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[SQUARE]] repetidamente acrescentará novos golpes ao combo.
 TBook_Action_Desc_ComboDHeavy_Upgrade1	Indent>O número de poderosos ataques diretos disponíveis no combo é aumentado com este aprimoramento.
-TBook_Action_Desc_ComboDHeavy0	Indent>Aperte e segure [[X]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[X]] repetidamente acrescentará novos golpes ao combo.
+TBook_Action_Desc_ComboDHeavy0	Indent>Aperte e segure [[SQUARE]] para iniciar uma sequência de poderosos ataques diretos. Pressionar [[SQUARE]] repetidamente acrescentará novos golpes ao combo.
 TBook_Action_Desc_Concentration0	Indent>A concentração em combate é uma antiga técnica da Irmandade da Luz.
 TBook_Action_Desc_Concentration1	Indent>Uma vez que esteja totalmente concentrado, um guerreiro competente pode extrair Orbs Elementares de seus inimigos após cada golpe bem-sucedido.
 TBook_Action_Desc_Concentration2	Bold>Uso
@@ -658,8 +658,8 @@ TBook_Action_Desc_Concentration3	Indent>O medidor de concentração em combate é p
 TBook_Action_Desc_Concentration4	Indent>A falta de combate diminuirá lentamente o medidor, mas o uso de magias interrompe temporariamente essa redução.
 TBook_Action_Desc_CounterstrikeA0	Indent>Você pode executar um devastador ataque amplo que atinge os inimigos ao seu redor imediatamente após um bloqueio sincronizado.
 TBook_Action_Desc_CounterstrikeD0	Indent>Você pode executar um devastador contra-ataque direto imediatamente após um bloqueio sincronizado.
-TBook_Action_Desc_Dagger0	Indent>Selecione as Adagas e aperte [[B]] para atirar uma delas contra um inimigo. Você pode mirar manualmente antes de atirar movendo o analógico esquerdo na direção desejada. São eficazes principalmente contra pequenos Lycans, grandes Lycans e Wargs.
-TBook_Action_Desc_DaggerWave0	Indent>Aperte e segure [[B]] para atirar várias Adagas de uma vez só. Você pode atirar no máximo 5 Adagas ao mesmo tempo.
+TBook_Action_Desc_Dagger0	Indent>Selecione as Adagas e aperte [[CIRCLE]] para atirar uma delas contra um inimigo. Você pode mirar manualmente antes de atirar movendo o analógico esquerdo na direção desejada. São eficazes principalmente contra pequenos Lycans, grandes Lycans e Wargs.
+TBook_Action_Desc_DaggerWave0	Indent>Aperte e segure [[CIRCLE]] para atirar várias Adagas de uma vez só. Você pode atirar no máximo 5 Adagas ao mesmo tempo.
 TBook_Action_Desc_DarkFocusMode0	.
 PS3_TBook_Action_Desc_DarkFocusMode0	Indent>Aperte e segure R1 para ativar o modo Sombra Final. Com o modo ativado, o analógico esquerdo permite executar poderosos movimentos de ataque na direção desejada.
 TBook_Action_Desc_DirectionalAttack0	Indent>Um ataque direto básico executado com sua corrente. Acertará apenas os inimigos que estão à sua frente.
@@ -672,31 +672,31 @@ PS3_TBook_Action_Desc_DownwardKick0	Indent>Aperte R2 enquanto estiver no ar para
 TBook_Action_Desc_DownwardPunch0	.
 PS3_TBook_Action_Desc_DownwardPunch0	Indent>Se você e um inimigo estiverem no ar, aperte R2 para jogá-lo em direção ao chão.
 TBook_Action_Desc_EarthquakePunch0	.
-PS3_TBook_Action_Desc_EarthquakePunch0	Indent>Poderoso soco descendente. Concentre o soco segurando L2 e [[TRIANGLE]] até que sua luva Negra brilhe em vermelho. Então solte os botões para executar um poderoso ataque de maior alcance. Esse ataque pode derrubar os inimigos ao seu redor ou até mesmo matá-los de uma só vez. O Soco Sísmico também pode ativar certos interruptores mecânicos.
+PS3_TBook_Action_Desc_EarthquakePunch0	Indent>Poderoso soco descendente. Concentre o soco segurando L2 e [[TRIANGLE]] até que sua Luva Negra brilhe em vermelho. Então solte os botões para executar um poderoso ataque de maior alcance. Esse ataque pode derrubar os inimigos ao seu redor ou até mesmo matá-los de uma só vez. O Soco Sísmico também pode ativar certos interruptores mecânicos.
 TBook_Action_Desc_ErosiveChains0	Indent>Com a Magia da Luz ativada, este combo estende uma gaiola de correntes giratórias ao seu redor. A gaiola atrai os inimigos mais próximos para dentro dela, causando danos aos inimigos e recuperando sua saúde ao mesmo tempo.
 TBook_Action_Desc_ExperiencePoints0	Indent>Os pontos de experiência medem o progresso de suas habilidades no jogo. Você ganha pontos ao derrotar inimigos e ao resolver quebra-cabeças.
 TBook_Action_Desc_ExperiencePoints1	Bold>Uso
 TBook_Action_Desc_ExperiencePoints2	Indent>O número abaixo da Barra de Saúde indica a quantidade de pontos de Experiência disponíveis para gastar. Ele vai brilhar quando você puder comprar um novo combo do Livro de Viagem.
 TBook_Action_Desc_ExperiencePoints3	Indent>Você pode usá-los para aprender novos combos no Livro de Viagem ou para destravar novos recursos no Menu de Extras.
-TBook_Action_Desc_ExplodingQuake0	Indent>Com a Magia Sombria ativada, você pode conjurar uma série de explosões flamejantes da terra sob os pés do seu inimigo. A erupção final liberará uma grande onda de choque contra todos os inimigos mais próximos. Dê um toque no [[X]] e em seguida aperte e segure [[Y]] até que você acerte o chão com sua Corrente de Combate, dando início ao seu combo. Uma nova explosão será criada cada vez que você pressionar [[Y]]. Aperte e segure [[Y]] para finalizar o combo com um último ataque devastador.
+TBook_Action_Desc_ExplodingQuake0	Indent>Com a Magia Sombria ativada, você pode conjurar uma série de explosões flamejantes da terra sob os pés do seu inimigo. A erupção final liberará uma grande onda de choque contra todos os inimigos mais próximos. Dê um toque no [[SQUARE]] e em seguida aperte e segure [[TRIANGLE]] até que você acerte o chão com sua Corrente de Combate, dando início ao seu combo. Uma nova explosão será criada cada vez que você pressionar [[Y]]. Aperte e segure [[TRIANGLE]] para finalizar o combo com um último ataque devastador.
 TBook_Action_Desc_ExplosiveDagger0	Indent>Com a Magia Sombria ativada, as Adagas vão explodir no impacto. Alguns interruptores podem ser ativados à distância pelas Adagas Explosivas.
-TBook_Action_Desc_Fairy0	Indent>Com as fadas selecionadas, aperte [[B]] para soltar uma delas contra o inimigo mais próximo. Você pode soltar mais fadas pressionando [[B]] novamente. As fadas vão partir em direção ao alvo e podem distrair certos inimigos, dando tempo para que você possa executar um ataque devastador sobre eles. As fadas são muito frágeis, e morrerão após o uso.
+TBook_Action_Desc_Fairy0	Indent>Com as fadas selecionadas, aperte [[CIRCLE]] para soltar uma delas contra o inimigo mais próximo. Você pode soltar mais fadas pressionando [[CIRCLE]] novamente. As fadas vão partir em direção ao alvo e podem distrair certos inimigos, dando tempo para que você possa executar um ataque devastador sobre eles. As fadas são muito frágeis, e morrerão após o uso.
 TBook_Action_Desc_Fairy1	Indent>As forças mágicas que animam as fadas também podem ser utilizadas para reativar certos dispositivos antigos.
-TBook_Action_Desc_FlameClaws0	Indent>Use a luva Negra durante uma corrida curta para lançar várias garras de energia da Magia Sombria em direção ao seu inimigo. Com sua Magia Sombria ativada, dê dois toques no analógico esquerdo para dar uma corrida, e então aperte [[X]] a qualquer momento para usar as Garras das Chamas.
+TBook_Action_Desc_FlameClaws0	Indent>Use a Luva Negra durante uma corrida curta para lançar várias garras de energia da Magia Sombria em direção ao seu inimigo. Com sua Magia Sombria ativada, dê dois toques no analógico esquerdo para dar uma corrida, e então aperte [[SQUARE]] a qualquer momento para usar as Garras das Chamas.
 TBook_Action_Desc_FlapWhirlwind0	Indent>Usando os Ombros de Seraph para dar um salto duplo, este ataque amplo pode levantar os inimigos ao seu redor ainda mais alto do que o combo Assalto Ascendente, dando mais tempo para que você possa executar ataques adicionais.
-TBook_Action_Desc_FlapWindWave0	Indent>Com a luva Negra equipada e depois de jogar os alvos para cima com um uppercut, você pode usar os Ombros de Seraph para jogar os inimigos longe. Útil para ganhar tempo quando você estiver cercado ou em uma situação difícil.
+TBook_Action_Desc_FlapWindWave0	Indent>Com a Luva Negra equipada e depois de jogar os alvos para cima com um uppercut, você pode usar os Ombros de Seraph para jogar os inimigos longe. Útil para ganhar tempo quando você estiver cercado ou em uma situação difícil.
 TBook_Action_Desc_Grab0	.
 PS3_TBook_Action_Desc_Grab0	Indent>Aperte R2 para agarrar inimigos ou para interagir com um objeto reluzente. Após agarrar um inimigo pequeno, você pode jogá-lo contra outros inimigos movendo o analógico esquerdo na direção desejada.
-TBook_Action_Desc_GroundCutter0	Indent>Esta variação do ataque Serra de Correntes pode ser usada para finalizar um combo aéreo. Aperte [[X]] enquanto estiver no ar, e então aperte e segure [[X]] mais uma vez. Certifique-se de segurar o botão enquanto pousa. Por fim, aperte [[X]] novamente para lançar um ataque de corrente giratória na direção dos inimigos.
-TBook_Action_Desc_GroundGuillotine0	Indent>Esta variação do ataque Serra de Correntes pode ser usada para finalizar um combo aéreo. Aperte [[X]] enquanto estiver no ar, e então aperte e segure [[X]] mais uma vez. Certifique-se de segurar o botão enquanto pousa. Por fim, aperte [[X]] novamente para lançar um ataque de corrente giratória na direção dos inimigos.
-TBook_Action_Desc_Guillotine_Upgrade0	Indent>Aperte e segure [[X]] enquanto estiver no ar para usar este ataque direto e finalizar qualquer combo de ataque aéreo. Sua corrente vai esmagar quaisquer inimigos que estejam em sua frente enquanto você pousar. Útil para dispersar inimigos em terra!
-TBook_Action_Desc_Guillotine_Upgrade1	Indent>Segure [[X]] por mais tempo para executar um golpe ascendente após usar a Guilhotina.
-TBook_Action_Desc_Guillotine0	Indent>Aperte e segure [[X]] enquanto estiver no ar para usar este ataque direto e finalizar qualquer combo de ataque aéreo. sua corrente vai esmagar quaisquer inimigos que estejam em sua frente enquanto você pousar. Útil para dispersar inimigos em terra!
+TBook_Action_Desc_GroundCutter0	Indent>Esta variação do ataque Serra de Correntes pode ser usada para finalizar um combo aéreo. Aperte [[SQUARE]] enquanto estiver no ar, e então aperte e segure [[SQUARE]] mais uma vez. Certifique-se de segurar o botão enquanto pousa. Por fim, aperte [[SQUARE]] novamente para lançar um ataque de corrente giratória na direção dos inimigos.
+TBook_Action_Desc_GroundGuillotine0	Indent>Esta variação do ataque Serra de Correntes pode ser usada para finalizar um combo aéreo. Aperte [[SQUARE]] enquanto estiver no ar, e então aperte e segure [[SQUARE]] mais uma vez. Certifique-se de segurar o botão enquanto pousa. Por fim, aperte [[SQUARE]] novamente para lançar um ataque de corrente giratória na direção dos inimigos.
+TBook_Action_Desc_Guillotine_Upgrade0	Indent>Aperte e segure [[SQUARE]] enquanto estiver no ar para usar este ataque direto e finalizar qualquer combo de ataque aéreo. Sua corrente vai esmagar quaisquer inimigos que estejam em sua frente enquanto você pousar. Útil para dispersar inimigos em terra!
+TBook_Action_Desc_Guillotine_Upgrade1	Indent>Segure [[SQUARE]] por mais tempo para executar um golpe ascendente após usar a Guilhotina.
+TBook_Action_Desc_Guillotine0	Indent>Aperte e segure [[SQUARE]] enquanto estiver no ar para usar este ataque direto e finalizar qualquer combo de ataque aéreo. sua corrente vai esmagar quaisquer inimigos que estejam em sua frente enquanto você pousar. Útil para dispersar inimigos em terra!
 TBook_Action_Desc_HolyCross0	Indent>Com a Magia da Luz ativada, este combo permite que sua Cruz de Combate crie uma ofuscante chama de energia da luz. A chama de energia pode cegar e causar dano a qualquer inimigo atingido por seus feixes de luz, mas você não poderá se mover durante seu uso, então escolha seu alvo com cuidado.
 TBook_Action_Desc_HolyJump0	Indent>Com a Magia da Luz ativada, seu salto duplo liberará raios luminosos de energia da Luz ao seu redor. O primeiro ataque executado contra um inimigo ofuscado causará mais dano, mas removerá o efeito do alvo.
 TBook_Action_Desc_Jump0	Indent>Um salto básico. Combine um salto com outros ataques para executar combos aéreos.
 TBook_Action_Desc_LandslidePunch0	.
-PS3_TBook_Action_Desc_LandslidePunch0	Indent>Enquanto você estiver no ar, use esse ataque para investir violentamente contra o solo, dando um soco com a luva Negra. Aperte e segure os botões L2 e [[X]], carregue a luva o máximo possível e então solte os botões para lançar o ataque.
+PS3_TBook_Action_Desc_LandslidePunch0	Indent>Enquanto você estiver no ar, use esse ataque para investir violentamente contra o solo, dando um soco com a Luva Negra. Aperte e segure os botões L2 e [[X]], carregue a luva o máximo possível e então solte os botões para lançar o ataque.
 TBook_Action_Desc_LightFairy0	Indent>Com a Magia da Luz ativada, as Fadas explodirão quando acertarem o inimigo. A explosão causa uma grande quantidade de dano, e pode ser fatal contra alguns inimigos. No entanto, as fadas também morrerão após o ataque.
 TBook_Action_Desc_LightFlash0	Indent>Com a Magia da Luz ativada, um bloqueio sincronizado criará um flash de luz mágica que cegará todos os inimigos mais próximos. O primeiro ataque executado contra um inimigo ofuscado causará mais dano, mas removerá o efeito do alvo.
 TBook_Action_Desc_LightFocusMode0	.
@@ -715,33 +715,33 @@ TBook_Action_Desc_DarkMagic2	.
 PS3_TBook_Action_Desc_DarkMagic2	Indent>Aperte R1 para ativar ou desativar seus poderes de Magia Sombria.
 TBook_Action_Desc_DarkMagic4	.
 PS3_TBook_Action_Desc_DarkMagic4	Indent>Aperte e segure R3 para coletar os Orbs Elementares em seu reservatório de Magia Sombria. Você pode coletar ambos os tipos de magia juntos, pressionando os dois analógicos ao mesmo tempo.
-TBook_Action_Desc_PowerCrystal0	Indent>Com o Cristal Negro selecionado, aperte e segure [[B]] para destruí-lo, libertando o demônio preso em seu interior. Esta Arma Secundária requer a união de quatro fragmentos de cristal, mas é forte o bastante para aniquilar a maioria dos adversários ao seu redor, causando sérios danos até mesmo contra os inimigos mais poderosos.
+TBook_Action_Desc_PowerCrystal0	Indent>Com o Cristal Negro selecionado, aperte e segure [[CIRCLE]] para destruí-lo, libertando o demônio preso em seu interior. Esta Arma Secundária requer a união de quatro fragmentos de cristal, mas é forte o bastante para aniquilar a maioria dos adversários ao seu redor, causando sérios danos até mesmo contra os inimigos mais poderosos.
 TBook_Action_Desc_PowerCrystal1	Indent>A energia contida no interior de um Cristal Negro completo também pode ser utilizada para alimentar certos dispositivos antigos.
 TBook_Action_Desc_RisingAssault0	Indent>Este ataque amplo joga inimigos menores para o ar, permitindo que você combine outros ataques contra eles.
 TBook_Action_Desc_RisingStrike0	Indent>Este ataque direto joga inimigos menores para o ar, permitindo que você combine outros ataques contra eles.
 TBook_Action_Desc_SecondaryWeapon0	.
 PS3_TBook_Action_Desc_SecondaryWeapon0	Indent>Use a arma secundária selecionada pressionando [[CIRCLE]]. Troque de arma secundária usando os botões direcionais.
 TBook_Action_Desc_ShadowFlames0	Indent>Com a Magia Sombria ativada, este combo permite que sua Cruz de Combate crie um redemoinho flamejante de energia das sombras. As chamas são extremamente mortais, mas você não poderá se mover durante seu uso, nem ajustar a direção do ataque, então mire com cuidado.
-TBook_Action_Desc_Shoryuken0	Indent>Uppercut de luva Negra Este ataque levanta joga vários inimigos próximos para o ar, permitindo que você continue o combo com outros ataques aéreos.
+TBook_Action_Desc_Shoryuken0	Indent>Uppercut de Luva Negra Este ataque levanta joga vários inimigos próximos para o ar, permitindo que você continue o combo com outros ataques aéreos.
 TBook_Action_Desc_ShoulderCharge0	Indent>Com a Magia Sombria ativada, você pode transformar energia carregada em um movimento de ataque. A ombrada também pode ser usada para destruir e ultrapassar portas e paredes danificadas. Fique atento a sinais como queda de poeira e detritos.
 TBook_Action_Desc_Somersault0	.
-PS3_TBook_Action_Desc_Somersault0	Indent>Aperte [[A]] enquanto bloqueia (botão L2) para saltar sobre um inimigo e cair de pé atrás dele.
-TBook_Action_Desc_SomersaultStrike0	Indent>Depois de realizar um salto mortal sobre os inimigos, aperte [[X]] três vezes imediatamente para atacá-los por trás antes que eles possam reagir.
-TBook_Action_Desc_SpinningChain0	Indent>Aperte e segure [[Y]] enquanto estiver no ar para usar este ataque amplo e finalizar qualquer combo de ataque aéreo. Sua corrente vai varrer à sua volta e acertar quaisquer inimigos que estejam ao seu redor enquanto você pousar.
+PS3_TBook_Action_Desc_Somersault0	Indent>Aperte [[CROSS]] enquanto bloqueia (botão L2) para saltar sobre um inimigo e cair de pé atrás dele.
+TBook_Action_Desc_SomersaultStrike0	Indent>Depois de realizar um salto mortal sobre os inimigos, aperte [[SQUARE]] três vezes imediatamente para atacá-los por trás antes que eles possam reagir.
+TBook_Action_Desc_SpinningChain0	Indent>Aperte e segure [[TRIANGLE]] enquanto estiver no ar para usar este ataque amplo e finalizar qualquer combo de ataque aéreo. Sua corrente vai varrer à sua volta e acertar quaisquer inimigos que estejam ao seu redor enquanto você pousar.
 TBook_Action_Desc_Sprint0	Indent>Dê dois toques no analógico esquerdo para dar uma corrida. Você pode saltar longas distâncias enquanto corre.
-TBook_Action_Desc_SprintThrust0	Indent>Termine sua corrida com um ataque explosivo. Dê dois toques no analógico esquerdo e então aperte [[Y]] seguido de [[X]] quando você estiver perto do inimigo. Quanto mais perto você chegar do seu alvo, mais eficaz será o ataque, derrubando às vezes até o mais forte dos adversários.
+TBook_Action_Desc_SprintThrust0	Indent>Termine sua corrida com um ataque explosivo. Dê dois toques no analógico esquerdo e então aperte [[TRIANGLE]] seguido de [[SQUARE]] quando você estiver perto do inimigo. Quanto mais perto você chegar do seu alvo, mais eficaz será o ataque, derrubando às vezes até o mais forte dos adversários.
 TBook_Action_Desc_Stomp0	Indent>Similar à esquiva, mas executada no ar, essa é uma boa defesa contra-ataques aéreos. Pousar de volta no chão também pode derrubar inimigos menores à sua volta.
 TBook_Action_Desc_SyncBlock0	.
 PS3_TBook_Action_Desc_SyncBlock0	Indent>Aperte L2 no momento certo para sincronizar seu bloqueio.
 TBook_Action_Desc_SyncBlock1	Indent>Quando realizada corretamente, o inimigo ficará atordoado por alguns instantes.
 TBook_Action_Desc_TremorPunch0	.
-PS3_TBook_Action_Desc_TremorPunch0	Indent>Um poderoso soco frontal. Concentre o soco segurando L2 e [[SQUARE]] até que sua luva Negra brilhe em vermelho. Então solte os botões para executar um golpe devastador. Esse ataque pode derrubar os inimigos ao seu redor ou até mesmo matá-los de uma só vez. O Soco do Tremor também pode ativar certos interruptores mecânicos.
+PS3_TBook_Action_Desc_TremorPunch0	Indent>Um poderoso soco frontal. Concentre o soco segurando L2 e [[SQUARE]] até que sua Luva Negra brilhe em vermelho. Então solte os botões para executar um golpe devastador. Esse ataque pode derrubar os inimigos ao seu redor ou até mesmo matá-los de uma só vez. O Soco do Tremor também pode ativar certos interruptores mecânicos.
 TBook_Action_Desc_UpwardGuillotine0	Indent>Usando os Ombros de Seraph para dar um salto duplo, este ataque pode levantar os inimigos ao seu redor ainda mais alto do que o combo Golpe Ascendente, dando mais tempo para que você possa executar ataques adicionais.
-TBook_Action_Desc_Vial0	Indent>Com os Frascos de Água Benta selecionados, aperte [[B]] para arremessar um deles contra o inimigo mais próximo. Ao usar essa arma no ar, o arremesso segue diretamente em direção ao chão. A Água Benta é eficaz principalmente contra Vampiros e Mortos-vivos.
+TBook_Action_Desc_Vial0	Indent>Com os Frascos de Água Benta selecionados, aperte [[CIRCLE]] para arremessar um deles contra o inimigo mais próximo. Ao usar essa arma no ar, o arremesso segue diretamente em direção ao chão. A Água Benta é eficaz principalmente contra Vampiros e Mortos-vivos.
 TBook_Action_Desc_RappelClimb0	Indent>Você pode se locomover por superfícies verticais utilizando a Cruz de Combate.
 TBook_Action_Desc_RappelClimb1	.
 PS3_TBook_Action_Desc_RappelClimb1	Indent>Aperte R2 para interagir com um Ponto de Engate brilhante, e então use o analógico esquerdo para se mover.
-TBook_Action_Desc_RappelClimb2	Indent>Pressionando [[X]] ou [[Y]] você dá um chute contra a parede para tomar impulso e se afastar dela. Pressionando [[A]] você se solta, podendo saltar para outro lugar.
+TBook_Action_Desc_RappelClimb2	Indent>Pressionando [[SQUARE]] ou [[TRIANGLE]] você dá um chute contra a parede para tomar impulso e se afastar dela. Pressionando [[CROSS]] você se solta, podendo saltar para outro lugar.
 TBook_Action_Name_RappelClimb	Rapel & Escalada
 TBook_Action_Name_AirComboA	Combo Aéreo Amplo
 TBook_Action_Name_AirComboD	Combo Aéreo Direto
@@ -856,13 +856,13 @@ TBook_Char_Desc_MechanicalM0	Indent>Os Vampiros não foram os únicos moradores do
 TBook_Char_Desc_Naiad0	Indent>Um dos maiores perigos reservados pelos pântanos são as criaturas conhecidas como Náiades. Estes seres, geralmente indiferentes, são encontrados deitados próximos aos leitos dos rios e em lugares úmidos e lamacentos, esperando pelo tropeço de aventureiros desavisados. Suas vítimas, já sem sorte, costumam confundir seus membros com galhos de árvores, e logo são afogadas... e devoradas. Antigamente, as Náiades eram belas criaturas adoradas pelos humanos, que ofereciam sacrifícios em sua homenagem. Hoje, no entanto, elas foram esquecidas pelos humanos, e agora se tornaram predadores malignos que assolam tanto os homens quanto outras criaturas.
 TBook_Char_Desc_Necromancer0	Indent>A Necromancia é a mais maligna de todas as artes mágicas, podendo ser realizada apenas pelos seguidores do Necromante. Diferentemente do vampirismo e da licantropia, os poderes necessários para controlar as energias dos mortos não são facilmente adquiridos. O Necromante compartilha apenas uma quantia ínfima do seu poder com seus seguidores, os quais devem morrer para fazer uso das habilidades concedidas a eles. Uma vez mortos, os seguidores se tornam servos, e seu mestre então passa a ser capaz de controlá-los a seu bel prazer.
 TBook_Char_Desc_Ogre0	Indent>Os Gigantes Anubianos são uma antiga espécie de seres vivos, tão antiga quanto a própria terra. Este Ogro em particular é um dos últimos remanescentes de sua raça no mundo. Ele vive entre os paredões desta abandonada fortaleza da montanha, à espera de viajantes desavisados dos quais ele arranca os ossos para moer e fazer pão. Este Ogro, no entanto, não tem conseguido carne humana já há algum tempo, tendo de se contentar com os estranhos Trolls das Cavernas. Os Ogros têm um olfato muito apurado, podendo farejar um homem a quase um quilômetro de distância, habilidade que os torna exímios rastreadores. Felizmente seu tamanho e seu jeito desajeitado permitem que sua presa possa vê-lo chegando.
-TBook_Char_Desc_Pan0	Indent>De acordo com o folclore da região, um espírito místico habita as florestas selvagens, protegendo a natureza de todos os males. Cada pessoa, no entanto, atribui uma forma diferente ao espírito: água, cervo, javali, cavalo e assim por diante. Alguns retratam Pã como um sátiro do mal, enquanto outros contam uma história sobre um poderoso e benevolente semideus, servo da própria Mãe Natureza. Mas a Humanidade, tomada pela arrogância, polui e destrói o mundo. Assim, nada mais resta para os espíritos antigos a não ser partir... e Pã poderá enfrentar o mesmo destino em breve.
+TBook_Char_Desc_Pan0	Indent>De acordo com o folclore da região, um espírito místico habita as florestas selvagens, protegendo a natureza de todos os males. Cada pessoa, no entanto, atribui uma forma diferente ao espírito: água, cervo, javali, cavalo e assim por diante. Alguns retratam Pan como um sátiro do mal, enquanto outros contam uma história sobre um poderoso e benevolente semideus, servo da própria Mãe Natureza. Mas a Humanidade, tomada pela arrogância, polui e destrói o mundo. Assim, nada mais resta para os espíritos antigos a não ser partir... e Pan poderá enfrentar o mesmo destino em breve.
 TBook_Char_Desc_RagDoll0	Indent>Laura, a 'filha' da Rainha dos Vampiros, deu vida a estas marionetes utilizando um feitiço das trevas de sua própria autoria. Ela é capaz de controlar esses brinquedos e de transferir a força vital de boneco para boneco, o que torna o combate muito mais difícil. Entretanto, assim que o 'espírito interior' deles é derrotado, as marionetes voltam ao normal. A fonte do feitiço reside no interior da costura dos perigosos bonecos, bastando abri-los para acabar com a brincadeira. Isso, por vez, destruirá o espírito para sempre, transformando a criatura em um brinquedo novamente.
 TBook_Char_Desc_Reaper0	Indent>Apenas feiticeiros poderosos podem invocar e controlar estes perigosos espíritos. Os Ceifadores são uma manifestação corpórea da própria Morte: seu aspecto depende da crença daqueles que os enfrentam, mas a maioria das pessoas enxerga os Ceifadores como figuras esqueléticas que, vestidas com longas túnicas, carregam grandes foices por onde andam.
 TBook_Char_Desc_Satan0	Indent>Satã, o anjo caído, é o verdadeiro mentor por trás desses acontecimentos: ele foi jogado na Terra como punição pela sua rebelião contra Deus. Desde então ele tem buscado por uma maneira de regressar ao Paraíso para derrotar o Todo-Poderoso de uma vez por todas. Reza a lenda que a Máscara de Deus confere um poder extraordinário ao seu usuário, que seria supostamente a chave para encontrar o Todo-Poderoso: aquele que usar a Máscara torna-se o vassalo de Deus na Terra. Assim, Satã tem manipulado Zobek e os outros Senhores das Trevas para encontrá-la.
 TBook_Char_Desc_Satan1	Indent>O anjo caído exerce um poder inimaginável sobre a Terra, e pode usar tanto a energia da Luz quanto a energia das Sombras para lançar feitiços de destruição e conjurar Ceifadores demoníacos de outros planos. Ele é incapaz, porém, de fazer uso de toda sua força enquanto estiver preso ao plano terrestre. Assim ele acaba enfraquecido ao ser desafiado pelo Escolhido do Paraíso.
 TBook_Char_Desc_Scarecrow0	Indent>Os Espantalhos são constructos mágicos criados por Malphas, a Bruxa dos Corvos, para atacar e matar qualquer coisa que se mova. Malphas criou os Espantalhos para ficar de olho em Baba Yaga e, sempre que possível, para anular os poderes da rival, restringindo seus movimentos. Essas criaturas são despertadas pelos pássaros que obedecem aos comandos da Bruxa dos Corvos. Os Espantalhos são extremamente rápidos, e atacam com foices bem afiadas.
-TBook_Char_Desc_SilverWarrior0	Indent> Pã, reverenciado como um deus no passado, raramente muda para esta forma, preferindo a paz e a proteção de todas as coisas vivas. A armadura mágica de prata é um resquício de tempos antigos, um equipamento usado para combater as forças do mal que ele já não veste há muitos séculos. Agora, por necessidade, Pã veste mais uma vez a antiga armadura para testar Gabriel pela última vez. Pã deposita toda sua confiança em Deus, pois nenhum cavaleiro falso pode sobreviver ao teste de armas. O perdedor fará o sacrifício supremo, de acordo com a vontade de Deus.
+TBook_Char_Desc_SilverWarrior0	Indent> Pan, reverenciado como um deus no passado, raramente muda para esta forma, preferindo a paz e a proteção de todas as coisas vivas. A armadura mágica de prata é um resquício de tempos antigos, um equipamento usado para combater as forças do mal que ele já não veste há muitos séculos. Agora, por necessidade, Pan veste mais uma vez a antiga armadura para testar Gabriel pela última vez. Pan deposita toda sua confiança em Deus, pois nenhum cavaleiro falso pode sobreviver ao teste de armas. O perdedor fará o sacrifício supremo, de acordo com a vontade de Deus.
 TBook_Char_Desc_SpiderGiant0	Indent> Estes monstros são os maiores aracnídeos já encontrados até hoje, e são muito mais agressivos do que qualquer outro tipo de aranha. As Aranhas Gigantes podem ser encontradas em praticamente qualquer ambiente, mas elas geralmente preferem lugares escuros e encharcados, como grutas e florestas antigas. Assim como suas parentes menores, as Aranhas Gigantes podem tecer pegajosas teias de seda, com as quais elas capturam suas presas antes de comê-las. A seda desta aranha é extremamente forte, sendo utilizada até mesmo na criação de cordas incrivelmente resistentes e duradouras. A população de Aranhas Gigantes tem diminuído durante os últimos anos, devido à invasão do homem em seu habitat natural.
 TBook_Char_Desc_StoneIdol0	Indent>Os Magos-Ferreiros aghartianos formavam uma Ordem especializada na criação de poderosos artefatos. A maioria de suas invenções eram objetos de uso comum, tais como vestimentas e armaduras mágicas e armas encantadas. Porém, a criação mais impressionante da Ordem Aghartiana de Magos-Ferreiros, foram os Titãs. Estes golems de proporções gigantescas foram construídos para fins de defesa, mas os magos foram obrigados a usá-los durante a guerra contra os Senhores das Trevas, na qual a maioria deles foi destruída.
 TBook_Char_Desc_SwordMaster0	Indent>De acordo com um ditado popular, 'O espírito de um bravo guerreiro nunca morre' e, de fato, em alguns lugares impregnados de energia ruim, as almas dos guerreiros mortos nunca deixam o plano material, e permanecem presos aqui com uma única missão: atormentar os seres vivos. Essas almas inquietas costumam vestir roupas esfarrapadas, talvez como uma lembrança de seu passado distante. Com exceção de suas habilidades de combate, os Espadachins perderam qualquer resquício de humanidade.
@@ -913,7 +913,7 @@ TBook_Char_Name_MechanicalM	Monstruosidade Mecânica
 TBook_Char_Name_Naiad	Náiade
 TBook_Char_Name_Necromancer	Necromante
 TBook_Char_Name_Ogre	Ogro
-TBook_Char_Name_Pan	Pã
+TBook_Char_Name_Pan	Pan
 TBook_Char_Name_RagDoll	Brinquedos Mortais
 TBook_Char_Name_Reaper	Ceifadores
 TBook_Char_Name_Satan	Satã
@@ -1032,7 +1032,7 @@ TBook_Scroll_1_7_pans_temple_3_6	Indent>e brilho delas vai revelar
 TBook_Scroll_1_7_pans_temple_3_7	Indent>o caminho escondido da redenção
 TBook_Scroll_1_7_pans_temple_3_Extended_0	Indent>Para alcançar Marie antes que ela morra
 TBook_Scroll_1_7_pans_temple_3_Extended_1	Indent>você deve encontrar um caminho para seguir
-TBook_Scroll_1_7_pans_temple_3_Extended_10	Indent>Você ouve a voz de Pã em sua cabeça: A partir da posição inicial, mova o círculo maior e o círculo menor duas vezes no sentido horário. Então mova o círculo do meio, uma vez, na mesma direção. Se você se perder, olhe na direção para a qual brilham as rodas, e elas te apontarão à solução.
+TBook_Scroll_1_7_pans_temple_3_Extended_10	Indent>Você ouve a voz de Pan em sua cabeça: A partir da posição inicial, mova o círculo maior e o círculo menor duas vezes no sentido horário. Então mova o círculo do meio, uma vez, na mesma direção. Se você se perder, olhe na direção para a qual brilham as rodas, e elas te apontarão à solução.
 TBook_Scroll_1_7_pans_temple_3_Extended_2	Indent>Tente superar sua dor
 TBook_Scroll_1_7_pans_temple_3_Extended_3	Indent>pra evitar que ela desapareça
 TBook_Scroll_1_7_pans_temple_3_Extended_4	Indent>Escolha apenas uma direção
@@ -1043,7 +1043,7 @@ TBook_Scroll_1_7_pans_temple_3_Extended_8	.
 TBook_Scroll_1_7_pans_temple_3_Extended_9	Bold>Solução do Quebra-cabeça
 TBook_Scroll_1_7_pans_temple_3_Extended_Title	Dica do Manuscrito
 TBook_Scroll_1_7_pans_temple_3_Title	Dica do Manuscrito
-TBook_Scroll_1_7_pans_temple_4_0	Indent>Complete a fase depois de vencer a prova do Pã em 5 movimentos
+TBook_Scroll_1_7_pans_temple_4_0	Indent>Complete a fase depois de vencer a prova do Pan em 5 movimentos
 TBook_Scroll_1_7_pans_temple_4_Title	Descrição da Prova
 TBook_Scroll_1_9_oblivion_lake_4_0	Indent>Complete a fase e derrote o Titã de Gelo em menos de 1:30 minutos
 TBook_Scroll_1_9_oblivion_lake_4_Title	Descrição da Prova
@@ -1055,7 +1055,7 @@ TBook_Scroll_10_1_marsh_of_silence_3_0	Indent>É preciso aprender a Magia Sombria
 TBook_Scroll_10_1_marsh_of_silence_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_0	Indent>Muitos caíram. Seus corpos foram espalhados como folhas ao vento. A profecia fala daquele que é puro de coração, mas ninguém que seja puro de coração pode passar por aqui. Se alguém for forte o suficiente para enfrentar a Morte, temo que esse alguém possa ser também uma praga para a humanidade. Talvez estejamos destinados a sermos governados pelo mal? O forte conquistando o fraco: talvez seja essa a vontade de Deus?
-TBook_Scroll_10_2_misty_moor_4_0	Indent>Complete a fase sem deixar que Pã recupere sua saúde durante a luta
+TBook_Scroll_10_2_misty_moor_4_0	Indent>Complete a fase sem deixar que Pan recupere sua saúde durante a luta
 TBook_Scroll_10_2_misty_moor_4_Title	Descrição da Prova
 TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do Inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os Céus me ajudem, pois temo que eu não esteja à altura da tarefa!
 TBook_Scroll_10_3_cementery_1_Title	História do Cavaleiro da Irmandade
@@ -1498,9 +1498,9 @@ TBook_Title_Actions	Habilidades
 TBook_Title_Chars	Personagens
 TBook_Title_Items	Itens
 TBook_Tutorial_Introduction	Este é seu Livro de Viagem. Use-o para comprar novas habilidades e movimentos de combate. Confira o inventário e descubra informações úteis sobre o mundo de Castlevania e seus habitantes.
-TBook_Tutorial_IntroductionPress	Aperte [[A]] para continuar
+TBook_Tutorial_IntroductionPress	Aperte [[CROSS]] para continuar
 TBook_Tutorial_SelectTargetCategory	Use o analógico esquerdo para selecionar 'Movimentos Avançados.
-TBook_Tutorial_OpenTargetAction	Aperte [[A]] para selecionar %s.
+TBook_Tutorial_OpenTargetAction	Aperte [[CROSS]] para selecionar %s.
 TBook_Tutorial_SelectTargetAction	Agora selecione '%s' na página direita.
 TBook_Tutorial_GoBack	Aperte %s para voltar à página anterior.
 TBook_Tutorial_CloseWarning	Há um novo movimento de combate disponível para compra. Tem certeza que deseja sair do Livro de Viagem?
@@ -1597,7 +1597,7 @@ Vampire_Monster_Dark_Lord_Taunt_1	Vampire_Queen>Veja o verdadeiro poder de um Se
 Vampire_Monster_Dark_Lord_Taunt_2	Vampire_Queen>Você se arrependerá por me rejeitar, Gabriel!
 Vampire_Monster_Dark_Lord_Taunt_3	Vampire_Queen>Humano arrogante... você acha mesmo que pode me derrotar?
 Vampire_Monster_Dark_Lord_Taunt_4	Vampire_Queen>Olhe para a Carmilla... não sou linda?
-Satan_Taunt_1	Satan>O Pã não ensinou nada a você?
+Satan_Taunt_1	Satan>O Pan não ensinou nada a você?
 Satan_Taunt_2	Satan>Abaixe sua arma e terei piedade!
 Satan_Taunt_3	Satan>Curve-se diante de mim, é Satã quem ordena!
 Satan_Taunt_4	Satan>Deus não te ama! Ele deixou sua amada morrer!
@@ -1616,8 +1616,8 @@ Menu_Loading_1_1_besieged_village	Uma tempestade está chegando. A humanidade enf
 Menu_Loading_1_4_haunting_path	Eu o sigo para dentro da antiga floresta, observando de longe: ele é mesmo forte. O Deus único vem para expulsar a muitos, mas aqui neste lugar a influência Dele é mínima e tênue. Os antigos deuses ainda reinam aqui. Poucos ousam ir tão longe floresta adentro. Ele é perturbado por sonhos, sonhos que corroem sua própria alma. Ele descansará à noite, mas o descanso não virá facilmente. A batalha o enfraqueceu, mas ele sabe que o sonho retornará. E embora não tema nada nesta Terra, ainda assim seus pesadelos enfraquecem sua força interior, deixando um aperto frio em seu coração. Amanhã ele seguirá pelo velho caminho de caça, mas enquanto... ele sonha.
 Menu_Loading_1_5_swamp	Sozinho novamente, acompanhado apenas de seus pensamentos, ele continua em sua jornada para encontrar a quem procura. Quem ou o que era aquela estranha criatura? Há uma energia aqui, conhecida por poucos, um poder que pode ter alguma influência sobre os acontecimentos. Quem sabe o guardião do lago esteja ciente dele agora e possa auxiliá-lo em sua busca? Resta ainda a ser resolvido o pequeno problema do Brejo Morto, um lugar que já tirou a vida de muitos homens da Irmandade. O cheiro de morte é forte aqui, e o perigo espreita em cada esquina. Mas nada irá detê-lo... nada ficará em seu caminho.
 Menu_Loading_1_7_pans_temple	O fedor do brejo desaparece na memória, e uma terra de grande beleza aparece diante dele, um paraíso onde a natureza vive em harmonia com todos os seres vivos, um verdadeiro refúgio àqueles que buscam por isso. Ele está perto agora, perto dos antigos deuses e dos antigos costumes. Há muito esquecido pelos homens, este reino já foi reverenciado por todos. Agora, contudo, resta apenas uma pequena parte dele. E em breve até esta parte desaparecerá. O amuleto sente seu mestre: sua jornada está perto do fim. Ele precisará de toda sua força agora, de toda sua inteligência caso queira ser bem-sucedido aqui, caso queira convencer o antigo deus a ajudá-lo.
-Menu_Loading_1_9_oblivion_lake	O teste o deixou abalado. Vejo a dúvida em seus olhos à medida que ele vai em direção ao lago. Então Pã está a ajudá-lo agora? Isso é bom. Talvez seja um bom sinal. Fico imaginando se ele sabe o que o aguarda naquele lugar onde os mortos podem contatar os vivos. Está frio agora. Vejo que o vento frio atravessa seu coração. Sinta! Ele precisará de ajuda caso queira ser bem-sucedido. Ele não pode falhar. Ele não falhará, não agora... não enquanto isso depender de mim.
-Menu_Loading_2_2_enchanted_forest	Nós trilhamos caminhos diferentes, ele e eu. Meus instintos me dizem que ele está cheio de esperança, uma esperança que sempre o levará adiante. Bom. Talvez ele seja o escolhido, um guerreiro de coração puro capaz de nos livrar de todo o mal... talvez. Fico imaginando o que se passou em sua cabeça quando ele a viu lá, sua amada. Será que ele viu aquilo que sonhava ou viu seu futuro sendo levado para longe, como folhas ao vento? Fico à espreita dele enquanto ele se afasta da influência de Pã. Há uma floresta ao leste que leva à terra dos Lycans. Lá estão as decadentes e esquecidas ruínas de uma antiga civilização. Antiga prova da visão e do engenho do homem, hoje elas não passam de mais uma conquista da Natureza, que reivindica para si todas as coisas do mundo.
+Menu_Loading_1_9_oblivion_lake	O teste o deixou abalado. Vejo a dúvida em seus olhos à medida que ele vai em direção ao lago. Então Pan está a ajudá-lo agora? Isso é bom. Talvez seja um bom sinal. Fico imaginando se ele sabe o que o aguarda naquele lugar onde os mortos podem contatar os vivos. Está frio agora. Vejo que o vento frio atravessa seu coração. Sinta! Ele precisará de ajuda caso queira ser bem-sucedido. Ele não pode falhar. Ele não falhará, não agora... não enquanto isso depender de mim.
+Menu_Loading_2_2_enchanted_forest	Nós trilhamos caminhos diferentes, ele e eu. Meus instintos me dizem que ele está cheio de esperança, uma esperança que sempre o levará adiante. Bom. Talvez ele seja o escolhido, um guerreiro de coração puro capaz de nos livrar de todo o mal... talvez. Fico imaginando o que se passou em sua cabeça quando ele a viu lá, sua amada. Será que ele viu aquilo que sonhava ou viu seu futuro sendo levado para longe, como folhas ao vento? Fico à espreita dele enquanto ele se afasta da influência de Pan. Há uma floresta ao leste que leva à terra dos Lycans. Lá estão as decadentes e esquecidas ruínas de uma antiga civilização. Antiga prova da visão e do engenho do homem, hoje elas não passam de mais uma conquista da Natureza, que reivindica para si todas as coisas do mundo.
 Menu_Loading_2_3_underground_cave	Ele está se tornando cada vez mais forte a cada passo que dá: sua coragem no campo de batalha é inegável. Ele vai precisar de coragem agora. Os Goblins são uma coisa, mas há outras criaturas nos cantos mais escuros do mundo, criaturas que desconhecem sua situação, mas que lutam por sua própria sobrevivência. Muitos irmãos que tombaram são testemunhas disto: sim, seus ossos esbranquiçados servem de adorno aos túneis tortuosos deste lugar esquecido por Deus. Ele corre sempre em direção ao perigo. Quem é a caça e quem é o caçador? Quem sabe quando chegar a hora dessas criaturas elas conheçam o medo ao olhar nos olhos de sua presa. Vá, meu amigo, vá salvar seu amor!
 Menu_Loading_2_4_labyrinth_entrance	Então ele encontrou outra das melhorias de Gandolfi? Que inesperado, tomara que seja útil nos desafios que vêm por aí. A cidade perdida de Agharta se apresenta à sua frente Pergunto-me se você realmente sabe o que está à sua frente, Gabriel... o que será que Deus reservou para você? A terra dos Lycans! Esta cidade arruinada pertence agora ao Senhor deles, e você pode ter certeza de que ele não vai permitir sua passagem sem antes confiscar sua vida. Mas você precisa derrotá-lo para trazê-la de volta, meu amigo. Você precisa esmagá-lo na poeira, como o inseto que ele é.
 Menu_Loading_2_6_underground_dungeons	Esta antiga cidade tem muitas camadas, cada uma servindo como fundamento para outra. É um labirinto emaranhado de passagens esquecidas e becos sem saída. O perigo espreita em cada esquina. Ele tem demonstrado grande resistência, mas esta jornada vai levar muito mais tempo do que o esperado, levando-o por profundezas não exploradas há séculos pelo homem. Ele precisará fazer uso de toda sua inteligência para encontrar uma rota alternativa para o centro da Cidade... onde seu destino o aguarda!
@@ -1630,7 +1630,7 @@ Menu_Loading_3_0_the_gauntlet	Os sonhos são um portal para a mente, e agora Gabr
 Menu_Loading_3_3_the_dark_lord	Gabriel lutou longa e arduamente para chegar até aqui, e agora ele enfrenta seu mais difícil desafio. O Senhor dos Lycans deve ser derrotado se Gabriel espera ter alguma chance de trazer sua amada de volta. Temo que ele vá sofrer ainda mais do que ele imagina ao descobrir a verdade. Ainda assim, seu ódio e seu ardente desejo de vingança não podem ser subestimados. Ele tem a luva e a arma de Gandolfi. Ele é uma força com a qual até mesmo o Senhor dos Lycans terá dificuldade em lidar. Bom... logo ele vai superar esse mal. Em breve o mundo estará livre dos Senhores das Trevas, e planos sonhados há muito tempo poderão se tornar realidade. Vá, meu amigo... vá e destrua esta criatura de uma vez por todas.
 Menu_Loading_4_1_fortress	O que está feito não pode ser desfeito. Cornell não mais existe. É uma pena que a irmandade da luz, ordem à qual nós dois pertencemos, seja também a razão pela qual o mundo está um caos. Gabriel, você provou seu valor, meu amigo. Você tem um pedaço da máscara de Deus. Dizem que essa relíquia pode trazer os mortos de volta à vida. Dizem que esta relíquia pode conferir um poder além da compreensão humana. Agora, com a ajuda do Deus antigo, ele vai em direção à terra dos Vampiros, ainda mais fundo no coração das trevas.
 Menu_Loading_4_2_fortress_witch	É triste a história da Bruxa que guarda esta fortaleza. É uma triste história sobre um amor perdido. Uma história não muito diferente daquela vivida pelo nosso bravo herói. Pena, no entanto, é algo que ele não pode mais sentir. Ele é imune a ela. A pena por essas criaturas 'malignas' será deixada de lado em prol da vingança. Então adeus, outrora bela Malphas: você não incomodará mais a humanidade. E quando você desaparecer no vácuo saiba que foi o amor que, enfim, a destruiu.
-Menu_Loading_5_1_dark_forest	Então parece que Pã salvou Gabriel mais uma vez: que sorte contar com sua chegada! Gabriel entra agora na periferia do território dos Vampiros. Um inverno gelado tem assolado está terra há anos, expulsando os habitantes para regiões de clima mais quente. Aqueles teimosos o bastante para ficar já se acostumaram com a fria morte que os visita todas as noites, levando para sempre seus entes queridos. Os Vampiros prosperam no frio e aterrorizam a vida daqueles que rogam por calor e companhia. Um guerreiro virá nesta noite. Um cavaleiro de armadura brilhante com a morte ao seu lado. Ele vem para pegá-las, criaturas da noite.
+Menu_Loading_5_1_dark_forest	Então parece que Pan salvou Gabriel mais uma vez: que sorte contar com sua chegada! Gabriel entra agora na periferia do território dos Vampiros. Um inverno gelado tem assolado está terra há anos, expulsando os habitantes para regiões de clima mais quente. Aqueles teimosos o bastante para ficar já se acostumaram com a fria morte que os visita todas as noites, levando para sempre seus entes queridos. Os Vampiros prosperam no frio e aterrorizam a vida daqueles que rogam por calor e companhia. Um guerreiro virá nesta noite. Um cavaleiro de armadura brilhante com a morte ao seu lado. Ele vem para pegá-las, criaturas da noite.
 Menu_Loading_5_2_isolated_village	Esta aldeia é um dos últimos vestígios da civilização humana neste lugar de morte e frio. E ela não está muito longe do nosso próximo objetivo: o Castelo Vampiro. Tenho alguns assuntos a tratar aqui, assuntos que poderiam estragar os nossos planos. Vou tratar deles e tentar me reencontrar com Gabriel depois. Ele não tem dormido há dias desde que encontramos a garota. A dor ainda está estampada em seu rosto, e sua alma é movida apenas pelo ódio. Não falaremos sobre isso. Ele não deve saber que já percebi tudo, e que o segui até aqui.
 Menu_Loading_5_4_abbey_catacombs	Nós mergulhamos nas profundezas da Abadia, prontos para lutar contra o mal que nos confronta. O abade, Vincent Dorin, foi um homem bom e gentil que ajudava o povo de Wygol. Mas agora ele se tornou um covarde desgarrado que se esconde na Abadia, cercado de armadilhas inteligentes. O povo, desprotegido, pagou um preço alto por sua traição. A noite caiu lá fora, e a qualquer momento estaremos vulneráveis aos ataques dos Vampiros. Temos de estar vigilantes. Precisamos trabalhar juntos se quisermos ter sucesso em obter a relíquia protegida pelo abade. Isso nos ajudará, e muito, a derrotar a horda vampírica mais tarde.
 Menu_Loading_5_4_abbey_catacombs_a	As armadilhas espalhadas pelo abade são realmente complicadas, mas ainda assim conseguimos invadir os claustros interiores. A biblioteca está a um passo daqui, se não me falha a memória. Meu amigo parece cansado e preocupado. Com o peso do mundo sobre os ombros. Posso ver que ele está escondendo um segredo terrível dentro de si. Ele tenta enterrá-lo, mas então a raiva toma conta. Não podemos nos atrasar. Nós precisamos encontrar Dorin e tomar dele aquilo que precisamos antes que a culpa nos consuma. A necessidade de muitos sobrepuja a necessidade de poucos. Não podemos derramar nenhuma lágrima pelos mortos: temos que ser fortes e devemos destruir os Senhores das Trevas a qualquer custo.
@@ -1648,12 +1648,12 @@ Menu_Loading_8_1_tower_base	Curioso, não? Parece que o amor pode ser uma arma po
 Menu_Loading_8_2_the_tower	Posso ver claramente em seu rosto que a misericórdia vampiresca está maquinando seus pensamentos. Será que Laura o faz lembrar-se da pobre Claudia? Ver sua amada Marie novamente trouxe muitas lembranças. O amor de Marie é tudo o que ele tem agora, e a esperança de abraçá-la novamente é sua única esperança. Ele está perto agora, perto da cadela que comanda esses vermes Vampiros. Gabriel vai fazê-la pagar pelas injustiças que ele sofreu em suas mãos. Ela é poderosa, ela vai fazer o possível e o impossível para tentá-lo, para trazê-lo para seu lado. Ainda resta resolver, primeiro, a questão da torre mecânica. Outra invenção maluca do Frankenstein que vai apenas atrasar sua doce vingança. Espero.
 Menu_Loading_8_3_top_corridor	Os mecanismos e as engrenagens gigantes continuam a funcionar, mas Gabriel continua a superá-los. Ele agora está no centro do mal. A escuridão está por toda parte, cercando-o por todos os lados. Aqui ele vai conhecer o irmão daquele destruído por ele na aldeia. Seu nome: Olrox. Os irmãos têm sido os dois grandes campeões dela, mas ainda assim sinto que seu reinado do mal termina aqui, nesta noite. Olrox e seu irmão Brauner são traidores que se aliaram à Rainha quando ela se tornou um dos Senhores das Trevas. Desde então ele vem espalhando o terror pelas terras por onde passa, mas agora ele vai encontrar alguém que é melhor e mais poderoso do que ele. Alguém que traz uma mensagem desprovida de qualquer misericórdia. Olrox conhecerá Gabriel Belmont e sua Matadora de Vampiros!
 Menu_Loading_8_4_the_throne_room	O sangue de Olrox abriu o caminho para a Rainha. Ela carrega o outro pedaço da máscara de Deus, o qual Gabriel deve tomar caso queira ficar com sua amada mais uma vez. Ela tentará seduzi-lo, encantá-lo, mas ele verá através de sua máscara, tenho certeza. Ele é tão forte agora que até mesmo ela deve temer encontrar a morte em suas mãos. Posso sentir o medo nela, um cheiro de medo. Os Vampiros podem sentir os vivos, mas não os mortos. Ela sabe que Gabriel está aqui, mas ainda assim não consegue sentir a morte por perto. Ela sabe o que ele quer. Pobre e bela Carmilla, você derramará lágrimas de sangue antes do amanhecer.
-Menu_Loading_9_1_bones_forest	Então Pã anda novamente oferecendo conselhos e palavras de sabedoria para o nosso herói. Gabriel agora tem raiva: a traição de Carmilla o fez questionar sua própria fé. A irmandade não significa mais nada para ele. Ele quer apenas sua Marie de volta. Ele tem agora tem os dois pedaços da máscara, restando encontrar apenas mais um para deixá-la completa. Agora ele deve viajar para a Terra dos Mortos e enfrentar o último Senhor. A morte em pessoa. Há ainda muitas léguas pela frente, e não posso correr o risco de ser visto, pois duvido que até mesmo um de seus companheiros de irmandade possa ajudá-lo agora. Ele deve partir para onde ninguém pode segui-lo: para o abismo.
+Menu_Loading_9_1_bones_forest	Então Pan anda novamente oferecendo conselhos e palavras de sabedoria para o nosso herói. Gabriel agora tem raiva: a traição de Carmilla o fez questionar sua própria fé. A irmandade não significa mais nada para ele. Ele quer apenas sua Marie de volta. Ele tem agora tem os dois pedaços da máscara, restando encontrar apenas mais um para deixá-la completa. Agora ele deve viajar para a Terra dos Mortos e enfrentar o último Senhor. A morte em pessoa. Há ainda muitas léguas pela frente, e não posso correr o risco de ser visto, pois duvido que até mesmo um de seus companheiros de irmandade possa ajudá-lo agora. Ele deve partir para onde ninguém pode segui-lo: para o abismo.
 Menu_Loading_9_3_woes_moor	O cheiro de morte é forte. Uma bruxa exerce poder aqui, mas sinto que Gabriel tem força de sobra para enfrentá-la. Os ossos de seus companheiros estão espalhados por todos os lados, mas ele parece alheio a tudo. Determinado e firme para seguir adiante, ele continua a lutar, irredutível. Ele não tem dormido há dias e descansa apenas brevemente. Às vezes o escuto falando com ela, dizendo que a ama, que eles ficarão juntos novamente. No escuro ele chora por ela. Ou por sua própria alma, talvez.
 Menu_Loading_9_4_1_the_music_box	A velha bruxa lançou um feitiço sobre Gabriel, tornando-o pequeninho. Pequeninho o bastante para entrar na Caixa de Música e recuperar a rosa azul que ela tanto quer. A velha bruxa me deixou nervoso. Algo que ela disse me deixou muito inquieto. Ela mencionou o 'Rei dos Anjos'... Tenho certeza de que ela falou isso. O que isso significa? Por que sinto tamanha apreensão? Espero que Gabriel tenha sucesso, e rápido, para que possamos seguir caminho. Assim que ele partir, matarei este corvo maligno para garantir que ela nunca mais coloque alguém em perigo.
 Menu_Loading_10_1_marsh_of_silence	Baba Yaga enviou o nosso herói para o Cemitério dos Titãs e enviei sua alma para o mundo dos mortos. Ela não vai mais nos incomodar agora. Agora meu amigo adentra a Terra dos Mortos, e sua batalha final está chegando. Eu preciso encontrar meu próprio caminho e tentar encontrá-lo em algum ponto. Ele está por conta própria por ora. A terra exige sacrifício... um sacrifício que eu espero que ele possa fazer, pois sem isso ele não chegará muito longe. Devo ter fé nele agora. A semente foi semeada há muito tempo, e ela floresce maravilhosamente. Ele chegou até aqui pelo caminho... Devo acreditar que ele vai percorrê-lo até o fim.
 Menu_Loading_10_2_misty_moor	Os poderosos Necromantes têm usado este terreno, outrora sagrado, para criar um exército de mortos. Conquistando terras vizinhas, as legiões de Zumbis devoraram os vivos e deram origem a toda esta desolação. Homem algum viajou por aqui sem conhecer a morte. Gabriel enfrenta agora seu maior desafio. Ele agora bate seus punhos contra as portas do verdadeiro inferno na Terra, e o Senhor que aqui comanda está a escutá-lo, esperando por ele. Sorrindo...
-Menu_Loading_10_3_cementery	Então o velho deus está morto. A que ponto chegamos, enfim. O sangue de um deus abriu o caminho. Bom, Gabriel, muito bom. Há apenas um Deus verdadeiro, e todos os usurpadores devem ser descartados. Contudo, o sacrifício de Pã não foi em vão. Agora nosso guerreiro da luz pode prosseguir para seu destino final. O Senhor dos Mortos é o mais poderoso dos Senhores das Trevas. Gabriel precisará de todas as forças para derrotá-lo. Eu me preocupo com ele: sua mente está cansada, enferma talvez. Ele questiona sua própria fé, questiona seu próprio coração. Poderá ele vencer? Venha, meu amigo, venha um pouco mais e você poderá ver sua Marie novamente.
+Menu_Loading_10_3_cementery	Então o velho deus está morto. A que ponto chegamos, enfim. O sangue de um deus abriu o caminho. Bom, Gabriel, muito bom. Há apenas um Deus verdadeiro, e todos os usurpadores devem ser descartados. Contudo, o sacrifício de Pan não foi em vão. Agora nosso guerreiro da luz pode prosseguir para seu destino final. O Senhor dos Mortos é o mais poderoso dos Senhores das Trevas. Gabriel precisará de todas as forças para derrotá-lo. Eu me preocupo com ele: sua mente está cansada, enferma talvez. Ele questiona sua própria fé, questiona seu próprio coração. Poderá ele vencer? Venha, meu amigo, venha um pouco mais e você poderá ver sua Marie novamente.
 Menu_Loading_10_5_crematory_oven	Alimentado pelas próprias chamas do Inferno, o forno crematório é onde o Coveiro realiza seu trabalho medonho. Um poderoso demônio que carrega uma pá tão afiada quanto um cutelo, com a qual ele pode cortar um homem em dois com apenas um golpe. O Coveiro rasgará a própria alma de Gabriel na primeira oportunidade que tiver. Ainda assim, sinto que nosso herói tem poder de sobra para lidar com essa criatura. Isso poderá ser realmente interessante. Sinto a raiva de Gabriel brotando dentro de si, e me pergunto quem será o mais terrível: o demônio ou o nosso herói?
 Menu_Loading_11_0_the_necromancer_abyss	Aconteceu, enfim: eis o abismo do Necromante aos seus pés. Ele é sombrio e terrível, e os gritos dos mortos o seguem aonde quer que ele vá. Não há nada além de ódio em seu coração. Ódio por aqueles levaram sua amada. Por aqueles que o levaram a fazer coisas terríveis. Por aqueles que levaram sua humanidade. Ó descendentes da morte, é chegada a hora de colher a tempestade: eis aí o Príncipe das Trevas.
 Menu_Loading_11_8_dracolich	Olhe para ele, tão sombrio, tão lindo. Ele veio pela vingança e é vingança que ele terá. Uma máquina de matar sem remorso, impiedosa. O que aconteceu com você, Gabriel? O que se você se tornou? O amor cegou você, meu amigo, mas você mudou. Sua jornada está perto do fim, o sonho já está à vista. Agora você deve enfrentar a morte e vencê-la. A máscara é um poderoso artefato, e aquele que a usa pode fazer qualquer coisa! Trazer os mortos de volta à vida, governar o mundo, destruir o universo, desafiar o próprio Deus. Você é o escolhido, Gabriel. Você é o escolhido!
@@ -1846,7 +1846,7 @@ Menu_Chapter_12._Necromancer_Abyss_3	Capítulo XII
 Menu_Level_1_1_besieged_village	Aldeia Sitiada
 Menu_Level_1_4_haunting_path	Caminho de Caça
 Menu_Level_1_5_swamp	O Brejo Morto
-Menu_Level_1_7_pans_temple	Templo de Pã
+Menu_Level_1_7_pans_temple	Templo de Pan
 Menu_Level_1_9_oblivion_lake	Lago do Esquecimento
 Menu_Level_2_2_enchanted_forest	Floresta Encantada
 Menu_Level_2_3_underground_cave	Cavernas Subterrâneas
@@ -1996,7 +1996,7 @@ Menu_Picture_2_8_stone_idol_mausoleum4	Outra porta fechada bloqueava a passagem 
 Menu_Picture_2_9_stone_idol_temple	O enorme Titã estava parado diante de Gabriel de forma ameaçadora.
 Menu_Picture_2_9_stone_idol_temple1	Gabriel se pendurou como pôde na superfície do Titã de pedra.
 Menu_Picture_2_10_black_knight	Reivindicando vingança por Claudia, sua protegida, o Cavaleiro Negro Golem atacou Gabriel com violência.
-Menu_Picture_3_0_the_gauntlet	Com a luva Negra em sua mão, Gabriel seguiu em direção à fortaleza dos Lycans.
+Menu_Picture_3_0_the_gauntlet	Com a Luva Negra em sua mão, Gabriel seguiu em direção à fortaleza dos Lycans.
 Menu_Picture_3_0_the_gauntlet1	Alguns Lycans proporcionariam a Gabriel a Magia Sombria da qual ele precisa.
 Menu_Picture_3_0_the_gauntlet2	Gabriel tinha que encontrar uma forma de cruzar a ponte quebrada.
 Menu_Picture_3_0_the_gauntlet3	Um grande grupo de Lycans emboscou Gabriel, sem saber o que os aguardava.
@@ -2107,8 +2107,8 @@ Menu_Picture_10_1_marsh_of_silence1	Os mortos-vivos se escondiam no subterrâneo,
 Menu_Picture_10_1_marsh_of_silence2	Os caixões espalhados sobre a carcaça do Titã se ergueram e atacaram Gabriel assim que ele chegou no local.
 Menu_Picture_10_1_marsh_of_silence3	O pedaço da Runa Mágica deu ao Titã energia suficiente para fazer um último movimento, o qual Gabriel aproveitou para avançar.
 Menu_Picture_10_1_marsh_of_silence4	Outro Titã foi acordado de seu eterno repouso para cumprir um último dever com Gabriel.
-Menu_Picture_10_2_misty_moor	Assim que a luta começou, Pã drenou toda a energia mágica de Gabriel.
-Menu_Picture_10_2_misty_moor1	Pã restaurou o fluxo de Magia da Luz, permitindo que Gabriel recuperasse sua saúde ao atacá-lo.
+Menu_Picture_10_2_misty_moor	Assim que a luta começou, Pan drenou toda a energia mágica de Gabriel.
+Menu_Picture_10_2_misty_moor1	Pan restaurou o fluxo de Magia da Luz, permitindo que Gabriel recuperasse sua saúde ao atacá-lo.
 Menu_Picture_10_2_misty_moor2	Gabriel percebeu que não era o único com controle sobre a energia da Magia da Luz e das Sombras.
 Menu_Picture_10_3_cementery	Usando suas habilidades acrobáticas, Gabriel cruzou os abismos dentro do cânion do cemitério.
 Menu_Picture_10_3_cementery1	Os Chupa-cabras riram do Gabriel de dentro da gaiola mágica aparentemente segura.
@@ -2403,7 +2403,7 @@ Scene_CH01_Marie9_1	Marie>Eles falam sobre uma profecia... Não entendo o que ele
 Scene_CH01_Marie9_2	Marie>Sinto que estou desaparecendo... Não posso vê-lo... a escuridão está se fechando ao meu redor. Eu te amo, Gabriel...
 Scene_CH01_Marie10	Gabriel>Não... Marie, não se vá! Marie!... Também te amo...
 Scene_CH01_Marie11	Gabriel>Por que você está aqui? Quem o enviou?
-Scene_CH01_Marie12	Zobek>Sou Zobek, um guerreiro da sua Irmandade. O Pã e eu somos velhos conhecidos.
+Scene_CH01_Marie12	Zobek>Sou Zobek, um guerreiro da sua Irmandade. O Pan e eu somos velhos conhecidos.
 Scene_CH01_Marie12_1	Zobek>Ele teve a impressão de que você precisaria de minha ajuda.
 Scene_CH01_Marie13	Gabriel>Hmm... Já ouvi falar de você. Desculpe-me. Meu nome é Belmont.
 Scene_CH01_Marie14	Zobek>Sei quem você é. Aquele espírito era de alguém que você conhecia?
@@ -2784,8 +2784,8 @@ Trial_1_4_haunting_path_Descr	Complete a fase sem recuperar a saúde de forma alg
 Trial_1_4_haunting_path_Complete	Você completou a fase sem ser curado
 Trial_1_5_swamp_Descr	Complete a fase depois de matar pelo menos %s Goblins
 Trial_1_5_swamp_Complete	Você completou a fase depois de matar %s Goblins
-Trial_1_7_pans_temple_Descr	Complete a fase depois de vencer a prova do Pã em %s movimentos
-Trial_1_7_pans_temple_Complete	Você completou a fase após vencer a prova do Pã em %s movimentos
+Trial_1_7_pans_temple_Descr	Complete a fase depois de vencer a prova do Pan em %s movimentos
+Trial_1_7_pans_temple_Complete	Você completou a fase após vencer a prova do Pan em %s movimentos
 Trial_1_9_oblivion_lake_Descr	Complete a fase e derrote o Titã de Gelo em menos de %s minutos
 Trial_1_9_oblivion_lake_Complete	Você completou a fase e derrotou o Titã de Gelo em %s minutos
 Trial_2_2_enchanted_forest_Descr	Complete a fase depois de matar %s Goblins com suas próprias granadas
@@ -2858,8 +2858,8 @@ Trial_9_4_1_the_music_box_Complete	Você completou a fase e pegou a rosa azul sem
 Trial_9_4_1_the_music_box_Descr	Complete a fase e pegue a rosa azul sem cair em nenhuma das armadilhas da Caixa Musical
 Trial_10_1_marsh_of_silence_Complete	Você completou a fase depois de receber %s pontos de dano por envenenamento da névoa mortal
 Trial_10_1_marsh_of_silence_Descr	Complete a fase depois de receber pelo menos %s pontos de dano por envenenamento da névoa mortal
-Trial_10_2_misty_moor_Complete	Você completou a fase sem deixar que Pã recuperasse sua saúde durante a luta
-Trial_10_2_misty_moor_Descr	Complete a fase sem deixar que Pã recupere sua saúde durante a luta
+Trial_10_2_misty_moor_Complete	Você completou a fase sem deixar que Pan recuperasse sua saúde durante a luta
+Trial_10_2_misty_moor_Descr	Complete a fase sem deixar que Pan recupere sua saúde durante a luta
 Trial_10_3_cementery_Complete	Você completou a fase depois de matar %s zumbis em uma única sequência aérea
 Trial_10_3_cementery_Descr	Complete a fase depois de matar %s zumbis em uma única sequência aérea
 Trial_10_5_crematory_oven_Complete	Você completou a fase e matou %s cadáveres rastejantes conjurados durante a luta contra o Coveiro
@@ -2918,9 +2918,9 @@ Tip_Combat_Satan	A maioria dos ataques de Satã são baseados nas Magias da Luz e 
 Tip_Combat_Satan_2	Você pode ativar sua magia mesmo durante um ataque. Reaja o mais rápido possível quando Satã alterar sua magia.
 Tip_Combat_Satan_3	A aura reluzente em torno do cajado de Satã reflete o tipo de magia que ele está usando em um determinado momento.
 Tip_Combat_Satan_4	A magia de Gabriel é quase ilimitada enquanto Anjo. Aproveite a oportunidade para punir Satã.
-Tip_Combat_SilverWarrior	O Pã, assim como você, pode controlar as Magias da Luz e das Sombras. Tente atacá-lo com uma magia oposta para conter seus ataques.
-Tip_Combat_SilverWarrior_2	Observe a cor da aura em torno de Pã para saber qual tipo de magia ele está usando e como combatê-la.
-Tip_Combat_SilverWarrior_3	Você pode ativar sua magia mesmo durante um ataque. Reaja o mais rápido possível quando Pã alterar sua magia.
+Tip_Combat_SilverWarrior	O Pan, assim como você, pode controlar as Magias da Luz e das Sombras. Tente atacá-lo com uma magia oposta para conter seus ataques.
+Tip_Combat_SilverWarrior_2	Observe a cor da aura em torno de Pan para saber qual tipo de magia ele está usando e como combatê-la.
+Tip_Combat_SilverWarrior_3	Você pode ativar sua magia mesmo durante um ataque. Reaja o mais rápido possível quando Pan alterar sua magia.
 Tip_Combat_SpiderGiant	Você pode prever os ataques de uma Aranha ao observar de perto seus movimentos. Execute bloqueios e esquivas para derrotar as Aranhas.
 Tip_Combat_Unblockable	Sinais reluzentes sobre os ataques inimigos são avisos de que eles são indefensíveis.
 Tip_Combat_Witch	A Bruxa dos Corvos não recebe dano enquanto sua Barra de Saúde estiver cinza. Espere ela parar de se mover antes de atacá-la.
@@ -2983,7 +2983,7 @@ Artwork_ArtworkName_05	Cenário da Aldeia
 Artwork_ArtworkName_06	Esboço da Aldeia
 Artwork_ArtworkName_07	Introdução Cinematográfica
 Artwork_ArtworkName_08	Introdução Cinematográfica (II)
-Artwork_ArtworkName_09	A Forma de Cavalo de Pã
+Artwork_ArtworkName_09	A Forma de Cavalo de Pan
 Artwork_ArtworkName_10	Pequeno Lycan
 Artwork_ArtworkName_11	Cinematográfica: Perseguição
 Artwork_ArtworkName_12	Cinematográfica: Perseguição (II)
@@ -3001,10 +3001,10 @@ Artwork_ArtworkName_23	Goblin
 Artwork_ArtworkName_24	Cadáver de Dragão
 Artwork_ArtworkName_25	Ponte Quebrada
 Artwork_ArtworkName_26	Entrada da Floresta
-Artwork_ArtworkName_27	Floresta do Pã
+Artwork_ArtworkName_27	Floresta do Pan
 Artwork_ArtworkName_28	Entrada do Templo
 Artwork_ArtworkName_29	Interior do Templo
-Artwork_ArtworkName_30	A Forma de Fauno de Pã
+Artwork_ArtworkName_30	A Forma de Fauno de Pan
 Artwork_ArtworkName_31	Entrada do Lago
 Artwork_ArtworkName_32	Lago do Esquecimento
 Artwork_ArtworkName_33	Lago do Esquecimento (II)
@@ -3080,7 +3080,7 @@ Artwork_ArtworkName_102	Ponte da Fortaleza
 Artwork_ArtworkName_103	Chupa-cabras
 Artwork_ArtworkName_104	Ogro
 Artwork_ArtworkName_105	Storyboard da Luta contra o Ogro
-Artwork_ArtworkName_106	A Forma de Águia de Pã
+Artwork_ArtworkName_106	A Forma de Águia de Pan
 Artwork_ArtworkName_107	A Bruxa dos Corvos
 Artwork_ArtworkName_108	As Crianças da Bruxa dos Corvos
 Artwork_ArtworkName_109	Os Ovos da Bruxa dos Corvos
