@@ -2871,7 +2871,7 @@ Trial_11_8_dracolich_Descr	Complete a fase e derrote o Dracolich em menos de %s 
 Trial_12_3_final_fight_Complete	Você completou a fase e derrotou o Satã sem ser atingido por qualquer ataque com a cor mágica oposta
 Trial_12_3_final_fight_Descr	Complete a fase e derrote o Satã sem ser atingido por qualquer ataque com a cor mágica oposta
 Tip_Prefix	Dica: 
-Tip_Combat	Lembre-se de que você pode conferir as ações e combos disponíveis a qualquer momento no seu Livro de Viagem.
+Tip_Combat	Você pode conferir as ações e combos disponíveis a qualquer momento no seu Livro de Viagem.
 Tip_Combat_2	Os inimigos têm diferentes valores de resistência para cada uma de suas armas secundárias. Você pode conferi-los no seu Livro de Viagem.
 Tip_Combat_3	Você pode realizar uma 'Recuperação Rápida' pressionando o botão de pulo depois de ser jogado ao chão.
 Tip_Combat_4	Quando usado corretamente, o salto mortal é uma manobra muito eficaz, especialmente contra grandes inimigos desajeitados.
@@ -3285,7 +3285,7 @@ Artwork_ArtworkName_307	Esboço do Drácula (II)
 Artwork_ArtworkName_308	Esboço do Trono
 Artwork_ArtworkName_309	Estátuas da Catedral
 Artwork_ArtworkName_310	Esboço do Zobek
-CREDIT_0	2>Tradução e correção para o Português por
+CREDIT_0	2>Tradução para o Português por
 CREDIT_1	1>JCorrea
 CREDIT_2	1>.
 CREDIT_3	1>.
