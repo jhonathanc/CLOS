@@ -1023,20 +1023,20 @@ TBook_Scroll_1_7_pans_temple_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_7_pans_temple_2_0	Indent>Martha, meu amor, temo que não conseguirei mais voltar. Cuide-se, e tome conta de nossa filha amada. Que Deus me perdoe por ter falhado em minha missão! Saiba que você estará sempre em meu coração e que, um dia, estaremos juntos novamente. Do esposo que te ama, Victor.
 TBook_Scroll_1_7_pans_temple_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_1_7_pans_temple_3_0	Indent>Para alcançar Marie antes que ela morra
-TBook_Scroll_1_7_pans_temple_3_1	Indent>você deve encontrar um caminho para seguir
-TBook_Scroll_1_7_pans_temple_3_2	Indent>Tente superar sua dor
-TBook_Scroll_1_7_pans_temple_3_3	Indent>pra evitar que ela desapareça
+TBook_Scroll_1_7_pans_temple_3_1	Indent>precisas encontrar uma orientação
+TBook_Scroll_1_7_pans_temple_3_2	Indent>Tente superar sua aflição
+TBook_Scroll_1_7_pans_temple_3_3	Indent>e evitará que a morte dela ocorra
 TBook_Scroll_1_7_pans_temple_3_4	Indent>Escolha apenas uma direção
-TBook_Scroll_1_7_pans_temple_3_5	Indent>para a qual virar as três rodas
-TBook_Scroll_1_7_pans_temple_3_6	Indent>e brilho delas vai revelar
+TBook_Scroll_1_7_pans_temple_3_5	Indent>para a qual as três rodas girar
+TBook_Scroll_1_7_pans_temple_3_6	Indent>e o brilho delas vai revelar
 TBook_Scroll_1_7_pans_temple_3_7	Indent>o caminho escondido da redenção
 TBook_Scroll_1_7_pans_temple_3_Extended_0	Indent>Para alcançar Marie antes que ela morra
-TBook_Scroll_1_7_pans_temple_3_Extended_1	Indent>você deve encontrar um caminho para seguir
-TBook_Scroll_1_7_pans_temple_3_Extended_10	Indent>Você ouve a voz de Pan em sua cabeça: A partir da posição inicial, mova o círculo maior e o círculo menor duas vezes no sentido horário. Então mova o círculo do meio, uma vez, na mesma direção. Se você se perder, olhe na direção para a qual brilham as rodas, e elas te apontarão à solução.
-TBook_Scroll_1_7_pans_temple_3_Extended_2	Indent>Tente superar sua dor
-TBook_Scroll_1_7_pans_temple_3_Extended_3	Indent>pra evitar que ela desapareça
+TBook_Scroll_1_7_pans_temple_3_Extended_1	Indent>precisas encontrar uma orientação
+TBook_Scroll_1_7_pans_temple_3_Extended_10	Indent>Você ouve a voz de Pan em sua cabeça: A partir da posição inicial, mova o círculo maior e o menor duas vezes no sentido horário. Então mova o círculo do meio, uma vez, na mesma direção. Se você se perder, olhe na direção para a qual brilham as rodas, e elas te apontarão à solução.
+TBook_Scroll_1_7_pans_temple_3_Extended_2	Indent>Tente superar sua aflição
+TBook_Scroll_1_7_pans_temple_3_Extended_3	Indent>e evitará que a morte dela ocorra
 TBook_Scroll_1_7_pans_temple_3_Extended_4	Indent>Escolha apenas uma direção
-TBook_Scroll_1_7_pans_temple_3_Extended_5	Indent>para a qual virar as três rodas
+TBook_Scroll_1_7_pans_temple_3_Extended_5	Indent>para a qual as três rodas girar
 TBook_Scroll_1_7_pans_temple_3_Extended_6	Indent>e brilho delas vai revelar
 TBook_Scroll_1_7_pans_temple_3_Extended_7	Indent>o caminho escondido da redenção
 TBook_Scroll_1_7_pans_temple_3_Extended_8	.
