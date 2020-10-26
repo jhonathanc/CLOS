@@ -1049,22 +1049,22 @@ TBook_Scroll_1_9_oblivion_lake_4_0	Indent>Complete a fase e derrote o Titã de Ge
 TBook_Scroll_1_9_oblivion_lake_4_Title	Descrição da Prova
 TBook_Scroll_10_1_marsh_of_silence_4_0	Indent>Complete a fase depois de receber pelo menos 100 pontos de dano por envenenamento da névoa mortal
 TBook_Scroll_10_1_marsh_of_silence_4_Title	Descrição da Prova
-TBook_Scroll_10_1_marsh_of_silence_2_0	Indent>Os restos da última batalha! Os Titãs que aqui descansam são remanescentes de uma era há muito perdida, e são baixas de uma guerra contra a encarnação do mal. A Terra dos Mortos está fechada para pessoas de fé, e apenas aqueles cujos corações são corrompidos podem entrar. Nem eu, nem meus irmãos, podemos passar deste ponto a menos que tenhamos sucumbido à tentação. Pergunto-me: será que alguém poderia derrotar este mal?
+TBook_Scroll_10_1_marsh_of_silence_2_0	Indent>Os restos da última batalha! Os Titãs que aqui descansam são remanescentes de uma era há muito perdida, e são baixas de uma guerra contra a encarnação do mal. A Terra dos Mortos está fechada para pessoas de fé, e apenas aqueles cujos corações são corrompidos podem entrar. Nem eu, nem meus irmãos, podemos passar deste ponto a menos que tenhamos sucumbido à tentação. Será que alguém poderia derrotar este mal?
 TBook_Scroll_10_1_marsh_of_silence_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_10_1_marsh_of_silence_3_0	Indent>É preciso aprender a Magia Sombria para compreender profundamente o mal que enfrentamos. É preciso tornar-se o mal a fim de poder destruí-lo. Não há lugar no Céu para nós quando nos tornamos aquilo que combatemos.
+TBook_Scroll_10_1_marsh_of_silence_3_0	Indent>É preciso aprender a Magia Sombria para compreender profundamente o mal que enfrentamos. É preciso tornar-se o mal a fim de poder destruí-lo. Não há lugar no céu para nós quando nos tornamos aquilo que combatemos.
 TBook_Scroll_10_1_marsh_of_silence_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_1_marsh_of_silence_1_0	Indent>Muitos caíram. Seus corpos foram espalhados como folhas ao vento. A profecia fala daquele que é puro de coração, mas ninguém que seja puro de coração pode passar por aqui. Se alguém for forte o suficiente para enfrentar a Morte, temo que esse alguém possa ser também uma praga para a humanidade. Talvez estejamos destinados a sermos governados pelo mal? O forte conquistando o fraco: talvez seja essa a vontade de Deus?
 TBook_Scroll_10_2_misty_moor_4_0	Indent>Complete a fase sem deixar que Pã recupere sua saúde durante a luta
 TBook_Scroll_10_2_misty_moor_4_Title	Descrição da Prova
-TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do Inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os Céus me ajudem, pois temo que eu não esteja à altura da tarefa!
+TBook_Scroll_10_3_cementery_1_0	Indent>Não há nada além da morte à minha frente. O fogo do inferno brilha, e não há escapatória. O Senhor da Morte tudo vê, e estou aqui, enfrentando criaturas que lembram cadáveres. Ouço os gritos da tortura de meus irmãos, e minhas habilidades parecem inúteis contra todos, menos contra as criaturas mais fracas: preciso do máximo de habilidade apenas para me concentrar. Que os céus me ajudem, pois temo que eu não esteja à altura da tarefa!
 TBook_Scroll_10_3_cementery_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_10_3_cementery_2_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
 TBook_Scroll_10_3_cementery_2_Extended_0	Indent>Finalmente! Precisei de dias de trabalho duro para conseguir, mas descobri uma forma de trancar as três fechaduras da gaiola gigante. Foi tão fácil... e tudo o que eu precisava era de um cristal de energia para energizar as 'chaves'! Agora, o resto dos cavaleiros terá de atrair a criatura para cá, para prendê-la, e então poderemos sair deste cemitério maldito...
 TBook_Scroll_10_3_cementery_2_Extended_1	.
 TBook_Scroll_10_3_cementery_2_Extended_2	Bold>Solução do Quebra-cabeça
-TBook_Scroll_10_3_cementery_2_Extended_3	Indent> Se por acaso alguém quiser abrir a gaiola novamente, basta repetir meus passos:
-TBook_Scroll_10_3_cementery_2_Extended_4	Indent>Cada fechadura abrirá apenas depois de ser atingida por um raio de luz vindo de um dos monólitos. Para que o raio de luz seja disparado, essas pedras flutuantes devem ser energizadas por um cristal de energia completo. Apesar do tamanho, elas podem ser movidas com um golpe de arma branca, mas apenas se estiverem sobre os trilhos reluzentes no chão. Se você tiver apenas um cristal de energia, ele poder ser reutilizado em diferentes monólitos, de acordo com sua necessidade. Além disso, este mapa mostrará sua posição e a posição dos monólitos: use-os com sabedoria!
+TBook_Scroll_10_3_cementery_2_Extended_3	Indent>Se por acaso alguém quiser abrir a gaiola novamente, basta repetir meus passos:
+TBook_Scroll_10_3_cementery_2_Extended_4	Indent>Cada fechadura abrirá apenas depois de ser atingida por um raio de luz vindo de um dos monólitos. Para que o raio de luz seja disparado, essas pedras flutuantes devem ser energizadas por um cristal de energia completo. Apesar do tamanho, elas podem ser movidas com um golpe de arma branca, mas apenas se estiverem sobre os trilhos reluzentes no chão. Se você tiver apenas um cristal de energia, ele pode ser reutilizado em diferentes monólitos, de acordo com sua necessidade. Além disso, este mapa mostrará sua posição e a posição dos monólitos: use-os com sabedoria!
 TBook_Scroll_10_3_cementery_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_10_3_cementery_2_Title	Dica do Manuscrito
 TBook_Scroll_10_3_cementery_3_0	Indent>O calor é inacreditável. Acho que não conseguirei. Se não fosse por Gandolfi e sua incrível criação, eu não teria chegado tão longe. Que Deus proteja Gandolfi e o escolhido. Que Deus proteja a todos nós do feitiço.
@@ -1108,7 +1108,7 @@ TBook_Scroll_2_2_enchanted_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_2_0	Indent>A Grande Dekuh foi um dia a maior e mais bela árvore da floresta: ela era tão alta que sua copa podia ser vista a quilômetros de distância. Algumas pessoas acreditavam que ela tinha vida, e que seus poderes mágicos protegiam a floresta dos ataques das criaturas das trevas.
 TBook_Scroll_2_2_enchanted_forest_2_1	Indent>Não sei se as lendas são verdadeiras, mas a verdade é que os Senhores das Trevas, talvez por verem a árvore como um símbolo da vida, amaldiçoaram-na com uma praga que ainda vive sob seu toco morto.
 TBook_Scroll_2_2_enchanted_forest_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_2_2_enchanted_forest_3_0	Indent>Deus está nos punindo por causa de nossos pecados. O caos tomou conta do mundo e iremos todos morrer em breve, presos no limbo entre o Céu e a Terra, sem chance de redenção, sem meios de fuga. Fui gravemente ferido, e os Lycans podem sentir o cheiro do sangue: eles estão me caçando. Meu destino é iminente. Senhor, perdoe-me. O Cardeal Volpe nos enviou à morte, e para quê? Eu e meus companheiros guerreiros restamos derrotados e perdidos pelo caminho. Maldito seja ele e sua missão inútil: ele e os anciãos também deveriam estar sofrendo pelos seus pecados!
+TBook_Scroll_2_2_enchanted_forest_3_0	Indent>Deus está nos punindo por causa de nossos pecados. O caos tomou conta do mundo e iremos todos morrer em breve, presos no limbo entre o céu e a Terra, sem chance de redenção, sem meios de fuga. Fui gravemente ferido, e os Lycans podem sentir o cheiro do sangue: eles estão me caçando. Meu destino é iminente. Senhor, perdoe-me. O Cardeal Volpe nos enviou à morte, e para quê? Eu e meus companheiros guerreiros estamos derrotados e perdidos pelo caminho. Maldito seja ele e sua missão inútil: ele e os anciãos também deveriam estar sofrendo pelos seus pecados!
 TBook_Scroll_2_2_enchanted_forest_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_2_enchanted_forest_4_0	Indent>Complete a fase depois de matar 30 Goblins com suas próprias granadas.
 TBook_Scroll_2_2_enchanted_forest_4_Title	Descrição da Prova
@@ -1116,11 +1116,11 @@ TBook_Scroll_2_3_underground_cave_1_0	Indent>Tenho seguido os rastros de Rinaldo
 TBook_Scroll_2_3_underground_cave_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_2_0	Indent>Para onde quer que eu olhe, há morte e decadência. Deus nos abandonou. Abandonei minha busca: é impossível. Não quero morrer para terminar como meus companheiros, caídos à beira da estrada, destinados a serem um recurso para outros aventureiros. Não quero um destino assim!
 TBook_Scroll_2_3_underground_cave_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_2_3_underground_cave_3_0	Indent>Embora sejam grandes, as Aranhas são surpreendentemente rápidas e ágeis. Ouvi dizer que um guerreiro habilidoso pode domá-las até certo ponto, cansando elas o bastante para montá-los como um Javali. Também ouvi que suas teias podem ser usadas para tecer pontes fortes o suficiente para aguentar o peso de um homem adulto. Incrível! Talvez eu esteja perdendo o juízo preso neste lugar infernal: devo estar louco por acreditar em uma coisa dessas...!
+TBook_Scroll_2_3_underground_cave_3_0	Indent>Embora sejam grandes, as Aranhas são surpreendentemente rápidas e ágeis. Ouvi dizer que um guerreiro habilidoso pode domá-las até certo ponto, cansando elas o bastante para montá-los como um Javali. Também ouvi que suas teias podem ser usadas para tecer pontes fortes o suficiente para aguentar o peso de um homem adulto. Incrível! Talvez eu esteja perdendo o juízo preso neste lugar infernal: devo estar louco por acreditar em uma coisa dessas...
 TBook_Scroll_2_3_underground_cave_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_3_underground_cave_4_0	Indent>Complete a fase depois de matar pelo menos 10 inimigos enquanto estiver infectado pelo veneno da Aranha
 TBook_Scroll_2_3_underground_cave_4_Title	Descrição da Prova
-TBook_Scroll_2_4_labyrinth_entrance_1_0	Indent>Há Lycans à frente e Javalis atrás: será que não há descanso nem para os perversos? Decidi me esconder aqui até que seja seguro fugir, pois este lugar está repleto de asseclas do Senhor dos Lycans e não consigo encontrar um caminho para cidade. Os arredores à minha volta são difíceis de percorrer, exigindo habilidades que claramente não possuo. Tenho tanta fome, não como há dias...
+TBook_Scroll_2_4_labyrinth_entrance_1_0	Indent>Há Lycans à frente e Javalis atrás; Não há descanso nem para os perversos? Decidi me esconder aqui até que seja seguro fugir, pois este lugar está repleto de lacaios do Senhor dos Lycans e não consigo encontrar um caminho para cidade. Os arredores à minha volta são difíceis de percorrer, exigindo habilidades que claramente não possuo. Tenho tanta fome, não como há dias...
 TBook_Scroll_2_4_labyrinth_entrance_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_2_0	Indent>Tenho praticado minhas habilidades de luta e descobri que, se eu bloquear com frequência, posso aumentar minha concentração. O esforço está valendo a pena porque posso me concentrar muito mais rápido, o que me permite manter a Magia ativa durante todo o combate.
 TBook_Scroll_2_4_labyrinth_entrance_2_Title	História do Cavaleiro da Irmandade
@@ -1128,7 +1128,7 @@ TBook_Scroll_2_4_labyrinth_entrance_3_0	Indent>Toda criatura é fraca contra uma 
 TBook_Scroll_2_4_labyrinth_entrance_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_4_labyrinth_entrance_4_0	Indent>Complete a fase depois de matar pelo menos 5 Javalis
 TBook_Scroll_2_4_labyrinth_entrance_4_Title	Descrição da Prova
-TBook_Scroll_2_6_underground_dungeons_1_0	Indent>Tenho saqueado os cadáveres dos meus irmãos em busca de Gemas. Se eu coletar o suficiente, serei invencível. Tolos, enquanto estão ocupados tentando salvar o mundo, logo serei capaz de conquistá-lo com meu novo poder! Sei que há uma Gema da Luz por perto, e vou encontrá-la. Ninguém pode me deter agora... ninguém!
+TBook_Scroll_2_6_underground_dungeons_1_0	Indent>Tenho saqueado os cadáveres dos meus irmãos em busca de Gemas. Se eu coletar o suficiente, serei invencível. Tolos, enquanto estão ocupados tentando salvar o mundo, logo serei capaz de conquistá-lo com meu novo poder! Sei que há uma Gema da Luz por perto, e vou encontrá-la. Ninguém pode me deter agora... Ninguém!
 TBook_Scroll_2_6_underground_dungeons_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_6_underground_dungeons_2_0	Indent>Aprendi que revisitar áreas pode trazer resultados interessantes. Encontrei itens e relíquias que eu não conseguia na época, mas à medida que fui me tornando mais forte, pude revisitar os lugares e coletar itens valiosos para melhorar minhas habilidades. Continuarei conferindo o mapa para ter certeza de que não estou deixando nada de útil para trás!
 TBook_Scroll_2_6_underground_dungeons_2_Title	História do Cavaleiro da Irmandade
@@ -1136,7 +1136,7 @@ TBook_Scroll_2_6_underground_dungeons_4_0	Indent>Complete a fase depois de matar
 TBook_Scroll_2_6_underground_dungeons_4_Title	Descrição da Prova
 TBook_Scroll_2_7_labyrinth_ruins_ii_1_0	Indent>Senhor, por favor, ajude-me a encontrar um caminho por esta cidade cruel. Fui um servo fiel, bom, honesto e decente. Tenho visto criaturas montadas em Wargs que parecem quase domesticados sob seu controle. Como isso é possível? Senhor, por favor, mostre-me como proceder de modo que eu possa continuar com minha missão de reunir este mundo com seu reino dos céus. Amém.
 TBook_Scroll_2_7_labyrinth_ruins_ii_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_2_7_labyrinth_ruins_ii_2_0	Indent>Esta cidade é um labirinto, mas deduzo que é possível encontrar o caminho com paciência e cuidado. Procurei em cantos e recantos e acabei encontrando gemas e itens que serão, sem dúvida, muito úteis mais tarde. Também consegui pegar algumas adagas de prata, que são especialmente úteis contra os Lycans.
+TBook_Scroll_2_7_labyrinth_ruins_ii_2_0	Indent>Esta cidade é um labirinto, mas deduzo que é possível encontrar o caminho com paciência e cuidado. Procurei em cantos e recantos e acabei encontrando gemas e itens que serão, sem dúvida, muito úteis mais tarde. Também consegui algumas Adagas de prata, que são especialmente úteis contra os Lycans.
 TBook_Scroll_2_7_labyrinth_ruins_ii_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_7_labyrinth_ruins_ii_3_0	Indent>Muitas áreas estão bloqueadas, mas descobri que os Trolls das Cavernas são bons em destruir barreiras e portões. Se um Troll for atingido com bastante força, ele ficará atordoado a ponto de ser domado e usado à vontade. Será que é possível domar outras criaturas da mesma forma?
 TBook_Scroll_2_7_labyrinth_ruins_ii_3_Title	História do Cavaleiro da Irmandade
@@ -1157,16 +1157,16 @@ TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_2	Bold>Solução do Quebra-cabeça
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_3	Indent>... Descobri uma solução! Se alguém ler isto, siga meus passos: Pegue o cristal que você usou para abrir a porta anterior e coloque-o na estátua que se encontra nesta área. Depois, use os espelhos das estátuas para desenhar essa figura com o raio, e assim a porta se abrirá para você.
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Extended_Title	Dica do Manuscrito
 TBook_Scroll_2_8_stone_idol_mausoleum_2_Title	Dica do Manuscrito
-TBook_Scroll_2_8_stone_idol_mausoleum_3_0	Indent>A lendária cidade de Agharta. Uma vista impressionante, a qual nunca pensei que presenciaria. Aqui é muito perigoso: a cidade está cheia de Lycans e Lobisomens, então passei a procurar por nódulos de cristal, já que quando você coleta quatro deles, é possível criar um Cristal Negro capaz de liberar um demônio do Plano das Sombras. Isso é extremamente útil para aniquilar muitos inimigos de uma vez.
+TBook_Scroll_2_8_stone_idol_mausoleum_3_0	Indent>A lendária cidade de Agharta. Uma vista impressionante, a qual nunca pensei que presenciaria. Aqui é muito perigoso: a cidade está cheia de Lycans e Lobisomens, então passei a procurar os nós de cristal pois, depois de coletar quatro deles, é possível criar um Cristal Negro capaz de liberar um demônio do Plano das Sombras. Isso é extremamente útil para aniquilar muitos inimigos de uma vez.
 TBook_Scroll_2_8_stone_idol_mausoleum_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_2_8_stone_idol_mausoleum_4_0	Indent>Complete a fase depois de absorver 20 Orbs Elementares de uma só vez.
 TBook_Scroll_2_8_stone_idol_mausoleum_4_Title	Descrição da Prova
 TBook_Scroll_2_9_stone_idol_temple_4_0	Indent>Complete a fase e derrote o Titã do Ídolo de Pedra em menos de 2 minutos
 TBook_Scroll_2_9_stone_idol_temple_4_Title	Descrição da Prova
-TBook_Scroll_3_0_the_gauntlet_1_0	Indent>Descobri algumas inscrições antigas nestas paredes: elas devem ter alguma relação com as runas mágicas abaixo:
+TBook_Scroll_3_0_the_gauntlet_1_0	Indent>Descobri algumas inscrições antigas nessas paredes: elas devem ter alguma relação com as runas mágicas abaixo:
 TBook_Scroll_3_0_the_gauntlet_1_1	Indent>A runa Azul tem apenas uma vizinha
 TBook_Scroll_3_0_the_gauntlet_1_2	Indent>Há uma runa Vermelha com uma Azul à esquerda
-TBook_Scroll_3_0_the_gauntlet_1_Extended_0	Indent>Descobri algumas inscrições antigas nestas paredes: elas devem ter alguma relação com as runas mágicas abaixo:
+TBook_Scroll_3_0_the_gauntlet_1_Extended_0	Indent>Descobri algumas inscrições antigas nessas paredes que devem ter alguma relação com as runas mágicas abaixo:
 TBook_Scroll_3_0_the_gauntlet_1_Extended_1	Indent>A runa Azul tem apenas uma vizinha
 TBook_Scroll_3_0_the_gauntlet_1_Extended_2	Indent>Há uma runa Vermelha com uma Azul à esquerda
 TBook_Scroll_3_0_the_gauntlet_1_Extended_3	.
@@ -1174,25 +1174,25 @@ TBook_Scroll_3_0_the_gauntlet_1_Extended_4	Bold>Solução do Quebra-cabeça
 TBook_Scroll_3_0_the_gauntlet_1_Extended_5	Indent>Com essas duas pistas, há apenas uma resposta possível para esse enigma, começando pela esquerda: Azul, Vermelho, Vermelho. É uma pena que eu não possa mais usar magia.
 TBook_Scroll_3_0_the_gauntlet_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_3_0_the_gauntlet_1_Title	Dica do Manuscrito
-TBook_Scroll_3_0_the_gauntlet_2_0	Indent>Esta civilização em ruínas é testemunha do maior engenho do homem. Entristece-me saber que todos os segredos que aqui residem em breve estarão perdidos, muitos deles afundados no fundo do Oceano Pelárgico. A influência do Senhor dos Lycans é forte aqui, e os Wargs, Lobisomens e Lycans vagam por todos os cantos desta terra. Preciso me movimentar rapidamente e em silêncio, tomando cuidado para não ser visto. Não descobri nada sobre o feitiço que separou o nosso mundo dos Céus, mas a cada dia que passa uma coisa fica ainda mais clara: O Senhor das Sombras precisa morrer!
+TBook_Scroll_3_0_the_gauntlet_2_0	Indent>Esta civilização em ruínas é testemunha do maior engenho do homem. Entristece-me saber que todos os segredos que aqui residem em breve estarão perdidos, muitos deles afundados no fundo do Oceano Pelárgico. A influência do Senhor dos Lycans é forte aqui, e os Wargs, Lobisomens e Lycans vagam por todos os cantos desta terra. Preciso me movimentar rapidamente e em silêncio, tomando cuidado para não ser visto. Não descobri nada sobre o feitiço que separou o nosso mundo dos céus, mas a cada dia que passa uma coisa fica mais clara: Os Senhores das Sombras devem morrer!
 TBook_Scroll_3_0_the_gauntlet_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_3_0_the_gauntlet_3_0	Indent>Na noite passada, sonhei que uma linda mulher me visitava. Ela era encantadora, hipnotizante. Ela me disse que um guerreiro estava chegando, um guerreiro que destruiria o Senhor dos Lycans, e que ela e seu povo iriam ajudá-lo. Ela era a Rainha das Fadas, e falava uma língua que eu não reconhecia, mas ainda assim eu conseguia entender todas as palavras que ela dizia. Jamais verei tamanha beleza neste mundo novamente. Se eu morrer hoje, morrerei tendo visto e vivenciado coisas que nenhum outro homem poderá ter a pretensão de tomar de mim. Então posso declarar, com alegria, que existe mesmo um 'Bolo' no fim do caminho!
+TBook_Scroll_3_0_the_gauntlet_3_0	Indent>Na noite passada, sonhei que uma linda mulher me visitava. Ela era encantadora, hipnotizante. Ela me disse que um guerreiro estava chegando para destruir o Senhor dos Lycans, e que ela e seu povo iriam ajudá-lo. Ela era a Rainha das Fadas, e falava uma língua que eu não reconhecia, mas ainda assim eu conseguia entender todas as palavras que ela dizia. Jamais verei tamanha beleza neste mundo novamente. Se eu morrer hoje, morrerei tendo vivenciado coisas que nenhum outro homem poderá tirar de mim. Então posso declarar, com alegria, que existe mesmo um 'Bolo' no fim do caminho!
 TBook_Scroll_3_0_the_gauntlet_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_3_0_the_gauntlet_4_0	Indent>Complete a fase depois de matar 15 inimigos ofuscados pelas Fadas.
 TBook_Scroll_3_0_the_gauntlet_4_Title	Descrição da Prova
 TBook_Scroll_3_3_the_dark_lord_4_0	Indent>Complete a fase e derrote o Senhor dos Lycans sem usar energia da Magia da Luz.
 TBook_Scroll_3_3_the_dark_lord_4_Title	Descrição da Prova
-TBook_Scroll_4_1_fortress_1_0	Indent>Conforme temíamos, a fortaleza foi tomada pelas forças do mal. Uma criatura tenebrosa, parecida com um pássaro, fez da torre seu ninho pessoal, enquanto um monstro enorme perambula ao redor dos velhos muros do castelo, protegendo-o. Não tive notícias dos outros cavaleiros, então presumirei que o pior aconteceu e tentarei retornar à Irmandade, para informá-los de que esta passagem se voltou contra nós.
+TBook_Scroll_4_1_fortress_1_0	Indent>Conforme temíamos, a fortaleza foi tomada pelas forças do mal. Uma criatura tenebrosa, parecida com um pássaro, fez da torre seu ninho, enquanto um monstro enorme perambula ao redor dos velhos muros do castelo, protegendo-o. Não tive notícias dos outros cavaleiros, então presumirei que o pior aconteceu e tentarei retornar à Irmandade, para informá-los de que esta passagem se voltou contra nós.
 TBook_Scroll_4_1_fortress_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_1_fortress_2_0	Indent>Os rugidos de uma criatura terrível assombram este lugar. Até mesmo os Trolls têm medo. Lembro-me de histórias da minha infância que falavam de uma Bruxa que vivia aqui. Que Deus nos salve desse mal. Temo que a Irmandade seja destruída e que o mundo seja consumido pelas trevas. O que seria de nós?
 TBook_Scroll_4_1_fortress_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_4_1_fortress_3_0	Indent>O Mal existe aqui, um mal traiçoeiro que consome a bravura dos homens. Parece que há um Ogro no castelo, à espreita. Acho incrível que histórias infantis possam se tornar realidade: lembro do meu pai lendo contos sobre essas criaturas quando eu era criança e, se não me falha a memória, elas são lentas e pesadas enquanto atacam. Para ter alguma chance na luta contra essa besta gigante, precisarei de algo que me permita correr e me movimentar rapidamente.
+TBook_Scroll_4_1_fortress_3_0	Indent>O Mal existe aqui, e ele consome a bravura dos homens. Parece que há um Ogro no castelo, à espreita. Acho incrível que histórias infantis possam se tornar realidade: lembro do meu pai lendo contos sobre essas criaturas quando eu era criança e, se não me falha a memória, elas são lentas e pesadas enquanto atacam. Para ter alguma chance na luta contra essa besta gigante, precisarei de algo que me permita correr e me movimentar rapidamente.
 TBook_Scroll_4_1_fortress_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_1_fortress_4_0	Indent>Complete a fase e derrote o Ogro sem ser atingido por seus ataques
 TBook_Scroll_4_1_fortress_4_Title	Descrição da Prova
 TBook_Scroll_4_2_fortress_witch_1_0	Indent>A prova do pobre irmão Adolfus termina aqui. Tenho certeza de que ele deve estar em algum lugar no andar de baixo, mas não consigo passar por esta porta. Deve haver outra maneira de entrar, talvez descendo a montanha lá fora eu consiga... droga, algo se aproxima...
 TBook_Scroll_4_2_fortress_witch_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_4_2_fortress_witch_2_0	Indent>Conheço a Lenda de Malphas, ainda assim, nunca pensei que a enfrentaria sozinho. Tenho um plano para derrotá-la: dizem que ela lança seus ovos contra você, dois quais saem crianças medonhas. Suponho que se houvesse uma forma de jogar os ovos de volta nela, seria possível impedir o nascimento dessas criaturas e fazê-la provar do próprio veneno... mas como exatamente eu poderia fazer isso?
+TBook_Scroll_4_2_fortress_witch_2_0	Indent>Conheço a Lenda de Malphas, ainda assim, nunca pensei que a enfrentaria sozinho. Tenho um plano para derrotá-la: dizem que ela lança seus ovos contra você, dos quais saem crianças medonhas. Suponho que se houvesse uma forma de jogar os ovos de volta nela, seria possível impedir o nascimento dessas criaturas e fazê-la provar do próprio veneno... Mas como exatamente?
 TBook_Scroll_4_2_fortress_witch_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_4_2_fortress_witch_4_0	Indent>Complete a fase e derrote a Bruxa dos Corvos sem matar mais do que 2 de seus filhos
 TBook_Scroll_4_2_fortress_witch_4_Title	Descrição da Prova
@@ -1465,7 +1465,7 @@ TBook_Scroll_9_3_woes_moor_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_9_3_woes_moor_1_Title	Dica do Manuscrito
 TBook_Scroll_9_3_woes_moor_2_0	Indent>Esta terra já foi repleta de vida e beleza. Mas agora, olhe para ela. O cheiro da morte está por toda parte. Os espantalhos veem tudo, e ouvi que os corvos de Malphas vigiam este lugar e depois informam sua senhora. Uma antiga lenda conta que uma Bruxa matou o namorado de Malphas, que então lhe jurou vingança. Será que o antigo corvo ainda vive ou será que é mais uma assustadora história de ninar?
 TBook_Scroll_9_3_woes_moor_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_9_3_woes_moor_3_0	Indent>Vi minha morte, e ela é realmente terrível. Mas o que me conforta é que meus sonhos me dizem que alguém irá triunfar e derrotar o Senhor das Sombras. Fico imaginando se ele já começou sua jornada nesta terra, acabando com aqueles que destruiriam tudo o que amamos. Se começou, que Deus o acompanhe, meu amigo. Mate e continue matando em nome do Pai, do Filho e do Espírito Santo. Que todos aqueles que se colocam no caminho do Senhor sintam sua ira!
+TBook_Scroll_9_3_woes_moor_3_0	Indent>Vi minha morte, e ela é realmente terrível. Mas o que me conforta é que meus sonhos me dizem que alguém irá triunfar e derrotar os Senhores das Sombras. Fico imaginando se ele já começou sua jornada nesta terra, acabando com aqueles que destruiriam tudo o que amamos. Se começou, que Deus o acompanhe, meu amigo. Mate e continue matando em nome do Pai, do Filho e do Espírito Santo. Que todos aqueles que se colocam no caminho do Senhor sintam sua ira!
 TBook_Scroll_9_3_woes_moor_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_3_woes_moor_4_0	Indent>Complete a fase com as três chaves assustando os corvos apenas 13 vezes
 TBook_Scroll_9_3_woes_moor_4_Title	Descrição da Prova
@@ -1988,9 +1988,9 @@ Menu_Picture_2_7_labyrinth_ruins_ii5	Assim que tivesse a besta sob controle, Gab
 Menu_Picture_2_8_dark_dungeon	Gabriel seguiu a misteriosa garota até as profundezas da cidade.
 Menu_Picture_2_8_dark_dungeon1	Apenas algumas chamas iluminavam as profundezas das masmorras da cidade.
 Menu_Picture_2_8_dark_dungeon2	Alguns Gremlins atacaram Gabriel com pedras em chamas.
-Menu_Picture_2_8_stone_idol_mausoleum	Gabriel explorou as ruínas de Agharta em busca de nódulos de cristais de energia.
+Menu_Picture_2_8_stone_idol_mausoleum	Gabriel explorou as ruínas de Agharta em busca de nós de cristais de energia.
 Menu_Picture_2_8_stone_idol_mausoleum1	As ruas da cidade estavam repletas de cadáveres dos guerreiros da Irmandade.
-Menu_Picture_2_8_stone_idol_mausoleum2	Um Troll das Cavernas protegia um dos nódulos de Cristal Negro.
+Menu_Picture_2_8_stone_idol_mausoleum2	Um Troll das Cavernas protegia um dos nós de Cristal Negro.
 Menu_Picture_2_8_stone_idol_mausoleum3	Assim que o Cristal Negro foi completo, Gabriel teve que correr em direção à entrada, onde Claudia o aguardava.
 Menu_Picture_2_8_stone_idol_mausoleum4	Outra porta fechada bloqueava a passagem deles até a câmara dos Titãs.
 Menu_Picture_2_9_stone_idol_temple	O enorme Titã estava parado diante de Gabriel de forma ameaçadora.
@@ -2369,7 +2369,7 @@ Scene_CH01_PansTemple6_1	Gabriel>Um feitiço que isolou o nosso mundo dos céus, c
 Scene_CH01_PansTemple7	Pã>Por que a Irmandade da Luz o enviou até o Lago do Esquecimento?
 Scene_CH01_PansTemple8	Gabriel>Eles sonharam que uma mensagem aguardava por mim neste lago: uma mensagem que contém uma pista para a nossa salvação.
 Scene_CH01_PansTemple8_1	Gabriel>Fui instruído a procurá-lo, na esperança de que você pudesse me mostrar o caminho.
-Scene_CH01_PansTemple9	Pã>Os Anciãos acreditam que esses sonhos são a última mensagem dos Céus, e que você deveria descobrir alguma coisa da qual ainda não sabemos... É isso?
+Scene_CH01_PansTemple9	Pã>Os Anciãos acreditam que esses sonhos são a última mensagem dos céus, e que você deveria descobrir alguma coisa da qual ainda não sabemos... É isso?
 Scene_CH01_PansTemple10	Gabriel>... Sim... Minha esposa, Marie, foi assassinada há quase dois dias pelo mal que percorre estas terras...
 Scene_CH01_PansTemple10_1	Gabriel>Sua alma e a daqueles que partiram recentemente estão presas aqui, e não conseguem encontrar a paz.
 Scene_CH01_PansTemple11	Pã>E foi por isso que eles o enviaram até o Lago do Esquecimento, por acreditarem que ela estaria esperando por você aqui? Para entregar uma mensagem a você?
@@ -2389,7 +2389,7 @@ Scene_CH01_Marie4	Marie>Não há nada a perdoar, meu amor...
 Scene_CH01_Marie5	Marie>... Estou tão feliz em ver seu rosto novamente...
 Scene_CH01_Marie6	Gabriel>E eu por ver o seu...
 Scene_CH01_Marie6_1	Gabriel>Meu amor, os Anciãos da Ordem esperam que você possa nos ajudar a entender o que está acontecendo...
-Scene_CH01_Marie6_2	Gabriel>... o mundo tem sido isolado dos Céus.
+Scene_CH01_Marie6_2	Gabriel>... o mundo tem sido isolado dos céus.
 Scene_CH01_Marie6_3	Gabriel>Alguns acreditam que Deus tenha nos abandonado. Será verdade?
 Scene_CH01_Marie7	Marie>Sinto que... que os espíritos estão tentando falar comigo.
 Scene_CH01_Marie7_1	Marie>Eles sussurram coisas para mim...
@@ -2419,7 +2419,7 @@ Scene_CH01_Marie19	Gabriel>Que profecia?
 Scene_CH01_Marie20	Zobek>Está escrito que um guerreiro de coração puro vai tomar o poder dos Senhores das Trevas para si e usá-lo para superar todo o mal.
 Scene_CH01_Marie20_1	Zobek>Dizem que esse guerreiro se tornaria o vassalo de Deus na Terra... extremamente poderoso... Ele poderia fazer qualquer coisa...
 Scene_CH01_Marie21	Zobek>Os espíritos fundadores não nos abandonaram, Gabriel! Graças à sua Marie, nós agora sabemos que ainda há alguma esperança.
-Scene_CH01_Marie21_1	Zobek>Nós temos de entrar nas terras dos Senhores das Trevas, você e eu... Precisamos tomar os poderes que eles detêm e unir os Céus com este mundo mais uma vez...
+Scene_CH01_Marie21_1	Zobek>Nós temos de entrar nas terras dos Senhores das Trevas, você e eu... Precisamos tomar os poderes que eles detêm e unir os céus com este mundo mais uma vez...
 Scene_CH01_Marie21_2	Zobek>... Não está vendo, Gabriel? Você pode trazê-la de volta!
 Scene_CH01_Marie22	Gabriel>Se o que você diz é verdade, então precisamos agir rápido e em segredo.
 Scene_CH01_Marie22_1	Gabriel>Os Senhores das Trevas não podem suspeitar que estamos atrás deles ou voltarão toda a atenção para nós.
@@ -2503,8 +2503,8 @@ Scene_CH03_DarkLordLycans13	Gabriel>Você não disse nada que eu já não soubesse, 
 Scene_CH03_DarkLordLycans14	Lycan_DarkLord>Mal sabiam eles que o que eles haviam deixado para trás não eram suas carcaças desprovidas de alma, mas sim o lado negro de cada um deles.
 Scene_CH03_DarkLordLycans14_1	Lycan_DarkLord>Não está vendo? Foi assim que passamos a existir, nós a quem vocês chamam de Senhores das Trevas!
 Scene_CH03_DarkLordLycans15	Gabriel>Não! Você mente!
-Scene_CH03_DarkLordLycans16	Lycan_DarkLord>Este é o lugar onde um de seus Fundadores ascendeu aos Céus e onde eu nasci!
-Scene_CH03_DarkLordLycans17	Lycan_DarkLord>Este é o lugar onde, de acordo com sua profecia, um Guerreiro da Luz virá tomar o poder de meu amado irmão no Céu, reduzindo também meu o poder...
+Scene_CH03_DarkLordLycans16	Lycan_DarkLord>Este é o lugar onde um de seus Fundadores ascendeu aos céus e onde eu nasci!
+Scene_CH03_DarkLordLycans17	Lycan_DarkLord>Este é o lugar onde, de acordo com sua profecia, um Guerreiro da Luz virá tomar o poder de meu amado irmão no céu, reduzindo também meu o poder...
 Scene_CH03_DarkLordLycans17_1	Lycan_DarkLord>Se acontecesse isso, ele morreria comigo, pois continuamos sendo o mesmo ser, ele e eu... continuamos conectados...
 Scene_CH03_DarkLordLycans18	Lycan_DarkLord>Mate-me e você o matará. Mate-nos todos e você matará os santos fundadores da sua própria ordem!
 Scene_CH03_DarkLordLycans19	Lycan_DarkLord>Ah, irmão. Até você tem de sorrir diante de tamanha ironia.
@@ -2600,7 +2600,7 @@ Scene_CH08_VampireQueen11	Vampire_Queen>Você foi traído. Não há ressurreição, ap
 Scene_CH08_VampireQueen12	Vampire_Queen>Junte-se a ela, então!
 Scene_CH08_PansApparition0	Pã>Em breve... o destino de cada ser vivo estará nas palmas de suas mãos.
 Scene_CH08_PansApparition1	Gabriel>Agora sei que os fundadores da Ordem criaram os Senhores das Trevas. Eles são uma e a mesma coisa.
-Scene_CH08_PansApparition2	Gabriel>Eles ascenderam aos Céus como espíritos puros, mas deixaram seu lado negro para trás.
+Scene_CH08_PansApparition2	Gabriel>Eles ascenderam aos céus como espíritos puros, mas deixaram seu lado negro para trás.
 Scene_CH08_PansApparition3	Gabriel>Por que estamos pagando pela estupidez e arrogância deles? Diga-me, pelo que estou lutando?
 Scene_CH08_PansApparition4	Pã>Somente quando olhamos para dentro de nós mesmos é que podemos realmente começar a entender.
 Scene_CH08_PansApparition5	Gabriel>Mas que feitiçaria é essa?
@@ -2657,7 +2657,7 @@ Scene_CH12_EndingI_GabysDeath5	Zobek>Finalmente é hora da verdade. Vamos remover
 Scene_CH12_EndingI_GabysDeath_05_JC	Gabriel>.
 Scene_CH12_EndingI_GabysDeath6	Gabriel>Você? Você é o Senhor dos Necromantes? O último Senhor?
 Scene_CH12_EndingI_GabysDeath7	Zobek>Agora você começa a entender!
-Scene_CH12_EndingI_GabysDeath8	Zobek>Sim, Gabriel, fui eu que lancei o feitiço que separou a Terra dos Céus...
+Scene_CH12_EndingI_GabysDeath8	Zobek>Sim, Gabriel, fui eu que lancei o feitiço que separou a Terra dos céus...
 Scene_CH12_EndingI_GabysDeath8_1	Zobek>Eu sabia que isso iria forçar meus irmãos e minha irmã a descerem dos céus e contatar a ordem aqui na Terra...
 Scene_CH12_EndingI_GabysDeath8_2	Zobek>A profecia era o último raio de esperança deles em meio às trevas!
 Scene_CH12_EndingI_GabysDeath9	Zobek>Nós, os Senhores das Trevas, como você nos chama, fomos impotentes por muito tempo... presos a uma incômoda trégua por anos 
