@@ -992,9 +992,9 @@ TBook_Legend_Rose	Rosa Azul
 TBook_Legend_Player	Gabriel
 TBook_ExtensibleScroll_Not_Completed	Prêmio por resolver o quebra-cabeça:
 TBook_ExtensibleScroll_Completed	Este quebra-cabeça já foi resolvido
-TBook_ExtensibleScroll_Warning_1_0	Indent>Você vai perder o prêmio do quebra-cabeça ao destravar sua solução
-TBook_ExtensibleScroll_Warning_2_0	Indent>Destravar Solução do Quebra-cabeça?
-TBook_ExtensibleScroll_Button	Destravar Solução
+TBook_ExtensibleScroll_Warning_1_0	Indent>Você perderá o prêmio do quebra-cabeça ao destravar a solução
+TBook_ExtensibleScroll_Warning_2_0	Indent>Destravar solução do quebra-cabeça?
+TBook_ExtensibleScroll_Button	Destravar solução
 TBook_ExtensibleScroll_Award_Obtained	Prêmio Recebido:
 TBook_MainChar_Unlocked	Você destravou um verbete de personagem principal no bestiário.
 TBook_Scroll_Extension_Fail	Há uma pista escondida nesta área
