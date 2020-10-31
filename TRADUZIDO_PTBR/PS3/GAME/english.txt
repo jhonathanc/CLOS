@@ -1199,28 +1199,28 @@ TBook_Scroll_4_2_fortress_witch_4_Title	Descrição da Prova
 TBook_Scroll_5_1_dark_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_1_dark_forest_1_0	Indent>Houve inúmeras aparições de Chupa-cabras nesta região. Essa criatura não é conhecida por ser mortal e maligna, mas sim por ser um estorvo. Preciso levar informações à Irmandade e aconselhar meus camaradas a pegar o máximo de Flores das Fadas que puderem. Os escritos dizem que os Chupa-cabras são fascinados por qualquer coisa que tenha relação com as Fadas, e as flores são uma boa tática para distrair essa criatura maldita enquanto se tenta recuperar qualquer coisa que elas tenham roubado.
 TBook_Scroll_5_1_dark_forest_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_1_dark_forest_2_0	Indent>Estou guardando Cristais Negros porque eles são muito úteis em combate. Deparei-me com um velho que parecia confuso e senil, ainda assim havia algo em seus olhos, como uma inteligência aguçada. Ele dizia ser um amigo, e perguntou se eu havia encontrado as relíquias que ele havia deixado para nós. Eu disse a ele que não estava entendo. Ele disse que rezaria por mim e, de repente, saiu correndo na noite. O que ele quis dizer com relíquias?
+TBook_Scroll_5_1_dark_forest_2_0	Indent>Estou guardando Cristais Negros porque eles são muito úteis em combate. Deparei-me com um velho que parecia confuso e senil, mas parecia haver uma inteligência aguçada em seus olhos. Ele dizia ser um amigo, e perguntou se eu havia encontrado as relíquias que ele havia deixado para nós. Eu disse a ele que não estava entendo. Ele disse que rezaria por mim e, de repente, saiu correndo na noite. O que ele quis dizer com relíquias?
 TBook_Scroll_5_1_dark_forest_3_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_1_dark_forest_3_0	Indent>Estamos bem perto de Wygol aqui, e logo ali fica o Castelo Vampiro. É preciso procurar abrigo à noite a fim de se proteger de um possível ataque. Faz muito frio, e enviar mensagens para a Irmandade está sendo uma tarefa difícil. Na noite passada, recebi um comunicado de que nos encontraremos na Aldeia Wygol para atacar a fortaleza do Vampiro. Valha-me Deus! Tenho medo de me tornar uma daquelas criaturas chupadoras de sangue!
+TBook_Scroll_5_1_dark_forest_3_0	Indent>Estamos bem perto de Wygol, e logo ali fica o Castelo Vampiro. É preciso procurar abrigo à noite para se proteger de um possível ataque. Faz muito frio, e enviar mensagens para a Irmandade está sendo uma tarefa difícil. Ontem à noite, recebi um comunicado de que nos encontraremos na Aldeia Wygol para atacar a fortaleza do Vampiro. Valha-me Deus! Tenho medo de me tornar uma daquelas criaturas sugadoras de sangue!
 TBook_Scroll_5_1_dark_forest_4_0	Indent>Complete a fase recuperando suas Relíquias dos Chupa-cabras em menos de 3 minutos após o roubo
 TBook_Scroll_5_1_dark_forest_4_Title	Descrição da Prova
-TBook_Scroll_5_11_sewers_1_0	Indent>Há esqueletos aqui e eles são terríveis. Mas descobri seu ponto fraco. Você precisa ser paciente ao combatê-los, pois com o tempo eles vão se espatifar no chão, como se estivessem mortos. Então você deve destruir os ossos com um golpe poderoso antes que eles se juntem novamente. Você terá de lutar contra eles novamente caso perca a oportunidade.
+TBook_Scroll_5_11_sewers_1_0	Indent>Há esqueletos aqui e eles são terríveis. Mas descobri seu ponto fraco. Seja paciente ao combatê-los pois, com o tempo, eles vão se espatifar no chão como se estivessem mortos. Então destrua os ossos com um golpe poderoso antes que eles se juntem. Você terá que lutar contra eles novamente caso perca a oportunidade.
 TBook_Scroll_5_11_sewers_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_11_sewers_2_0	Indent>Relatório de Situação:
 TBook_Scroll_5_11_sewers_2_1	.
-TBook_Scroll_5_11_sewers_2_2	Indent>Conforme explicado no relatório anterior, a condição do sistema de esgotos de Wygol não permite que os Vampiros realizem um ataque contra a aldeia através dos antigos túneis. Os poucos pontos de entrada foram lacrados, e a armadilha de espinhos, apesar de estar um pouco corroída, ainda funciona perfeitamente. Para conseguir superar esses obstáculos, qualquer invasor em potencial precisaria da ajuda deste lado. Pessoalmente, não consigo imaginar um membro da Irmandade ajudando os Senhores das Trevas. De qualquer forma, não vejo mais ninguém por aqui além destes ossos empoeirados.
+TBook_Scroll_5_11_sewers_2_2	Indent>Conforme explicado no relatório anterior, a condição do sistema de esgotos de Wygol não permite que os Vampiros realizem um ataque contra a aldeia através dos antigos túneis. Os poucos pontos de entrada foram lacrados, e a armadilha de espinhos, apesar de estar um pouco corroída, ainda funciona perfeitamente. Para conseguir superar esses obstáculos, qualquer invasor em potencial precisaria de ajuda deste lado. Não consigo imaginar um membro da Irmandade ajudando os Senhores das Trevas. De qualquer forma, não vejo mais ninguém por aqui além destes ossos empoeirados.
 TBook_Scroll_5_11_sewers_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_11_sewers_4_0	Indent>Complete a fase depois de matar 3 Esqueletos Guerreiros sem destruir seus escudos
 TBook_Scroll_5_11_sewers_4_Title	Descrição da Prova
-TBook_Scroll_5_2_isolated_village_1_0	Indent>Os reforços enviados pela Irmandade devem chegar em breve, mas, mesmo assim, temo que não teremos homens o bastante para deter essas terríveis criaturas. O Irmão Frederico informa que as Fadas, se combinadas à Magia da Luz, podem ser úteis contra os demônios sugadores de sangue. O problema é: onde encontrar Fadas?
+TBook_Scroll_5_2_isolated_village_1_0	Indent>Os reforços enviados pela Irmandade devem chegar em breve, mas temo que não teremos homens o bastante para deter essas terríveis criaturas. O Irmão Frederico informou que as Fadas, se combinadas à Magia da Luz, podem ser úteis contra os demônios sugadores de sangue. O problema é: onde encontrar Fadas?
 TBook_Scroll_5_2_isolated_village_1_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_2_isolated_village_2_0	Indent>Deveríamos nos reunir aqui para preparar um ataque ao castelo. Não vi ninguém ainda, então vou descansar no mausoléu esta noite. Não é seguro aqui: Ghouls e Vampiros rondam à noite em busca de almas perdidas, e não pretendo ser pego a céu aberto. Os Ghouls são um sério problema já que seu vômito é altamente venenoso e eu, no momento, tenho pouca Magia da Luz, que é a única coisa que pode neutralizar o veneno.
+TBook_Scroll_5_2_isolated_village_2_0	Indent>Deveríamos nos reunir aqui para preparar um ataque ao castelo. Não vi ninguém ainda, então vou descansar no mausoléu esta noite. Não é seguro aqui: Ghouls e Vampiros rondam à noite em busca de almas perdidas, e não pretendo ser pego a céu aberto. Os Ghouls são um sério problema já que seu vômito é altamente venenoso e, no momento, tenho pouca Magia da Luz, que é a única coisa que pode neutralizar o veneno.
 TBook_Scroll_5_2_isolated_village_2_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_2_isolated_village_4_0	Indent>Complete a fase sem deixar Zobek matar um único Ghoul
 TBook_Scroll_5_2_isolated_village_4_Title	Descrição da Prova
-TBook_Scroll_5_2_isolated_village_a_4_0	Indent>Complete a fase depois de atacar o Vampiro de Elite com sua própria lâmina por 4 vezes consecutivas
+TBook_Scroll_5_2_isolated_village_a_4_0	Indent>Complete a fase depois de atacar o Vampiro de Elite com a lâmina dele por 4 vezes consecutivas
 TBook_Scroll_5_2_isolated_village_a_4_Title	Descrição da Prova
-TBook_Scroll_5_4_abbey_catacombs_1_0	Indent>Aquele maldito abade! Um homem de Deus, praticando uma magia infernal! De alguma forma esse dispositivo e o portal que continua me mandando de volta estão conectados, mas não consigo entender como!
+TBook_Scroll_5_4_abbey_catacombs_1_0	Indent>Aquele maldito abade! Um homem de Deus, praticando uma magia infernal! De alguma forma esse dispositivo e o portal, que continua me mandando de volta, estão conectados, mas não consigo entender como!
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_0	Indent>Aquele maldito abade! Um homem de Deus, praticando uma magia infernal! De alguma forma esse dispositivo e o portal que continua me mandando de volta estão conectados, mas não consigo entender como!
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_1	.
 TBook_Scroll_5_4_abbey_catacombs_1_Extended_2	Bold>Solução do Quebra-cabeça
@@ -1229,7 +1229,7 @@ TBook_Scroll_5_4_abbey_catacombs_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_1_Title	Dica do Manuscrito
 TBook_Scroll_5_4_abbey_catacombs_2_0	Indent>Devo estar louco. De que outra forma eu teria aceitado uma missão como esta? Infiltrar-me na Abadia, sozinho, para recuperar uma relíquia misteriosa? Que loucura! Este lugar está cheio de armadilhas diabólicas e criaturas indescritíveis que querem sugar toda minha vida.
 TBook_Scroll_5_4_abbey_catacombs_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_5_4_abbey_catacombs_3_0	Indent>Ouvi dizer que Gandolfi saiu à busca do Vampiro que lhe tomou sua filha amada. Essa foi sua motivação para criar a Cruz de Combate e suas Relíquias de aprimoramento. Passei por um mausoléu mais cedo que poderia abrigar os aprimoramentos da Cruz, mas a arma é mantida em segredo nas câmaras secretas da Irmandade. Na verdade, a Relíquia não tem importância ou valor para mim. Fico imaginando se algum dia a veremos sendo usada em combate. Será que a profecia algum dia se realizará? Será que algum dia descobriremos o que aconteceu com Gandolfi?
+TBook_Scroll_5_4_abbey_catacombs_3_0	Indent>Ouvi dizer que Gandolfi foi procurar o Vampiro que lhe tomou sua filha amada. Essa foi sua motivação para criar a Cruz de Combate e suas Relíquias de aprimoramento. Passei por um mausoléu mais cedo que poderia abrigar os aprimoramentos da Cruz, mas a arma é mantida em segredo nas câmaras secretas da Irmandade. Na verdade, a Relíquia não tem importância ou valor para mim. Fico imaginando se algum dia a veremos sendo usada em combate. Será que a profecia algum dia se realizará? Será que algum dia descobriremos o que aconteceu com Gandolfi?
 TBook_Scroll_5_4_abbey_catacombs_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_5_4_abbey_catacombs_4_0	Indent>Complete a fase sem deixar que Zobek caia uma vez sequer durante o combate
 TBook_Scroll_5_4_abbey_catacombs_4_Title	Descrição da Prova
@@ -1263,12 +1263,12 @@ TBook_Scroll_6_1_courtyard_4_0	Indent>Complete a fase matando 3 Esqueletos Guerr
 TBook_Scroll_6_1_courtyard_4_Title	Descrição da Prova
 TBook_Scroll_6_1_courtyard_a_1_0	Indent>Todas as pistas apontam para cá, mas não consigo encontrar a chave do castelo em lugar algum. A única coisa que encontrei foi esta inscrição na pedra, mas ela não faz sentido:
 TBook_Scroll_6_1_courtyard_a_1_1	Indent>Somente quando os três olharem para o centro
-TBook_Scroll_6_1_courtyard_a_1_2	Indent>A Rainha dos Vampiros permitirá sua entrada
+TBook_Scroll_6_1_courtyard_a_1_2	Indent>A Rainha dos Vampiros permitirá que avance adentro.
 TBook_Scroll_6_1_courtyard_a_1_Extended_0	Indent>Todas as pistas apontam para cá, mas não consigo encontrar a chave do castelo em lugar algum. A única coisa que encontrei foi esta inscrição na pedra, mas ela não faz sentido:
 TBook_Scroll_6_1_courtyard_a_1_Extended_1	Indent>Somente quando os três olharem para o centro
-TBook_Scroll_6_1_courtyard_a_1_Extended_2	Indent>A Rainha dos Vampiros permitirá sua entrada
+TBook_Scroll_6_1_courtyard_a_1_Extended_2	Indent>A Rainha dos Vampiros permitirá que avance adentro.
 TBook_Scroll_6_1_courtyard_a_1_Extended_3	Bold>Solução do Quebra-cabeça
-TBook_Scroll_6_1_courtyard_a_1_Extended_4	Indent>A solução estava mais perto do que eu imaginava: Partindo da posição inicial, basta mover a estátua central duas vezes no sentido horário... Pode ser tarde demais para este velho cavaleiro, mas não para você, caso esteja lendo isto...
+TBook_Scroll_6_1_courtyard_a_1_Extended_4	Indent>A solução estava mais perto do que eu imaginava: partindo da posição inicial, basta mover a estátua central duas vezes no sentido horário... Pode ser tarde demais para este velho cavaleiro, mas não para você, caso esteja lendo isto...
 TBook_Scroll_6_1_courtyard_a_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_6_1_courtyard_a_1_Title	Dica do Manuscrito
 TBook_Scroll_6_1_courtyard_a_2_0	Indent>Seda de Aranha: Um dos materiais mais fortes conhecidos pelo homem. Existem muitas variedades de sedas de aranha, algumas até mais fortes do que o aço mais resistente. Mas a seda produzida pelas Aranhas Gigantes é incrivelmente forte e extremamente cara, devido à dificuldade em colhê-la.
@@ -1362,15 +1362,15 @@ TBook_Scroll_6_5_refectory_3_Title	Dica do Manuscrito
 TBook_Scroll_6_5_refectory_4_0	Indent>Complete a fase e derrote o Açougueiro após ele ter usado pelo menos 15 objetos que estão na cozinha
 TBook_Scroll_6_5_refectory_4_Title	Descrição da Prova
 TBook_Scroll_7_1_balcony_1_0	Indent>Há algo escrito nas laterais desta estranha máquina:
-TBook_Scroll_7_1_balcony_1_1	Indent>A cor não deverá mais ser vermelha
-TBook_Scroll_7_1_balcony_1_2	Indent>Se você usar a cabeça para deixar as bolas caírem.
-TBook_Scroll_7_1_balcony_1_3	Indent>Este brinquedo foi um presente de minha mãe, a rainha
-TBook_Scroll_7_1_balcony_1_4	Indent>Para chegar ao trono dela, todas as dobradiças precisam ser verdes
+TBook_Scroll_7_1_balcony_1_1	Indent>A cor não deverá ser ardente
+TBook_Scroll_7_1_balcony_1_2	Indent>Se ao soltar as bolas você usar sua mente.
+TBook_Scroll_7_1_balcony_1_3	Indent>Este brinquedo foi um presente de minha mãe, vossa majestade
+TBook_Scroll_7_1_balcony_1_4	Indent>Para tomar o trono, todas as dobradiças devem ter cor jade.
 TBook_Scroll_7_1_balcony_1_Extended_0	Indent>Há algo escrito nas laterais desta estranha máquina:
-TBook_Scroll_7_1_balcony_1_Extended_1	Indent>A cor não deverá mais ser vermelha
-TBook_Scroll_7_1_balcony_1_Extended_2	Indent>Se você usar a cabeça para deixar as bolas caírem.
-TBook_Scroll_7_1_balcony_1_Extended_3	Indent>Este brinquedo foi um presente de minha mãe, a rainha
-TBook_Scroll_7_1_balcony_1_Extended_4	Indent>Para chegar ao trono dela, todas as dobradiças precisam ser verdes
+TBook_Scroll_7_1_balcony_1_Extended_1	Indent>A cor não deverá ser ardente
+TBook_Scroll_7_1_balcony_1_Extended_2	Indent>Se ao soltar as bolas você usar sua mente.
+TBook_Scroll_7_1_balcony_1_Extended_3	Indent>Este brinquedo foi um presente de minha mãe, vossa majestade
+TBook_Scroll_7_1_balcony_1_Extended_4	Indent>Para tomar o trono, todas as dobradiças devem ter cor jade.
 TBook_Scroll_7_1_balcony_1_Extended_5	.
 TBook_Scroll_7_1_balcony_1_Extended_6	Bold>Solução do Quebra-cabeça
 TBook_Scroll_7_1_balcony_1_Extended_7	Indent>Há também alguns números escritos na parte de trás: 1, 2, 2, 2, 2, 2, 3. Provavelmente eles indicam a ordem em que devo derrubar as bolas...
