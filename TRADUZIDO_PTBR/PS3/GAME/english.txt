@@ -1451,9 +1451,9 @@ TBook_Scroll_9_1_bones_forest_1_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_9_1_bones_forest_1_0	Indent>Dizem que uma Bruxa assombra estas bandas, então preciso manter a guarda. Cruzei com monstros e enfrentei incontáveis desafios pelo caminho, mas foi na adversidade que encontrei forças em Deus. Desenvolvi habilidades consideráveis com armas, e dominar a magia da Luz e das Sombras mostrou-se útil. Sinto que estou forte o suficiente para desafiar qualquer coisa agora, e poucas criaturas poderiam me derrotar. Deixai o Senhor dos Mortos temer...
 TBook_Scroll_9_1_bones_forest_1_1	Indent>(O manuscrito termina abruptamente)
 TBook_Scroll_9_1_bones_forest_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_9_1_bones_forest_2_0	Indent>Os Chupa-cabras vagam por aqui. Preciso avisar a Irmandade. Essas criaturas malditas não fazem nada além de roubar relíquias e fazer brincadeiras estúpidas. Temos coisas mais importantes a fazer do que participar dessas brincadeiras. Precisamos salvar o mundo dos Senhores das Trevas! A morte caminha sobre o mundo e a terra sofre. Sugiro acabar com os Chupa-cabras de uma vez por todas e extirpar sua existência. Esta será a obra de Deus e é Deus quem nos comanda! Matem a escória!
+TBook_Scroll_9_1_bones_forest_2_0	Indent>Os Chupa-cabras vagam por aqui. Preciso avisar a Irmandade. Essas criaturas malditas não fazem nada além de roubar relíquias e fazer brincadeiras estúpidas. Temos coisas mais importantes para fazer do que participar dessas brincadeiras. Precisamos salvar o mundo dos Senhores das Trevas! A morte caminha sobre o mundo e a terra sofre. Sugiro acabar com os Chupa-cabras de uma vez por todas e extirpar sua existência. Esta será a obra de Deus e é Deus quem nos comanda! Matem a escória!
 TBook_Scroll_9_1_bones_forest_3_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_9_1_bones_forest_3_0	Indent>Eu o vi! Gandolfi está vivo! Ele se esconde na floresta, sob a aparência de um velho mendigo. Tenho certeza de que é ele. É o guerreiro pelo qual estávamos esperando. Ele irá derrotar os Senhores das Trevas com sua arma lendária e salvará a todos nós! Sabia que ele retornaria! Louvado seja o Senhor!
+TBook_Scroll_9_1_bones_forest_3_0	Indent>Eu o vi! Gandolfi está vivo! Ele se esconde na floresta, sob a aparência de um velho mendigo. Tenho certeza que é ele. É o guerreiro pelo qual estávamos esperando. Ele irá derrotar os Senhores das Trevas com sua arma lendária e salvará a todos nós! Sabia que ele retornaria! Louvado seja o Senhor!
 TBook_Scroll_9_1_bones_forest_4_0	Indent>Complete a fase depois de matar 10 cadáveres sem cabeça, sem ser agarrado por eles nenhuma vez
 TBook_Scroll_9_1_bones_forest_4_Title	Descrição da Prova
 TBook_Scroll_9_3_woes_moor_1_0	Indent>A Bruxa disse que os espantalhos presos a esses postes estão vivos e, no começo, não acreditei nela, mas agora, depois de dias vigiando um deles, não sei mais no que acreditar. Ontem, um casal de pássaros pousou na cabeça do espantalho e eu poderia jurar que vi ele se mover para tentar agarrá-los! Peguei minha espada imediatamente e ataquei o monstro, mas ele continuou sem se mover, sem responder às minhas investidas...
@@ -2591,7 +2591,7 @@ Scene_CH08_VampireQueen4_2	Vampire_Queen>A humanidade está arruinada, e você pre
 Scene_CH08_VampireQueen5	Gabriel>Eu escolho a vida, e não a morte e a decadência, como você.
 Scene_CH08_VampireQueen6	Vampire_Queen>A morte é meramente uma questão de perspectiva.
 Scene_CH08_VampireQueen6_1	Vampire_Queen>Não somos tão diferentes, você e eu.
-Scene_CH08_VampireQueen6_2	Vampire_Queen>Seu Deus não pode salvá-lo agora... você será um de nós, um dia. É inevitável.
+Scene_CH08_VampireQueen6_2	Vampire_Queen>Seu Deus não pode salvá-lo agora... Você será um de nós em breve. É inevitável.
 Scene_CH08_VampireQueen7	Gabriel>Não... Vou tomar os três poderes e uni-los.
 Scene_CH08_VampireQueen8	Vampire_Queen>Você mataria aqueles que fundaram sua ordem sagrada? Você consegue ser mais frio do que eu.
 Scene_CH08_VampireQueen8_1	Vampire_Queen>Quem é o verdadeiro monstro aqui, Gabriel?
@@ -2612,9 +2612,9 @@ Scene_CH09_BabbaYaga3	Witch>... Perdido, então?
 Scene_CH09_BabbaYaga4	Witch>Baba pode ajudar. Baba sabe o caminho.
 Scene_CH09_BabbaYaga5	Gabriel>Qual é o caminho? Aonde devo ir?
 Scene_CH09_BabbaYaga6	Witch>Somente na caixa de música a rosa azul pode crescer.
-Scene_CH09_BabbaYaga7	Witch>Baba quer ser jovem e bonita novamente. Traga rosa azul pra Baba.
+Scene_CH09_BabbaYaga7	Witch>Baba quer ser jovem e bonita novamente. Traga rosa azul para Baba.
 Scene_CH09_BabbaYaga8	Witch>Baba vai te mostrar o caminho para a terra dos mortos.
-Scene_CH09_BabbaYaga9	Witch>Baba encolhe você o bastante para entrar na caixa. Lá dentro você precisa passar no teste e trazer a rosa de volta pra Baba.
+Scene_CH09_BabbaYaga9	Witch>Baba encolhe você o bastante para entrar na caixa. Lá dentro você precisa passar no teste e trazer a rosa de volta para Baba.
 Scene_CH09_BabbaYaga9_1	Witch>Baba vai ser jovem de novo. Oh sim!
 Scene_CH09_BabbaYaga10	Witch>... Caixa, fechada. Espantalhos pegaram chaves. Oh, espantalhos maus! Chaves são três!
 Scene_CH09_BabbaYaga10_1	Witch>Traga-me três e você verá: Baba feliz em te soltar. Encontre chaves e traga pra Baba...
@@ -2769,7 +2769,7 @@ Scene_CH12_Epilogue_12	Gabriel>Sombra, eu?...
 Scene_CH12_Epilogue_13	Gabriel>O que você quer... velho amigo?
 Scene_CH12_Epilogue_14	Zobek>Os acólitos de Satã estão se preparando para seu retorno iminente.
 Scene_CH12_Epilogue_15	Zobek>É pouco provável que ele receba a nós dois de braços abertos, não acha?
-Scene_CH12_Epilogue_16	Zobek>Ajude-me a detê-lo... ou você e eu nos tornaremos seus animais de estimação por toda a eternidade.
+Scene_CH12_Epilogue_16	Zobek>Ajude-me a detê-lo... ou você e eu nos tornaremos animais de estimação dele por toda a eternidade.
 Scene_CH12_Epilogue_17	Zobek>É hora de sair deste túmulo miserável que você criou para si mesmo!
 Scene_CH12_Epilogue_18	Zobek>Para de se esconder nas sombras!
 Scene_CH12_Epilogue_19	Zobek>Você não se importa que ele vá escravizá-lo?
