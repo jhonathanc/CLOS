@@ -1378,7 +1378,7 @@ TBook_Scroll_7_1_balcony_1_Extended_Title	Dica do Manuscrito
 TBook_Scroll_7_1_balcony_1_Title	Dica do Manuscrito
 TBook_Scroll_7_1_balcony_2_0	Indent>Observei o tamanho do Castelo e ele realmente é enorme. O Senhor das Trevas que aqui governa está bem protegido, e temo que ninguém da nossa Irmandade jamais conseguirá chegar perto o bastante para desafiá-lo. Está frio aqui, e o vento faz tremer até os ossos. Tenho sorte de não ter sido descoberto ainda, mas não sei quanto tempo isso vai durar.
 TBook_Scroll_7_1_balcony_2_Title	História do Cavaleiro da Irmandade
-TBook_Scroll_7_1_balcony_3_0	Indent>O Castelo foi um dia um lugar onde experimentos terríveis eram conduzidos. Já ouvi gente falando sobre mecanismos de relógio que continuam funcionando sem motivo aparente, e também sobre estranhas engenhocas que vagam pelos seus escuros corredores. Raios atingem este lugar com frequência: será que são eles que dão vida a essas... coisas? Seria o próprio castelo um condutor gigante da grande quantidade de energia necessária para ressuscitar essas abominações e os experimentos que as criaram?
+TBook_Scroll_7_1_balcony_3_0	Indent>O Castelo já foi um lugar onde experimentos horríveis eram conduzidos. Já ouvi gente falando sobre mecanismos de relógio que continuam funcionando sem motivo aparente, e também sobre estranhas engenhocas que vagam pelos seus escuros corredores. Raios atingem este lugar com frequência: será que são eles que dão vida a essas... coisas? Seria o próprio castelo um condutor gigante da grande quantidade de energia necessária para ressuscitar essas abominações e os experimentos que as criaram?
 TBook_Scroll_7_1_balcony_3_Title	História do Cavaleiro da Irmandade
 TBook_Scroll_7_1_balcony_4_0	Indent>Complete a fase depois de resolver o quebra-cabeça dos portões lógicos em 7 movimentos
 TBook_Scroll_7_1_balcony_4_Title	Descrição da Prova
@@ -1429,14 +1429,14 @@ TBook_Scroll_8_1_tower_base_4_Title	Descrição da Prova
 TBook_Scroll_8_2_the_tower_4_0	Indent>Complete a fase e chegue ao corredor de cima em menos de 5:00 minutos
 TBook_Scroll_8_2_the_tower_4_Title	Descrição da Prova
 TBook_Scroll_8_3_top_corridor_1_0	Indent>Há um tipo de enigma escrito em alto-relevo no pedaço de pedra:
-TBook_Scroll_8_3_top_corridor_1_1	Indent>Para abrir o caminho ao senhor Vampiro
-TBook_Scroll_8_3_top_corridor_1_2	Indent>Preencha todos os copos com as chaves que caírem
-TBook_Scroll_8_3_top_corridor_1_3	Indent>Uma chave que não é feita nem de metal, nem de madeira
+TBook_Scroll_8_3_top_corridor_1_1	Indent>Para abrir o caminho até senhor Vampiro
+TBook_Scroll_8_3_top_corridor_1_2	Indent>Preencha todos os copos com a chave servida
+TBook_Scroll_8_3_top_corridor_1_3	Indent>Uma chave que não é feita de madeira ou metal
 TBook_Scroll_8_3_top_corridor_1_4	Indent>Mas de algo que preferimos chamar de comida
 TBook_Scroll_8_3_top_corridor_1_Extended_0	Indent>Há um tipo de enigma escrito em alto-relevo no pedaço de pedra:
-TBook_Scroll_8_3_top_corridor_1_Extended_1	Indent>Para abrir o caminho ao senhor Vampiro
-TBook_Scroll_8_3_top_corridor_1_Extended_2	Indent>Preencha todos os copos com as chaves que caírem
-TBook_Scroll_8_3_top_corridor_1_Extended_3	Indent>Uma chave que não é feita nem de metal, nem de madeira
+TBook_Scroll_8_3_top_corridor_1_Extended_1	Indent>Para abrir o caminho até senhor Vampiro
+TBook_Scroll_8_3_top_corridor_1_Extended_2	Indent>Preencha todos os copos com a chave servida
+TBook_Scroll_8_3_top_corridor_1_Extended_3	Indent>Uma chave que não é feita de madeira ou metal
 TBook_Scroll_8_3_top_corridor_1_Extended_4	Indent>Mas de algo que preferimos chamar de comida
 TBook_Scroll_8_3_top_corridor_1_Extended_5	.
 TBook_Scroll_8_3_top_corridor_1_Extended_6	Bold>Solução do Quebra-cabeça
